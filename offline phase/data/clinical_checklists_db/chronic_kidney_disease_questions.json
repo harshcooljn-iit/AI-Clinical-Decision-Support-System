@@ -1,0 +1,23 @@
+{
+    "questions": [
+        "What is the patient's serum creatinine level in mg/dl?",
+        "What is the patient's weight in kg?",
+        "What is the patient's age in years?",
+        "What is the patient's GFR in ml/min/1.73m2?",
+        "Is there evidence of kidney damage (structural or functional abnormality) for > 3 months? (Yes/No)",
+        "What is the level of proteinuria (g/day)?",
+        "Does the patient have a history of hypertension? (Yes/No)",
+        "Does the patient have diabetes mellitus? (Yes/No)",
+        "Does the patient have hyperlipidemia? (Yes/No)",
+        "Does the patient have anemia? (Yes/No)",
+        "Is the patient obese (BMI >= 25)? (Yes/No)",
+        "Does the patient smoke? (Yes/No)",
+        "Does the patient have a family history of hereditary kidney disease (e.g., ADPKD, Alport syndrome)? (Yes/No)",
+        "Are there signs of obstructive nephropathy, urinary tract infections, extrarenal infections? (Yes/No)",
+        "Is the patient taking any nephrotoxic drugs? (Yes/No)",
+        "Does the patient have congestive cardiac failure? (Yes/No)",
+        "Does the patient have hypovolemia? (Yes/No)",
+        "Does the patient have hypokalemia or hyperuricemia? (Yes/No)",
+        "Is the patient pregnant? (Yes/No)"
+    ]
+}

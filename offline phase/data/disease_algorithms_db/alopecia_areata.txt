@@ -1,0 +1,78 @@
+```text
+DISEASE: Alopecia Areata
+
+ABBREVIATIONS:
+- Inj.: Injection
+- Tab.: Tablet
+- mg: milligram
+- ml: milliliter
+- kg: kilogram
+- PUVA: Psoralen plus ultraviolet A light
+- fluticasone dipropionate: Fluticasone dipropionate
+- hydrocortisone acetate: Hydrocortisone acetate
+- Triamcinolone acetonide: Triamcinolone acetonide
+- cyclosporine: Cyclosporine
+- prednisolone: Prednisolone
+- azelaic acid: Azelaic acid
+- tazarotene: Tazarotene
+- diphencyprone: Diphencyprone
+- squaric acid dibutyl ester: Squaric acid dibutyl ester
+- anthralin: Anthralin
+- phenol: Phenol
+- minoxidil: Minoxidil
+- psoralen: Psoralen
+
+DIAGNOSTICS:
+- Clinical examination (patchy, non-scarring hair loss).
+- Biopsy (optional): Peribulbar lymphocytic infiltrate ("swarm of bees" pattern).
+
+TREATMENT ALGORITHM:
+
+IF disease is Alopecia Areata THEN
+
+    # Non-pharmacological treatment
+    Counsel patient and provide reassurance regarding the self-limiting nature of the disease.
+
+    # Pharmacological treatment
+
+    # Topical treatments
+    IF patient prefers topical therapy OR lesions are localized THEN
+        # Irritant application (tertiary care)
+        IF treatment setting is tertiary care center THEN
+            APPLY topical irritants such as anthralin, phenol, tazarotene, azelaic acid, tincture iodine, squaric acid dibutyl ester, or diphencyprone.
+        ENDIF
+
+        # Intralesional therapy
+        APPLY intralesional Triamcinolone acetonide 10 mg/ml 0.2-0.5ml per patch every 3 weeks.
+
+        # Topical corticosteroids or other agents
+        APPLY topical hydrocortisone acetate ointments or cream 1% OR topical fluticasone dipropionate 0.1% OR topical psoralen OR topical minoxidil.
+    ELSE
+
+        # Systemic therapy (for progressive lesions or those not responding to topical agents)
+
+        # Systemic corticosteroids
+        IF lesions are progressive OR unresponsive to topical agents THEN
+            # Pulsed therapy options
+            IF patient is suitable for pulsed therapy THEN
+                # Option 1: Injectable Triamcinolone
+                ADMINISTER Inj. triamcinolone (40mg/ml) monthly.
+                # Option 2: Oral Prednisolone mini-pulse
+                OR ADMINISTER Tab. prednisolone 40mg on two successive days each week.
+                # Duration depends on response.
+            ENDIF
+        ENDIF
+
+        # Systemic immunomodulators
+        IF lesions are progressive OR unresponsive to topical agents AND systemic corticosteroids are contraindicated or ineffective THEN
+            ADMINISTER Tab. cyclosporine (2mg/kg/day).
+        ENDIF
+
+        # Oral phototherapy (PUVA)
+        IF lesions are extensive, progressive, OR unresponsive to other systemic therapies AND patient is suitable AND treatment setting is tertiary care center THEN
+            ADMINISTER Oral phototherapy (PUVA).
+            # Note: Associated with side effects and cumulative dose-dependent toxicities.
+        ENDIF
+    ENDIF
+ENDIF
+```

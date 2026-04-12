@@ -1,0 +1,14 @@
+{
+    "questions": [
+        "What is the specific species identified in the diagnostic test result (e.g., P. vivax, P. falciparum, Mixed)?",
+        "Is the microscopy result available within 24 hours? (Yes/No)",
+        "If microscopy is not available within 24 hours, was a monovalent RDT used? (Yes/No)",
+        "If microscopy is not available within 24 hours, was a bivalent RDT used? (Yes/No)",
+        "What is the Annual Parasite Incidence (API) in the patient's area?",
+        "What percentage of P. falciparum infections were present in the area in the last 3 years (Pf %)?",
+        "Is the patient located in North Eastern states? (Yes/No)",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have Glucose-6-phosphate dehydrogenase (G6PD) deficiency? (Yes/No)",
+        "Is the patient under 1 year old? (Yes/No)"
+    ]
+}

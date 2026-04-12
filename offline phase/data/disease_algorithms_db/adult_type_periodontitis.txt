@@ -1,0 +1,57 @@
+```text
+DISEASE: Adult Type Periodontitis
+
+ABBREVIATIONS:
+- Cap.: Capsule
+- Tab.: Tablet
+- mg: Milligram
+- q.i.d.: Four times a day
+- b.i.d.: Twice a day
+- Halitosis: Bad breath
+
+DIAGNOSTICS:
+- Swollen gums, bleeding from gums (spontaneous or while brushing).
+- Pain on eating hard food, difficulty chewing, dull gum pain.
+- Pus discharge from gum on pressing.
+- Loosening of teeth, gum recession.
+- Slowly progressive destruction of periodontium, loss of periodontal attachment, presence of periodontal pocket.
+- Bad breath (Halitosis), sensitivity to hot & cold.
+
+TREATMENT ALGORITHM:
+
+// Non-pharmacological treatment
+IF Patient has Adult Type Periodontitis THEN
+    - Refer patient to a dentist for oral prophylaxis (thorough scaling and root planning).
+    - Advise brushing twice daily (after breakfast and after dinner) with a super soft toothbrush for at least 3 minutes.
+ENDIF
+
+// Pharmacological treatment - Local therapy
+IF Patient has Adult Type Periodontitis THEN
+    - Advise antiplaque toothpaste containing antibiotics.
+    - Advise Gel metronidazole massage on gums twice daily.
+    - Advise rinsing with 0.2% chlorhexidine mouthwash twice daily (effective after scaling).
+ENDIF
+
+// Pharmacological treatment - Systemic therapy
+IF Patient has Adult Type Periodontitis THEN
+    // Standard Systemic Therapy
+    - Administer Cap. tetracycline 250 mg four times a day (q.i.d.) for 5-7 days.
+
+    // Very Deep Pockets Therapy
+    IF Patient has very deep periodontal pockets THEN
+        - Administer Tab. ciprofloxacin 500 mg twice a day (b.i.d.) for 5-7 days.
+        - Administer Tab. tinidazole 300 mg twice a day (b.i.d.) for 5-7 days.
+    ENDIF
+ENDIF
+
+// Follow-up
+IF Patient received systemic therapy THEN
+    - Recheck the depth of periodontal pockets.
+    IF Pocket depth persists THEN
+        - Refer patient to a dentist for further management.
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+// (No specific contraindications mentioned in the text for these treatments. General contraindications for antibiotics apply, e.g., allergy, pregnancy, etc., but are not detailed here as per the source text.)
+```

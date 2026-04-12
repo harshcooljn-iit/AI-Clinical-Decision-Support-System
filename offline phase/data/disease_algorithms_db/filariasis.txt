@@ -1,0 +1,35 @@
+```text
+DISEASE: Filariasis
+
+ABBREVIATIONS:
+- DEC: Diethylcarbamazine
+- mg: Milligram
+- kg: Kilogram
+
+DIAGNOSTICS:
+- Eosinophilia on total and differential count.
+- Microfilaria seen in nocturnal peripheral blood smears.
+
+TREATMENT ALGORITHM:
+IF acute presentation THEN
+    ADMINISTER DEC 6mg/kg daily for 21 days.
+    ADMINISTER antipyretics for fever.
+ELSE IF chronic presentation (lymphatic obstruction, massive lower limb oedema, etc.) THEN
+    CONSIDER non-pharmacological treatment:
+        - Manual lymphoedema drainage.
+        - Multilayer lymphoedema bandage.
+        - Compression garments.
+        - Exercise.
+        - Skin care (3% benzoic acid for athlete foot, paraffin ointment for dry skin, 5% salicylic acid for hyperkeratosis).
+    CONSIDER surgical treatment:
+        - Bypass procedures.
+        - Omental pedicle.
+        - Nodovenous shunt.
+        - Limb reduction procedures.
+ELSE
+    NO SPECIFIC PHARMACOLOGICAL TREATMENT MENTIONED.
+ENDIF
+
+CONTRAINDICATIONS:
+- No specific contraindications mentioned for DEC in this text.
+```

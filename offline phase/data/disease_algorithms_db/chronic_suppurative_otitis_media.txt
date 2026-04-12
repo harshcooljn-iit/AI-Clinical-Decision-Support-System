@@ -1,0 +1,51 @@
+```text
+DISEASE: Chronic Suppurative Otitis Media (CSOM)
+
+ABBREVIATIONS:
+- CSOM: Chronic Suppurative Otitis Media
+- URTI: Upper Respiratory Tract Infection
+- HCl: Hydrochloric Acid
+- w/v: weight/volume
+- Cap: Capsule
+- mg: Milligram
+- kg: Kilogram
+
+DIAGNOSTICS:
+- Otoscopy: Mucopurulent/mucoid/dry discharge, central perforation.
+- Hearing test: Conductive deafness (tuning fork test).
+- Examination: Middle ear mucosa (normal/edematous), audiogram, microscope.
+- Culture: Pus culture and sensitivity.
+- Imaging: X-ray mastoids, HRCT temporal bone.
+
+TREATMENT ALGORITHM:
+
+IF Patient has CSOM:
+    THEN Perform Aural toilet (dry mopping or careful suction).
+
+    IF Pharmacological treatment is indicated:
+        THEN Administer topical antibiotics:
+            IF No marked inflammation:
+                THEN Use ciprofloxacin HCl 0.3% w/v ear drops 2-3 drops 3-4 times daily.
+            ELSE IF Marked inflammation is present:
+                THEN Use prednisolone 0.5% + chloramphenicol 5% + lignocaine 2% + acetic acid 2% ear drops 3-4 drops 3-4 times daily.
+
+        IF Profuse mucopurulent discharge AND associated URTI:
+            THEN Administer systemic antibiotics:
+                IF Patient is an adult:
+                    THEN Use Cap. amoxicillin 750-1500 mg in 3 divided doses.
+                ELSE IF Patient is a child:
+                    THEN Use amoxicillin 20-40 mg/kg in 3 divided doses.
+                ELSE
+                    THEN Antibiotic choice depends on culture and sensitivity report.
+
+    IF Surgical treatment is indicated (ear dry, infection nidus treated):
+        THEN Consider myringoplasty after assessing hearing status.
+
+PATIENT EDUCATION:
+    - Advise patient to avoid water or dust entering the ear.
+    - Advise patient to seek immediate treatment for URTI.
+    - Advise patient NOT to instill oil if there is discharge or known tympanic membrane perforation.
+
+CONTRAINDICATIONS:
+- Oil instillation IF there is discharge OR known tympanic membrane perforation.
+```

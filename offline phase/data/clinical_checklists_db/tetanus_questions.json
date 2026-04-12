@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "What is the patient's Tetanus Grade (1, 2, 3, or 4)?",
+        "Is the patient allergic to penicillin? (Yes/No)",
+        "Is the patient allergic to metronidazole? (Yes/No)",
+        "Is human TIG available? (Yes/No)"
+    ]
+}

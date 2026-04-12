@@ -1,0 +1,150 @@
+```text
+DISEASE: Contraception
+
+ABBREVIATIONS:
+- HIV: Human Immunodeficiency Virus
+- BP: Blood Pressure
+- FSH: Follicle-Stimulating Hormone
+- HRT: Hormone Replacement Therapy
+- MTP: Medical Termination of Pregnancy
+- PID: Pelvic Inflammatory Disease
+- STD: Sexually Transmitted Disease
+- IUCD: Intrauterine Contraceptive Device
+- CuT: Copper T
+- LNG: Levonorgestrel
+- GI: Gastrointestinal
+- PPH: Postpartum Haemorrhage
+- APH: Antepartum Haemorrhage
+- Hb: Haemoglobin
+- WHO: World Health Organization
+
+DIAGNOSTICS:
+- Diagnosis is based on the couple's desire for contraception and assessment of their suitability for different methods, considering medical history, lifestyle, and preferences.
+
+TREATMENT ALGORITHM:
+
+1.  **Identify the need for contraception:** A couple in the reproductive age group desires contraception.
+2.  **Counseling and Method Selection:** Provide information about all available methods and counsel the couple to choose the most suitable method.
+3.  **Classify Method Type:** Determine if the desired method is temporary or permanent.
+
+    **IF** Temporary method is chosen:
+        1.  **Classify Temporary Method Type:** Determine if it is Hormonal, Non-hormonal, Intrauterine, or Barrier.
+
+            **IF** Hormonal (Combined Oral Contraceptive Pills):
+                1.  **Age Check:**
+                    **IF** Age > 40 years:
+                        Use very low dose pills (Ethinyl oestradiol 20 mcg, Desogestrel 0.15 mg).
+                    **ELSE**
+                        Use low dose pills (Ethinyl oestradiol 30 mcg, Norgestrel 0.3 mg or 0.15 mg or Desogestrel 0.15 mg).
+                2.  **Dosage and Timing:** Take one tablet daily with meals at a consistent time.
+                3.  **Start Timing:**
+                    **IF** Started during the first 7 days of the menstrual cycle:
+                        No backup method needed.
+                    **ELSE IF** Started after the first 7 days of the menstrual cycle:
+                        Use a backup method (abstinence or barrier method) for 7 days.
+                4.  **Regimen:** Take pills for three weeks, followed by a 1-week pill-free interval (or placebo tablets if pack contains 28 tablets).
+                5.  **Contraindications Check:**
+                    **IF** Current or history of thromboembolic disease, cerebrovascular disease, coronary artery disease, complicated valvular heart disease, acute liver disease, current or past breast cancer, undiagnosed vaginal bleeding, pregnancy, heavy smokers over 35 years of age, migraine with neurological symptoms, diabetes >20 years or with vascular disease, current gall bladder disease, uncontrolled hypertension (BP > 160/100):
+                        Contraindicated.
+                    **ELSE IF** First 6 months postpartum if breastfeeding OR first 3 weeks postpartum in non-breastfeeding females:
+                        Not recommended.
+                    **ELSE IF** Controlled hypertension, diabetes, migraine without neurological symptoms, non-smokers with age > 35 years without other medical illness:
+                        Can be used with caution.
+                6.  **Follow-up:** First follow-up within 3 months, then annually (history, BP, urinalysis, breast examination, liver palpation, pelvic examination).
+
+            **IF** Hormonal (Injectable - DMPA):
+                1.  **Dosage:** 150 mg injection deep IM every three months.
+                2.  **Delay:** Next injection can be delayed by 2 weeks.
+                3.  **Contraindications Check:**
+                    **IF** Pregnancy, unexplained genital bleeding, severe coagulation disorder, previous sex steroid induced liver adenoma, active liver disease, breastfeeding during initial 6 weeks, current or history of thromboembolic disease, cerebrovascular disease, coronary artery disease, current or past breast cancer, diabetes >20 years or with vascular disease, uncontrolled hypertension (BP > 180/110):
+                        Contraindicated.
+                4.  **Patient Education:** Common side effects (irregular bleeding, breast tenderness, weight gain, depression, headache, dizziness, abdominal pain). Fertility return slightly delayed. Drug interactions same as oral pills.
+
+            **IF** Hormonal (Injectable - NET-EN):
+                1.  **Dosage:** 200 mg injection deep IM every 2 months.
+                2.  **Delay:** Next injection can be delayed by 1 week.
+                3.  **Contraindications Check:** Same as DMPA.
+                4.  **Patient Education:** Same as DMPA.
+
+            **IF** Hormonal (Progesterone Only Pill - Ketodesogestrel):
+                *Specific dosage and regimen not provided in the text.*
+
+            **IF** Non-hormonal (Centchroman):
+                1.  **Dosage:** 30 mg tablet.
+                2.  **Timing:** Start on the first day of periods.
+                3.  **Regimen:** Take twice weekly for three months, then continue as once weekly.
+                4.  **Contraindications Check:**
+                    **IF** Polycystic ovarian disease, cervical intraepithelial neoplasia, severe allergy, recent history of liver disease, first 6 months of lactation:
+                        Contraindicated.
+                5.  **Patient Education:** Non-steroidal, failure rate 1-2%. Delayed periods possible. Missed pill: take ASAP, resume schedule, use backup till next period.
+
+            **IF** Intrauterine (CuT 200B):
+                *Lifespan: 3 years.*
+                *Contraindications: Pregnancy, postpartum <4 weeks, septic abortion, distorted uterine cavity, uterine fibroids, current or within past 3 months PID or STD, increased risk of STD, HIV positive, AIDS, pelvic tuberculosis, unexplained vaginal bleeding, trophoblastic disease, genital tract malignancy, complicated valvular heart disease.*
+                *Patient Education: Increased bleeding/dysmenorrhea initially. No STD protection. Failure rate 0.5-3%.*
+
+            **IF** Intrauterine (Multiload 250):
+                *Lifespan: 3 years.*
+                *Contraindications: Same as CuT 200B.*
+                *Patient Education: Same as CuT 200B.*
+
+            **IF** Intrauterine (Multiload 375):
+                *Lifespan: 5 years.*
+                *Contraindications: Same as CuT 200B.*
+                *Patient Education: Same as CuT 200B.*
+
+            **IF** Intrauterine (CuT 380A):
+                *Lifespan: 10 years.*
+                *Contraindications: Same as CuT 200B.*
+                *Patient Education: Same as CuT 200B.*
+
+            **IF** Intrauterine (LNG IUCD - Mirena):
+                *Lifespan: Not specified in text.*
+                *Contraindications: Same as CuT 200B.*
+                *Patient Education: Same as CuT 200B.*
+
+            **IF** Barrier (Male Condoms):
+                *Use a new condom for each act of coitus.*
+                *Contraindication: Severe allergy to latex rubber.*
+                *Patient Education: Protection against STDs/HIV. Failure rate 14%.*
+
+            **IF** Barrier (Vaginal Diaphragm):
+                *Insert 6 hours prior to intercourse.*
+                *Use with spermicidal jelly/cream.*
+                *Leave in place for ~6 hours (max 24 hours) after coitus.*
+                *Follow up: Annually to assess fitting.*
+                *Patient Education: Coitus dependent. Failure rate 20%. No hormonal side effects. Requires fitting.*
+
+            **IF** Barrier (Contraceptive Sponge):
+                *Contains Nonoxynol 9.*
+                *Remove at least 6 hours after intercourse (max 30 hours).*
+                *Patient Education: Coitus dependent. Failure rate 28%. No hormonal side effects.*
+
+        **ELSE IF** Permanent method is chosen:
+            1.  **Classify Permanent Method Type:** Determine if it is Female or Male sterilization.
+
+                **IF** Female Sterilization:
+                    1.  **Timing:** Interval (after menstruation), Postpartum (within 7 days, preferably 48 hrs, or after 6 weeks), MTP (concurrently), Spontaneous abortion (concurrently under antibiotic cover).
+                    2.  **Contraindications Check:**
+                        **IF** Psychiatric disorder, acute febrile illness, jaundice, Hb< 8 g%, chronic systemic disease, malignancy, bleeding disorder, severe nutritional deficiency (Relative); Puerperial sepsis/fever, severe pre-eclampsia/eclampsia, PROM >24 hours, severe APH/PPH, genital tract trauma (Postpartum).
+                    3.  **Follow-up:** 7 days post-surgery (wound exam), 1 month or next period.
+
+                **IF** Male Sterilization:
+                    1.  **Contraindications Check:** Psychiatric/physical illness, local genital conditions (large varicocele, hydrocele, inguinal hernia, filariasis, cryptorchidism, previous scrotal surgery, intra scrotal mass) (Relative).
+                    2.  **Follow-up:** 7 days (wound exam/stitch removal), 3 months (semen analysis).
+                    3.  **Patient Education:** Safe, simple, permanent. No effect on sexual function. Small chance of failure. Use backup for 20 ejaculations or 3 months. No STD protection.
+
+4.  **Patient Education (General):**
+    -   Common side effects of hormonal methods (nausea, vomiting, GI upset, breast changes, weight gain, acne, breakthrough bleeding, amenorrhoea, rash, vaginal candidiasis).
+    -   Report severe symptoms (chest pain, leg pain, severe headache, severe stomachache, swelling, visual impairment).
+    -   Effectiveness of methods (e.g., OCPs ~0.1% failure).
+    -   Non-contraceptive benefits (e.g., OCPs: regular periods, less pain/bleeding, improved PMS, decreased risk of PID, ovarian/endometrial cancer, endometriosis).
+    -   Forgotten pill instructions (OCPs).
+    -   Discontinuation instructions (e.g., OCPs: 4 weeks prior to major surgery).
+    -   Drug interactions (e.g., OCPs: rifampicin, barbiturates, phenytoin, carbamazepine, primidone, griseofulvin).
+    -   Emergency contraception information.
+    -   Need for regular follow-up.
+    -   Sterilization is permanent.
+    -   Methods do not protect against STDs/HIV (except condoms).
+
+```

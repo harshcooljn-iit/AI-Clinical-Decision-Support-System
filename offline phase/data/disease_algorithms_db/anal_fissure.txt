@@ -1,0 +1,58 @@
+```text
+DISEASE: Anal Fissure
+
+ABBREVIATIONS:
+- Lignocaine: Lidocaine
+- mg: milligram
+- ml: milliliter
+- tab: tablet
+- Or: Or
+- Isapghula: Ispaghula
+- Povidone iodine: Povidone-iodine
+
+DIAGNOSTICS:
+- Constipation, sharp agonizing pain during defecation, bright streaks of blood in stools.
+- Ulcer at the lower end of the anal canal seen when tightly closed puckered anus is stretched apart.
+
+TREATMENT ALGORITHM:
+
+IF pharmacological treatment is indicated THEN
+    // Local treatment
+    APPLY Lignocaine jelly or ointment (5%) locally 3-4 times a day.
+
+    // Systemic treatment (Antibiotic)
+    IF infection is suspected THEN
+        ADMINISTER Tab. metronidazole 400 mg twice a day for 5 days.
+
+    // Systemic treatment (Analgesic)
+    ADMINISTER Tab ibuprofen 400 mg one tablet every 8 hours.
+
+    // Sitz bath
+    PERFORM Sitz bath (warm water with povidone iodine) twice a day.
+
+    // Constipation management
+    IF constipation is present THEN
+        // Option 1: Ispaghula husk
+        ADMINISTER Isapghula husk 1-2 teaspoon in water one or two times a day.
+        // OR
+        // Option 2: Liquid paraffin
+        ADMINISTER Liquid paraffin (5-15 ml) at bedtime for one month.
+    ENDIF
+
+    IF no relief with local lignocaine application THEN
+        ADMINISTER Liquid paraffin (5-15 ml) at bedtime for one month.
+    ENDIF
+ELSE
+    // Surgical treatment
+    IF pharmacological treatment fails or is inappropriate THEN
+        // Aim: Cause complete relaxation of the anal sphincter to relieve pain and heal the fissure.
+        // Options:
+        // 1. Anal dilation under general anaesthesia.
+        // 2. Fissurectomy and sphincterotomy if needed.
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+// No specific contraindications listed for the mentioned drugs in this context.
+// Standard contraindications for each drug apply (e.g., metronidazole allergy, NSAID allergy/GI issues, etc.).
+```

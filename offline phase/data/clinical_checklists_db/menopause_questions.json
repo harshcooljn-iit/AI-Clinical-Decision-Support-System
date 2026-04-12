@@ -1,0 +1,27 @@
+{
+    "questions": [
+        "Does the patient have menopause symptoms? (Yes/No)",
+        "Does the patient require calcium supplementation? (Yes/No)",
+        "Does the patient require Hormone Replacement Therapy (HRT)? (Yes/No)",
+        "Does the patient have endometrial cancer? (Yes/No)",
+        "Does the patient have breast cancer? (Yes/No)",
+        "Does the patient have acute phase myocardial infarction? (Yes/No)",
+        "Does the patient have an undiagnosed breast lump? (Yes/No)",
+        "Does the patient have abnormal vaginal bleeding? (Yes/No)",
+        "Does the patient have acute liver disease? (Yes/No)",
+        "Does the patient have hypertension? (Yes/No)",
+        "Does the patient have diabetes? (Yes/No)",
+        "Has the patient had a hysterectomy? (Yes/No)",
+        "Does the patient have gall bladder disease? (Yes/No)",
+        "Does the patient have hypertriglyceridemia? (Yes/No)",
+        "Does the patient have a history of thromboembolism? (Yes/No)",
+        "Does the patient have poorly-controlled hypertension? (Yes/No)",
+        "Does the patient have recent myocardial infarction? (Yes/No)",
+        "Does the patient have vascular diseases? (Yes/No)",
+        "Does the patient have migraine? (Yes/No)",
+        "Does the patient have chronic hepatic dysfunction? (Yes/No)",
+        "Does the patient have malabsorption syndrome? (Yes/No)",
+        "Is withdrawal bleeding unacceptable for the patient? (Yes/No)",
+        "Is conventional HRT contraindicated? (Yes/No)"
+    ]
+}

@@ -1,0 +1,57 @@
+```text
+DISEASE: Low Birth Weight Baby
+
+ABBREVIATIONS:
+- LBW: Low Birth Weight
+- IUGR: Intrauterine Growth Retardation
+- IM: Intramuscular
+- Katori: Cup (feeding method)
+- g: grams
+- ml: milliliters
+- kg: kilograms
+- IU: International Units
+- wk: week
+
+DIAGNOSTICS:
+- Weighs less than 2500 g at birth.
+- May be due to prematurity (gestational age <37 weeks) or IUGR (small-for-date).
+
+TREATMENT ALGORITHM:
+
+1.  HOSPITALIZATION INDICATIONS:
+    IF birth weight < 1800 g THEN hospitalize.
+    IF gestation age < 34 weeks THEN hospitalize.
+    IF neonate unable to take feeds from breast, cup (katori), or spoon THEN hospitalize.
+    IF neonate is sick THEN hospitalize.
+
+2.  TEMPERATURE MANAGEMENT:
+    - Maintain room temperature between 28-30°C.
+    - Use Kangaroo mother care (skin-to-skin contact).
+    - Use proper clothing (cap, sweaters, socks, mittens).
+    - Use blankets, Overhead radiant warmer, or Incubator.
+
+3.  NUTRITION GUIDELINES:
+    IF birth weight < 1200 g AND gestation < 30 weeks THEN
+        - Initial: Intravenous fluids (60 ml/kg/day) with feed.
+        - After 1-3 days: Gavage (15-30 ml/kg/day), increase by 15-30 ml/kg/day to a maximum of 180 ml/kg/day of expressed breast milk.
+        - Later (2-4 weeks): Katori/spoon (150-180 ml/kg/day).
+    ELSE IF birth weight 1200-1800 g AND gestation 30-34 weeks THEN
+        - Initial: Gavage (60 ml/kg/day).
+        - After 1-3 days: Katori/spoon, maximum of 150-180 ml/kg/day.
+        - Later (2-4 weeks): Breast feeding.
+    ELSE IF birth weight > 1800 g AND gestation > 34 weeks THEN
+        - Initial: Breast feeding. If not satisfactory, spoon feeds.
+        - After 1-3 days: Breast feeding.
+        - Later (2-4 weeks): Breast feeding.
+
+4.  VITAMIN SUPPLEMENTATION:
+    - Vitamin K: 1.0 mg IM at birth.
+    - Vitamin A: 1000 IU orally daily, starting from 1 week age.
+    - Vitamin D: 400 IU orally daily, starting from 2 week age.
+    - Iron: 2-4 mg/kg/day orally daily, starting from 4 weeks age.
+    - Vitamin E, calcium, and phosphorus supplementation: For very LBW (<1500 g, <32 week gestation).
+
+5.  SICKNESS MONITORING AND REFERRAL:
+    - Monitor for signs of sickness: Lethargy, refusal to feed, hypothermia, respiratory distress, grunt, apnoea, abnormal weight gain, jaundice over soles and palms, abdominal distension, feed intolerance, cyanosis, pallor, seizures, bleeding.
+    - IF any of the above signs are present THEN refer to a higher center.
+```

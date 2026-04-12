@@ -1,0 +1,98 @@
+```text
+DISEASE: Acute Pancreatitis
+
+ABBREVIATIONS:
+- TC: Total Count
+- DC: Differential Count
+- S.: Serum
+- USG: Ultrasonography
+- CECT: Contrast-Enhanced Computed Tomography
+- Inj.: Injection
+- IV: Intravenous
+- IM: Intramuscular
+- SC: Subcutaneous
+- ICU: Intensive Care Unit
+- ARDS: Acute Respiratory Distress Syndrome
+- NPO: Nil Per Os (Nothing by mouth)
+- NG: Nasogastric
+- WHO: World Health Organization
+- APACHE II: Acute Physiology and Chronic Health Evaluation II
+- Ranson's score: Ranson's Criteria
+- Glasgow score: Glasgow Criteria
+
+DIAGNOSTICS:
+- Clinical presentation (epigastric pain, history of risk factors).
+- Physical examination (tenderness, guarding, rigidity, fever, tachycardia, tachypnoea, shock).
+- Laboratory tests (increased TC with neutrophilia, increased S. amylase >3x normal, increased S. lipase >3x normal, low S. calcium).
+- Imaging (USG Abdomen, CECT Abdomen, Chest X-Ray).
+- Prognostic scores (Ranson's, Glasgow, APACHE II).
+
+TREATMENT ALGORITHM:
+
+// Initial Assessment and Management (General)
+IF (Patient presents with symptoms suggestive of Acute Pancreatitis) THEN
+    // Investigations
+    Perform TC with DC, S. amylase, S. lipase, S. calcium, USG Abdomen, CECT Abdomen (if severe/unresolving), Chest X-Ray.
+    // Non-pharmacological treatment
+    Implement NPO.
+    Consider NG tube insertion.
+    Avoid alcohol.
+    // Pharmacological treatment
+    Initiate fluid resuscitation.
+    Correct electrolyte imbalance.
+ENDIF
+
+// Pain Management
+IF (Patient has pain) THEN
+    Administer Inj. diclofenac sodium 75 mg IM 8 hourly.
+    IF (Pain persists or worsens) THEN
+        Administer Inj. tramadol 50 mg once daily.
+    ENDIF
+ENDIF
+
+// Acid Suppression and Prophylaxis
+Administer Inj. pantoprazole 40 mg IV 12 hourly.
+Administer Inj. octreotide 100 microgram IV/SC 6 hourly to 12 hourly until resolution of symptoms.
+
+// Management based on Severity (Non-Necrotizing vs. Necrotizing)
+
+// Non-Necrotizing Acute Pancreatitis
+IF (Diagnosis is Acute Non-Necrotizing Pancreatitis) THEN
+    // Non-pharmacological treatment
+    Continue NPO, NG tube insertion, per urethral catheterization (if needed).
+    // Pharmacological treatment
+    Continue fluid resuscitation and electrolyte correction.
+    Administer Inj. diclofenac sodium 75 mg IM 8 hourly.
+    Administer Inj. pantoprazole 40 mg IV 12 hourly.
+    Administer Inj. octreotide 100 microgram IV/SC 6 hourly to 12 hourly until resolution of symptoms.
+    // Surgical treatment
+    Usually no surgical intervention required.
+    IF (Cause is gallstones) THEN
+        Perform Cholecystectomy after acute pancreatitis resolves.
+    ENDIF
+ENDIF
+
+// Necrotizing Acute Pancreatitis
+IF (Diagnosis is Acute Necrotizing Pancreatitis) THEN
+    // Non-pharmacological treatment
+    ICU monitoring.
+    Oxygen by mask.
+    Continue NPO, NG tube insertion, per urethral catheterization.
+    // Pharmacological treatment
+    Continue fluid resuscitation and electrolyte correction.
+    Administer Inj. meropenem 1 gm IV 8 hourly.
+    Administer Inj. diclofenac sodium 75 mg IM 8 hourly.
+    Administer Inj. pantoprazole 40 mg IV 12 hourly.
+    Administer Inj. octreotide 100 microgram IV/SC every 6 hourly to 8 hourly.
+    // Surgical treatment
+    Consider Pancreatic necrosectomy.
+    Consider distal pancreatectomy (for disease in body and tail).
+    IF (Cause is gallstones) THEN
+        Perform Cholecystectomy after acute pancreatitis resolves.
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+// No specific contraindications listed for the mentioned drugs in the provided text.
+// General contraindications for drugs like NSAIDs (diclofenac), PPIs (pantoprazole), octreotide, and antibiotics (meropenem) would apply based on patient-specific factors (e.g., allergies, renal impairment, specific conditions).
+```

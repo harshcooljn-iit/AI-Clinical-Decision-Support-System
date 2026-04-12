@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "Is the patient diagnosed with Malignant Otitis Externa? (Yes/No)",
+        "Are topical anti-pseudomonal antibacterials indicated? (Yes/No)",
+        "Is surgical debridement indicated? (Yes/No)"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "questions": [
+        "Does the patient present with symptoms of DM (polyuria, polydipsia, unexplained weight loss, glycosuria, ketonuria)? (Yes/No)",
+        "What is the patient's random plasma glucose level (mg/dl)?",
+        "What is the patient's fasting plasma glucose level (mg/dl)?",
+        "What is the patient's 2-hour plasma glucose level during OGTT (mg/dl)?",
+        "Is the patient newly diagnosed with DM or recovering from DKA? (Yes/No)",
+        "Is the patient being discharged from the hospital? (Yes/No)",
+        "What is the patient's total daily insulin dose (units)?",
+        "What are the patient's blood glucose levels before meals? (mg/dl)",
+        "What are the patient's blood glucose levels after meals? (mg/dl)",
+        "What is the patient's early morning (3 AM) blood glucose level? (mg/dl)",
+        "What is the patient's HbA1c level (%)?",
+        "What are the patient's serum lipid levels (cholesterol, HDL, LDL, VLDL, triglycerides)? (mg/dl)",
+        "Is there protein in the patient's urine? (Yes/No)",
+        "What are the patient's thyroid function test results?",
+        "Does the patient have any allergies? (Yes/No)",
+        "Is the patient pregnant? (Yes/No)"
+    ]
+}

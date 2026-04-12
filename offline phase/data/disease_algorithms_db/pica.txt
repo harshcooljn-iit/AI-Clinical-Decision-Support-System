@@ -1,0 +1,43 @@
+```text
+DISEASE: Pica
+
+ABBREVIATIONS:
+None
+
+DIAGNOSTICS:
+Repeated and chronic ingestion of non-nutrient substances (e.g., mud, plaster, paint, earth, clay).
+
+TREATMENT ALGORITHM:
+
+IF Age < 2 years THEN
+    Pica does not need any intervention.
+ELSE
+    // Pica in children >= 2 years
+    // Investigate for associated conditions:
+    // 1. Lead poisoning
+    // 2. Iron deficiency
+    // 3. Bezoars
+    // 4. Parasitic infections
+
+    IF Lead poisoning is present THEN
+        Treat lead poisoning appropriately.
+    ENDIF
+
+    IF Iron deficiency is present THEN
+        Treat iron deficiency appropriately.
+    ENDIF
+
+    IF Bezoars are present THEN
+        Treat bezoars appropriately.
+    ENDIF
+
+    IF Parasitic infections are present THEN
+        Treat parasitic infections appropriately.
+    ENDIF
+
+    // Address underlying psychosocial factors if present:
+    // 1. Family disorganization
+    // 2. Poor supervision
+    // 3. Emotional neglect
+ENDIF
+```

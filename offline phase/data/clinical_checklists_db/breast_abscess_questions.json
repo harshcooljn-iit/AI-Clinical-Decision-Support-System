@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "Is the abscess superficial? (Yes/No)",
+        "Can the patient take oral medication? (Yes/No)"
+    ]
+}

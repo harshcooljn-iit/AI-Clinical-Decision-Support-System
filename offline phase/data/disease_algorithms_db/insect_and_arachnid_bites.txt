@@ -1,0 +1,69 @@
+```text
+DISEASE: Insect And Arachnid Bites
+
+ABBREVIATIONS:
+- IM: Intramuscular
+- Inj.: Injection
+- mg: Milligram
+- ml: Milliliter
+- tab: Tablet
+- cetrizine: Cetirizine
+- paracetamol: Paracetamol
+- ibuprofen: Ibuprofen
+- aspirin: Aspirin
+- hydrocortisone: Hydrocortisone
+- calamine lotion: Calamine Lotion
+- adrenaline: Adrenaline
+- hydrogen tartrate: Hydrogen Tartrate
+
+DIAGNOSTICS:
+- Skin around the bite becomes red, swollen and itchy.
+- Venom from a sting often causes a swollen, itchy, red mark (weal).
+- Severity varies depending on the type of insect and person's sensitivity.
+- Serious allergic reaction (anaphylaxis) is rare but possible.
+
+TREATMENT ALGORITHM:
+
+IF the bite or sting is minor (redness, swelling, itching)
+    THEN
+        - Wash the affected area with soap and water.
+        - Place a cold compress over the affected area to reduce swelling.
+        - Do not scratch the area.
+        - Wrap an ice pack in a towel and place it on the swelling.
+    ENDIF
+
+IF the bite or sting is painful or swollen
+    THEN
+        - Administer oral analgesic:
+            IF age is under 16 years old
+                THEN
+                    - Administer tab. paracetamol OR tab. ibuprofen.
+                    - DO NOT administer aspirin.
+                ELSE
+                    - Administer tab. paracetamol OR tab. ibuprofen.
+                ENDIF
+        - Apply topical treatment to the affected area:
+            - Spray or cream containing local anesthetic.
+            - Spray or cream containing antihistamine.
+            - Spray or cream containing mild hydrocortisone (1%).
+        - Administer oral antihistamine:
+            - Tab. cetrizine 10 mg once a day.
+        - Apply topical calamine lotion to relieve pruritus.
+    ENDIF
+
+IF there are severe side-effects (e.g., severe swelling, systemic symptoms)
+    THEN
+        - Consider systemic corticosteroids.
+    ENDIF
+
+IF the person collapses, complains of wheezing, feeling of anxiety or faintness, generalized itching, or tightness in the chest within 1 hour of being stung
+    THEN
+        - Treat as anaphylactic shock.
+        - Administer Inj. adrenaline 1 mg (as hydrogen tartrate) 0.5-1.0 ml IM injection (1:1000 solution).
+        - Repeat Inj. adrenaline every 15-20 min if required.
+        - Observe the patient for at least 24 hours for recurrent anaphylaxis.
+    ENDIF
+
+CONTRAINDICATIONS:
+- Aspirin: DO NOT give to children under 16 years old.
+```

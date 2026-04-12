@@ -1,0 +1,23 @@
+```text
+DISEASE: Foreign Body In Ear
+
+ABBREVIATIONS:
+- None
+
+DIAGNOSTICS:
+- Clinical examination revealing a foreign object within the external auditory canal.
+
+TREATMENT ALGORITHM:
+IF the foreign body is an insect:
+    THEN immobilize the insect using oil.
+    THEN remove the insect with forceps.
+ELSE IF the foreign body is a vegetable matter (e.g., seeds):
+    THEN remove the foreign body with a foreign body hook.
+    THEN do NOT use syringing.
+ELSE IF the foreign body is non-organic (e.g., stones, beads, cotton buds, match sticks):
+    THEN remove the foreign body with syringing.
+    THEN remove the foreign body with a foreign body hook.
+ELSE IF the foreign body is impacted:
+    THEN remove the foreign body under general anesthesia.
+    THEN use a microscope during removal.
+```

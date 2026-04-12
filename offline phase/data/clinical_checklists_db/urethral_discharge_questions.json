@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "What is the patient's presenting symptom(s)? (Urethral Discharge, Vaginal discharge, Genital ulcerative disease (non herpetic), Genital ulcerative disease (herpetic), Lower abdominal pain (lap), Inguinal bubo)",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have any known allergies? (Yes/No)",
+        "Does the patient have G6PD deficiency? (Yes/No)"
+    ]
+}

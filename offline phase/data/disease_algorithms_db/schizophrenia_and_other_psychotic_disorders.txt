@@ -1,0 +1,33 @@
+```text
+DISEASE: Schizophrenia And Other Psychotic Disorders
+
+ABBREVIATIONS:
+- Schizophrenia: Schizophrenia
+- Schizophreniform disorder: Schizophreniform disorder
+- Brief psychotic disorder: Brief psychotic disorder
+- Delusional disorder: Delusional disorder
+- Schizoaffective disorder: Schizoaffective disorder
+- Psychotic Disorders: Psychotic Disorders
+
+DIAGNOSTICS:
+- Schizophrenia: Clinical features including delusions, hallucinations, disorganized speech, grossly disorganized or catatonic behavior, negative symptoms. Duration of at least 6 months with at least 1 month of active-phase symptoms.
+- Schizophreniform disorder: Clinical features similar to schizophrenia, but duration of symptoms is less than 6 months.
+- Brief psychotic disorder: Clinical features similar to schizophrenia, but duration of symptoms is less than 1 month.
+- Delusional disorder: Characterized by single or multiple non-bizarre delusions of 1 month duration. Functioning and behavior in other areas are intact.
+- Schizoaffective disorder: Symptoms of schizophrenia are present continuously, with overlapping features of bipolar affective disorder.
+
+TREATMENT ALGORITHM:
+
+IF DISEASE is Schizophrenia THEN
+    Pharmacological treatment is similar to Schizophrenia.
+ELSE IF DISEASE is Schizophreniform disorder THEN
+    Pharmacological treatment is similar to Schizophrenia.
+ELSE IF DISEASE is Brief psychotic disorder THEN
+    Pharmacological treatment is similar to Schizophrenia.
+ELSE IF DISEASE is Delusional disorder THEN
+    Insight oriented psychotherapy is the mainstay of treatment.
+    Pharmacological treatment is similar to Schizophrenia.
+ELSE IF DISEASE is Schizoaffective disorder THEN
+    Pharmacological treatment includes antipsychotics and mood stabilizers (as in Schizophrenia and Bipolar disorder respectively).
+ENDIF
+```

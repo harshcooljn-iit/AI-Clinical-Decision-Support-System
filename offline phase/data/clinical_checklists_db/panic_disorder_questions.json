@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "Is the patient suitable for non-pharmacological treatment? (Yes/No)",
+        "Is the patient suitable for SSRI treatment? (Yes/No)",
+        "Which SSRI should be started? (Paroxetine, Escitalopram, Citalopram, Fluvoxamine, Sertraline, None)",
+        "Does the patient require rapid symptomatic relief? (Yes/No)",
+        "Is the patient suitable for benzodiazepine treatment? (Yes/No)",
+        "Is the patient suitable for Tricyclic Antidepressant treatment? (Yes/No)"
+    ]
+}

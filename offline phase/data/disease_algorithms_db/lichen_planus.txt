@@ -1,0 +1,28 @@
+```text
+DISEASE: Lichen Planus
+
+ABBREVIATIONS:
+- mg: milligram
+- kg: kilogram
+- Tab: Tablet
+- Inj: Injection
+- %: Percent
+
+DIAGNOSTICS:
+- Clinical examination
+- Skin biopsy
+
+TREATMENT ALGORITHM:
+IF Severity is Mild THEN
+    TREATMENT: Topical fluocinonide 0.05% cream OR Topical clobetasol propionate 0.05% cream OR Topical tacrolimus ointment 0.03%
+ELSE IF Severity is Moderate or Severe THEN
+    TREATMENT: Oral prednisolone (0.5-1 mg/kg/day) in gradually tapering doses over 6 weeks
+    OR
+    TREATMENT: Injectable triamcinolone acetonide (0.5-1 mg/kg/month) for 3-6 months
+    OR
+    TREATMENT: Oral acitretin (25-50 mg/day) for 6-8 weeks
+ENDIF
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for the listed treatments, but standard contraindications for corticosteroids and retinoids apply based on patient history and other medications).
+```

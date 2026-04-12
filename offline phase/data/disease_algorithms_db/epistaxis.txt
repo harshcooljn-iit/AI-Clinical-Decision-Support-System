@@ -1,0 +1,42 @@
+```text
+DISEASE: Epistaxis
+
+ABBREVIATIONS:
+- ENT: Ear, Nose, and Throat
+- CT: Computed Tomography
+
+DIAGNOSTICS:
+- Clinical presentation of bleeding through the nose.
+- Investigations may include complete hemogram, coagulation profile, blood grouping and typing, X-ray paranasal sinuses, CT paranasal sinuses (if necessary).
+
+TREATMENT ALGORITHM:
+
+IF patient shows signs of hemodynamic compromise THEN
+    Perform resuscitative measures.
+ENDIF
+
+IF epistaxis is present THEN
+    Consider cauterization.
+ENDIF
+
+IF epistaxis is present THEN
+    Consider anterior nasal packing.
+ENDIF
+
+IF epistaxis is present THEN
+    Consider posterior nasal packing.
+ENDIF
+
+IF epistaxis is present AND conservative measures fail OR specific etiology requires intervention THEN
+    Consider surgical treatment (endoscopic cautery and/or ligation of vessels).
+ENDIF
+
+PATIENT EDUCATION:
+IF patient is a child THEN
+    Advise to avoid inserting fingers into the nose.
+ENDIF
+
+IF patient has epistaxis THEN
+    Explain first aid: pinch the nose tightly and apply an ice pack over the nose while waiting for medical attention.
+ENDIF
+```

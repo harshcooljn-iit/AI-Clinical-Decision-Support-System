@@ -1,0 +1,60 @@
+```text
+DISEASE: Mumps
+
+ABBREVIATIONS:
+- OPD: Outpatient Department
+- SOS: Stat Omnis Sero (Immediately as needed)
+- CNS: Central Nervous System
+- MMR: Mumps-Measles-Rubella
+
+DIAGNOSTICS:
+- Swollen and painful parotid glands over 1-3 days.
+- Fever (up to 103°F / 39.4°C).
+- Headache.
+- Loss of appetite.
+- Potential involvement of brain, pancreas, or other organs.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    IF Patient presents with symptoms suggestive of Mumps (parotid swelling, fever, headache, loss of appetite).
+    THEN Proceed to treatment steps.
+
+2.  **Non-Pharmacological Treatment:**
+    - Encourage fluid intake (water, decaffeinated soft drinks, tea).
+    - Avoid acidic fruit juices (orange, grapefruit, lemonade).
+    - Apply warm or cold packs to swollen parotid glands as preferred by the child.
+
+3.  **Pharmacological Treatment (Symptomatic):**
+    IF Patient has fever or pain.
+    THEN Administer paracetamol.
+    ELSE No pharmacological treatment needed for fever/pain.
+
+4.  **Paracetamol Dosage:**
+    IF Patient has fever or pain.
+    THEN Administer paracetamol at 10-15 mg/kg/day.
+    Frequency: SOS (Stat Omnis Sero - immediately as needed) or every 4-6 hours.
+    NOTE: Aspirin is contraindicated in children with viral illnesses due to the risk of Reye's syndrome.
+
+5.  **Antibiotics:**
+    IF Patient has Mumps.
+    THEN Antibiotics are NOT indicated as Mumps is a viral illness.
+
+6.  **Hospital Admission Criteria:**
+    IF Patient presents with ANY of the following:
+        - Abdominal pain.
+        - Testicular swelling (in boys).
+        - Signs of raised intracranial tension.
+    THEN Admit the patient to the hospital.
+    ELSE Treat as outpatient (OPD basis).
+
+7.  **Patient Education:**
+    - Explain warning signs to parents:
+        - High fever with testicular pain/swelling (boys).
+        - Abdominal pain (pancreatitis or oophoritis).
+        - Severe headache, stiff neck, convulsions, extreme drowsiness (CNS involvement).
+        - Recurrence of high fever (>101°F / 38.3°C) suggests complications.
+
+CONTRAINDICATIONS:
+- Aspirin: Contraindicated in children with viral illnesses (like Mumps) due to the risk of Reye's syndrome.
+```

@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "Is the patient eligible for oral antiviral therapy? (Yes/No)",
+        "What is the patient's weight in kg?"
+    ]
+}

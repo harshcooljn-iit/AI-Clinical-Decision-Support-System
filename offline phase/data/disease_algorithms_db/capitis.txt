@@ -1,0 +1,44 @@
+```text
+DISEASE: Capitis
+ABBREVIATIONS:
+    - KOH: Potassium Hydroxide
+    - mg: Milligram
+    - kg: Kilogram
+    - wks: Weeks
+    - d: Day
+    - Tab.: Tablet
+    - Cap.: Capsule
+
+DIAGNOSTICS:
+    - Clinical examination (Gray patch, Black Dot, Kerion, Favus)
+    - Wood's lamp (greenish yellow fluorescence)
+    - KOH mount and hair mount
+
+TREATMENT ALGORITHM:
+    IF Disease is Tinea Capitis THEN
+        // Non-pharmacological treatment
+        IF Patient has matted crusts THEN
+            Remove matted crusts.
+        ENDIF
+        Advise patient not to share caps and combs.
+
+        // Pharmacological treatment options
+        IF Drug is Griseofulvin THEN
+            Administer Tab. griseofulvin.
+            Dosage: 15-25 mg/kg per day.
+            Administration: With food, preferably at night.
+            Duration: 4-6 weeks.
+        ELSE IF Drug is Fluconazole THEN
+            Administer Tab. fluconazole.
+            Dosage: 3-6 mg/kg per day.
+            Duration: 6 weeks.
+        ELSE IF Drug is Terbinafine THEN
+            Administer Tab. terbinafine.
+            Dosage: According to patient weight (specific dosage not provided in text).
+        ELSE IF Drug is Itraconazole THEN
+            Administer Cap. itraconazole.
+            Dosage: 5 mg/kg/d.
+            Duration: 7 days.
+        ENDIF
+    ENDIF
+```

@@ -1,0 +1,25 @@
+```text
+DISEASE: Oral Submucous Fibrosis
+
+ABBREVIATIONS:
+- OSMF: Oral Submucous Fibrosis
+
+DIAGNOSTICS:
+- Salient features include:
+    - Gradually reduced mouth opening (Trismus)
+    - Blanching (White opaque) oral mucosa
+    - Recurrent ulcers & burning sensations on taking spicy food
+    - Change of voice, difficulty in deglutition
+    - Poor oral hygiene with gingivitis & periodontitis
+    - Small shrunken uvula and decreased mobility of soft palate
+
+TREATMENT ALGORITHM:
+IF patient has Oral Submucous Fibrosis (OSMF) THEN
+    IF patient uses tobacco, lime, or Betelnut THEN
+        THEN advise to quit habit as soon as possible
+    ENDIF
+    THEN advise mouth opening exercises (physical exercises)
+    THEN advise Oral Hygiene prophylaxis
+    THEN consider local medicaments in form of steroids
+ENDIF
+```

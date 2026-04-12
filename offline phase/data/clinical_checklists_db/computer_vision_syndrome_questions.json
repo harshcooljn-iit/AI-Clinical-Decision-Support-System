@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "Is the patient starting computer use? (Yes/No)",
+        "Has the patient been using a computer for > 1 year? (Yes/No)",
+        "Is glare present? (Yes/No)",
+        "Is the patient using a CRT monitor? (Yes/No)",
+        "Is the patient using eyeglasses for computer work? (Yes/No)",
+        "Are symptoms aggravated during computer work? (Yes/No)"
+    ]
+}

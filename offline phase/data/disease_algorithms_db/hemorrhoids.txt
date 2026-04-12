@@ -1,0 +1,63 @@
+```text
+DISEASE: Hemorrhoids
+
+ABBREVIATIONS:
+- PR: Per Rectal
+- esabgol husk: Bulk forming laxative (e.g., psyllium husk)
+
+DIAGNOSTICS:
+- Symptoms: Bleeding per rectum, pruritus ani, rectal prolapse sensation, constipation.
+- Physical Exam: Per rectal examination and proctoscopy showing hemorrhoids, potentially with bleeding points at 3, 7, 11 o'clock positions.
+- Grading:
+    - Grade I: Punctate bleeding, non-protruding.
+    - Grade II: Protrudes during straining, reduces spontaneously.
+    - Grade III: Protrudes during straining, needs manual reduction.
+    - Grade IV: Prolapsed hemorrhoids.
+
+TREATMENT ALGORITHM:
+
+// Initial Management (Non-Pharmacological)
+IF (Patient has Hemorrhoids) THEN
+    // Lifestyle Modifications
+    RECOMMEND High fiber diet.
+    RECOMMEND Plenty of fluids.
+    RECOMMEND Sitz bath twice a day with lukewarm water.
+ENDIF
+
+// Pharmacological Treatment (if needed)
+IF (Patient has constipation associated with Hemorrhoids) THEN
+    RECOMMEND Bulk forming laxative (esabgol husk) at bedtime.
+ENDIF
+
+IF (Patient has external hemorrhoids associated with Hemorrhoids) THEN
+    RECOMMEND Local lignocaine 2% ointment.
+ENDIF
+
+// Surgical/Procedural Treatment (based on Grade)
+IF (Patient has Grade I Hemorrhoids) THEN
+    // Conservative Management
+    RECOMMEND High fiber diet, fluids, sitz baths.
+    // Procedural Option for Bleeding
+    IF (Patient has bleeding Grade I Hemorrhoids) THEN
+        RECOMMEND Injection sclerotherapy.
+    ENDIF
+ELSEIF (Patient has Grade II Hemorrhoids) THEN
+    // Conservative Management
+    RECOMMEND High fiber diet, fluids, sitz baths.
+    // Procedural Option
+    RECOMMEND Band ligation.
+ELSEIF (Patient has Grade III Hemorrhoids) THEN
+    RECOMMEND Hemorrhoidectomy.
+ELSEIF (Patient has Grade IV Hemorrhoids) THEN
+    RECOMMEND Hemorrhoidectomy.
+ENDIF
+
+// Contraindications (Example - not explicitly in text, but standard practice)
+// IF (Patient is taking Warfarin or other anticoagulants) THEN
+//     CAUTION: Increased risk of bleeding with procedures like sclerotherapy, band ligation, or surgery.
+// ENDIF
+
+// IF (Patient has an allergy to lignocaine) THEN
+//     DO NOT RECOMMEND Local lignocaine 2% ointment.
+// ENDIF
+```

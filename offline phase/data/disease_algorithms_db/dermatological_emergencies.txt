@@ -1,0 +1,88 @@
+```text
+DISEASE: Dermatological Emergencies
+
+ABBREVIATIONS:
+- CAB: Circulation, Airway, Breathing
+- OD: Once daily
+- QID: Four times daily
+- TDS: Three times daily
+- IV: Intravenous
+- mg: Milligram
+- kg: Kilogram
+
+DIAGNOSTICS:
+- Clinical presentation including urticaria, angioedema, anaphylaxis, Stevens-Johnson Syndrome, toxic epidermal necrolysis, life-threatening stings/bites, necrotizing soft tissue infections, fungal/viral infections with complications, autoimmune vesiculobullous disorders, collagen vascular disorders, unstable psoriasis, cutaneous involvement in paraneoplastic/systemic infections.
+
+TREATMENT ALGORITHM:
+
+IF Disease is a Dermatological Emergency THEN
+    // Location Requirement
+    IF Treatment setting is NOT a tertiary care centre THEN
+        Output: "Treatment can only be managed at a tertiary care centre."
+    ELSE
+        // Non-pharmacological Treatment
+        Output: "Treat the primary cause."
+        Output: "Maintain CAB (Circulation, Airway, Breathing)."
+        Output: "Careful monitoring of vitals."
+        Output: "Fluid and electrolyte management."
+        Output: "Input and output chart."
+
+        // Pharmacological Treatment
+
+        // Systemic Corticosteroids
+        IF Condition is autoimmune blistering disorder OR collagen vascular disorder THEN
+            Output: "Administer Systemic Corticosteroids."
+            Output: "Dose depends on severity of involvement."
+            Output: "Taper dose according to response on follow-up."
+
+        // Antibiotics
+        IF Condition is a life-threatening infection (e.g., necrotizing soft tissue infection) THEN
+            IF Antibiotic choice is Azithromycin THEN
+                Output: "Administer Tab. azithromycin 500 mg OD for 3/5 days."
+            ELSE IF Antibiotic choice is Erythromycin THEN
+                Output: "Administer Tab. erythromycin 500 mg QID for 5/7 days."
+            ENDIF
+        ENDIF
+
+        // Antivirals
+        IF Condition is a severe viral infection with complications THEN
+            Output: "Administer Tab. acyclovir 400 mg TDS for 7 days."
+        ENDIF
+
+        // Antifungals
+        IF Condition is a severe fungal infection with complications THEN
+            Output: "Administer Cap. fluconazole 50-100 mg/day for 7-10 days (depending on severity)."
+        ENDIF
+
+        // Immunosuppressants
+        IF Condition requires immunosuppression (e.g., severe autoimmune blistering) THEN
+            Output: "Use Immunosuppressant drugs with caution and monitoring."
+
+            IF Immunosuppressant choice is Cyclophosphamide THEN
+                Output: "Administer cyclophosphamide 1-1.5 mg/kg/day."
+            ELSE IF Immunosuppressant choice is Azathioprine THEN
+                Output: "Administer azathioprine 1-2 mg/kg/day."
+            ELSE IF Immunosuppressant choice is Cyclosporine THEN
+                Output: "Administer cyclosporine 2 mg/kg/day."
+            ENDIF
+        ENDIF
+
+        // IV Immunoglobulin and Biological Agents
+        IF Condition requires IVIG or biological agents (rarely used) THEN
+            Output: "Consider IV Immunoglobulin or biological agents (rarely used)."
+        ENDIF
+    ENDIF
+ELSE
+    Output: "Condition is not a dermatological emergency."
+ENDIF
+
+CONTRAINDICATIONS:
+// No specific contraindications listed for the drugs mentioned in the context of dermatological emergencies.
+// General contraindications for each drug class would apply (e.g., hypersensitivity, specific organ dysfunction).
+// Example (not exhaustive):
+// IF Drug is Cyclosporine THEN
+//     IF Patient has severe renal impairment THEN
+//         Output: "Contraindicated or requires significant dose adjustment."
+//     ENDIF
+// ENDIF
+```

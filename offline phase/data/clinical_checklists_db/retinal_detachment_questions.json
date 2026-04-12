@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "What is the type of Retinal Detachment (Rhegmatogenous, Exudative, Tractional, or Other)?",
+        "If the type is Exudative RD, is it caused by inflammatory conditions like panuveitis? (Yes/No)"
+    ]
+}

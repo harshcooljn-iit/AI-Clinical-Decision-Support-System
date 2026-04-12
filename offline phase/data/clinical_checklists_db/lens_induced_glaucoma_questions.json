@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "Does the patient require medical IOP lowering? (Yes/No)",
+        "Does the patient have inflammation associated with lens induced glaucoma OR require surgery? (Yes/No)"
+    ]
+}

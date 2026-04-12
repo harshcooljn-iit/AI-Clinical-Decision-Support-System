@@ -1,0 +1,77 @@
+```text
+DISEASE: Acute Septic Arthritis
+
+ABBREVIATIONS:
+- POP: Plaster of Paris
+- GM-: Gram-negative
+- GM+: Gram-positive
+- IV: Intravenous
+- PO: Per os (by mouth)
+- MRSA: Methicillin-resistant Staphylococcus aureus
+- VRE: Vancomycin-resistant Enterococcus
+- MSSA: Methicillin-sensitive Staphylococcus aureus
+- GBS: Group B Streptococcus
+- C&S: Culture and Sensitivity
+- IM: Intramuscular
+
+DIAGNOSTICS:
+- Clinical signs: Inability to move joint, refusal to walk/limp, hip pain referred to knee, local inflammation (warm, painful joint with effusion), signs of sepsis (fever, malaise). Neonates may present with pseudo paralysis.
+- Ultrasound examination of suspected septic hip joint aids diagnosis.
+- Joint aspiration for gram staining, culture, and sensitivity (C&S).
+
+TREATMENT ALGORITHM:
+
+1.  REFERRAL:
+    IF patient is suspected of having Acute Septic Arthritis THEN
+    REFER the patient immediately to an orthopaedic surgeon.
+
+2.  NON-PHARMACOLOGICAL TREATMENT:
+    IF patient has Acute Septic Arthritis THEN
+    - Keep the joint in a position of comfort.
+    - Perform joint aspiration for gram staining, culture, and sensitivity (C&S).
+    - IF aspirate is purulent THEN
+    - Perform emergency drainage of the joint.
+    - ELSE IF joint aspiration is doubtful BUT strong clinical suspicion exists THEN
+    - Perform drainage of the joint.
+    - ENDIF
+    - After drainage, splint the joint with a POP slab or skin traction until the patient is afebrile, pain-free, and the joint is clinically quiescent.
+    - Permit intermittent mobilization to preserve range of movement.
+
+3.  PHARMACOLOGICAL TREATMENT:
+    IF patient has Acute Septic Arthritis THEN
+    - The choice of antibiotics, duration of therapy, and monitoring are the same as for acute pyogenic osteomyelitis.
+
+    - Determine appropriate antibiotic based on age and likely pathogens (details for osteomyelitis section assumed).
+    - Example antibiotic choices (based on typical osteomyelitis guidelines, not explicitly stated in this text but implied):
+        - IF patient is < 1 month old THEN
+        - Use Ampicillin + Gentamicin (covers GBS, E. coli, Listeria).
+        - ELSE IF patient is 1-6 months old THEN
+        - Use Nafcillin/Oxacillin OR Cefazolin (covers MSSA, Staph epidermidis) + Gentamicin (covers GM-).
+        - ELSE IF patient is 6-24 months old THEN
+        - Use Nafcillin/Oxacillin OR Cefazolin (covers MSSA, Staph epidermidis) + Gentamicin (covers GM-).
+        - ELSE IF patient is > 24 months old THEN
+        - Use Nafcillin/Oxacillin OR Cefazolin (covers MSSA, Staph epidermidis) OR Vancomycin (if MRSA suspected/confirmed).
+        - ENDIF
+
+    - Determine appropriate dosage based on age/weight/severity (details for osteomyelitis section assumed).
+    - Example dosage (based on typical osteomyelitis guidelines, not explicitly stated in this text but implied):
+        - IF patient is < 1 month old THEN
+        - Ampicillin: 50 mg/kg/dose IV q6h
+        - Gentamicin: 2-2.5 mg/kg/dose IV/IM q8h (monitor levels)
+        - ELSE IF patient is 1-12 months old THEN
+        - Nafcillin/Oxacillin: 25-50 mg/kg/dose IV q4-6h
+        - Cefazolin: 25-50 mg/kg/dose IV q6-8h
+        - Gentamicin: 2-2.5 mg/kg/dose IV/IM q8h (monitor levels)
+        - ELSE IF patient is > 12 months old THEN
+        - Nafcillin/Oxacillin: 50 mg/kg/dose IV q4-6h
+        - Cefazolin: 50 mg/kg/dose IV q6-8h
+        - Vancomycin: 15-20 mg/kg/dose IV q6-8h (monitor levels)
+        - Gentamicin: 2-2.5 mg/kg/dose IV/IM q8h (monitor levels)
+        - ENDIF
+
+    - Duration of therapy: Typically 4-6 weeks, may be longer.
+    - Monitoring: Clinical response, inflammatory markers (ESR, CRP), blood cultures.
+
+CONTRAINDICATIONS:
+- (No specific contraindications mentioned in the provided text for the general treatment steps. Contraindications would apply to specific antibiotics based on allergies, renal function, etc., which are not detailed here but would be considered in the full osteomyelitis guidelines.)
+```

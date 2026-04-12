@@ -1,0 +1,18 @@
+{
+    "questions": [
+        "What is the couple's desired method of contraception (temporary or permanent)?",
+        "If temporary, what type of temporary method is desired (Hormonal, Non-hormonal, Intrauterine, Barrier)?",
+        "If Hormonal (Combined Oral Contraceptive Pills), what is the patient's exact age in years?",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have a current or history of thromboembolic disease, cerebrovascular disease, coronary artery disease, complicated valvular heart disease, acute liver disease, current or past breast cancer, undiagnosed vaginal bleeding, heavy smokers over 35 years of age, migraine with neurological symptoms, diabetes >20 years or with vascular disease, current gall bladder disease, or uncontrolled hypertension (BP > 160/100)? (Yes/No)",
+        "Is the patient within the first 6 months postpartum if breastfeeding OR within the first 3 weeks postpartum if not breastfeeding? (Yes/No)",
+        "If Hormonal (Injectable - DMPA or NET-EN), is the patient pregnant? (Yes/No)",
+        "If Hormonal (Injectable - DMPA or NET-EN), does the patient have current or past breast cancer, diabetes >20 years or with vascular disease, or uncontrolled hypertension (BP > 180/110)? (Yes/No)",
+        "If Hormonal (Injectable - DMPA or NET-EN), does the patient have a severe coagulation disorder or previous sex steroid induced liver adenoma? (Yes/No)",
+        "If Hormonal (Injectable - DMPA), is the patient breastfeeding during the initial 6 weeks? (Yes/No)",
+        "If Non-hormonal (Centchroman), does the patient have Polycystic ovarian disease, cervical intraepithelial neoplasia, severe allergy, recent history of liver disease, or is she in the first 6 months of lactation? (Yes/No)",
+        "If Intrauterine (any type), is the patient pregnant, postpartum <4 weeks, septic abortion, distorted uterine cavity, uterine fibroids, current or within past 3 months PID or STD, increased risk of STD, HIV positive, AIDS, pelvic tuberculosis, unexplained vaginal bleeding, trophoblastic disease, genital tract malignancy, or complicated valvular heart disease? (Yes/No)",
+        "If Female Sterilization, does the patient have a psychiatric disorder, acute febrile illness, jaundice, Hb< 8 g%, chronic systemic disease, malignancy, bleeding disorder, severe nutritional deficiency, puerperial sepsis/fever, severe pre-eclampsia/eclampsia, PROM >24 hours, severe APH/PPH, or genital tract trauma (Postpartum)? (Yes/No)",
+        "If Male Sterilization, does the patient have a psychiatric/physical illness, large varicocele, hydrocele, inguinal hernia, filariasis, cryptorchidism, previous scrotal surgery, or intra scrotal mass? (Yes/No)"
+    ]
+}

@@ -1,0 +1,65 @@
+```text
+DISEASE: Toothache
+
+ABBREVIATIONS:
+- Cap.: Capsule
+- Tab.: Tablet
+- b.d.: twice a day
+- mg: milligram
+- q.i.d.: four times a day
+- prn: as needed
+- O.D.: once a day
+
+DIAGNOSTICS:
+- Clinical examination identifying the source of pain.
+- History taking to determine cause (dental caries, periodontal issues, eruption, sinusitis, neuralgia, etc.).
+- Radiographs may be used to rule out causes and assess bone loss/root resorption, especially for impacted third molars.
+
+TREATMENT ALGORITHM:
+
+IF the cause is dental caries, periodontal pocket, abrasion, attrition & erosion, peridontitis, or third molar eruption (Impacted Tooth):
+    THEN consider pharmacological and/or surgical treatment.
+
+IF the cause is maxillary sinusitis or trigeminal neuralgia:
+    THEN consider pharmacological treatment targeting the underlying cause (e.g., antibiotics for sinusitis, specific medications for neuralgia).
+
+PHARMACOLOGICAL TREATMENT:
+
+IF choosing an antibiotic:
+    IF using amoxicillin:
+        THEN administer Capsule amoxicillin 250 mg to 500 mg three times a day for 5 days.
+    ELSE IF using ciprofloxacin:
+        THEN administer Tablet ciprofloxacin 250 mg to 500 mg two times a day for 5 days.
+
+IF choosing an analgesic/anti-inflammatory:
+    IF using diclofenac potassium:
+        THEN administer Tablet diclofenac potassium 50 mg twice a day (b.d.) for 3-5 days.
+    ELSE IF using ibuprofen:
+        THEN administer Tablet ibuprofen 400 mg three times a day for 3-5 days.
+
+SURGICAL TREATMENT:
+
+IF the cause is dental caries:
+    THEN consider excavation of caries and application of a sedative dressing (e.g., with clove oil).
+
+IF the cause is plaque or calculus:
+    THEN perform removal of plaque and calculus by scaling and application of local medicaments.
+
+IF there is an irritant (e.g., high filling, high spot):
+    THEN remove the irritant.
+
+IF the pulp is exposed:
+    THEN anesthetize the tooth and extirpate the pulp.
+
+IF the cause is an impacted third molar:
+    THEN consider removal of the impacted third molar.
+    IF radiographs are taken:
+        THEN take radiographs to rule out cause and take another radiograph after 6 weeks to assess bone loss and root resorption.
+
+PATIENT EDUCATION:
+
+- Advise on maintenance of oral hygiene.
+- Explain the importance of tooth preservation.
+- For pediatric patients, consider pit and fissure sealing.
+- Advise against biting hard objects on anterior teeth during fixation periods (if applicable).
+```

@@ -1,0 +1,49 @@
+```text
+DISEASE: Bacterial Conjunctivitis (Non-Gonococcal)
+
+ABBREVIATIONS:
+- QID: Four times a day
+- mg/kg/day: Milligrams per kilogram per day
+- H. influenzae: Haemophilus influenzae
+- S. pneumoniae: Streptococcus pneumoniae
+- S. aureus: Staphylococcus aureus
+- Moraxella catarrhalis: Moraxella catarrhalis
+- OTC: Over the counter
+
+DIAGNOSTICS:
+- Patient complains of redness, foreign body sensation, mucoid or mucopurulent discharge. Itching is less prominent.
+- Examination shows purulent discharge, conjunctival papillae, and chemosis.
+- Gram stain may be performed, especially if severe or recurrent, to evaluate for gonococcus.
+
+TREATMENT ALGORITHM:
+
+IF Patient has acute bacterial conjunctivitis (non-gonococcal) THEN
+
+    // Non-pharmacological treatment
+    THEN Advise patient to avoid touching eyes, shaking hands, sharing handkerchiefs/towels.
+    THEN Advise restricting work/school if significant exposure to others.
+    THEN Advise frequent hand washing.
+
+    // Pharmacological treatment
+    THEN
+        IF Severity is mild/moderate THEN
+            THEN Use topical antibiotic therapy (e.g., moxifloxacin 0.5% drops QID) for 5 to 7 days.
+        ELSE IF Severity is severe THEN
+            THEN Use topical antibiotic therapy (e.g., moxifloxacin 0.5% drops QID or more frequent) for 5 to 7 days.
+        ENDIF
+
+        IF Causative agent is suspected or confirmed to be _H. influenzae_ THEN
+            THEN Use oral amoxicillin/clavulanic acid (20 to 40 mg/kg/day in three divided doses) because of occasional extra ocular involvement.
+            THEN Adjust antibiotic therapy according to culture and sensitivity results.
+        ENDIF
+
+        IF Associated with dacryocystitis THEN
+            THEN Use systemic antibiotics.
+        ENDIF
+
+    // Patient Education
+    THEN Advise follow up every 2 to 3 days initially, then every 5 to 7 days until resolved.
+    THEN Advise maintaining ocular hygiene.
+
+ENDIF
+```

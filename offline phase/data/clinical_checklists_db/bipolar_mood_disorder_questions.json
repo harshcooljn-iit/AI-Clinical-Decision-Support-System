@@ -1,0 +1,13 @@
+{
+    "questions": [
+        "Is the patient currently experiencing a manic episode?",
+        "Does the patient have a history of depression?",
+        "Is the patient currently taking any anti-manic medication?",
+        "If yes, which medication are they taking (Lithium, Valproate, Antipsychotic, Other)?",
+        "If taking Lithium, what are the current plasma levels?",
+        "If taking Valproate, what are the current plasma levels?",
+        "Is the patient currently experiencing a depressive episode?",
+        "Is the patient a woman of childbearing potential?",
+        "Is prophylactic treatment indicated?"
+    ]
+}

@@ -1,0 +1,77 @@
+```text
+DISEASE: Post Streptococcal Acute Glomerulonephritis (AGN)
+
+ABBREVIATIONS:
+- AGN: Acute Glomerulonephritis
+- ASOT: Anti Streptolysin O Titre
+- Inj.: Injection
+- IV: Intravenous
+- K: Potassium
+- U: Units
+- mmol: millimoles
+- mg: milligrams
+- kg: kilograms
+- U: Units
+- tab: tablet
+
+DIAGNOSTICS:
+- Sudden onset of hematuria, oliguria, edema, and hypertension.
+- Raised urea and creatinine.
+- Positive tests for streptococcal infection.
+- Low C3 level.
+- Renal biopsy may be done in severe/prolonged cases.
+
+TREATMENT ALGORITHM:
+
+IF Patient has Post Streptococcal Acute Glomerulonephritis (AGN) THEN
+
+  // Monitoring
+  MONITOR fluid intake, output, blood pressure, urea, creatinine, and electrolytes regularly.
+  PERFORM Complete blood count, ASOT, C3, renal ultrasound at presentation.
+
+  // General Measures
+  Fluid restriction to urine output + insensible losses.
+  Potassium restriction.
+
+  // Antibiotics (if indicated)
+  IF Evidence of active streptococcal throat or skin infection THEN
+    ADMINISTER Inj. Procaine penicillin 4 lac units once daily.
+  ENDIF
+
+  // Treatment of Complications
+  IF Complications present (hyperkalemia, hypertension, fluid overload) THEN
+    // Hyperkalemia Management
+    IF Hyperkalemia present THEN
+      // Step 1: Restrict K intake
+      RESTRICT K intake.
+
+      // Step 2: Transient reversal of cardiotoxicity
+      ADMINISTER Calcium gluconate (10%) 1 ml/kg in distilled water, slow IV infusion.
+
+      // Step 3: Temporary reduction of potassium in extracellular fluid
+      ADMINISTER Nebulised salbutamol.
+      ADMINISTER Sodium Bicarbonate: 1-2 mmol/kg.
+      ADMINISTER Glucose (0.5 g/kg) + insulin (0.1 U/kg) infusion.
+
+      // Step 4: Removal of potassium from the body
+      ADMINISTER Frusemide (1-2 mg/kg).
+      ADMINISTER Potassium exchange resins (1 g/kg/day).
+      CONSIDER Dialysis.
+    ENDIF
+
+    // Hypertension Management (Not detailed in provided text, assume standard pediatric protocols)
+    //... (Add specific hypertension treatment steps here if available)...
+
+    // Fluid Overload Management (Not detailed in provided text, assume standard pediatric protocols)
+    //... (Add specific fluid overload treatment steps here if available)...
+
+    IF Conservative management of complications is insufficient THEN
+      INITIATE early dialysis.
+    ENDIF
+  ENDIF
+
+  // Patient Education
+  EXPLAIN natural course to parents (most recover within 2-4 weeks, few may develop chronic renal insufficiency).
+
+ENDIF
+```

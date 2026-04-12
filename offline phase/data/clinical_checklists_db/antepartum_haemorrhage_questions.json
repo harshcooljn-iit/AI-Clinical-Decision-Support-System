@@ -1,0 +1,14 @@
+{
+    "questions": [
+        "What is the patient's Period of Gestation (POG) in weeks?",
+        "What is the estimated acute blood loss in ml?",
+        "Is the cause suspected to be Placenta Praevia? (Yes/No)",
+        "Is the cause suspected to be Abruptio Placentae? (Yes/No)",
+        "Is the patient having active bleeding? (Yes/No)",
+        "Is the patient in labour pains? (Yes/No)",
+        "Is the foetus alive? (Yes/No)",
+        "What is the foetal presentation (e.g., vertex, breech)?",
+        "Is the cervix favourable (e.g., Bishop score)? (Yes/No)",
+        "Is the patient's condition stable after initial resuscitation? (Yes/No)"
+    ]
+}

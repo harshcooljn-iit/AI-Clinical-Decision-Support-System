@@ -1,0 +1,20 @@
+```text
+DISEASE: Personality Disorder
+
+ABBREVIATIONS:
+- None found in the provided text.
+
+DIAGNOSTICS:
+- Pervasive and enduring pattern of behavior.
+- Begins in early adulthood.
+- Deviates from person's sociocultural background.
+- Classified into Clusters A, B, and C.
+
+TREATMENT ALGORITHM:
+IF Patient has a Personality Disorder THEN
+    Consider Psychotherapy.
+    Consider Pharmacological treatment for symptomatic management.
+    NOTE: Treatment benefits are restricted.
+ENDIF
+
+```

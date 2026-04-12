@@ -1,0 +1,52 @@
+```text
+DISEASE: Chalazion
+
+ABBREVIATIONS:
+- BD: Twice daily
+- mg: Milligram
+- mL: Milliliter
+
+DIAGNOSTICS:
+- Clinical examination revealing a gradually enlarging, painless nodule on the eyelid.
+- May involve the meibomian gland (chalazion) or gland of Zeis (marginal chalazion).
+- Can be associated with meibomian gland disease or rosacea.
+
+TREATMENT ALGORITHM:
+
+IF patient has a chalazion:
+    IF lesion is small and early stage:
+        THEN apply dry hot fomentation frequently.
+        IF lesion resolves spontaneously:
+            THEN no further treatment needed.
+        ELSE IF lesion persists:
+            THEN proceed to pharmacological or surgical treatment.
+    ENDIF
+
+    IF lesion is persistent or large:
+        IF lesion is close to the lacrimal punctum:
+            THEN consider steroid injection.
+            IF steroid injection is chosen:
+                THEN inject 0.2 to 2 ml of 5 mg/mL triamcinolone diacetate aqueous suspension diluted with lidocaine (or equivalent) through the conjunctiva into the tissue around the lesion using a 30-gauge needle.
+                IF lesion does not respond after one injection:
+                    THEN consider a second injection 2 weeks later.
+            ENDIF
+        ELSE
+            THEN consider other treatments (e.g., oral antibiotics, incision and curettage).
+        ENDIF
+
+        IF patient has recurrent chalazia, particularly if associated with acne rosacea:
+            THEN consider prophylactic treatment with doxycycline.
+            IF doxycycline is chosen:
+                THEN administer Cap. doxycycline 100 mg BD for 7 days.
+            ENDIF
+
+        IF chalazion is large, present for more than 3-4 months, or cosmetically unacceptable:
+            THEN consider incision and curettage.
+
+PATIENT EDUCATION:
+- Inform patient that recurrence is possible.
+- Advise on common causes of recurrence: uncorrected refractive error, blepharitis, diabetes.
+
+CONTRAINDICATIONS:
+- (None specified in the text for the listed treatments, but standard contraindications for steroids and antibiotics apply based on patient history/allergies).
+```

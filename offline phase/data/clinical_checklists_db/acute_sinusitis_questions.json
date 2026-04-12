@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "What is the patient's weight in kg?",
+        "Is the sinusitis of dental origin? (Yes/No)",
+        "Does the patient have nasal obstruction or rhinorrhoea? (Yes/No)"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Is MRSA suspected or confirmed? (Yes/No)",
+        "What is the result of the joint aspiration gram stain?",
+        "What is the result of the joint aspiration culture and sensitivity (C&S)?"
+    ]
+}

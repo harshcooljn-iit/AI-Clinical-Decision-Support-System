@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Does the patient smoke? (Yes/No)",
+        "Are allergens/irritants identified? (Yes/No)",
+        "Are expiratory flows normal? (Yes/No)",
+        "Are symptoms controlled? (Yes/No)",
+        "How many times per week is rescue SABA needed?",
+        "What is the asthma severity (mild intermittent, mild persistent, moderate persistent, severe persistent)?",
+        "Is the patient using an inhaled corticosteroid MDI? (Yes/No)"
+    ]
+}

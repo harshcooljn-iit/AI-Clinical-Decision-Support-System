@@ -1,0 +1,105 @@
+```text
+DISEASE: Chronic Kidney Disease
+
+ABBREVIATIONS:
+- BP: Blood Pressure
+- CHF: Congestive Heart Failure
+- Cr: Creatinine
+- GFR: Glomerular Filtration Rate
+- IHD: Ischemic Heart Disease
+- ADPKD: Autosomal Dominant Polycystic Kidney Disease
+- EPO: Erythropoietin
+- mg: Milligram
+- mcg: Microgram
+- kcal: Kilocalorie
+- SC: Subcutaneous
+- mmol: Millimole
+- ml: Milliliter
+- tab: Tablet
+- inj: Injection
+- wt: Weight
+- kg: Kilogram
+- dl: Deciliter
+- m2: Square meter
+- yr: Year
+- mmHg: Millimeters of mercury
+
+DIAGNOSTICS:
+- Kidney damage (structural or functional abnormality) for > 3 months.
+- OR Decrease in GFR to < 6.0 ml/min for > 3 months.
+- GFR calculation: (140 - age) * (Wt. in kg) * (0.85 if female) / (72 * Cr in mg/dl)
+- Staging based on GFR levels (Table 1).
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    - Measure BP.
+    - Urine analysis for proteinuria, hematuria, and sediments.
+    - Estimate serum creatinine (screen at least yearly).
+    - Assess risk factors (obesity, smoking, diabetes, hypertension, family history).
+
+2.  **Diagnosis Confirmation:**
+    - IF Kidney damage is present for > 3 months (structural or functional abnormality) OR GFR < 6.0 ml/min for > 3 months, THEN diagnosis of Chronic Kidney Disease is established.
+
+3.  **Staging:**
+    - IF GFR > 90 ml/1.73m2/min, THEN Stage I.
+    - IF GFR is 60 – 89 ml/1.73m2/min, THEN Stage II.
+    - IF GFR is 30 – 59 ml/1.73m2/min, THEN Stage III.
+    - IF GFR is 15 – 29 ml/1.73m2/min, THEN Stage IV.
+    - IF GFR < 15 ml/1.73m2/min, THEN Stage V (End-stage renal disease).
+
+4.  **Non-Pharmacological Treatment:**
+    - Decrease protein intake to 0.6 g/kg/day.
+    - Moderate sodium restriction to 60 mmol/day.
+    - Phosphate restriction to 1000 mg/day.
+    - IF obese, aim for BMI < 25.
+    - Smoking cessation.
+
+5.  **Pharmacological Treatment (Step-by-Step):**
+
+    **Step – 1: Identify Etiology Clues:**
+    - Check for history of hypertension or diabetes mellitus.
+    - Check for symptoms related to lower urinary tract or recent infections.
+    - Check for features of connective tissue disease.
+    - Check past medical records for proteinuria.
+    - Check for pregnancy-related problems or past renal evaluation.
+    - Check family history of hereditary kidney disease (e.g., ADPKD, Alport syndrome).
+
+    **Step – 2: Identify Reversible Factors:**
+    - Check for obstructive nephropathy, urinary tract infections, extrarenal infections.
+    - Check for nephrotoxic drugs, hypovolemia.
+    - Check for congestive cardiac failure, pericardial tamponade.
+    - Check for hypokalemia or hyperuricemia.
+
+    **Step – 3: Blood Pressure Management:**
+    - IF proteinuria > 1 g/day, THEN BP target is < 125/75 mmHg.
+    - ELSE IF proteinuria < 1 g/day, THEN BP target is < 135/85 mmHg.
+    - Choose one of the following antihypertensives:
+        - Tab. frusemide 40-160 mg/day.
+        - OR Tab. amlodipine 5-20 mg/day.
+        - IF diabetic nephropathy, THEN Tab. enalapril 1.25-5 mg/day.
+
+    **Step – 4: Manage Comorbidities:**
+    - IF hyperlipidemia, THEN Tab. atorvastatin 10-20 mg/day.
+    - IF anemia, THEN Inj. EPO 80-120 unit/kg/week SC.
+
+    **Step – 5: Prevent and Treat Complications:**
+    - Malnutrition:
+        - Dietary protein intake of 0.6 g/kg body weight/day.
+        - Dietary calorie intake of 30-35 kcal/kg/day.
+    - Cardiovascular disease:
+        - At least yearly screening.
+    - Renal osteodystrophy:
+        - Target calcium: 8.8 to 9.7 mg/dl.
+        - Target phosphorous: 3.5 to 5.5 mg/dl.
+        - Target Calcium-Phosphorous product: < 55 mg2/dl.
+        - Treatment: Phosphate restricted diet, Tab. calcium carbonate 1 g/day, Tab. vitamin D3 0.25-2 mcg/day.
+
+    **Step – 6: Prepare for Renal Replacement Therapy:**
+    - Early referral to Nephrologists.
+    - Vaccination: Hepatitis B vaccine 40 micrograms, 3 doses (0, 1st, 2nd month), followed by booster at 6th month.
+    - Early creation of arterio-venous fistula IF GFR < 25 ml/min OR serum creatinine > 4.0 mg/dl.
+
+CONTRAINDICATIONS:
+- (None specified in the text for the listed drugs, but general contraindications apply based on drug specifics and patient comorbidities).
+```

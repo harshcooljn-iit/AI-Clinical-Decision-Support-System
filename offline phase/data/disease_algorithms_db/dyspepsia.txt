@@ -1,0 +1,63 @@
+```text
+DISEASE: Dyspepsia
+
+ABBREVIATIONS:
+- Cap.: Capsule
+- Tab.: Tablet
+- H.pylori: Helicobacter pylori
+- NSAIDs: Nonsteroidal anti-inflammatory drugs
+- PPI: Proton Pump Inhibitor
+
+DIAGNOSTICS:
+- Non-specific group of upper gastrointestinal symptoms (e.g., epigastric burning pain, early satiety, postprandial fullness, hiccups, halitosis).
+
+TREATMENT ALGORITHM:
+
+IF patient has dyspepsia symptoms:
+    // Initial Pharmacological Treatment
+    IF patient requires initial treatment:
+        THEN administer EITHER:
+            IF patient prefers omeprazole:
+                THEN administer Cap. omeprazole 20 mg once a day 45 minutes before breakfast for 4 to 6 weeks.
+            ELSE IF patient prefers ranitidine:
+                THEN administer Tab. ranitidine 150 mg twice a day 45 minutes before breakfast and dinner for 4 to 6 weeks.
+            ENDIF
+        ENDIF
+
+    // Symptomatic Relief (Antacids)
+    IF patient has symptoms despite initial medication:
+        THEN administer Antacids 2 to 3 teaspoon or 2 tabs (chewable) when symptomatic.
+
+    // Treatment for Dysmotility Symptoms
+    IF patient has dysmotility symptoms:
+        THEN administer Tab. domperidone 10 mg three times a day 30 minutes before breakfast, lunch, and dinner.
+
+    // Duration of Treatment
+    IF treatment duration is needed:
+        THEN treatment duration can be:
+            - Short courses (4 to 6 weeks), repeated if necessary.
+            - Long-term treatment (up to 1 year).
+            - Intermittent therapy or biweekly PPI for long-term treatment.
+        ENDIF
+
+    // Anti-H.pylori Treatment Indication
+    IF patient is on long-term NSAIDs OR has Duodenal/gastric ulcers (complicated, e.g., bleeding):
+        THEN administer Anti-_H.pylori_ treatment:
+            - Combination therapy:
+                - Cap. omeprazole 20 mg twice a day
+                - Cap. amoxicillin 500 mg thrice a day
+                - Tab. metronidazole 400 mg thrice a day
+            - Followed by: Cap. omeprazole 20 mg once a day for three weeks.
+            - Duration: Anti-_H.pylori_ regimen should be taken for at least 14 days.
+        ENDIF
+
+// Patient Education
+    // Lifestyle Modifications
+    IF patient requires education:
+        THEN advise:
+            - Avoid excess tea, coffee, fried food, alcohol, and smoking.
+            - Avoid unnecessary NSAIDs; prefer paracetamol, especially with ulcer-like symptoms or documented ulcers.
+            - Follow meals at regular intervals (e.g., 4 hourly, including snacks).
+            - Daily exercise to maintain optimum weight.
+        ENDIF
+```

@@ -1,0 +1,55 @@
+```text
+DISEASE: Lymphogranuloma Venereum
+
+ABBREVIATIONS:
+- LGV: Lymphogranuloma Venereum
+- NACO: National AIDS Control Organisation (Implied from context, not explicitly stated in text but common source for treatment kits in India)
+
+DIAGNOSTICS:
+- Clinical diagnosis based on symptoms and signs.
+
+TREATMENT ALGORITHM:
+IF Disease is Lymphogranuloma Venereum (LGV) THEN
+    IF Treatment is indicated THEN
+        IF Using NACO Kit 4 THEN
+            // Assuming NACO Kit 4 contains Azithromycin and Doxycycline based on common LGV treatment regimens.
+            // The specific dosages within Kit 4 are not provided in the text.
+            // The following is a placeholder based on typical LGV treatment.
+            // Actual Kit 4 contents and dosages should be substituted here.
+
+            // Example placeholder based on common regimens:
+            IF Patient is an adult THEN
+                // Option 1: Azithromycin
+                IF Azithromycin is chosen THEN
+                    IF Patient weight is less than 50 kg THEN
+                        Administer Azithromycin 1000 mg once daily for 3 days.
+                    ELSE IF Patient weight is 50 kg or more THEN
+                        Administer Azithromycin 1000 mg once daily for 3 days.
+                    ENDIF
+                // Option 2: Doxycycline
+                ELSE IF Doxycycline is chosen THEN
+                    IF Patient weight is less than 50 kg THEN
+                        Administer Doxycycline 100 mg twice daily for 14 days.
+                    ELSE IF Patient weight is 50 kg or more THEN
+                        Administer Doxycycline 100 mg twice daily for 14 days.
+                    ENDIF
+                ENDIF
+            ELSE
+                // Treatment for children is not specified in the provided text.
+                // Placeholder: Consult pediatric guidelines.
+                DISPLAY "Consult pediatric guidelines for appropriate treatment."
+            ENDIF
+        ELSE
+            DISPLAY "Treatment regimen not specified. Consult standard guidelines."
+        ENDIF
+    ELSE
+        DISPLAY "Treatment not indicated."
+    ENDIF
+ELSE
+    DISPLAY "Disease is not Lymphogranuloma Venereum."
+ENDIF
+
+// Note: The provided text only mentions "Kit 4 by NACO" without specifying the exact contents or dosages.
+// The algorithm above provides a placeholder structure based on common LGV treatments (Azithromycin or Doxycycline).
+// Specific dosages for NACO Kit 4 would need to be inserted based on the actual kit composition.
+```

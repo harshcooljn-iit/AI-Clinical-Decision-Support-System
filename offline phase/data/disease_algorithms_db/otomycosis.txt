@@ -1,0 +1,37 @@
+```text
+DISEASE: Otomycosis
+
+ABBREVIATIONS:
+- KOH: Potassium Hydroxide
+- Tab: Tablet
+- mg: Milligram
+- kg: Kilogram
+
+DIAGNOSTICS:
+- Direct otoscopic examination
+- Microscopic examination in 10% KOH
+- Culture in Sabouraud's Dextrose agar
+
+TREATMENT ALGORITHM:
+
+IF Patient has Otomycosis THEN
+    Perform ear toilet (suction/dry mopping/instrumentation).
+    Administer topical clotrimazole:
+        IF Formulation is powder OR liquid THEN
+            IF Concentration is 1% THEN
+                Apply 3-4 times a day.
+                Continue for at least 1 week after clinical resolution.
+            ENDIF
+        ENDIF
+    Administer Tab. ibuprofen:
+        IF Patient is adult THEN
+            Administer 400 mg as needed.
+        ELSEIF Patient is child THEN
+            Administer 20 mg/kg/day in 3 divided doses.
+        ENDIF
+    Provide patient education: Keep ear dry; prevent water entry.
+ENDIF
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for Clotrimazole or Ibuprofen in this context, but standard contraindications apply based on drug monographs).
+```

@@ -1,0 +1,51 @@
+```text
+DISEASE: Allergic Conjunctivitis
+
+ABBREVIATIONS:
+- OD: Ocular Drops (or Ounce of Day, but context suggests Ocular Drops)
+- BD: Bis in Die (Twice a day)
+- TDS: Ter in Die (Three times a day)
+- QID: Quarter in Die (Four times a day)
+- mg: Milligram
+
+DIAGNOSTICS:
+- Patient presents with marked itching and watery discharge.
+- History of allergy is usually present.
+- Examination shows conjunctival papillae and edema over eyelids.
+
+TREATMENT ALGORITHM:
+
+IF Non-pharmacological treatment is sufficient THEN
+    - Apply cool compresses several times per day.
+    - Avoid offending agents.
+ELSE
+    IF Pharmacological treatment is needed THEN
+        IF Severity is mild to moderate THEN
+            - Administer topical anti-inflammatory and anti-histaminic drops.
+            - Options include:
+                - Olopatadine 0.1% OD/BD
+                - Nedocromil 2% TDS
+                - Ketotifen 0.025% BD
+                - Ketorolac 0.5% QID
+        ELSE IF Severity is severe THEN
+            - Administer topical anti-inflammatory and anti-histaminic drops (as above).
+            - CONSIDER adding mild topical steroid for 1 to 2 weeks.
+            - Options for topical steroid include:
+                - Loteprednol 0.2% QID
+                - Fluorometholone 0.1% QID
+            - Taper steroids gradually as patient responds.
+            - Administer preservative-free artificial tears four to eight times per day.
+            - CONSIDER oral antihistamine.
+            - Options for oral antihistamine include:
+                - Diphenhydramine 25 mg TDS/QID
+                - Cetirizine 10 mg OD
+                - Levocetirizine 10 mg OD
+                - Montelukast 10 mg OD
+                - Loratadine 10 mg OD
+        ENDIF
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for the listed drugs in this context, but standard contraindications for steroids and antihistamines apply based on patient history and other medications).
+```

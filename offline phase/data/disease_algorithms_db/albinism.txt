@@ -1,0 +1,28 @@
+```text
+DISEASE: Albinism
+
+ABBREVIATIONS:
+- None
+
+DIAGNOSTICS:
+- Clinical diagnosis based on generalized and diffuse depigmentation of skin and white hair from birth.
+
+TREATMENT ALGORITHM:
+IF Patient has Albinism THEN
+    IF Patient requires treatment THEN
+        THEN
+            IF Reassurance is needed THEN
+                THEN Provide reassurance.
+            ENDIF
+            IF Patient education is needed THEN
+                THEN Provide patient education.
+            ENDIF
+            IF Protection from sunlight is needed THEN
+                THEN Advise protection from sunlight.
+            ENDIF
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+- None specified in the provided text.
+```

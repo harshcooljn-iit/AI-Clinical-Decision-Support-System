@@ -1,0 +1,59 @@
+```text
+DISEASE: Dental Abscess
+
+ABBREVIATIONS:
+- b.d.: twice a day
+- DM: Diabetes Mellitus
+- HIV: Human Immunodeficiency Virus
+
+DIAGNOSTICS:
+- Clinical presentation: Pain, swelling, tooth tenderness/mobility, localized/diffuse swelling, possible caries/trauma.
+- Radiograph: May show vertical/horizontal bone loss (Lateral Periodontal Abscess).
+- Vitality test: Usually positive (Lateral Periodontal Abscess) if no pulpal problem.
+
+TREATMENT ALGORITHM:
+
+IF Patient presents with symptoms suggestive of Dental Abscess (pain, swelling) THEN
+    IF Type is Periapical Abscess THEN
+        Pharmacological Treatment:
+            IF Patient can take Amoxicillin THEN
+                Administer Cap. amoxycillin 250-500 mg three times a day for 5 days.
+            ELSE IF Patient can take Ciprofloxacin THEN
+                Administer Tab. ciprofloxacin 250-500 mg two times a day for 5 days.
+            ENDIF
+            Administer Tab. diclofenac potassium 50 mg twice a day OR Tab. ibuprofen 400 mg three times a day for 3-5 days.
+        Surgical Treatment:
+            Drainage of pus by entering the pulp chamber (pulpectomy) & relieve occlusion.
+            IF Fluctuant swelling of soft tissue is present THEN
+                Drain by incision.
+            ENDIF
+            Extraction or root canal treatment should be done when acute symptoms subside.
+            Closely observe for spread of infection (e.g., Ludwig's angina, osteomyelitis).
+        Patient Education:
+            Maintain oral hygiene.
+            Control of Diabetes Mellitus, if present.
+            Advise against hot fomentation over the skin.
+        Refer to a dentist.
+    ELSE IF Type is Lateral Periodontal Abscess THEN
+        Pharmacological Treatment:
+            Administer Cap. amoxycillin 250-500 mg three times a day for 5 days.
+            Administer Tab. metronidazole 400 mg three times a day for 5 days.
+            Administer Tab. diclofenac potassium 50 mg twice a day OR Tab. ibuprofen 400 mg three times a day for 3-5 days.
+        Surgical Treatment:
+            Debridement of pocket and drainage of pus.
+            Irrigation with chlorhexidine.
+            Closely observe for spread of infection (e.g., Ludwig's angina).
+        Patient Education:
+            Maintain oral hygiene.
+            Advise against hot fomentation over the skin.
+            Control of Diabetes Mellitus if present.
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+- Amoxicillin: IF Patient has allergy to penicillin THEN do not administer Amoxicillin.
+- Ciprofloxacin: IF Patient has allergy to fluoroquinolones THEN do not administer Ciprofloxacin.
+- Metronidazole: IF Patient has allergy to metronidazole THEN do not administer Metronidazole.
+- Diclofenac potassium: IF Patient has allergy to NSAIDs, history of peptic ulcer disease, severe heart failure, renal impairment THEN do not administer Diclofenac potassium.
+- Ibuprofen: IF Patient has allergy to NSAIDs, history of peptic ulcer disease, severe heart failure, renal impairment THEN do not administer Ibuprofen.
+```

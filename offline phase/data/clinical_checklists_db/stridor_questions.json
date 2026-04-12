@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "Does the patient require pharmacological intervention? (Yes/No)",
+        "Does hydrocortisone need to be repeated? (Yes/No)",
+        "Does the patient require further intervention (e.g., severe distress)? (Yes/No)"
+    ]
+}

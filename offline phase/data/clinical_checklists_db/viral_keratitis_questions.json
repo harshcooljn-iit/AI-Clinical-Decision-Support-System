@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "Is pharmacological treatment indicated? (Yes/No)",
+        "Is topical antiviral treatment indicated? (Yes/No)",
+        "Which topical antiviral drug is prescribed? (Trifluridine, Acyclovir, Idoxuridine, Vidarabine)",
+        "Is oral acyclovir indicated? (Yes/No)",
+        "Is the patient immunocompromised or atopic? (Yes/No)",
+        "Are topical corticosteroids used? (Yes/No)",
+        "Is epithelial debridement performed? (Yes/No)",
+        "Is surgical management indicated? (Yes/No)"
+    ]
+}

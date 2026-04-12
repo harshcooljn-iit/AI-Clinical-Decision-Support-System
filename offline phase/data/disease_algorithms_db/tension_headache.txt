@@ -1,0 +1,39 @@
+```text
+1. DISEASE: Tension Headache (TTH)
+
+2. ABBREVIATIONS:
+    - TTH: Tension-Type Headache
+    - mg: milligrams
+    - NSAIDs: Nonsteroidal Anti-inflammatory Drugs
+
+3. DIAGNOSTICS:
+    - Based on clinical presentation: Episodic attacks lasting hours to days, described as pressure or tightness (band-like).
+
+4. TREATMENT ALGORITHM:
+
+    IF Patient has Episodic Tension Headache:
+        THEN Consider simple analgesics:
+            IF Acetaminophen is chosen:
+                THEN Administer Acetaminophen (dosage not specified in text).
+            ELSE IF Aspirin is chosen:
+                THEN Administer Aspirin (dosage not specified in text).
+            ELSE IF NSAIDs are chosen:
+                THEN Administer NSAIDs (dosage not specified in text).
+            ENDIF
+        THEN Consider behavioral approaches:
+            IF Relaxation techniques are chosen:
+                THEN Implement relaxation techniques.
+            ENDIF
+    ELSE IF Patient has Chronic Tension Headache:
+        THEN Consider Tab. amitriptyline:
+            THEN Administer amitriptyline 10–75 mg at night time.
+    ENDIF
+
+5. TABULAR DOSAGES: None found in the provided text.
+
+6. CONTRAINDICATIONS:
+    - Acetaminophen: IF patient has liver disease or allergy, THEN do not administer.
+    - Aspirin: IF patient has allergy, bleeding disorder, or is a child/teenager (risk of Reye's syndrome), THEN do not administer.
+    - NSAIDs: IF patient has allergy, kidney disease, stomach ulcers, or cardiovascular risk factors, THEN use with caution or do not administer.
+    - Amitriptyline: IF patient has heart problems, glaucoma, or difficulty urinating, THEN use with caution or do not administer.
+```

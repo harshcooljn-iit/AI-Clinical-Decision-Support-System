@@ -1,0 +1,83 @@
+```text
+DISEASE: Herpes Genitalis
+
+ABBREVIATIONS:
+- HSV: Herpes Simplex Virus
+- NACO: National AIDS Control Organisation (Implied from "Kit 5 by NACO")
+- IgM: Immunoglobulin M
+
+DIAGNOSTICS:
+- Clinical presentation (grouped vesicles followed by erosive lesions, burning, pain).
+- Tzank smear.
+- Serological testing (HSV IgM antibody).
+
+TREATMENT ALGORITHM:
+- Treatment is based on Kit 5 by NACO. (Specific details of Kit 5 are not provided in the text, so the algorithm cannot be fully implemented without that information. Assuming Kit 5 refers to a standard treatment regimen, the following is a placeholder structure).
+
+IF Patient has Herpes Genitalis THEN
+    // Assuming Kit 5 involves specific drugs and dosages.
+    // Placeholder for Kit 5 details.
+    // Example:
+    IF Patient is diagnosed with Primary Genital Herpes THEN
+        // Treatment for primary episode.
+        // Example: Acyclovir 400mg TID for 7-10 days.
+        // (Specific Kit 5 details would replace this).
+    ELSE IF Patient is diagnosed with Recurrent Genital Herpes THEN
+        // Treatment for recurrent episode.
+        // Example: Acyclovir 400mg TID for 5 days.
+        // (Specific Kit 5 details would replace this).
+    ENDIF
+ENDIF
+
+// Note: The provided text lacks specific dosage information for Kit 5.
+// If Kit 5 included a table like the one below (hypothetical example),
+// the algorithm would be structured as follows:
+
+/*
+Hypothetical Example Table (Not in the provided text, but demonstrating the required format):
+
+| Age Group | Drug        | Day 1 Dosage | Day 2 Dosage | Day 3+ Dosage |
+|-----------|-------------|--------------|--------------|---------------|
+| < 2 years | Acyclovir   | 20 mg/kg/day | 20 mg/kg/day | 20 mg/kg/day  |
+| 2-12 years| Acyclovir   | 20 mg/kg/day | 20 mg/kg/day | 20 mg/kg/day  |
+| > 12 years| Acyclovir   | 400 mg TID   | 400 mg TID   | 400 mg TID    |
+| All Ages | Valacyclovir| 10 mg/kg BID | 10 mg/kg BID | 10 mg/kg BID  |
+*/
+
+/*
+IF Patient Age is less than 2 years THEN
+    IF Drug is Acyclovir THEN
+        Day 1 Dosage: 20 mg/kg/day
+        Day 2 Dosage: 20 mg/kg/day
+        Day 3+ Dosage: 20 mg/kg/day
+    ELSE IF Drug is Valacyclovir THEN
+        Day 1 Dosage: 10 mg/kg BID
+        Day 2 Dosage: 10 mg/kg BID
+        Day 3+ Dosage: 10 mg/kg BID
+    ENDIF
+ELSE IF Patient Age is between 2 and 12 years (inclusive) THEN
+    IF Drug is Acyclovir THEN
+        Day 1 Dosage: 20 mg/kg/day
+        Day 2 Dosage: 20 mg/kg/day
+        Day 3+ Dosage: 20 mg/kg/day
+    ELSE IF Drug is Valacyclovir THEN
+        Day 1 Dosage: 10 mg/kg BID
+        Day 2 Dosage: 10 mg/kg BID
+        Day 3+ Dosage: 10 mg/kg BID
+    ENDIF
+ELSE IF Patient Age is greater than 12 years THEN
+    IF Drug is Acyclovir THEN
+        Day 1 Dosage: 400 mg TID
+        Day 2 Dosage: 400 mg TID
+        Day 3+ Dosage: 400 mg TID
+    ELSE IF Drug is Valacyclovir THEN
+        Day 1 Dosage: 10 mg/kg BID
+        Day 2 Dosage: 10 mg/kg BID
+        Day 3+ Dosage: 10 mg/kg BID
+    ENDIF
+ENDIF
+*/
+
+CONTRAINDICATIONS:
+- (No specific contraindications mentioned in the provided text for the drugs typically used for Herpes Genitalis like Acyclovir or Valacyclovir. General contraindications like hypersensitivity would apply but are not specified here).
+```

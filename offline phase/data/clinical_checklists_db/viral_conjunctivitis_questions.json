@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "What is the severity of the conjunctivitis (mild/moderate/severe)?",
+        "Is the causative agent suspected or confirmed to be Haemophilus influenzae? (Yes/No)",
+        "Is the conjunctivitis associated with dacryocystitis? (Yes/No)"
+    ]
+}

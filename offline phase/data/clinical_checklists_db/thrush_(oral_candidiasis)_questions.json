@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Is the patient suitable for topical treatment? (Yes/No)",
+        "Does the patient have resistant, chronic, or recurrent thrush? (Yes/No)",
+        "Does the patient have no obvious predisposing factor/source of infection? (Yes/No)",
+        "Is the patient pregnant? (Yes/No)"
+    ]
+}

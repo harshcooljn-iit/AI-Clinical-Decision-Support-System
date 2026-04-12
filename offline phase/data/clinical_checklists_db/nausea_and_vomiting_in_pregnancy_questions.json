@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "What is the severity of the nausea and vomiting? (Mild/Moderate/Hyperemesis Gravidarum)",
+        "Is the patient pregnant? (Yes/No)"
+    ]
+}

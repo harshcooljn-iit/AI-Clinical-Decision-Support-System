@@ -1,0 +1,18 @@
+{
+    "questions": [
+        "Is the patient experiencing an acute Cluster Headache attack? (Yes/No)",
+        "Is the patient willing and able to use oxygen? (Yes/No)",
+        "Does the patient require rapid relief? (Yes/No)",
+        "Does the patient prefer or require nasal spray administration? (Yes/No)",
+        "Does the patient have Episodic Cluster Headache and require short-term prevention? (Yes/No)",
+        "Does the patient have Episodic Cluster Headache or Prolonged Chronic Cluster Headache and require long-term prevention? (Yes/No)",
+        "Does the patient have ischemic heart disease? (Yes/No)",
+        "Does the patient have uncontrolled hypertension? (Yes/No)",
+        "Does the patient have a stroke? (Yes/No)",
+        "Does the patient have peripheral vascular disease? (Yes/No)",
+        "Does the patient have renal/hepatic impairment? (Yes/No)",
+        "Does the patient have untreated infections? (Yes/No)",
+        "Does the patient have peptic ulcer disease? (Yes/No)",
+        "Does the patient have significant cardiovascular disease? (Yes/No)"
+    ]
+}

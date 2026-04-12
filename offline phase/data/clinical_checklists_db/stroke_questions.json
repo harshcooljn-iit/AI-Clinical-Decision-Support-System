@@ -1,0 +1,22 @@
+{
+    "questions": [
+        "What is the patient's systolic blood pressure (mmHg)?",
+        "What is the patient's diastolic blood pressure (mmHg)?",
+        "Does the patient have a fever? (Yes/No)",
+        "What is the patient's blood glucose level (mg/dL)?",
+        "Does the patient have signs of cerebral edema causing herniation? (Yes/No)",
+        "Does the patient have a platelet count < 50,000/\u00b5l? (Yes/No)",
+        "Does the patient have a cerebellar hemorrhage OR depressed mental status with hydrocephalus? (Yes/No)",
+        "Does the patient have chronic nonvalvular AF or untreated rheumatic heart disease with AF? (Yes/No)",
+        "Does the patient meet indications for thrombolysis (rtPA)? (Yes/No)",
+        "Is the patient's platelet count < 100,000? (Yes/No)",
+        "Is the patient's hematocrit < 25%? (Yes/No)",
+        "Has the patient used heparin within 48 hours AND is PTT prolonged OR INR elevated? (Yes/No)",
+        "Are the patient's symptoms rapidly improving? (Yes/No)",
+        "Has the patient had a prior stroke or head injury within 3 months OR prior intracranial hemorrhage? (Yes/No)",
+        "Has the patient had major surgery within 14 days? (Yes/No)",
+        "Has the patient had GI bleeding within 21 days? (Yes/No)",
+        "Has the patient had a recent myocardial infarction? (Yes/No)",
+        "Is the patient in a coma or stupor? (Yes/No)"
+    ]
+}

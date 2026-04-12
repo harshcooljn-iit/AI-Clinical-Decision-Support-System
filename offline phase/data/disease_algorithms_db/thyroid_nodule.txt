@@ -1,0 +1,54 @@
+```text
+DISEASE: Thyroid Nodule
+
+ABBREVIATIONS:
+- TSH: Thyroid Stimulating Hormone
+- FNAC: Fine Needle Aspiration Cytology
+- CT: Computed Tomography
+- MRI: Magnetic Resonance Imaging
+- PET: Positron Emission Tomography
+- Grave's disease: Graves' disease
+- HT: Hashimoto's thyroiditis
+
+DIAGNOSTICS:
+- Physical examination (palpation, inspection)
+- Thyroid function tests (TFTs)
+- Autoantibody titre
+- Isotope scan
+- Ultrasonography (USG)
+- Fine Needle Aspiration Cytology (FNAC)
+- CT scan
+- MRI
+- PET scan
+- Laryngoscopy
+- Core biopsy
+
+TREATMENT ALGORITHM:
+
+IF the patient has simple goiter THEN
+    IF the cause is iodine deficiency THEN
+        TREATMENT: Iodised salt
+    ELSE IF the cause is hyperplastic goiter THEN
+        TREATMENT: Thyroxine 0.15-0.2mg daily for two months
+    ENDIF
+ENDIF
+
+IF the patient has multinodular goiter THEN
+    TREATMENT: Total or subtotal thyroidectomy.
+    IF subtotal resection is performed THEN
+        TREATMENT: Thyroxine is given to suppress TSH secretion.
+    ENDIF
+ENDIF
+
+IF surgical treatment is indicated THEN
+    IF Total thyroidectomy is performed THEN
+        PROCEDURE: Total lobectomy + isthmusectomy
+    ELSE IF Subtotal thyroidectomy is performed THEN
+        PROCEDURE: Subtotal lobectomy + isthmusectomy
+    ELSE IF Near total thyroidectomy is performed THEN
+        PROCEDURE: Total lobectomy + isthmusectomy + subtotal lobectomy
+    ELSE IF Lobectomy is performed THEN
+        PROCEDURE: Total lobectomy + isthmusectomy
+    ENDIF
+ENDIF
+```

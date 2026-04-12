@@ -1,0 +1,108 @@
+```text
+DISEASE: Preterm Labour
+
+ABBREVIATIONS:
+- IM: Intramuscular
+- IV: Intravenous
+- mcg: Micrograms
+- mg: Milligrams
+- PROM: Premature Rupture of Membranes
+- BP: Blood Pressure
+- NST: Non-Stress Test
+- IUGR: Intrauterine Growth Restriction
+- PTL: Preterm Labour
+
+DIAGNOSTICS:
+- Onset of labour pains after 20 weeks and before 37 weeks of gestation.
+- Associated with progressive dilatation and effacement of the cervix.
+- Uterine contractions of duration 30 seconds or more at intervals of 10 minutes or less.
+- Accompanied by cervical dilatation and effacement, with or without vaginal bleeding or discharge.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    *   IF Gestational age is < 37 weeks AND patient presents with signs of labour (uterine contractions, cervical change).
+    *   THEN Diagnose as Preterm Labour.
+
+2.  **Non-Pharmacological Treatment:**
+    *   Hospitalize the patient.
+    *   Implement complete bed rest.
+    *   Preferably admit to a center with a Neonatal Intensive Care Unit (NICU).
+    *   Perform laboratory investigations: haemogram, urine culture, endocervical swab for culture and sensitivity.
+
+3.  **Pharmacological Treatment (Tocolysis):**
+    *   IF Gestational age is < 35 weeks AND membranes are intact AND labour is not advanced (cervical dilatation < 4 cm) AND no contraindications for tocolysis exist.
+    *   THEN Initiate immediate tocolysis.
+
+4.  **Tocolytic Agent Options:**
+
+    *   **Option 1: Isoxsuprine HCl**
+        *   IF Mild contractions are present.
+        *   THEN Administer Inj. isoxsuprine HCl 10 mg IM every 6 hours.
+        *   ELSE IF Strong contractions are present.
+        *   THEN Administer IV infusion of isoxsuprine HCl 0.2-0.4 mcg/min in 5% dextrose.
+        *   Maximum dose: 0.8 mcg/min.
+        *   Continue infusion for at least 2 hours after contractions cease.
+        *   Followed by IM therapy for 24 hours.
+        *   CAUTION: Monitor for tachycardia, hypotension, hypokalaemia, neonatal tachycardia, hypotension, pulmonary oedema, ARDS.
+
+    *   **Option 2: Ritodrine**
+        *   Administer Inj. ritodrine infusion: 3 ampoules (150 mg) in 500 ml of 5% dextrose or ringer lactate.
+        *   Initial rate: 50-100 mcg/min (5-6 drops/min).
+        *   Increase by 50 mcg every 10 minutes until contractions cease or side effects appear.
+        *   Maximum dose: 350 mcg/min.
+        *   Continue infusion for 12 hours after contractions stop.
+        *   Followed by oral treatment: 10 mg every 2 hours for 24 hours, then 10-20 mg every 4-6 hours.
+        *   CONTRAINDICATIONS: Poorly controlled diabetes or thyroid disease, sickle cell disease.
+
+    *   **Option 3: Nifedipine**
+        *   Administer Cap. Nifedipine 30 mg loading dose.
+        *   Followed by 10-20 mg every 4-6 hours.
+        *   CAUTION: Do not administer with magnesium sulfate. Contraindicated in maternal hypotension (< 90/50 mmHg) or cardiac disease. Use with caution in renal disease. Monitor for flushing, headache, nausea, dizziness, hypotension.
+
+    *   **Option 4: Magnesium Sulfate**
+        *   Administer Inj. magnesium sulfate 4-6 g as 20% solution bolus over 30 minutes.
+        *   Followed by infusion of 4-6 g/h.
+        *   CONTRAINDICATIONS: Myasthenia gravis, cardiac decompensation. Use with caution in renal disease.
+        *   Monitor for flushing, lethargy, headache, muscle weakness, dryness of mouth, nausea, foetal distress, non-reactive NST.
+        *   Monitor pulse, BP, and cessation of uterine contractions.
+        *   IF Pulse rate > 120/min AND BP < 90/50 mmHg.
+        *   THEN Stop tocolysis.
+        *   Monitor as outlined for eclampsia.
+        *   Monitor for chorioamnionitis (fever, tachycardia with uterine tenderness).
+
+5.  **Maintenance Therapy (After Initial Tocolysis):**
+    *   IF Gestational age is between 28 and 34 weeks.
+    *   THEN Administer steroids for foetal lung maturity.
+        *   Option 1: Inj. betamethasone 12 mg IM, repeat dose 24 hours later.
+        *   Option 2: Inj. dexamethasone 6 mg IM, repeat dose 12 hours later OR 12 mg IM, repeat dose 12 hours later.
+        *   CAUTION: Contraindicated if clinical or laboratory evidence of chorioamnionitis is present.
+
+6.  **Antibiotic Prophylaxis (If PROM is present):**
+    *   IF PROM is present.
+    *   THEN Administer Cap. ampicillin 500 mg or erythromycin 500 mg four times a day for 5-7 days.
+
+7.  **Oral Maintenance Tocolysis (Optional):**
+    *   Administer Tab. isoxsuprine orally 10 mg 6 hourly OR 20 mg 12 hourly.
+    *   Maximum daily dose: 40 to 80 mg/day.
+    *   Continue until 34 weeks of pregnancy (long-term therapy is controversial).
+
+8.  **Delivery:**
+    *   IF Tocolysis is ineffective OR contraindications for tocolysis exist.
+    *   THEN Allow labour to progress.
+    *   Decide mode of delivery based on obstetric indications.
+    *   Perform careful foetal monitoring throughout labour.
+    *   IF Signs of hypoxia appear.
+    *   THEN Consider caesarean section if foetus has a good chance of survival based on neonatal care facility.
+
+9.  **Patient Education (After Discharge):**
+    *   Advise restricted physical activity.
+    *   Advise sexual abstinence until at least 34 weeks of gestation.
+    *   Explain the risk of recurrence in subsequent pregnancy.
+    *   Advise early booking and prophylactic measures in the next pregnancy.
+
+CONTRAINDICATIONS:
+- Ritodrine: Poorly controlled diabetes or thyroid disease, sickle cell disease.
+- Nifedipine: Maternal hypotension (< 90/50 mmHg), cardiac disease. Use with caution in renal disease.
+- Magnesium Sulfate: Myasthenia gravis, cardiac decompensation. Use with caution in renal disease.
+```

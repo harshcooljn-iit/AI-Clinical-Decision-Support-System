@@ -1,0 +1,170 @@
+```text
+DISEASE: Malaria
+
+ABBREVIATIONS:
+- API: Annual Parasite Incidence
+- ACT-AL: Artemisinin-based Combination Therapy - Artemether - Lumefantrine
+- ACT-SP: Artemisinin-based Combination Therapy (Artesunate+Sulfadoxine-Pyrimethamine)
+- CQ: Chloroquine
+- PQ: Primaquine
+- P. falciparum: Plasmodium falciparum
+- P. vivax: Plasmodium vivax
+- P. malariae: Plasmodium malariae
+- P. ovale: Plasmodium ovale
+- PHC: Primary Health Centre
+- RDT: Rapid Diagnostic Test
+- G6PD: Glucose-6-phosphate dehydrogenase
+
+DIAGNOSTICS:
+- Diagnosis is made by the presence of protozoa in blood smear slides (thick smear for detection, thin smear for species identification).
+- Microscopy result availability within 24 hours or not.
+- Use of monovalent or bivalent Rapid Diagnostic Tests (RDTs).
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    - IF Suspected malaria case:
+        - THEN Take blood slide for microscopic examination.
+        - Proceed to algorithm based on result availability and RDT use.
+
+2.  **Algorithm based on Microscopy Result Availability (Figure 1):**
+    - IF Microscopy result is available within 24 hours:
+        - THEN
+            - IF Result is Positive for P. vivax:
+                - THEN Treat with CQ 3 days + PQ 0.25 mg/kg body weight daily for 14 days.
+            - ELSE IF Result is Positive for P. falciparum:
+                - THEN
+                    - IF In NorthEastern states:
+                        - THEN Treat with Age-specific ACT-AL for 3 days + PQ Single dose on second day.
+                    - ELSE IF In other states:
+                        - THEN Treat with ACT-SP for 3 days + PQ Single dose on second day.
+            - ELSE IF Result is Positive for Mixed infection (P. vivax + P. falciparum):
+                - THEN
+                    - IF In NorthEastern states:
+                        - THEN Treat with Age-specific ACT-AL for 3 days + PQ 0.25 mg/kg body weight daily for 14 days.
+                    - ELSE IF In other states:
+                        - THEN Treat with ACT-SP for 3 days + PQ 0.25 mg/kg body weight daily for 14 days.
+            - ELSE IF Result is Negative:
+                - THEN Treat as per clinical diagnosis (No anti-malarial treatment unless high suspicion).
+
+3.  **Algorithm based on Microscopy Result Availability and RDT Use (Figure 2):**
+    - IF Microscopy result is NOT available within 24 hours AND monovalent RDT is used:
+        - THEN
+            - IF Where API >= 1% and Pf % > 30% in any of last 3 years:
+                - THEN Do RDT for detection of Malaria & Prepare slide.
+                    - IF RDT is Positive for P. falciparum:
+                        - THEN
+                            - IF In North Eastern states:
+                                - THEN Treat with Age-specific ACT-AL for 3 days + PQ Single dose on second day.
+                            - ELSE IF In other states:
+                                - THEN Treat with ACT-SP for 3 days + PQ Single dose on second day.
+                    - ELSE IF RDT is Negative:
+                        - THEN Wait for slide result. Give CQ 25mg/kg over 3 days, if high suspicion of malaria.
+                            - IF Slide result is Positive for P. vivax:
+                                - THEN Treat with CQ if not already given + PQ 0.25 mg/kg/day over 14 days.
+                            - IF Slide result is Positive for P. falciparum:
+                                - THEN
+                                    - IF In North Eastern states:
+                                        - THEN Treat with Age-specific ACT-AL for 3 days + PQ Single dose on second day.
+                                    - ELSE IF In other states:
+                                        - THEN Treat with ACT-SP for 3 days + PQ Single dose on second day.
+            - ELSE IF In other areas, if patient not at high risk of P. falciparum:
+                - THEN Wait for slide result. Give CQ 25mg/kg over 3 days only if high suspicion of malaria.
+                    - IF Slide result is Positive for P. vivax:
+                        - THEN Treat with CQ if not already given + PQ 0.25 mg/kg single dose for 14 days.
+                    - IF Slide result is Positive for P. falciparum:
+                        - THEN
+                            - IF In North Eastern states:
+                                - THEN Treat with Age-specific ACT-AL for 3 days + PQ Single dose on second day.
+                            - ELSE IF In other states:
+                                - THEN Treat with ACT-SP for 3 days + PQ Single dose on second day.
+
+4.  **Algorithm based on Microscopy Result Availability and RDT Use (Figure 3):**
+    - IF Microscopy result is NOT available within 24 hours AND bivalent RDT is used:
+        - THEN Do RDT & Prepare slide.
+            - IF RDT is Positive for P. vivax:
+                - THEN Treat with CQ 3 days + PQ 0.25 mg/kg body weight daily for 14 days (Discard slide).
+            - ELSE IF RDT is Positive for P. falciparum:
+                - THEN
+                    - IF In North Eastern states:
+                        - THEN Treat with Age-specific ACT-AL for 3 days + PQ Single dose on second day (Discard slide).
+                    - ELSE IF In other states:
+                        - THEN Treat with ACT-SP for 3 days + PQ Single dose on second day (Discard slide).
+            - ELSE IF RDT is Positive for Mixed Infection:
+                - THEN
+                    - IF In North Eastern states:
+                        - THEN Treat with Age-specific ACT-AL for 3 days + PQ 0.25 mg/kg body weight daily for 14 days (Discard slide).
+                    - ELSE IF In other states:
+                        - THEN Treat with ACT-SP for 3 days + PQ 0.25 mg/kg body weight daily for 14 days (Discard slide).
+            - ELSE IF RDT is Negative:
+                - THEN No anti-malarial treatment. However, if malaria suspected, send slide for microscopy.
+
+5.  **Treatment of P. vivax malaria:**
+    - Tab. chloroquine: 25 mg/kg body weight divided over three days.
+        - Day 1: 10 mg/kg
+        - Day 2: 10 mg/kg
+        - Day 3: 5 mg/kg
+    - Tab. primaquine: 0.25 mg/kg body weight daily for 14 days.
+
+6.  **Treatment of P. falciparum malaria:**
+    - ACT-SP: Tab. artesunate 4 mg/kg body weight daily for 3 days plus sulfadoxine (25 mg/kg body weight) - pyrimethamine (1.25 mg/kg body weight) on first day.
+    - Tab. primaquine: 0.75 mg/kg body weight on day 2.
+
+7.  **Treatment of mixed infections (P. vivax + P. falciparum):**
+    - All mixed infections should be treated with full course of ACT and primaquine 0.25 mg per kg body weight daily for 14 days (Table 3).
+
+8.  **Dosage schedule for treatment of mixed infection (P. vivax + P. falciparum) (Table 3):**
+    - IF Age is Less than 1 yr:
+        - THEN Day 1: AS (50 mg) 1/2 tab, SP (500 mg + 25 mg) 1/2 tab, PQ (2.5 mg) 0 tab.
+        - THEN Day 2: AS (50 mg) 1/2 tab, PQ (2.5 mg) 0 tab.
+        - THEN Day 3: AS (50 mg) 1/2 tab, PQ (2.5 mg) 0 tab.
+        - THEN Days 4-14: PQ (2.5 mg) 0 tab.
+    - IF Age is 1-4 years:
+        - THEN Day 1: AS (50 mg) 1 tab, SP (500 mg + 25 mg) 1 tab, PQ (2.5 mg) 1 tab.
+        - THEN Day 2: AS (50 mg) 1 tab, PQ (2.5 mg) 1 tab.
+        - THEN Day 3: AS (50 mg) 1 tab, PQ (2.5 mg) 1 tab.
+        - THEN Days 4-14: PQ (2.5 mg) 1 tab.
+    - IF Age is 5-8 years:
+        - THEN Day 1: AS (50 mg) 2 tabs, SP (500 mg + 25 mg) 1.5 tabs, PQ (2.5 mg) 2 tabs.
+        - THEN Day 2: AS (50 mg) 2 tabs, PQ (2.5 mg) 2 tabs.
+        - THEN Day 3: AS (50 mg) 2 tabs, PQ (2.5 mg) 2 tabs.
+        - THEN Days 4-14: PQ (2.5 mg) 2 tabs.
+    - IF Age is 9-14 years:
+        - THEN Day 1: AS (50 mg) 3 tabs, SP (500 mg + 25 mg) 2 tabs, PQ (2.5 mg) 4 tabs.
+        - THEN Day 2: AS (50 mg) 3 tabs, PQ (2.5 mg) 4 tabs.
+        - THEN Day 3: AS (50 mg) 3 tabs, PQ (2.5 mg) 4 tabs.
+        - THEN Days 4-14: PQ (2.5 mg) 4 tabs.
+    - IF Age is 15 yrs or more:
+        - THEN Day 1: AS (50 mg) 4 tabs, SP (500 mg + 25 mg) 3 tabs, PQ (2.5 mg) 6 tabs.
+        - THEN Day 2: AS (50 mg) 4 tabs, PQ (2.5 mg) 6 tabs.
+        - THEN Day 3: AS (50 mg) 4 tabs, PQ (2.5 mg) 6 tabs.
+        - THEN Days 4-14: PQ (2.5 mg) 6 tabs.
+
+9.  **Treatment of complicated or severe malaria (Table 4):**
+    - Initial parenteral treatment for at least 48 hours. Choose one:
+        - Quinine: 20 mg quinine salt/kg body weight on admission (IV infusion or divided IM injection) followed by maintenance dose of 10 mg/kg 8 hourly. Infusion rate should not exceed 5 mg/kg per hour. Loading dose of 20mg/kg should not be given, if the patient has already received quinine.
+        - Artesunate: 2.4 mg/kg IV or IM given on admission, then at 12 h and 24 h, then once a day.
+        - Artemether: 3.2 mg/kg IM given on admission then 1.6 mg/kg per day.
+        - Arteether: 150 mg daily IM for 3 days in adults only (not recommended for children).
+    - Follow-up treatment (when patient can take oral medications):
+        - Quinine: Quinine 10 mg/kg three times a day plus doxycycline 100 mg once a day or clindamycin in pregnant women and children under 8 years of age, to complete 7 days of treatment.
+        - Artesunate: Treat with ACT-SP for 3 days + PQ single dose on second day to complete 7 days of treatment.
+
+10. **Chemoprophylaxis:**
+    - Short term (up to 6 weeks): Doxycycline 100 mg once daily (adults) or 1.5 mg/kg once daily (children, contraindicated < 8 years). Start 2 days before travel, continue 4 weeks after leaving.
+    - Longer stay (> 6 weeks): Mefloquine 250 mg weekly. Start 2 weeks before, continue during, and 4 weeks after exposure.
+
+11. **Contraindications:**
+    - IF Patient is pregnant:
+        - THEN Primaquine (PQ) is contraindicated.
+        - THEN Doxycycline is contraindicated for chemoprophylaxis (in children < 8 years).
+    - IF Patient is under 1 year (Infant):
+        - THEN Primaquine (PQ) is contraindicated.
+        - THEN Doxycycline is contraindicated for chemoprophylaxis.
+    - IF Patient has G6PD deficiency:
+        - THEN Primaquine (PQ) is contraindicated.
+
+12. **General Note:**
+    - IF Patient has severe symptoms at any stage:
+        - THEN Immediately refer to a nearest PHC or other health facility with indoor patient management or a registered medical doctor.
+```

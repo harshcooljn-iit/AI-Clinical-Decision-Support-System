@@ -1,0 +1,13 @@
+{
+    "questions": [
+        "Does the patient have Cardiomyopathy? (Yes/No)",
+        "Does the patient have Hypertrophic Cardiomyopathy? (Yes/No)",
+        "Does the patient have Hypertrophic obstructive cardiomyopathy (HOCM)? (Yes/No)",
+        "Does the patient have Dilated Cardiomyopathy? (Yes/No)",
+        "Does the patient need diuretics? (Yes/No)",
+        "Does the patient need a beta blocker? (Yes/No)",
+        "Does the patient need an ACE inhibitor? (Yes/No)",
+        "Does the patient need an Angiotensin II antagonist? (Yes/No)",
+        "Does the patient need a calcium antagonist? (Yes/No)"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "Is the patient on long term NSAIDs? (Yes/No)",
+        "Does the patient have bleeding peptic ulcer? (Yes/No)",
+        "Is eradicating H.pylori indicated? (Yes/No)",
+        "Is the preferred regimen (Table 1) being used? (Yes/No)",
+        "What drug is being used? (Bismuth subsalicylate, Tetracycline, Metronidazole (first regimen), Bismuth citrate, Amoxicillin (first regimen), Metronidazole (second regimen), Omeprazole, Amoxicillin (second regimen), Clarithromycin)",
+        "Is it a Non-H.pylori peptic ulcer? (Yes/No)"
+    ]
+}

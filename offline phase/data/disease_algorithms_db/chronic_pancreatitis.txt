@@ -1,0 +1,74 @@
+```text
+DISEASE: Chronic Pancreatitis
+
+ABBREVIATIONS:
+- S.: Serum
+- USG: Ultrasonography
+- MRCP: Magnetic Resonance Cholangiopancreatography
+- ERCP: Endoscopic Retrograde Cholangiopancreatography
+- Inj.: Injection
+- IM: Intramuscular
+- IV: Intravenous
+- LPJ: Longitudinal Pancreatico-jejunostomy
+- DPPHR: Duodenum Preserving Pancreatic Head Resection
+
+DIAGNOSTICS:
+- History of alcoholism, previous acute pancreatitis attacks.
+- Symptoms: Dull epigastric pain, weight loss, malnutrition, pancreatic diabetes.
+- Signs: Cachexia, malnutrition.
+- Investigations: X-ray abdomen (may show calcification), USG-Abdomen (atrophic pancreas, calcification, ductal dilatation), MRCP (ductal anatomy), ERCP (periampullary obstruction). S. amylase and S. Lipase usually not helpful.
+
+TREATMENT ALGORITHM:
+
+// Non-pharmacological treatment
+IF (Patient has Chronic Pancreatitis) THEN
+    // Lifestyle modifications
+    Advise avoidance of alcohol.
+    Advise low fat diet.
+    Advise low protein diet.
+ENDIF
+
+// Pharmacological treatment
+IF (Patient has Chronic Pancreatitis) THEN
+    // Enzyme replacement
+    Administer Enteric coated pancreatic enzymes for pancreatic function replacement.
+
+    // Pain management
+    IF (Patient has pain) THEN
+        // Initial analgesia
+        Administer Inj. diclofenac sodium 75 mg IM 8 hourly.
+
+        // Escalation if needed
+        IF (Pain persists or worsens) THEN
+            Administer Inj. tramadol 50 mg. // Route not specified, assume IM or IV based on context.
+        ENDIF
+    ENDIF
+
+    // Acid suppression
+    Administer Inj. pantoprazole 40 mg IV 12 hourly.
+ENDIF
+
+// Surgical treatment
+IF (Patient has Chronic Pancreatitis) THEN
+    IF (Severe pain unresponsive to pharmacological therapy) THEN
+        // Consider surgical options
+        // Options for body/tail lesions:
+        IF (Lesion confined to body and tail) THEN
+            Consider Peustaw procedure (LPJ).
+            Consider Frey's procedure (LPJ with coring out of head).
+            Consider Duval procedure (Distal Pancreatico-jejunostomy).
+            Consider Distal pancreatectomy.
+        ENDIF
+
+        // Options for head lesions:
+        IF (Lesion confined to head region) THEN
+            Consider Duodenum preserving pancreatic head resection (DPPHR).
+            Consider Beger's procedure.
+        ENDIF
+
+        // Other options
+        Consider Endoscopic stenting for pancreatic duct obstruction.
+        Consider Coeliac block for patients unfit for surgery.
+    ENDIF
+ENDIF
+```

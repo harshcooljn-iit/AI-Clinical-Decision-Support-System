@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "Is the patient an asymptomatic cyst passer? (Yes/No)",
+        "What is the patient's exact age in years?"
+    ]
+}

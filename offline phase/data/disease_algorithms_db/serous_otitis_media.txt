@@ -1,0 +1,46 @@
+```text
+DISEASE: Serous Otitis Media
+
+ABBREVIATIONS:
+- TDS: Three times a day
+- mg: Milligram
+- kg: Kilogram
+
+DIAGNOSTICS:
+- Audiogram reveals conductive deafness.
+- Impedance audiometry shows a flat type curve (B curve).
+- Salient features: Deafness, sensation of fluid, tinnitus. Earache may be absent. Ear drum may appear normal, lusterless, retracted, or show fluid level or air bubbles.
+
+TREATMENT ALGORITHM:
+
+IF Patient has Serous Otitis Media THEN
+
+    // Pharmacological Treatment
+    IF Patient is an adult THEN
+        // Amoxicillin/Clavulanic Acid
+        Administer Cap. amoxicillin 250 mg with clavulanic acid 375 mg, TDS before meals for 21 days.
+
+        // Pseudoephedrine
+        Administer Tab. pseudoephedrine 120 mg 8 hourly.
+    ELSE IF Patient is a child THEN
+        // Amoxicillin/Clavulanic Acid
+        Administer Cap. amoxicillin 250 mg with clavulanic acid 375 mg, TDS before meals for 21 days.
+
+        // Pseudoephedrine
+        Administer pseudoephedrine 1-2 mg/kg twice daily.
+    ENDIF
+
+    // Surgical Treatment (if pharmacological treatment fails)
+    IF Patient does not respond to long-term pharmacological measures THEN
+        Consider surgical options:
+        - Myringotomy with or without grommet insertion.
+        - Adenoidectomy.
+        - Treatment for sinusitis.
+        - Mastoidotomy (in refractory cases).
+    ENDIF
+
+    // Patient Education
+    Advise patient NOT to instill oil in the ear.
+
+ENDIF
+```

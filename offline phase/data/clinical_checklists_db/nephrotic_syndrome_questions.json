@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "Is this the patient's first episode of nephrotic syndrome? (Yes/No)",
+        "Does the patient have hypertension? (Yes/No)",
+        "Does the patient have hematuria? (Yes/No)",
+        "Does the patient have azotemia? (Yes/No)",
+        "Has the patient received high dose steroids for 2 weeks or more in the past year? (Yes/No)",
+        "Does the patient have serious infections, other critical illnesses, or is undergoing major surgery? (Yes/No)"
+    ]
+}

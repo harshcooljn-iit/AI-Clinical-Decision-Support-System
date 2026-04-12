@@ -1,0 +1,53 @@
+```text
+DISEASE: Hyperkalemia
+ABBREVIATIONS:
+    - ECG: Electrocardiogram
+    - Inj.: Injection
+    - IV: Intravenous
+    - PR: P-R interval
+    - QRS: Q-R-S complex
+    - gm: gram
+    - ml: milliliter
+    - meq/l: milliequivalent per liter
+    - soln: solution
+    - mins: minutes
+    - hrs: hours
+    - tab: tablet
+    - Keyxalate: sodium polystyrene sulphonate
+    - sorbitol: Sorbitol
+
+DIAGNOSTICS:
+    - Serum potassium > 5.5 meq/l.
+    - ECG changes (Tenting of T waves, Prolonged PR interval, Prolonged QRS interval, Flattened P waves, Sine wave, Asystole).
+    - Muscle paralysis.
+
+TREATMENT ALGORITHM:
+    IF Serum potassium > 5.5 meq/l THEN
+        // Step 1: Stabilize cardiac membrane (if ECG changes or K > 6.5 meq/l)
+        IF ECG changes present OR Serum potassium > 6.5 meq/l THEN
+            Administer Inj. calcium gluconate 10ml of 10% solution IV over 10 minutes.
+            Repeat hourly if ECG changes persist.
+        ENDIF
+
+        // Step 2: Shift potassium intracellularly
+        // Option A: Insulin and Dextrose
+        Administer Infuse 25% dextrose 100ml + 10 units of regular insulin IV.
+        Effect lasts for 4-6 hours.
+
+        // Option B: Beta-agonist
+        Administer Salbutamol nebulization 10mg (2-8 times the normal dose).
+
+        // Option C: Sodium Bicarbonate (less effective, used if acidosis present)
+        Administer Inj. sodium bicarbonate 7.5% 50-100 ml IV bolus slowly over 10-20 minutes, followed by drip.
+
+        // Step 3: Remove potassium from the body
+        Administer Cation exchange resins - sodium polystyrene sulphonate (Keyxalate).
+        Usual dose is 25-30 gm mixed with 100 ml 20% sorbitol 3-4 times daily.
+
+        // Note: All three steps (membrane stabilization, intracellular shift, removal) are typically combined.
+        // These measures can buy time before dialysis.
+    ENDIF
+
+CONTRAINDICATIONS:
+    - (None specified in the provided text for these specific treatments, but standard contraindications apply, e.g., calcium gluconate in hypercalcemia, insulin in hypoglycemia, etc. - not detailed here as not provided in source).
+```

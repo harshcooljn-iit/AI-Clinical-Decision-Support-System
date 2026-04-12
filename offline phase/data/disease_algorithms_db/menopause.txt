@@ -1,0 +1,62 @@
+```text
+DISEASE: Menopause
+
+ABBREVIATIONS:
+- FSH: Follicle-Stimulating Hormone
+- HRT: Hormone Replacement Therapy
+- GIT: Gastrointestinal
+- mg: Milligram
+- mcg: Microgram
+- ml: Milliliter
+- USG: Ultrasonography
+
+DIAGNOSTICS:
+- Clinical diagnosis based on permanent cessation of menses for one year.
+- Serum FSH and oestradiol levels may be helpful in doubtful cases.
+
+TREATMENT ALGORITHM:
+
+1.  **Non-pharmacological treatment:**
+    - IF patient has menopause symptoms THEN recommend balanced diet (fruits, vegetables, semi-skimmed milk), reduction/avoidance of smoking and alcohol, and exercise (walking/swimming 20-30 min daily).
+
+2.  **Pharmacological treatment:**
+    - IF patient has menopause symptoms THEN consider pharmacological options.
+    - IF patient requires calcium supplementation THEN prescribe Tab. calcium 1500 mg daily.
+    - IF patient requires Hormone Replacement Therapy (HRT) THEN check for contraindications.
+
+3.  **HRT Contraindications:**
+    - IF patient has endometrial cancer, breast cancer, acute phase myocardial infarction, undiagnosed breast lump, abnormal vaginal bleeding, or acute liver disease THEN DO NOT prescribe HRT.
+    - IF patient has hypertension or diabetes THEN control these conditions before prescribing HRT.
+
+4.  **Oestrogen Therapy (for hysterectomized patients):**
+    - IF patient has had a hysterectomy THEN consider oestrogen therapy.
+    - IF symptoms recur during drug-free period THEN give continuous therapy.
+    - Option 1: Conjugated equine oestrogen 0.625 - 1.25 mg daily (1st-25th day every month or continuously).
+    - Option 2: Oestriol 1 - 2 mg daily (1st-25th day every month or continuously).
+    - Option 3: Transdermal oestradiol patch 50 or 100 mcg/day applied twice a week (away from breast, preferably on buttock, thigh, or legs).
+    - IF patient has gall bladder disease, hypertriglyceridemia, history of thromboembolism, poorly-controlled hypertension, recent myocardial infarction, vascular diseases, migraine, chronic hepatic dysfunction, or malabsorption syndrome THEN prefer Transdermal oestradiol patch.
+
+5.  **Combined Therapy (for women with intact uterus):**
+    - IF patient has an intact uterus THEN use combined therapy (oestrogen + progestogen).
+    - Option 1 (Cyclic Sequential Regimen): Add progestogen from 13th to 25th days OR 1st to 12th of every month.
+        - Progestogen options: Medroxyprogesterone acetate 5 - 10 mg, Dihydrogesterone 10 - 20 mg, Norethisterone 2.5 mg, or Micronized progesterone 200 ml.
+    - Option 2 (Continuous Sequential Regimen): Add progestogen from 1st to 12th of every month.
+        - Progestogen options: Medroxyprogesterone acetate 5 - 10 mg, Dihydrogesterone 10 - 20 mg, Norethisterone 2.5 mg, or Micronized progesterone 200 ml.
+    - Option 3 (Continuous Combined Treatment):
+        - IF withdrawal bleeding is not acceptable THEN use continuous combined treatment.
+        - Option A: 0.625 mg conjugated equine oestrogen + 2.5 mg medroxyprogesterone acetate.
+        - Option B: 1 mg micronized oestrogen + 100 mg micronized progesterone.
+
+6.  **Alternative HRT (If conventional HRT is contraindicated):**
+    - IF conventional HRT is contraindicated THEN consider alternative options.
+    - Option 1: Tab. Tibolone 2.5 mg per day. (Note: Major side effects include weight gain, oedema, breast tenderness, GIT symptoms, and vaginal bleeding).
+    - Option 2 (For symptomatic elderly women with atrophic vaginitis): Oestriol cream daily application of 0.5 g (delivering 0.5 mg oestriol) for 3 weeks, followed by twice weekly application for 3 - 4 weeks.
+
+7.  **Follow-up:**
+    - Follow up at 2-3 months, then at 6 monthly intervals.
+    - Advise yearly mammography, Pap's smear, pelvic USG, and serum oestradiol.
+
+8.  **Patient Education:**
+    - Explain about the side effects of estrogen and progestogens.
+    - Schedule follow-up visits at 2 - 3 months, then at 6 monthly intervals.
+```

@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "Can the patient take amoxicillin? (Yes/No)",
+        "Can the patient take azithromycin? (Yes/No)",
+        "Does the patient require pain treatment? (Yes/No)",
+        "Is incision and drainage necessary? (Yes/No)",
+        "Does the patient have recurrent boils? (Yes/No)"
+    ]
+}

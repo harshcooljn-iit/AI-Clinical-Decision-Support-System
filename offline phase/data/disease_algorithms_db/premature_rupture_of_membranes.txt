@@ -1,0 +1,86 @@
+```text
+DISEASE: Premature Rupture Of Membranes
+
+ABBREVIATIONS:
+- PROM: Premature Rupture Of Membranes
+- IM: Intramuscular
+- IV: Intravenous
+- GBS: Group B streptococcus
+- Inj.: Injection
+
+DIAGNOSTICS:
+- Confirmed by typical odour of amniotic fluid.
+- May be difficult to confirm if rupture is not recent or leakage is gradual.
+- Vaginal pad examination (visual and odour) after one hour.
+- Speculum examination (fluid from cervix, pool in fornix, gush on coughing).
+- Nitrazine test (alkaline amniotic fluid).
+- Ferning test (fern-leaf pattern on dried fluid slide).
+- Clinical presentation based on symptoms and signs (Table 2).
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    - Confirm gestational age.
+    - Per speculum examination for vaginal discharge (amount, colour, odour) and exclude urinary incontinence.
+
+2.  **Diagnosis Confirmation:**
+    - IF typical odour of amniotic fluid is present, THEN confirm diagnosis.
+    - ELSE IF membrane rupture is not recent or leakage is gradual:
+        - Place vaginal pad over vulva and examine after one hour (visual and odour).
+        - On speculum exam, look for fluid from cervix or pool in fornix, or gush on coughing.
+        - IF available, perform nitrazine or ferning tests.
+
+3.  **Clinical Presentation Assessment (Based on Table 2):**
+    - IF presenting symptoms are watery vaginal discharge AND signs are sudden gush or intermittent leaking of fluid, fluid seen at introitus, no contractions within 1 hour, THEN probable diagnosis is PROM.
+    - IF presenting symptoms are foul smelling watery discharge AND signs are fever/chills, abdominal pain, history of loss of fluid, tender uterus, rapid fetal heart rate, light vaginal bleeding, THEN probable diagnosis is Amnionitis.
+    - IF presenting symptoms are foul smelling vaginal discharge AND signs are no history of loss of fluid, itching, frothy/curdish discharge, abdominal pain, dysuria, THEN probable diagnosis is Vaginitis or cervicitis.
+    - IF presenting symptoms are bloody vaginal discharge AND signs are abdominal pain, loss of fetal movements, heavy prolonged vaginal bleeding, THEN probable diagnosis is Antepartum haemorrhage.
+
+4.  **Management based on Gestational Age and Signs/Symptoms:**
+
+    - IF there is vaginal bleeding with intermittent or constant abdominal pain, THEN suspect abruptio placentae.
+
+    - IF there are signs of infection (fever, foul-smelling vaginal discharge), THEN treat as Amnionitis (see Amnionitis section).
+
+    - IF there are NO signs of infection AND pregnancy is less than 37 weeks:
+        - Give antibiotics to reduce maternal and neonatal infective morbidity and delay delivery.
+        - Antibiotic options:
+            - Tab. erythromycin 250 mg by mouth three times per day for seven days
+            - OR amoxicillin 500 mg by mouth three times per day for seven days
+        - Consider transfer to appropriate service for newborn care.
+        - Give corticosteroids to improve fetal lung maturity:
+            - betamethasone 12 mg IM, two doses 24 hours apart
+            - OR Inj. dexamethasone 6 mg IM, four doses 12 hours apart
+        - IF corticosteroids are used, THEN ensure there is no frank infection.
+
+    - IF there are NO signs of infection AND pregnancy is 37 weeks or more:
+        - IF membranes have been ruptured for more than 18 hours, THEN give prophylactic antibiotics to reduce GBS infection in the neonate.
+            - Antibiotic options:
+                - penicillin G 2 million units IV every six hours until delivery
+                - OR Inj. ampicillin 2 g IV every six hours until delivery
+        - Assess the cervix.
+        - IF cervix is favourable (soft, thin, partly dilated), THEN induce labour using oxytocin.
+        - IF cervix is unfavourable (firm, thick, closed), THEN ripen the cervix using prostaglandins and infuse oxytocin OR deliver by caesarean section.
+
+### Amnionitis Management:
+
+1.  **Antibiotics:** Give a combination of antibiotics until delivery.
+    - Inj. ampicillin 2 g IV every six hours
+    - PLUS gentamicin 5 mg/kg body weight IV every 24 hours
+
+2.  **Postpartum/Post-Caesarean Care:**
+    - IF vaginal delivery, THEN discontinue antibiotics postpartum.
+    - IF caesarean section, THEN continue antibiotics and give Inj. metronidazole 500 mg IV every eight hours until the woman is fever-free for 48 hours.
+
+3.  **Labour Management:**
+    - Assess the cervix.
+    - IF cervix is favourable (soft, thin, partly dilated), THEN induce labour using oxytocin.
+    - IF cervix is unfavourable (firm, thick, closed), THEN ripen the cervix using prostaglandins and infuse oxytocin OR deliver by caesarean section.
+
+4.  **Additional Considerations:**
+    - IF metritis is suspected (fever, foul-smelling vaginal discharge), THEN give antibiotics.
+    - IF newborn sepsis is suspected, THEN arrange for a blood culture and antibiotics.
+
+CONTRAINDICATIONS:
+- Corticosteroids (betamethasone or dexamethasone) SHOULD NOT be used in the presence of frank infection.
+```

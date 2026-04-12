@@ -1,0 +1,98 @@
+```text
+1. DISEASE: Pre Operative Assessment And Preparations
+2. ABBREVIATIONS:
+    - Hb: Hemoglobin
+    - TLC: Total Leukocyte Count
+    - DLC: Differential Leukocyte Count
+    - CT: Clotting Time
+    - BT: Bleeding Time
+    - ECG: Electrocardiogram
+    - IV: Intravenous
+3. DIAGNOSTICS:
+    - Preoperative assessment involves evaluating the patient's disease, condition, urgency of surgery, type of surgery, and potential risks/benefits.
+    - Routine investigations include Hb, TLC, DLC, CT, BT, urine routine examination, chest X-ray, and ECG (for patients over 30 years).
+    - Special investigations may be needed based on the procedure and patient condition.
+4. TREATMENT ALGORITHM:
+    - IF the patient is undergoing surgery:
+        - THEN gather and record all relevant information.
+        - THEN devise a plan to minimize risk and maximize benefit.
+        - THEN consider possible adverse events and how to deal with them.
+        - THEN ensure the patient and relevant parties understand the surgical plan (informed consent).
+    - IF preoperative assessment is needed:
+        - THEN consider the disease and its extent.
+        - THEN consider the patient's condition and organ systems.
+        - THEN consider the urgency of the surgery.
+        - THEN consider the type of surgery and alternatives.
+        - THEN consider the morbidity and mortality of the disease and procedure.
+        - THEN discuss medications and allergies with the patient.
+    - IF informed consent is required:
+        - THEN discuss the procedure, benefits, risks, and alternatives with the patient and relatives.
+        - THEN allow time for questions and clarification.
+    - IF routine preoperative investigations are needed:
+        - THEN perform Hb, TLC, DLC, CT, BT, urine routine examination.
+        - IF the patient is over 30 years old:
+            - THEN perform chest X-ray and ECG.
+    - IF special investigations are needed:
+        - THEN perform investigations based on the procedure and patient condition.
+    - IF preparing the patient for surgery:
+        - THEN remove cosmetics (lipstick, nail polish) that may interfere with monitoring.
+        - THEN remove non-essential items (dentures, spectacles, jewelry, phones).
+        - IF withholding feeds:
+            - THEN withhold feeds based on patient age, anesthesia type, and surgery type.
+        - THEN bathe the patient on the day prior and morning of surgery, paying attention to the operative area.
+        - THEN remove hair as close to surgery time as possible, preferably with clippers or chemical depilator, not shaving.
+        - IF using chemical solutions for skin prep:
+            - THEN ask about history of allergic reactions.
+        - WHILE scrubbing:
+            - THEN work away from the operative site.
+            - THEN wash visibly soiled skin with soap and water before surgical scrub.
+        - THEN administer preanesthetic medication as per policy.
+    - IF choosing a surgical scrub:
+        - IF using Povidone-iodine:
+            - THEN use it combined with detergent.
+            - THEN note it is effective against gram-positive bacteria.
+            - THEN note it has residual activity and works in organic substances.
+            - THEN note it can be absorbed through skin and used on mucus membranes.
+            - THEN note potential for skin sensitivity.
+        - IF using Chlorhexidine gluconate:
+            - THEN note it is broad-spectrum and better bactericidal than povidone-iodine.
+            - THEN note it has residual activity.
+            - THEN note it is ineffective in the presence of organic material (soap, oils, blood).
+            - THEN note it should not be used for eye preparation.
+            - THEN note it can be used alone or with cetrimide.
+        - IF using Alcohol (70% ethyl or isopropyl):
+            - THEN note it is effective against gram-negative/positive bacteria, mycobacteria, fungi, viruses (not spores).
+            - THEN ensure all traces are dry before draping.
+            - THEN note it should not be used on mucus membranes or open wounds.
+    - IF drug treatment is needed:
+        - THEN administer prophylactic antibiotics (see specific section).
+        - THEN administer antihypertensives, IV fluids, anticoagulants, Vitamin K, etc., as relevant.
+    - IF non-drug treatment is needed:
+        - THEN perform rectal washouts, stomach wash, etc., as relevant.
+    - IF handling medicolegal cases:
+        - THEN provide first aid.
+        - THEN stabilize the patient.
+        - THEN guide and help with transfer to an appropriate center.
+        - THEN send information (duplicate) to the police.
+        - THEN prepare a medicolegal report.
+        - THEN preserve and seal clothes, fluid, and stain samples.
+        - THEN respond to police inquiries.
+        - THEN arrange for a dying declaration if indicated.
+        - THEN preserve X-rays and patient records.
+        - THEN respond to court summons.
+        - IF death occurs:
+            - THEN handover the body to the police.
+        - IF discharge/referral occurs:
+            - THEN inform the police.
+    - IF transferring the patient:
+        - THEN identify the degree of emergency.
+        - THEN perform resuscitative measures if needed (shock management, oxygen).
+        - THEN transfer in a well-equipped ambulance.
+        - THEN intimation and confirmation the readiness at the referral centre.
+        - THEN ensure a doctor or paramedical staff accompanies the patient.
+        - THEN provide a referral slip with relevant information (condition, diagnosis, measures taken, reasons for referral, precautions, etc.).
+5. CONTRAINDICATIONS:
+    - Chlorhexidine gluconate should be avoided for eye preparation.
+    - Alcohol should not be used on mucus membranes or open wounds.
+    - Povidone-iodine may cause skin sensitivity in some patients.
+```

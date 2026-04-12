@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Is the patient pregnant? (Yes/No)",
+        "Are there any known allergies to antibiotics? (Yes/No)",
+        "Which antibiotic regimen is chosen? (Amoxicillin/Clavulanic Acid or Cefotaxime or Other)",
+        "If Cefotaxime is chosen, is the patient an adult? (Yes/No)",
+        "Is the patient unresponsive to antibacterials? (Yes/No)",
+        "Does the patient have a decrease in vision? (Yes/No)",
+        "Does the patient have an orbital or subperiosteal abscess? (Yes/No)"
+    ]
+}

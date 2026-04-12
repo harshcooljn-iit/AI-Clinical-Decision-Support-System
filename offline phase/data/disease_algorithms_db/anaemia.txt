@@ -1,0 +1,62 @@
+```text
+DISEASE: Anaemia
+
+ABBREVIATIONS:
+- MCV: Mean Corpuscular Volume
+- B12: Vitamin B12
+- RBC: Red Blood Cells
+- gm: gram
+- dl: deciliter
+- tab: tablet
+
+DIAGNOSTICS:
+- Defined by low haemoglobin level: < 13.5 g/dl in males, < 13.5 gm/dl in females.
+- MCV (Mean Corpuscular Volume) helps determine the cause:
+    - Low MCV: Iron deficiency or haemoglobinopathy (e.g., thalassaemia).
+    - High MCV: Folic acid or B12 deficiency.
+    - Normal MCV: Anaemia of chronic disease, primary bone marrow disorders, renal failure, haemolysis.
+- Bone marrow examination (aspiration/biopsy) if:
+    - Associated leucocyte and platelet abnormalities.
+    - Anaemia does not respond to therapy in 4 weeks despite correcting the apparent cause.
+
+TREATMENT ALGORITHM:
+IF (Diagnosis is Anaemia) THEN
+    // Determine cause based on MCV and other factors
+    IF (MCV is Low) THEN
+        // Likely Iron deficiency or haemoglobinopathy
+        // Treatment for Iron deficiency (example, actual treatment depends on confirmation):
+        IF (Confirmed Iron deficiency) THEN
+            // Treatment details would go here, e.g., oral iron supplementation
+        ENDIF
+        // Treatment for haemoglobinopathy (example, actual treatment depends on confirmation):
+        IF (Confirmed haemoglobinopathy like thalassaemia) THEN
+            // Treatment details would go here, e.g., blood transfusions, chelation therapy
+        ENDIF
+    ELSE IF (MCV is High) THEN
+        // Likely Folic acid or B12 deficiency
+        IF (Confirmed Folic acid deficiency) THEN
+            // Treatment details would go here, e.g., Folic acid supplementation
+        ENDIF
+        IF (Confirmed B12 deficiency) THEN
+            // Treatment details would go here, e.g., B12 supplementation (IM or oral)
+        ENDIF
+    ELSE IF (MCV is Normal) THEN
+        // Likely Anaemia of chronic disease, renal failure, haemolysis, etc.
+        IF (Diagnosis is Anaemia of chronic disease) THEN
+            // Treatment details would go here, e.g., treat underlying condition, Erythropoiesis-stimulating agents (ESAs) in specific cases
+        ENDIF
+        IF (Diagnosis is Renal failure) THEN
+            // Treatment details would go here, e.g., ESAs, iron supplementation
+        ENDIF
+        IF (Diagnosis is Haemolysis) THEN
+            // Treatment details would go here, e.g., treat underlying cause, blood transfusions
+        ENDIF
+    ENDIF
+
+    // General considerations:
+    IF (Associated leucocyte and platelet abnormalities OR Anaemia does not respond to therapy in 4 weeks) THEN
+        // Perform bone marrow examination (aspiration/biopsy)
+        // Treatment details would go here based on bone marrow findings
+    ENDIF
+ENDIF
+```

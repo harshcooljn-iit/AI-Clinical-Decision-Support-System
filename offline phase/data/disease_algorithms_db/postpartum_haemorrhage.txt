@@ -1,0 +1,114 @@
+```text
+1.  DISEASE: Postpartum Haemorrhage (PPH)
+
+2.  ABBREVIATIONS:
+    *   PPH: Postpartum Haemorrhage
+    *   GA: General Anaesthesia
+    *   IM: Intramuscularly
+    *   IV: Intravenous
+    *   Ringer's lactate: Ringer's Lactate Solution
+    *   PGF2A: 15-Methyl Prostaglandin F2 alpha
+    *   APH: Antepartum Haemorrhage
+
+3.  DIAGNOSTICS:
+    *   Excessive blood loss from the genital tract after delivery of the foetus exceeding 500 ml.
+    *   Blood loss affecting the general condition of the mother.
+    *   Primary PPH: Bleeding within 24 hours of delivery.
+    *   Secondary PPH: Bleeding between 24 hours and 6 weeks of delivery.
+    *   Clinical examination to ascertain the cause (e.g., uterine atony, tears, retained placenta, inversion, rupture).
+    *   Monitoring vital signs (pulse rate, blood pressure, respiratory rate) and urine output.
+
+4.  TREATMENT ALGORITHM:
+
+    *   IF PPH occurs:
+        *   Monitor vital signs and urine output.
+        *   Initiate resuscitative measures (IV fluids, blood replacement therapy).
+        *   Perform a thorough clinical examination to determine the cause.
+        *   Plan definitive treatment based on the cause.
+
+    *   IF Primary PPH (within 24 hours):
+        *   Consider common causes: uterine atony (90%), cervical/vaginal tears.
+        *   Consider less common causes: occult uterine inversion, uterine rupture, coagulation defect.
+
+    *   IF Secondary PPH (24 hours to 6 weeks):
+        *   Consider common causes: sepsis, retained placental bits, placental polyp, choriocarcinoma.
+
+    *   IF Atonic PPH:
+        *   Non-pharmacological treatment: Placental removal with cord traction (if separated), uterine massage, bimanual compression.
+        *   Pharmacological treatment:
+            *   Prevention: Oxytocin 5 units IM at birth of anterior shoulder or after placenta delivery (unless contraindicated).
+            *   Treatment:
+                *   Oxytocin infusion: 10-40 units in 500 ml Ringer's lactate/normal saline at 125 ml/min.
+                *   Methyl ergometrine maleate: 0.2 mg IV (may repeat IM after 5-10 min).
+                *   IF bleeding not controlled:
+                    *   15-Methyl Prostaglandin F2 alpha (PGF2A): 0.25 mg IM, may repeat every 15-90 min up to 2 mg (Total 8 doses).
+                    *   IF patient has bronchial asthma or epilepsy: Administer Tab. misopristol 600 mcg per rectum with caution.
+                *   IF bleeding still not controlled:
+                    *   Consider surgical treatment (uterine artery ligation, hysterectomy).
+
+    *   IF Oxytocin is used:
+        *   IV: Infuse 20 units in 1 L IV fluids at 60 drops per minute.
+        *   Continuing IV Dose: Infuse 20 units in 1 L IV fluids at 40 drops per minute.
+        *   Maximum IV Dose: Not more than 3 L of IV fluids containing oxytocin.
+        *   Do not give as an IV bolus.
+        *   IM: 5-10 units.
+
+    *   IF Methyl-Ergometrine is used:
+        *   Route: IM or IV (slowly).
+        *   Dose: 0.2 mg.
+        *   Continuing Dose: Repeat 0.2 mg IM after 15 minutes. If required, give 0.2 mg IM or IV (slowly) every four hours.
+        *   Maximum Dose: 1.0 mg (Total five doses).
+        *   Contraindications: High blood pressure, pre-eclampsia, heart disease.
+
+    *   IF 15-Methyl Prostaglandin F2 alpha (PGF2A) is used:
+        *   Route: IM.
+        *   Dose: 0.25 mg.
+        *   Continuing Dose: 0.25 mg every 15 minutes.
+        *   Maximum Dose: 2 mg (Total eight doses).
+        *   Contraindications: Asthma.
+        *   Caution: Contraindicated in bronchial asthma, epilepsy.
+
+    *   IF Misopristol is used (for patients with asthma/epilepsy):
+        *   Route: Rectal.
+        *   Dose: 600 mcg per tablet.
+
+    *   IF bleeding is not controlled despite medical therapy and facilities are limited:
+        *   Arrange transfer to a higher center.
+        *   Consider intrauterine packing in the meantime.
+
+    *   IF surgical treatment is needed:
+        *   Retained placenta: Manual removal under GA.
+        *   Cervical/vaginal tears: Exploration and repair.
+        *   Uterine rupture: Laparotomy with repair/hysterectomy.
+        *   Uterine inversion: Reposition under GA.
+        *   Atonic PPH not controlled: Laparotomy with uterine artery ligation with medical measures.
+        *   Internal artery ligation/Hysterectomy.
+
+5.  TABULAR DOSAGES:
+    *   Oxytocin:
+        *   IF IV route: Infuse 20 units in 1 L IV fluids at 60 drops per minute.
+        *   IF continuing IV route: Infuse 20 units in 1 L IV fluids at 40 drops per minute.
+        *   Maximum IV dose: Not more than 3 L of IV fluids containing oxytocin.
+        *   Do not give as an IV bolus.
+        *   IF IM route: 5-10 units.
+    *   Methyl-Ergometrine:
+        *   IF initial dose: 0.2 mg (IM or IV slowly).
+        *   IF repeat dose: 0.2 mg IM after 15 minutes.
+        *   IF further repeat dose: 0.2 mg IM or IV (slowly) every four hours.
+        *   Maximum dose: 1.0 mg (Total five doses).
+    *   15-Methyl Prostaglandin F2 alpha:
+        *   IF initial dose: 0.25 mg IM.
+        *   IF repeat dose: 0.25 mg every 15 minutes.
+        *   Maximum dose: 2 mg (Total eight doses).
+
+6.  CONTRAINDICATIONS:
+    *   IF Methyl-Ergometrine:
+        *   THEN cannot be given if patient has heart disease.
+        *   THEN cannot be given if patient has hypertension.
+        *   THEN cannot be given if patient has pre-eclampsia.
+    *   IF 15-Methyl Prostaglandin F2 alpha:
+        *   THEN cannot be given if patient has bronchial asthma.
+        *   THEN cannot be given if patient has epilepsy (use with caution).
+    *   IF Oxytocin:
+        *   THEN do not give as an IV bolus.
+```

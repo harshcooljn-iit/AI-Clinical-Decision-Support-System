@@ -1,0 +1,11 @@
+{
+    "questions": [
+        "Does the patient require immediate postoperative analgesia (IM or IV route)? (Yes/No)",
+        "Is the patient in a tertiary care center? (Yes/No)",
+        "Is the patient able to accept oral medication? (Yes/No)",
+        "Does the patient have nausea and vomiting? (Yes/No)",
+        "Does the patient develop symptoms suggestive of postoperative pneumonia (fever, productive cough, dyspnoea, chest pain) AND/OR signs (bronchial breathing, rales) AND/OR chest X-ray shows consolidation? (Yes/No)",
+        "Is the procedure clean-contaminated, contaminated, or dirty? (Yes/No)",
+        "Is the procedure clean AND specific risk criteria met OR certain patients require it? (Yes/No)"
+    ]
+}

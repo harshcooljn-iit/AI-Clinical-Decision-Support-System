@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "What is the patient's haemoglobin level (gm/dl)?",
+        "What is the patient's MCV (Mean Corpuscular Volume)?",
+        "Are there associated leucocyte and platelet abnormalities? (Yes/No)",
+        "Has the anaemia responded to therapy in the last 4 weeks? (Yes/No)"
+    ]
+}

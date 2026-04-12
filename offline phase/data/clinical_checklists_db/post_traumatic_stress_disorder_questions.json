@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "How long have the patient's symptoms been present (in weeks)?",
+        "Is the patient suitable for psychotherapy? (Yes/No)",
+        "Does the patient require pharmacological treatment? (Yes/No)"
+    ]
+}

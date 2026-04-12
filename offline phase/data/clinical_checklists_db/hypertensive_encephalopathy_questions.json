@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Are seizures present? (Yes/No)",
+        "Is severe agitation present? (Yes/No)",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have any known allergies to the medications listed (Nifedipine, Hydralazine, Reserpine, Diazoxide, Phenytoin, Phenobarbital, Diazepam, Lorazepam, Midazolam)? (Yes/No)"
+    ]
+}

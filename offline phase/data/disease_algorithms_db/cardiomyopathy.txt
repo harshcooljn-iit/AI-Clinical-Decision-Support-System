@@ -1,0 +1,89 @@
+```text
+DISEASE: Cardiomyopathy
+
+ABBREVIATIONS:
+- HOCM: Hypertrophic obstructive cardiomyopathy
+- LVH: Left ventricular hypertrophy
+- JVP: Jugular Venous Pressure
+- NSAIDs: Nonsteroidal anti-inflammatory drugs
+- ACE: Angiotensin-converting enzyme
+- B-agonists: Beta-agonists
+
+DIAGNOSTICS:
+- Clinical features (fever, chest pain, basal rales, pedal edema, cardiomegaly, syncope, ventricular ectopy, LVH, raised JVP, diffuse dyskinetic apex beat, S3, hepatomegaly, peripheral edema, murmurs of mitral and tricuspid regurgitation).
+- Exclusion of hypertension, congenital or acquired valvular, coronary or pericardial abnormalities as the primary cause.
+
+TREATMENT ALGORITHM:
+
+# General Cardiomyopathy Treatment
+IF disease is Cardiomyopathy THEN
+    # Non-pharmacological treatment
+    Salt restriction
+    Alcohol discontinuation
+
+    # Pharmacological treatment (Heart Failure Standard Therapy)
+    # Diuretics
+    IF patient needs diuretics THEN
+        IF thiazide diuretic is indicated THEN
+            hydrochlorothiazide 6.25–50 mg OR chlorthalidone 25–50 mg
+        ENDIF
+        IF loop diuretic is indicated THEN
+            furosemide 40–80 mg
+        ENDIF
+        IF aldosterone antagonist is indicated THEN
+            spironolactone 25–100 mg
+        ENDIF
+    ENDIF
+
+    # Beta blockers
+    IF patient needs beta blocker THEN
+        atenolol 25–100 mg OR metoprolol 25–100 mg OR propranolol 40–160 mg
+    ENDIF
+
+    # ACE inhibitors
+    IF patient needs ACE inhibitor THEN
+        captopril 25–200 mg OR lisinopril 10–40 mg OR ramipril 2.5–20 mg
+    ENDIF
+
+    # Angiotensin II antagonists (ARBs)
+    IF patient needs Angiotensin II antagonist THEN
+        losartan 25–100 mg OR valsartan 80–320 mg OR candesartan 2–32 mg
+    ENDIF
+
+    # Calcium antagonists
+    IF patient needs calcium antagonist THEN
+        nifedipine (long-acting) 30–60 mg OR verapamil (long-acting) 120–360 mg OR diltiazem (long-acting) 180-420 mg
+    ENDIF
+ENDIF
+
+# Hypertrophic Cardiomyopathy (HCM) Specific Treatment
+IF disease is Hypertrophic Cardiomyopathy THEN
+    # First-line drug
+    $\beta$ blockers
+
+    # Other effective drugs
+    Calcium channel blockers, especially verapamil (for symptomatic patients)
+
+    # Diuretics
+    Diuretics for heart failure symptoms
+
+    # Refractory cases
+    Dual chamber pacing
+
+    # Specific procedure
+    Nonsurgical septal ablation with alcohol injection in septal branches
+ENDIF
+
+# Drugs to be avoided
+IF disease is Dilated Cardiomyopathy THEN
+    AVOID Calcium channel blockers
+    AVOID NSAIDs
+ENDIF
+
+IF disease is Hypertrophic obstructive cardiomyopathy (HOCM) THEN
+    AVOID Digitalis
+    AVOID Nitrates
+    AVOID Vasodilators
+    AVOID B-agonists
+ENDIF
+```

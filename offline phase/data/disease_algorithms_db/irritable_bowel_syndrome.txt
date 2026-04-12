@@ -1,0 +1,57 @@
+```text
+DISEASE: Irritable Bowel Syndrome (IBS)
+
+ABBREVIATIONS:
+- IBS: Irritable Bowel Syndrome
+- HS: Bedtime (from amitriptyline 10 mg HS)
+- PEG: Polyethylene glycol
+- mg: Milligram
+- ml: Milliliter
+- Tab: Tablet
+- Tab. mebeverine hydrochloride: Mebeverine hydrochloride tablet
+- Tab. drotaverine: Drotaverine tablet
+- Tab. amitriptyline: Amitriptyline tablet
+- Tab. loperamide: Loperamide tablet
+- Isaphghul husk: Psyllium husk
+
+DIAGNOSTICS:
+- Constellation of gastrointestinal symptoms associated with lower bowel symptoms.
+- Absence of organic disease.
+- Symptoms include abdominal pain, alternating diarrhea and constipation, abdominal distension, relief of abdominal symptoms with bowel motions, increased stool frequency, sense of incomplete evacuation, pencil-thin stool, heartburn, bloating, back pain, weakness, faintness, palpitation.
+
+TREATMENT ALGORITHM:
+
+IF patient has predominant abdominal pain THEN
+    IF using mebeverine hydrochloride THEN
+        Administer Tab. mebeverine hydrochloride 270 mg three times a day for long term.
+    ELSE IF using drotaverine THEN
+        Administer Tab. drotaverine 40 to 80 mg three times a day.
+    ENDIF
+ENDIF
+
+IF patient has depressive symptoms THEN
+    Administer Tab. amitriptyline 10 mg HS for 4 to 6 weeks.
+ENDIF
+
+IF patient has diarrheal symptoms THEN
+    Administer Tab. loperamide 2 to 4 mg daily for several days / weeks depending on the critical response.
+ENDIF
+
+IF patient has constipation symptoms THEN
+    IF using isotonic polyethylene glycol (PEG electrolyte) solution THEN
+        Administer Isotonic polyethylene glycol (PEG electrolyte) solution 125-250 ml.
+    ELSE IF using lactulose solution THEN
+        Administer Lactulose solution 15 to 20 ml at night.
+    ENDIF
+ENDIF
+
+PATIENT EDUCATION:
+- Diet should contain high fiber.
+- Supplement with bulk forming agents such as isaphghul husk.
+- Avoid caffeine and alcohol.
+- Avoid milk and other dietary constituents that worsen symptoms.
+- Psychotherapy may be helpful in selected cases.
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for the listed medications in the context of IBS, but standard contraindications for each drug would apply in a real clinical setting).
+```

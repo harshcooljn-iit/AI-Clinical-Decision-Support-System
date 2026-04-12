@@ -1,0 +1,58 @@
+```text
+DISEASE: Postmenopausal Bleeding (PMB)
+
+ABBREVIATIONS:
+- PMB: Postmenopausal Bleeding
+- HRT: Hormone Replacement Therapy
+- SIS: Saline Infusion Sonography
+- D &C: Dilatation and Curettage
+- PCB: Postcoital Bleeding
+
+DIAGNOSTICS:
+- Confirmed by endometrial or cervical biopsy.
+- Non-invasive tests: Saline infusion sonography (SIS), vaginal probe ultrasound.
+- Dilatation and curettage (D &C) may be necessary for definitive diagnosis.
+
+TREATMENT ALGORITHM:
+
+IF Cause is Benign & malignant neoplasm of vulva THEN
+    Refer to higher center or treat cervix, vagina, uterus or ovaries according to cause and facilities available.
+ELSE IF Cause is Indiscriminate use of oestrogen for HRT THEN
+    Stop oestrogen therapy.
+ELSE IF Cause is Infections THEN
+    Administer Antibiotics.
+ELSE IF Cause is Injuries THEN
+    Perform Repair.
+ELSE IF Cause is Coagulation disorder THEN
+    Treat accordingly.
+ELSE IF Cause is Endometritis THEN
+    Administer Antibiotics.
+ELSE IF Cause is Postmenopausal atrophic vaginitis THEN
+    Administer Vaginal oestrogen cream/ointment.
+ELSE IF PMB is not due to cancer and cannot be controlled by other treatments THEN
+    Perform hysterectomy.
+
+REFERRAL CRITERIA:
+
+URGENT REFERRAL:
+IF Palpable pelvic mass OR lesions suspicious of cancer on vulva or vagina or cervix on examination or on ultrasound THEN
+    Refer urgently.
+ELSE IF More than one OR a single heavy episode of PMB in women aged >55 years (not on HRT) THEN
+    Refer urgently.
+ELSE IF Postcoital bleeding (PCB) in a woman aged >35 years that has persisted for more than 4 weeks THEN
+    Refer urgently.
+ELSE IF Prolonged or unexpected bleeding that persists for more than 4 weeks after stopping HRT THEN
+    Refer urgently.
+
+EARLY REFERRAL (within 4-6 weeks):
+IF Any other woman with PMB not on HRT who does not satisfy the criteria for urgent referral THEN
+    Refer early (within 4-6 weeks).
+ELSE IF Unexplained repeated postcoital bleeding THEN
+    Refer early (within 4-6 weeks).
+
+ADDITIONAL NOTES:
+IF Woman is over 45 years with persistent abdominal distension or pain THEN
+    Consider ovarian cancer and perform a pelvic examination.
+IF Excessive bleeding THEN
+    Administer hemostatic drugs (oral or intravenous).
+```

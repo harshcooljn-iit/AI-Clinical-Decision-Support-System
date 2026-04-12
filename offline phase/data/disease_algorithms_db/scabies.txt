@@ -1,0 +1,43 @@
+```text
+DISEASE: Scabies
+
+ABBREVIATIONS:
+- mcg/kg: micrograms per kilogram
+- Tab.: Tablet
+- GBHC: Gamma benzene hexachloride
+- SOS: As directed (Stat Omnis Signum)
+
+DIAGNOSTICS:
+- Clinical examination
+- Inspection of mites from scabetic burrows
+
+TREATMENT ALGORITHM:
+
+IF Patient is an infant, neonate, child, pregnant, or lactating mother:
+    THEN Apply Permethrin 5% generously after bath, at bedtime, covering the entire body surface below the neck (except face).
+
+ELSE IF Patient is not an infant, neonate, child, pregnant, or lactating mother:
+    THEN Administer Tab. ivermectin 200 mcg/kg as a single stat dose.
+    THEN Repeat Tab. ivermectin 200 mcg/kg after 2 weeks.
+
+    // Alternative topical treatments (not mutually exclusive, but usually one is chosen)
+    // Option 1: GBHC lotion
+    THEN Apply GBHC lotion 1% single overnight application below neck on entire body surface after a thorough scrub bath.
+    THEN Wash off GBHC lotion the next morning.
+
+    // Option 2: Permethrin 5% (can be used in adults too)
+    THEN Apply Permethrin 5% generously after bath, at bedtime, covering the entire surface of the body below neck (except face).
+
+    // Symptomatic treatment
+    THEN Administer Tab. cetirizine 10 mg daily (antihistamine for itching).
+
+NON-PHARMACOLOGICAL TREATMENT:
+- Maintain personal hygiene.
+- Disinfect bedding and clothing.
+- Treat all family members simultaneously.
+
+CONTRAINDICATIONS:
+- Ivermectin: Not specified in the text, but generally contraindicated in patients with known hypersensitivity.
+- GBHC: Not specified in the text, but generally contraindicated in patients with known hypersensitivity.
+- Permethrin: Not specified in the text, but generally contraindicated in patients with known hypersensitivity.
+```

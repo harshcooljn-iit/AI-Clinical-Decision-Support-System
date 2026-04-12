@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Is meconium present in the amniotic fluid? (Yes/No)",
+        "If meconium is present, is it slight or thick?",
+        "Is the fetal heart rate normal? (Yes/No)",
+        "Is oxytocin being administered? (Yes/No)"
+    ]
+}

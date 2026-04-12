@@ -1,0 +1,89 @@
+```text
+DISEASE: Bronchiectasis
+
+ABBREVIATIONS:
+- BD: Bis in die (twice a day)
+- OD: Omne die (once a day)
+- TDS: Ter die semel (three times a day)
+- HRCT: High resolution computed tomography
+- I/V: Intravenous
+- ACD: Autogenic drainage
+- AD: Autogenic drainage
+- ACBT: Active Cycle of Breathing Technique
+- FET: Forced Expiratory Technique
+- PEP: Positive Expiratory Pressure
+- HFCC: High Frequency Chest Compression
+- ICD: Intercostal Drainage
+- O2: Oxygen
+- NSAIDs: Nonsteroidal anti-inflammatory drugs
+- LT: Leukotriene
+- LT receptor antagonists: Leukotriene receptor antagonists
+- COPD: Chronic obstructive pulmonary disease
+- URI: Upper respiratory tract infection
+
+DIAGNOSTICS:
+- Clinical features (persistent cough, copious mucopurulent sputum).
+- Radiological presentation (plain chest x-ray, HRCT thorax).
+- HRCT findings: Direct signs (bronchial dilatation, increased bronchoarterial ratio, lack of airway tapering, airway visibility within 1 cm of costal pleura/fissures), Indirect signs (bronchial wall thickening, mucoid impaction, bronchiolitis/tree-in-bud nodules, mosaic attenuation, bronchial artery hyperplasia).
+
+TREATMENT ALGORITHM:
+
+IF the treatment goal is to relieve and control symptoms:
+    THEN consider medical treatment.
+    Medical treatment includes:
+        IF the goal is to control lower respiratory tract infection/inflammation:
+            THEN administer appropriate antibiotic treatment.
+            IF the route is Oral:
+                IF the antibiotic is Amoxicillin/clavulanic acid:
+                    THEN administer 625 mg BD for 10 days.
+                IF the antibiotic is Quinolone (ciprofloxacin):
+                    THEN administer 750 mg BD for 7 to 10 days.
+                IF the antibiotic is Azithromycin:
+                    THEN administer 500 mg OD for 7 to 10 days.
+                IF the antibiotic is Doxycycline:
+                    THEN administer 100 mg BD for 10 days.
+            IF the route is Intravenous:
+                IF the antibiotic is Cefuroxime:
+                    THEN administer 750 mg TDS for 10 days.
+                IF the antibiotic is Ceftriaxone:
+                    THEN administer 2 g BD for 7 to 10 days.
+                IF the antibiotic is Amoxicillin/clavulanic acid:
+                    THEN administer 1.2 g TDS for 8 to 10 days.
+            IF Pseudomonas is the causative organism:
+                IF the route is Oral (initially I/V followed by oral):
+                    THEN administer Ciprofloxacin 750 mg for 10-14 days.
+                IF the antibiotic is Piperacillin/tazobactam:
+                    THEN administer 4.5 g TDS for 10-14 days.
+                IF the antibiotic is Ceftazidime:
+                    THEN administer 2 g BD for 10 to 14 days.
+                IF the antibiotic is Meropenem + Aminoglycoside (dose as per weight):
+                    THEN administer Meropenem 1 g TDS for 10 to 14 days.
+                    THEN administer Gentamicin or amikacin once daily infusion (dose as per weight).
+        IF the goal is to remove bronchial secretions:
+            THEN use postural drainage.
+        IF the goal is to control symptoms with anti-inflammatory therapy:
+            THEN consider Corticosteroids (Inhaled and oral), NSAIDs (Inhaled and oral).
+        IF the goal is to control symptoms with additional agents:
+            THEN consider Long-acting agonists, Long-acting anticholinergics, Methylxanthines, LT receptor antagonists.
+
+    THEN consider non-pharmacological treatment.
+    Non-pharmacological treatment includes:
+        IF the treatment is Chest Physiotherapy:
+            THEN consider techniques like:
+                IF the technique is Independent (Active cycle of breathing techniques, Autogenic drainage):
+                    THEN use the technique.
+                IF the technique is Device-dependant (Positive expiratory pressure, Oscillating positive expiratory pressure, intrathoracic Flutter/Acapella, extrathoracic high-frequency chest wall oscillations, Intermittent positive pressure breathing, Noninvasive ventilation):
+                    THEN use the technique.
+                IF the technique is Manual (chest percussion/clapping, chest wall vibrations, overpressure):
+                    THEN use the technique.
+                IF the technique is Gravity-assisted positioning (Modified postural drainage):
+                    THEN use the technique.
+                IF the technique is Test of incremental respiratory endurance:
+                    THEN use the technique.
+        IF the treatment is Surgical treatment:
+            THEN note that it plays a small role in present day management.
+
+CONTRAINDICATIONS:
+- (No specific contraindications listed for the drugs mentioned, but standard contraindications for each drug class apply, e.g., penicillin allergy for Amoxicillin/clavulanic acid, quinolone allergy for Ciprofloxacin, etc. Also, specific patient conditions like renal/hepatic impairment might affect dosing or choice of drug).
+- (No specific contraindications listed for physiotherapy techniques, but general precautions apply based on patient condition).
+```

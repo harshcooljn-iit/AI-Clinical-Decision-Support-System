@@ -1,0 +1,187 @@
+```text
+DISEASE: Community Acquired Pneumonia
+
+ABBREVIATIONS:
+- CAP: Community Acquired Pneumonia
+- BD: Bis in die (twice a day)
+- QD: Quaque die (once a day)
+- QID: Quarter in die (four times a day)
+- IV: Intravenous
+- OD: Omne die (once a day)
+- TDS: Ter die (three times a day)
+- MRSA: Methicillin-resistant Staphylococcus aureus
+- ARDS: Acute Respiratory Distress Syndrome
+- CA-MRSA: Community-Acquired Methicillin-Resistant Staphylococcus aureus
+- COPD: Chronic Obstructive Pulmonary Disease
+
+DIAGNOSTICS:
+- Symptoms: Acute lower respiratory tract illness (cough +/- expectoration, shortness of breath, pleuritic chest pain) < 1 week.
+- Signs: Temperature > 37.7ºC, chills/rigors, severe malaise. Chest signs (bronchial breath sounds, crackles).
+- Investigations: Chest X-ray (repeat if not improving/worsening). CT chest (non-resolving pneumonia, complications). Legionella urinary antigen test (severe CAP).
+
+TREATMENT ALGORITHM:
+
+# Outpatient Treatment
+IF Patient is an outpatient THEN
+    IF Patient is previously healthy AND has not received antibiotics in the past 3 months THEN
+        # Option 1: Macrolide
+        IF Drug is macrolide THEN
+            IF Drug is clarithromycin THEN
+                Dosage = 500 mg orally BD for 7 to 14 days
+            ELSE IF Drug is azithromycin THEN
+                Dosage = 500 mg orally once, then 250 mg orally QD for 7 to 14 days
+            ENDIF
+        # Option 2: Doxycycline
+        ELSE IF Drug is doxycycline THEN
+            Dosage = 100 mg orally BD for 7 to 14 days
+        ENDIF
+    ELSE # Patient has co-morbidities OR received antibiotics in the past 3 months
+        # Option 1: Fluoroquinolone
+        IF Drug is fluoroquinolone THEN
+            IF Drug is levofloxacin THEN
+                Dosage = 750 mg orally OD for 10 to 14 days
+            ELSE IF Drug is moxifloxacin THEN
+                Dosage = 400 mg orally OD for 10 to 14 days
+            ENDIF
+        # Option 2: Beta-lactam + Macrolide
+        ELSE IF Drug is beta-lactam THEN
+            IF Drug is high-dose amoxicillin THEN
+                Dosage = 1 g orally TDS
+            ELSE IF Drug is amoxicillin/clavulanate THEN
+                Dosage = 2 g orally TDS
+            ELSE IF Drug is ceftriaxone THEN
+                Dosage = 1-2 g IV OD
+            ELSE IF Drug is cefpodoxime THEN
+                Dosage = 200 mg orally BD
+            ELSE IF Drug is cefuroxime THEN
+                Dosage = 500 mg orally BD
+            ENDIF
+            AND
+            IF Drug is macrolide THEN
+                IF Drug is clarithromycin THEN
+                    Dosage = 500 mg orally BD
+                ELSE IF Drug is azithromycin THEN
+                    Dosage = 500 mg orally once, then 250 mg orally OD
+                ENDIF
+            ENDIF
+            Duration = 10 to 14 days
+        ENDIF
+    ENDIF
+ENDIF
+
+# Inpatient Treatment (Non-ICU)
+IF Patient is an inpatient AND NOT in ICU THEN
+    # Option 1: Respiratory Fluoroquinolone
+    IF Drug is respiratory fluoroquinolone THEN
+        IF Drug is levofloxacin THEN
+            Dosage = 750 mg orally or IV OD for 10 to 14 days
+        ELSE IF Drug is moxifloxacin THEN
+            Dosage = 400 mg orally or IV OD for 10 to 14 days
+        ENDIF
+    # Option 2: Beta-lactam + Macrolide
+    ELSE IF Drug is beta-lactam THEN
+        IF Drug is cefotaxime THEN
+            Dosage = 1-2 g IV TDS
+        ELSE IF Drug is ceftriaxone THEN
+            Dosage = 1-2 g IV OD
+        ELSE IF Drug is ampicillin THEN
+            Dosage = 1-2 g IV every 4-6 hourly
+        ELSE IF Drug is ertapenem THEN
+            Dosage = 1 g IV OD (selected patients)
+        ENDIF
+        AND
+        IF Drug is macrolide THEN
+            IF Drug is clarithromycin THEN
+                Dosage = 500 mg orally BD
+            ELSE IF Drug is azithromycin THEN
+                Dosage = 500 mg orally once, then 250 mg orally OD
+            ELSE IF Drug is IV azithromycin THEN
+                Dosage = 1 g IV once, then 500 mg IV daily
+            ENDIF
+        ENDIF
+        Duration = Parentally for 5 to 7 days, then orally for 10 days
+    ENDIF
+ENDIF
+
+# Inpatient Treatment (ICU)
+IF Patient is an inpatient AND in ICU THEN
+    # Option 1: Beta-lactam + Macrolide/Fluoroquinolone
+    IF Drug is beta-lactam THEN
+        IF Drug is cefotaxime THEN
+            Dosage = 1-2 g IV TDS
+        ELSE IF Drug is ceftriaxone THEN
+            Dosage = 2 g IV OD
+        ELSE IF Drug is ampicillin-sulbactam THEN
+            Dosage = 2 g IV TDS
+        ENDIF
+        AND
+        IF Drug is macrolide OR Drug is fluoroquinolone THEN
+            IF Drug is azithromycin THEN
+                Dosage = 1 g IV once, then 500 mg IV daily
+            ELSE IF Drug is levofloxacin THEN
+                Dosage = 750 mg IV OD
+            ELSE IF Drug is moxifloxacin THEN
+                Dosage = 400 mg IV OD
+            ENDIF
+        ENDIF
+        Duration = 5 to 7 days, continue oral medication for 10 days after discharge
+    ENDIF
+ENDIF
+
+# Special Concerns (Pseudomonas)
+IF Pseudomonas is considered THEN
+    # Option 1: Antipseudomonal beta-lactam + Ciprofloxacin/Levofloxacin
+    IF Drug is antipseudomonal beta-lactam THEN
+        IF Drug is piperacillin/tazobactam THEN
+            Dosage = 4.5 g IV QID
+        ELSE IF Drug is cefepime THEN
+            Dosage = 1-2 g IV BD
+        ELSE IF Drug is imipenem THEN
+            Dosage = 500 mg IV QID
+        ELSE IF Drug is meropenem THEN
+            Dosage = 1 g IV TDS
+        ENDIF
+        AND
+        IF Drug is ciprofloxacin THEN
+            Dosage = 400 mg IV BD
+        ELSE IF Drug is levofloxacin THEN
+            Dosage = 750 mg IV OD
+        ENDIF
+    # Option 2: Antipseudomonal beta-lactam + Aminoglycoside
+    ELSE IF Drug is aminoglycoside THEN
+        IF Drug is amikacin THEN
+            Dosage = 15 mg/kg OD
+        ELSE IF Drug is tobramycin THEN
+            Dosage = 1.7 mg/kg OD
+        ENDIF
+    ENDIF
+    Total Duration = 14 days (including IV for 5 days and oral medication for remaining period)
+ENDIF
+
+# Special Concerns (CA-MRSA)
+IF CA-MRSA is considered THEN
+    # Add Linezolid or Vancomycin
+    IF Drug is linezolid THEN
+        Dosage = 600 mg IV BD
+    ELSE IF Drug is vancomycin THEN
+        Dosage = 1 g IV BD
+    ENDIF
+    Total Duration = 14 days (including IV for 5 days and oral medication for remaining period)
+ENDIF
+
+# Steroid Use
+IF Patient has septic shock OR ARDS secondary to CAP THEN
+    Use steroids
+ENDIF
+
+# Monitoring and Follow-up
+- Change antimicrobial therapy based on isolated pathogen(s).
+- Perform diagnostic/therapeutic interventions for complications (e.g., thoracocentesis, chest tube drainage) as required.
+- If no response within 48-72 hours, evaluate for cause (complications, atypical pathogens, resistance).
+- Use non-invasive ventilation for CAP with acute respiratory failure.
+
+# Discharge Criteria
+IF Patient is improving AND can accept oral drugs AND is afebrile AND hemodynamically stable for >= 48 hours THEN
+    Consider discharge
+ENDIF
+```

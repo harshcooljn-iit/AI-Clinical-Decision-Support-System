@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "Does the patient have persistent vomiting, diarrhea, and/or abdominal distension? (Yes/No)",
+        "What is the susceptibility profile of the organism? (Fully Susceptible, Multidrug-Resistant, Nalidixic Acid\u2013Resistant, Unknown)",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have any known allergies to antibiotics? (Yes/No)",
+        "Does the patient have G6PD deficiency? (Yes/No)"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "questions": [
+        "What is the patient's weight in kg?",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have any known allergies? (Yes/No)",
+        "What is the etiology of the hypovolemic shock (e.g., hemorrhage, diarrhea, vomiting, burns, nephrotic syndrome)?",
+        "Is the shock refractory to fluid resuscitation? (Yes/No)",
+        "If refractory, which inotropic therapy is chosen (Dopamine, Dobutamine, Nor-epinephrine)?",
+        "Is the etiology hemorrhagic shock? (Yes/No)",
+        "Is the etiology nephrotic syndrome? (Yes/No)",
+        "Is the etiology diarrhea or vomiting? (Yes/No)"
+    ]
+}

@@ -1,0 +1,38 @@
+```text
+DISEASE: Melasma
+
+ABBREVIATIONS:
+- HQ: Hydroquinone
+- OCP: Oral Contraceptives
+- HRT: Hormone Replacement Therapy
+- Woods lamp: Wood's lamp examination
+
+DIAGNOSTICS:
+- Clinical examination
+- Wood's lamp examination
+
+TREATMENT ALGORITHM:
+
+IF Patient is pregnant with melasma:
+    THEN Reassure the patient.
+    AND Advise avoidance of sun exposure.
+    AND Advise avoidance of causative factors (e.g., hormonal therapy).
+ELSE:
+    IF Patient is not pregnant:
+        THEN Consider pharmacological treatment options.
+        AND Advise photoprotection.
+
+        IF Pharmacological treatment is chosen:
+            THEN Choose one of the following topical agents:
+                IF Hydroquinone is chosen:
+                    THEN Prescribe Hydroquinone 2-5% cream.
+                ELSE IF Azelaic acid is chosen:
+                    THEN Prescribe Azelaic acid 10-20% cream.
+                ELSE IF Glycolic acid is chosen:
+                    THEN Prescribe Glycolic acid 6-12% cream.
+                ELSE IF Hydroquinone + Tretinoin + Steroid combination is chosen:
+                    THEN Prescribe Hydroquinone + Tretinoin + Steroid (Fluticasone, Mometasone, or Fluocinolone) cream.
+
+        AND Advise avoidance of sun exposure.
+        AND Advise avoidance of causative factors (e.g., OCP, HRT).
+```

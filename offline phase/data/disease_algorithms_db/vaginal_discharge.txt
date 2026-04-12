@@ -1,0 +1,44 @@
+```text
+DISEASE: Vaginal Discharge
+
+ABBREVIATIONS:
+- RTI: Reproductive Tract Infections
+- STI: Sexually Transmitted Infections
+- NACO: National AIDS Control Organisation
+- T.: Tablet
+- Inj.: Injection
+- MU: Million Units
+- PID: Pelvic Inflammatory Disease
+
+DIAGNOSTICS:
+- Clinical assessment based on symptoms (vaginal discharge).
+- Speculum examination to assess discharge characteristics and presence of cervical mucopus.
+- Partner history (presence of urethral discharge or genital sore).
+
+TREATMENT ALGORITHM:
+
+IF patient complains of vaginal discharge:
+    IF partner has urethral discharge or genital sore:
+        Perform speculum examination.
+        IF cervical mucopus is present:
+            Rx for gonorrhoea and chlamydia.
+        ELSE IF curd-like vaginal discharge is present:
+            Rx for gonorrhoea, chlamydia, and candidiasis.
+        ELSE IF other abnormal vaginal discharge is present:
+            Rx for gonorrhoea, chlamydia, trichomoniasis, and bacterial vaginosis.
+        ELSE IF no abnormal discharge is present:
+            Rx for gonorrhoea and chlamydia.
+    ELSE:
+        Perform speculum examination.
+        IF cervical mucopus is present:
+            Rx for gonorrhoea and chlamydia.
+        ELSE IF curd-like vaginal discharge is present:
+            Rx for candidiasis.
+        ELSE IF other abnormal vaginal discharge is present:
+            Rx for trichomoniasis and bacterial vaginosis.
+        ELSE IF no abnormal discharge is present:
+            No treatment.
+
+CONTRAINDICATIONS:
+- Kit 4 (Genital Ulcer Disease – Non Herpetic for patients allergic to Penicillin) is indicated ONLY for patients allergic to Penicillin.
+```

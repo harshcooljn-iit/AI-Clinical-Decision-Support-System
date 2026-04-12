@@ -1,0 +1,50 @@
+```text
+DISEASE: Varicose Veins
+
+ABBREVIATIONS:
+- None explicitly listed in the text.
+
+DIAGNOSTICS:
+- Clinical examination: Tortuous dilated veins in subcutaneous tissue.
+- Location of varicosities can suggest specific vein incompetence (thigh = long saphenous, back of leg = short saphenous).
+- Physical tests: Brodie Trendelenberg test, tourniquet test, Perthe's test, Perthe's test (modified), Schwartz test, Pratt's test, Morrissey's cough impulse test, Fegan's method.
+- Signs of venous insufficiency: pitting oedema, thickening, redness, tenderness, lipodermatosclerosis.
+
+TREATMENT ALGORITHM:
+
+IF patient has varicose veins:
+    THEN consider treatment options based on severity and symptoms.
+
+    // Non-pharmacological treatment
+    IF symptoms are mild or patient prefers conservative management:
+        THEN recommend reassurance.
+        THEN recommend elastic compression stockings (6" elastic compression stockings applied with graduated pressure).
+        THEN recommend foot end elevation.
+
+    // Pharmacological treatment
+    IF patient has specific indications for pharmacological treatment (e.g., smaller varicosities, patient preference):
+        THEN consider injection sclerotherapy.
+        THEN consider ultrasound guided foam sclerotherapy.
+
+    // Surgical treatment
+    IF patient has significant varicose veins, symptoms refractory to conservative measures, or complications (e.g., ulcers):
+        THEN consider surgical treatment.
+
+        // Evaluate saphenous vein involvement
+        IF long saphenous vein incompetence is suspected (e.g., thigh varicosities):
+            THEN consider Saphenofemoral junction ligation.
+            THEN consider greater saphenous stripping.
+            THEN consider incompetent perforator ligation (if indicated).
+
+        IF short saphenous vein incompetence is suspected (e.g., back of leg varicosities):
+            THEN consider Saphenopopleteal junction ligation.
+            THEN consider lesser saphenous stripping.
+            THEN consider incompetent perforator ligation (if indicated).
+
+        // Evaluate for venous ulcers
+        IF venous ulcers are present:
+            THEN consider split thickness skin grafting for venous ulcers.
+
+CONTRAINDICATIONS:
+- No specific contraindications for the listed treatments are provided in the text.
+```

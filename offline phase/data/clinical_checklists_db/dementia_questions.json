@@ -1,0 +1,14 @@
+{
+    "questions": [
+        "Is a correctable cause identified? (Yes/No)",
+        "If Yes, is the correctable cause hypothyroidism? (Yes/No)",
+        "If Yes, is the correctable cause thiamine or B12 deficiency? (Yes/No)",
+        "If Yes, is the correctable cause elevated serum homocysteine? (Yes/No)",
+        "If Yes, is the correctable cause opportunistic infection? (Yes/No)",
+        "If Yes, is the correctable cause HIV infection? (Yes/No)",
+        "If Yes, is the correctable cause NPH? (Yes/No)",
+        "If Yes, is the correctable cause CNS neoplasm? (Yes/No)",
+        "What drug is being considered? (Donepezil, Rivastigmine, Galantamine, Memantine, or None)",
+        "Is the patient pregnant? (Yes/No)"
+    ]
+}

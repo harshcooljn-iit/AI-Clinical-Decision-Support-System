@@ -1,0 +1,88 @@
+```text
+DISEASE: Cholelithiasis
+
+ABBREVIATIONS:
+- IV: Intravenous
+- Inj.: Injection
+- SOS: Stat Order Set (immediate use)
+- IM: Intramuscular
+- CBD: Common Bile Duct
+- T-tube: T-tube cholangiography
+
+DIAGNOSTICS:
+- Ultrasound abdomen
+- Total and differential count
+- Liver function test
+
+TREATMENT ALGORITHM:
+
+// Initial Assessment
+IF Patient presents with symptomatic cholelithiasis:
+    // Surgical Treatment
+    IF Patient is symptomatic:
+        THEN Definitive treatment is cholecystectomy.
+    ELSE
+        // Conservative Management (if patient presents after 48 hours)
+        IF Patient presents after 48 hours:
+            THEN Manage conservatively.
+            THEN Cholecystectomy after 6-8 weeks.
+        ENDIF
+    ENDIF
+ELSE
+    // Asymptomatic Cholelithiasis
+    IF Patient is asymptomatic:
+        THEN Cholecystectomy is indicated IF patient has diabetes OR a solitary large stone OR multiple small stones with wide cystic duct OR porcelain gall bladder OR is an anxious patient.
+    ENDIF
+ENDIF
+
+// Management of Acute Cholecystitis, Empyema Gall Bladder, or Stones in CBD
+IF Patient has acute cholecystitis OR empyema gall bladder OR stones in the CBD:
+    THEN Institute following treatment (pharmacological).
+ENDIF
+
+// Pharmacological Treatment (General)
+THEN Maintenance IV fluids.
+
+// Antibiotics
+IF Patient requires antibiotics:
+    THEN Inj. ciprofloxacin (infusion 100 mg/50 ml) 100 ml IV twice a day.
+    THEN Inj. gentamicin (40 mg/ml) 2 ml IV 8 hourly.
+    IF Anaerobic bacterial infection is suspected or anticipated:
+        THEN Inj. metronidazole (500 mg/100 ml) 100 ml IV 8 hourly.
+    ENDIF
+ENDIF
+
+// Pain Management
+IF Patient requires pain management:
+    THEN Inj. diclofenac sodium (25 mg/ml) 2-3 ml IM SOS or 6 hourly.
+    OR
+    THEN Inj. pentazocine (30 mg/ml) 1 ml IM SOS.
+    THEN Inj. hyoscine butylbromide (20 mg/ml) 1 ml IV SOS.
+ENDIF
+
+// Obstructive Jaundice Management
+IF Patient has obstructive jaundice:
+    THEN Inj. vitamin K (10 mg/ml) 1 ml IM once or twice a day till prothrombin time reaches a satisfactory level.
+ENDIF
+
+// Antibiotic Duration
+THEN Antibiotics are usually stopped after 5-7 days.
+IF Patient has evidence of persistent infection OR has indwelling tube (e.g., T-tube):
+    THEN Continue antibiotics beyond 5-7 days.
+ENDIF
+
+// Patient Education
+THEN Advise to avoid fatty and fried meals for 3 months.
+THEN Encourage ambulation as early as possible.
+IF Cholecystectomy was laparoscopic:
+    THEN Avoid heavy physical exertion for 2 weeks.
+ELSE IF Cholecystectomy was conventional:
+    THEN Avoid heavy physical exertion for 3 months.
+ENDIF
+
+// T-tube Management
+IF T-tube has been placed:
+    THEN Remove after 2-3 weeks.
+    THEN Ensure CBD is patent, non-dilated, and free flow of contrast into the duodenum during T-tube cholangiography before removal.
+ENDIF
+```

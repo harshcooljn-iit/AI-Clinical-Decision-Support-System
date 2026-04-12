@@ -1,0 +1,78 @@
+```text
+DISEASE: Pertussis
+ABBREVIATIONS:
+    URTI: Upper Respiratory Tract Infection
+    DPT: Diphtheria Pertussis Tetanus
+
+DIAGNOSTICS:
+    Clinical presentation: Starts as mild URTI (catarrhal stage), progresses to severe coughing paroxysms, often with a characteristic whoop, followed by vomiting. Child may exhibit breathlessness, bulging eyes, flushed face, lacrimation, salivation, tongue protrusion, neck vein distension. Episodes are exhausting and triggered by yawning, sneezing, eating.
+
+TREATMENT ALGORITHM:
+
+IF Patient has Pertussis:
+    THEN:
+        IF Disease stage is coryzal phase (first 14 days):
+            THEN:
+                Administer erythromycin:
+                    IF Age is not specified:
+                        THEN:
+                            Dosage: 40-50 mg/kg/day orally in 4 divided doses for 14 days.
+                    ELSE IF Age is < 6 months:
+                        THEN:
+                            Dosage: 40-50 mg/kg/day orally in 4 divided doses for 14 days.
+                    ELSE IF Age is 6 months to 1 year:
+                        THEN:
+                            Dosage: 40-50 mg/kg/day orally in 4 divided doses for 14 days.
+                    ELSE IF Age is 1 year to 5 years:
+                        THEN:
+                            Dosage: 40-50 mg/kg/day orally in 4 divided doses for 14 days.
+                    ELSE IF Age is > 5 years:
+                        THEN:
+                            Dosage: 40-50 mg/kg/day orally in 4 divided doses for 14 days.
+                ENDIF
+            ELSE:
+                IF Paroxysms have started:
+                    THEN:
+                        Administer erythromycin for eradication of secondary pulmonary infection only.
+                        Dosage: 40-50 mg/kg/day orally in 4 divided doses for 14 days.
+                    ENDIF
+                ELSE:
+                    Administer erythromycin.
+                    Dosage: 40-50 mg/kg/day orally in 4 divided doses for 14 days.
+                ENDIF
+            ENDIF
+        ELSE:
+            IF Paroxysms have started:
+                THEN:
+                    Administer salbutamol for severe coughing paroxysms:
+                        Dosage: 1-2 mg/kg/day orally in 3-4 divided doses for about a week.
+                ENDIF
+            ENDIF
+        ENDIF
+
+    IF Patient is < 6 months old OR has respiratory distress:
+        THEN:
+            Admit for intravenous fluids and oxygen therapy.
+        ENDIF
+
+    IF Patient has severe respiratory distress:
+        THEN:
+            Administer oxygen therapy.
+        ENDIF
+
+    Maintain hydration with intravenous or oral fluids.
+    Avoid cough suppressants.
+
+    Continue antibiotic therapy for at least 14 days to prevent relapse.
+
+    Treat all contacts below 7 years of age with erythromycin for 14 days.
+
+    Monitor for listlessness, apnoea, or seizures (especially in infants < 6 months). Contact doctor immediately if these occur.
+
+    Immunization:
+    - Primary doses: 3 doses of DPT vaccine for all infants.
+    - Booster doses: After 1.5 years and 4.5 years.
+
+CONTRAINDICATIONS:
+    (None specified in the text for erythromycin or salbutamol, but standard contraindications apply based on drug monographs).
+```

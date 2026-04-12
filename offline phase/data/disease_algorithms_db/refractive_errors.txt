@@ -1,0 +1,35 @@
+```text
+DISEASE: Refractive Errors (Ametropia)
+
+ABBREVIATIONS:
+- N/A
+
+DIAGNOSTICS:
+- Refractive errors are diagnosed based on symptoms (e.g., blurred vision, headaches, eye strain) and objective measurements like retinoscopy, autorefraction, and subjective refraction.
+
+TREATMENT ALGORITHM:
+IF the patient has a refractive error (Ametropia):
+    THEN:
+        IF pharmacological treatment is considered:
+            THEN:
+                DISPLAY "No pharmacological treatment is available for ametropia."
+            ELSE:
+                DISPLAY "No pharmacological treatment is available for ametropia."
+        ELSE:
+            DISPLAY "No pharmacological treatment is available for ametropia."
+
+    THEN:
+        IF surgical treatment is considered:
+            THEN:
+                DISPLAY "Consider accurate retinoscopy and corrective spectacles or contact lenses."
+            THEN:
+                DISPLAY "Consider Keratorefractive surgery."
+        ELSE:
+            DISPLAY "Consider accurate retinoscopy and corrective spectacles or contact lenses."
+            DISPLAY "Consider Keratorefractive surgery."
+ELSE:
+    DISPLAY "The patient does not have a refractive error."
+
+CONTRAINDICATIONS:
+- N/A (Pharmacological treatment is not available)
+```

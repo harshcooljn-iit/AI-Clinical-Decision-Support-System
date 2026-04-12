@@ -1,0 +1,81 @@
+```text
+DISEASE: Paraplegia And Quadriplegia
+
+ABBREVIATIONS:
+- Inj.: Injection
+- IV: Intravenous
+- QID: Four times a day
+- mg: Milligram
+- d: Day
+- TDS: Three times a day
+- SC: Subcutaneous
+- U: Unit
+- INR: International Normalized Ratio
+- Tab.: Tablet
+
+DIAGNOSTICS:
+- Clinical assessment of motor weakness (lower limbs for paraplegia, all four limbs for quadriplegia).
+- Neurological examination to determine the level and nature of the lesion (cerebrum, spinal cord, motor roots, peripheral nerves, myoneural junction, or muscles).
+- Imaging studies (e.g., MRI, CT) to identify the cause and location of the lesion (compressive or non-compressive spinal cord lesions).
+
+TREATMENT ALGORITHM:
+
+IF etiology is compressive myelopathy THEN
+    urgent surgical intervention is required.
+ELSE
+    pharmacological treatment based on specific indications.
+
+IF indication for corticosteroids exists (neoplastic spinal cord compression, traumatic spinal cord injuries, acute transverse myelitis, multiple sclerosis, neuromyelitis optica, sarcoid myelitis, ADEM) THEN
+    Administer Inj. methylprednisolone 1 g IV for 3-5 days.
+    Continuation of steroids depends on the underlying cause.
+ENDIF
+
+IF fever is present THEN
+    Consider causes: quadriplegic fever (loss of thermoregulation) or infection (urinary tract, lung, skin, bone).
+    Treat underlying cause.
+ENDIF
+
+IF bladder dysfunction is present THEN
+    Assess type of dysfunction:
+    IF detrusor spasticity is present THEN
+        TREATMENT: Tab. oxybutynin 2.5–5 mg QID OR Tab. imipramine 25–200 mg/d.
+    ELSE IF urinary dyssynergia (failure of sphincter relaxation) is present THEN
+        TREATMENT: Tab. terazosin hydrochloride 1–2 mg TDS or QID, intermittent catheterization, OR condom catheter (men) OR permanent indwelling catheter.
+    ELSE IF bladder areflexia (acute spinal shock or conus lesions) is present THEN
+        TREATMENT: Catheterization.
+    ENDIF
+ENDIF
+
+IF bowel dysfunction is present THEN
+    Implement bowel regimens and disimpaction protocols.
+    Ensure at least biweekly evacuation.
+ENDIF
+
+IF patient is within the first 2 weeks of injury/paralysis THEN
+    RECOMMENDATION: Use calf-compression devices.
+    RECOMMENDATION: Anticoagulation with Inj. heparin 5000 U SC every 12 h OR Tab. warfarin (target INR 2–3).
+ELSE IF persistent paralysis exists THEN
+    RECOMMENDATION: Continue anticoagulation for 3 months.
+ENDIF
+
+IF risk of decubitus ulcers is present THEN
+    PROPHYLAXIS: Frequent position changes.
+    PROPHYLAXIS: Use special mattresses (water or air beds).
+    PROPHYLAXIS: Cushion pressure points (sacral prominence, heels).
+    IF ulcer develops THEN
+        TREATMENT: Careful cleansing.
+        TREATMENT: Surgical or enzyme debridement of necrotic tissue.
+        TREATMENT: Appropriate dressing and drainage.
+    ENDIF
+ENDIF
+
+IF spasticity is present THEN
+    RECOMMENDATION: Stretching exercises.
+    TREATMENT: Tab. baclofen 15–240 mg/d in divided doses.
+    TREATMENT: Tab. diazepam 2-4 mg at bedtime (for leg spasms interrupting sleep).
+    TREATMENT: Tab. Tizanidine 2–8 mg TDS.
+ENDIF
+
+CONTRAINDICATIONS:
+- (None specified in the text for the listed drugs, but standard contraindications apply based on drug properties and patient comorbidities).
+```

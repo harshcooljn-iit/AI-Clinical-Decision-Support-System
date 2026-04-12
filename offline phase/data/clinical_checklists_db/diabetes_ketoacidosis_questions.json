@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "What is the initial serum potassium (K+) level in mEq/L?",
+        "What is the arterial pH?",
+        "What is the serum phosphate level in mg/dl?",
+        "Is hypomagnesemia present? (Yes/No)"
+    ]
+}

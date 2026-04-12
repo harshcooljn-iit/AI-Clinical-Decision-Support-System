@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "Is the patient diagnosed with Deep Vein Thrombosis (DVT)? (Yes/No)",
+        "Is the DVT severe? (Yes/No)",
+        "Is the DVT recurrent or is the patient high risk? (Yes/No)",
+        "Is the patient at risk for DVT? (Yes/No)",
+        "Is the patient actively bleeding? (Yes/No)"
+    ]
+}

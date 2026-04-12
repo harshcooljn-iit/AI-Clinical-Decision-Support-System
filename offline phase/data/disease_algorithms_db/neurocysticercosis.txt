@@ -1,0 +1,47 @@
+```text
+DISEASE: Neurocysticercosis
+
+ABBREVIATIONS:
+- CNS: Central Nervous System
+- T. solium: Taenia solium
+- EITB: Enzyme-linked immunoelectrotransfer blot
+- ELISA: Enzyme-linked immunosorbent assay
+- CT: Computed Tomography
+- MRI: Magnetic Resonance Imaging
+- EEG: Electroencephalography
+- PO: Per os (by mouth)
+- BD: Bis in die (twice a day)
+- TDS: Ter in die sumpsit (three times a day)
+- CSF: Cerebrospinal Fluid
+
+DIAGNOSTICS:
+- Absolute criteria: Histologic/microscopic exam of biopsy material showing cysticercus, visualization of parasite in the eye by fundoscopy, or neuro-radiologic demonstration of cystic lesion with characteristic scolex.
+- Major criteria: Neuro-radiologic lesions suggestive of neuro-cysticercosis, demonstration of antibodies to cysticercus in serum, or resolution of intracranial cystic lesions spontaneously or after therapy with albendazole or praziquantel alone.
+- Minor criteria: Neuro-imaging studies compatible with neuro-cysticercosis, clinical manifestations suggestive of neuro-cysticercosis, demonstration of antibodies to cysticercus or cysticercan antigen in CSF by ELISA, or evidence of cysticercosis outside the CNS.
+- Epidemiologic criteria: Residence in endemic area, frequent travel to endemic area, or household contact with T. solium infection.
+- Diagnosis confirmed by one absolute criterion OR combination of two major criteria, one minor criterion, and one epidemiologic criterion.
+- Investigations: EITB (serum), ELISA (serum/CSF), CT scan, MRI, soft tissue radiography, EEG (children with intractable seizures), stool examination (ova).
+
+TREATMENT ALGORITHM:
+
+IF Patient has T. solium tapeworms in stool:
+    THEN Administer Praziquantel 5-10 mg/kg single dose PO.
+
+IF Patient requires treatment for neurocysticercosis cysts:
+    THEN Administer Albendazole 400 mg PO BD for 14 days with meals.
+
+IF Patient has seizures:
+    THEN Administer Phenytoin 300 mg PO.
+    IF Patient is pediatric:
+        THEN Administer Phenytoin 4-8 mg/kg/day PO divided BD/TDS.
+
+IF Patient requires treatment to avoid inflammatory response in CNS:
+    THEN Start anticonvulsants.
+    THEN Start high dose glucocorticoids.
+
+IF Patient has cysts that have failed to resolve with anti-helminthic treatment AND are causing severe neurologic sequelae:
+    THEN Reserve neurosurgical intervention.
+
+CONTRAINDICATIONS:
+- (None specified in the text for Albendazole, Praziquantel, Phenytoin, or Glucocorticoids in the context of Neurocysticercosis. Standard contraindications for these drugs would apply based on patient-specific factors not detailed here).
+```

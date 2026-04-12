@@ -1,0 +1,101 @@
+```text
+DISEASE: Pregnancy With Heart Disease
+
+ABBREVIATIONS:
+- NYHA: New York Heart Association
+- IM: Intramuscular
+- PTT: Partial Thromboplastin Time
+- IV: Intravenous
+- Cap: Capsule
+- Inj: Injection
+- Kg: Kilogram
+- G: Gram
+- ml: Milliliter
+- mg: Milligram
+
+DIAGNOSTICS:
+- Echocardiography is diagnostic.
+- Clinical assessment based on NYHA class.
+
+TREATMENT ALGORITHM:
+
+1.  MANAGEMENT SETTING:
+    IF patient has heart disease and is pregnant THEN
+    manage at a tertiary level center with a multidisciplinary approach.
+
+2.  NYHA CLASSIFICATION:
+    IF patient has heart disease and is pregnant THEN
+    assess physical activity limitation to classify NYHA class I to IV.
+
+3.  HOSPITALIZATION:
+    IF NYHA class is III or IV THEN
+    hospitalize throughout pregnancy.
+    ELSE IF NYHA class is I or II THEN
+    manage as an outpatient with frequent antenatal visits and admission at 38 weeks.
+
+4.  LIFESTYLE MODIFICATIONS:
+    IF patient has heart disease and is pregnant THEN
+    recommend rest for 10 hours each night and 1 to 2 hours after each meal.
+    Permit light housework and walking without climbing stairs.
+    Prohibit heavy work.
+    Advise to avoid high salt intake.
+    Screen and treat excessive weight gain, abnormal fluid retention, anaemia, pregnancy induced hypertension, infections.
+
+5.  PHARMACOLOGICAL TREATMENT (Rheumatic Heart Disease):
+    IF patient has rheumatic heart disease and is pregnant THEN
+    administer Inj. benzathine penicillin 1.2 mega units IM every 3 weeks.
+    Treat any infections with appropriate antibiotics.
+
+6.  PHARMACOLOGICAL TREATMENT (Mechanical Prosthetic Valves):
+    IF patient has mechanical prosthetic valves and is pregnant THEN
+    administer Inj. heparin throughout pregnancy to maintain PTT at 1.5 to 2.5 times the normal control.
+
+7.  ORAL ANTICOAGULANTS:
+    IF patient requires oral anticoagulants during pregnancy THEN
+    CAUTION: Oral anticoagulants are not safe during pregnancy due to risk of congenital anomalies.
+    IF pregnancy is in the first trimester THEN
+    do not administer oral anticoagulants.
+    ELSE IF pregnancy is after the first trimester THEN
+    administer oral anticoagulants and continue until 4 weeks before delivery.
+    Oral anticoagulants are safe during lactation.
+
+8.  LABOUR MANAGEMENT - CAESAREAN SECTION:
+    IF Caesarean section is required THEN
+    perform for obstetrical indications only.
+
+9.  LABOUR MANAGEMENT - PAIN RELIEF:
+    IF pain relief is needed during labour THEN
+    IF patient does NOT have intra cardiac shunts, aortic stenosis, pulmonary hypertension, or hypertrophic cardiomyopathy THEN
+    give continuous epidural analgesia (best option).
+    ELSE
+    administer Inj. morphine for pain relief.
+
+10. LABOUR MANAGEMENT - FLUIDS/MEDICATIONS:
+    IF patient is in labour THEN
+    restrict fluids to 75 ml/min.
+    Avoid bolus oxytocin and methyl ergometrine.
+
+11. LABOUR MANAGEMENT - INFECTIVE ENDOCARDITIS PROPHYLAXIS:
+    IF patient has cardiac lesions and is undergoing any operative procedure or in labour THEN
+    administer antimicrobial prophylaxis for infective endocarditis.
+    Administer Inj. ampicillin 2 g and Inj. gentamicin 1.5 mg/kg (maximum 120 mg) IV or IM 30 min before procedure.
+    Follow with Cap. ampicillin 1 g IM or IV; or Cap. amoxycillin 1 g orally 6 hours after initial dose.
+
+12. LABOUR MANAGEMENT - PENICILLIN ALLERGY:
+    IF patient is allergic to penicillin THEN
+    administer Inj. vancomycin 1 g IV (over 1-2 hours) plus Inj. gentamicin 1.5 g/kg (maximum 120 mg).
+    Complete infusion within 30 min before procedure.
+
+13. PATIENT EDUCATION:
+    IF patient has heart disease and is pregnant or planning pregnancy THEN
+    discuss maternal risk based on type and severity of cardiac lesion.
+    Consider corrective surgery preferably before pregnancy.
+    Inform about 2-5% risk of congenital heart disease in foetus if mother has congenital heart disease.
+    Provide contraceptive advice: sterilization after 2 weeks, progestogen only method, or barrier method.
+    Counsel husband for male sterilization (preferably nonscalpel vasectomy).
+    In severe cases, consider medical termination of pregnancy if pregnancy is <12 weeks.
+
+CONTRAINDICATIONS:
+- Epidural analgesia is contraindicated in women with intra cardiac shunts, aortic stenosis, pulmonary hypertension, and hypertrophic cardiomyopathy.
+- Oral anticoagulants are contraindicated during the first trimester of pregnancy due to risk of congenital anomalies.
+```

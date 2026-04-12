@@ -1,0 +1,151 @@
+```text
+1.  DISEASE: Hypertension
+2.  ABBREVIATIONS:
+    *   HT: Hypertension
+    *   TOD: Target Organ Damage
+    *   CAD: Coronary Artery Disease
+    *   LVH: Left Ventricular Hypertrophy
+    *   CVA: Cerebrovascular Accidents
+    *   TIA: Transient Ischemic Attacks
+    *   BP: Blood Pressure
+    *   ECG: Electrocardiogram
+    *   GFR: Glomerular Filtration Rate
+    *   CCF: Congestive Cardiac Failure
+    *   ACEI: Angiotensin-Converting Enzyme Inhibitors
+    *   OD: Once Daily
+    *   BD: Twice Daily
+    *   IV: Intravenous
+    *   IM: Intramuscular
+    *   PTCA: Percutaneous Transluminal Coronary Angioplasty
+    *   CABG: Coronary Artery Bypass Graft
+    *   mg: Milligram
+    *   mcg: Microgram
+    *   ml: Milliliter
+    *   oz: Ounce
+    *   g: Gram
+    *   tab: Tablet
+    *   cap: Capsule
+    *   inj: Injection
+    *   nr: Number
+
+3.  DIAGNOSTICS:
+    *   Routine measurement of blood pressure.
+    *   In children/adolescents: BP at the 95th percentile or greater adjusted for age, height, and gender on repeated measurement. Diastolic BP defined by the fifth Korotkoff sound.
+
+4.  TREATMENT ALGORITHM:
+
+    *   IF patient has hypertension:
+        *   Perform investigations: ECG, Urinalysis, Blood glucose, Hematocrit, Serum potassium, Creatinine (or eGFR), Calcium, Lipid profile.
+        *   Consider optional tests: Urinary albumin excretion or albumin/creatinine ratio.
+        *   Ensure proper BP measurement technique (auscultatory method, calibrated instrument, appropriate cuff size, resting for 5 min, no coffee/smoking 30 min prior, measure in both upper limbs and at least one lower limb in supine and erect posture, at least 2 measurements).
+
+    *   IF patient has pre-hypertension:
+        *   Recommend behavioral modification follow-up.
+
+    *   IF patient has Stage 1 hypertension:
+        *   Recommend thiazide diuretics OR calcium channel blockers OR beta blockers OR ACEI.
+
+    *   IF patient has Stage 2 hypertension:
+        *   Recommend combination therapy (adjust dosages based on BP response).
+
+    *   IF patient is obese, elderly, or has CCF:
+        *   Prefer diuretics.
+
+    *   IF patient is young, has CAD, vascular headache, or atrial fibrillation:
+        *   Prefer beta blockers.
+
+    *   IF patient is elderly, has CAD, or is diabetic:
+        *   Prefer calcium channel blockers.
+
+    *   IF patient is diabetic, has LVF, or is young:
+        *   Prefer ACEI.
+
+    *   IF patient has prostatitism or dyslipidemia:
+        *   Consider alpha blockers.
+
+    *   IF patient is pregnant:
+        *   Use alpha methyl dopa.
+
+    *   IF patient has accelerated hypertension (BP ≥ 200/140 mmHg without papilledema):
+        *   Administer Inj. enalapril 1.25-5 mg IV 6 hourly OR Inj. nitroprusside 0.25-1.0 mcg/Kg/min IV infusion (titrate dose, max 10 mg) OR Inj. nitroglycerine 5-100mcg/min infusion OR Inj. hydralazine 10-20 mg IV or IM (change drug if no response at 20 mg) OR Inj. labetalol 20-80 mg IV every 5-10 min up to 300 mg, or infusion 0.5-2 mg/min, or oral 100-600 mg 2 times a day OR Inj. phentolamine 5-15 mg IV (especially in pheochromocytoma).
+
+    *   IF patient has malignant hypertension (BP ≥ 200/140 mmHg with vascular damage like papilledema or deranged renal function):
+        *   Refer to a tertiary care centre.
+
+    *   IF patient has resistant hypertension (failure to reach goal BP on full doses of appropriate 3-drug regimen including a diuretic):
+        *   Refer to a hypertension specialist.
+
+    *   FOR FOLLOW-UP:
+        *   Monitor BP regularly (target 130/80 mmHg for young/middle-aged/diabetic, 140/90 mmHg for elderly).
+        *   Monitor risk factors for CAD.
+        *   Ensure compliance with lifestyle modifications.
+        *   Assess for complications and target organ damage.
+        *   In accelerated or malignant HT, avoid sudden fall in diastolic BP below 100 mmHg.
+
+    *   NON-PHARMACOLOGICAL TREATMENT:
+        *   Reduce dietary sodium intake to ≤ 100 mmol/day (≤ 2.4 g sodium or ≤ 6 g NaCl).
+        *   Adopt DASH eating plan.
+        *   Life-style modification: Vigorous aerobic exercise 20-30 min most days (HR 65-70% max).
+        *   Weight control (BMI 18.5-24.9 kg/m²).
+        *   Moderate alcohol consumption (≤ 2 drinks/day for most men, ≤ 1 drink/day for women/light persons).
+        *   Cessation of smoking.
+        *   Consider Yoga.
+
+5.  TABULAR DOSAGES:
+
+    *   HYDROCHLOROTHIAZIDE:
+        *   IF patient is adult:
+            *   THEN Tab. hydrochlorothiazide 12.5 -25 mg OD or BD.
+
+    *   FRUSEMIDE:
+        *   IF patient is adult:
+            *   THEN Tab. frusemide 20-40 mg twice day.
+        *   IF patient is adult:
+            *   THEN Tab. frusemide 20 + spironolactone 50 mg 1-2 times day.
+
+    *   INDAPAMIDE:
+        *   IF patient is adult:
+            *   THEN Tab. indapamide 2-5 mg daily.
+
+    *   ATENOLOL:
+        *   IF patient is adult:
+            *   THEN Tab. atenolol 25-100 mg daily.
+        *   IF patient is adult:
+            *   THEN Tab. metoprolol 25-150 mg BD.
+
+    *   AMLODIPINE:
+        *   IF patient is adult:
+            *   THEN Tab. amlodipine 2.5- 20 mg OD.
+        *   IF patient is adult:
+            *   THEN Cap. nifedipine 20-80 mg as sustained release daily.
+
+    *   ACE INHIBITORS (ENALAPRIL, LISINOPRIL, RAMIPRIL):
+        *   IF patient is adult:
+            *   THEN Tab. enalapril 2.5 mg OD.
+        *   IF patient is adult:
+            *   THEN Tab. lisinopril 2.5 mg OD.
+        *   IF patient is adult:
+            *   THEN Tab. ramipril 1.25-10 mg OD.
+
+    *   LOSARTAN:
+        *   IF patient is adult:
+            *   THEN Tab. losartan 25-50 mg OD or BD.
+
+    *   PRAZOSIN:
+        *   IF patient is adult:
+            *   THEN Tab. prazosin 1-20 g OD at bed time.
+
+    *   CLONIDINE:
+        *   IF patient is adult:
+            *   THEN Tab. clonidine 0.05-0.6 mg BD.
+        *   IF patient is adult:
+            *   THEN Tab. methyldopa 250-1000 mg OD.
+
+6.  CONTRAINDICATIONS:
+    *   IF patient is pregnant:
+        *   THEN DO NOT use alpha methyl dopa (this is actually a treatment, not a contraindication, but the guideline lists it specifically for pregnancy).
+    *   IF patient has pheochromocytoma and accelerated hypertension:
+        *   THEN use Inj. phentolamine 5-15 mg IV.
+    *   IF patient has specific conditions (not detailed in the text, but implied for certain drug classes):
+        *   THEN check contraindications for specific drug classes (e.g., ACEI in pregnancy, beta-blockers in severe asthma/COPD, etc.).
+```

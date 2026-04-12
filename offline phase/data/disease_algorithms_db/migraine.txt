@@ -1,0 +1,63 @@
+```text
+DISEASE: Migraine
+
+ABBREVIATIONS:
+- PO: Per Os (by mouth)
+- BD: Bis in die (twice a day)
+- OD: Omne die (once a day)
+- NSAIDs: Nonsteroidal anti-inflammatory drugs
+- Tab: Tablet
+
+DIAGNOSTICS:
+- Repeated attacks of headache lasting 4–72 hours.
+- Normal physical examination.
+- No other reasonable cause for the headache.
+- At least 2 of the following features:
+    - Unilateral pain.
+    - Throbbing pain aggravated by movement.
+    - Moderate or severe intensity.
+- Along with one of the following features:
+    - Nausea/vomiting.
+    - Photophobia.
+    - Phonophobia.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    IF Patient presents with symptoms consistent with Migraine diagnosis (as per DIAGNOSTICS) THEN
+        Proceed to treatment options.
+    ELSE
+        Consider alternative diagnoses.
+    ENDIF
+
+2.  **Non-pharmacological Treatment:**
+    - Advise avoidance of migraine triggers (e.g., lack of sleep, chocolates, wine).
+    - Advise suitable lifestyle modifications.
+
+3.  **Pharmacological Treatment - Acute Attack:**
+    IF Migraine attack is mild to moderate THEN
+        - Consider combination of acetaminophen, aspirin, and caffeine.
+    ELSEIF Migraine attack is moderate to severe OR NSAIDs/analgesics fail THEN
+        IF Patient can take oral tablets THEN
+            - Option 1: Administer Tab. sumatriptan 50 mg PO.
+            - Option 2: Administer Tab. sumatriptan 100 mg PO.
+            - Option 3: Administer Tab. zolmitriptan 2.5 mg PO.
+        ELSEIF Patient has early nausea or difficulty taking tablets THEN
+            - Option 1: Administer zolmitriptan 5 mg nasal spray.
+            - Option 2: Administer sumatriptan 20 mg nasal spray.
+        ELSE
+            - Consider parenteral administration of drugs like dihydroergotamine or sumatriptan for rapid relief.
+        ENDIF
+    ENDIF
+
+4.  **Pharmacological Treatment - Preventive Therapy:**
+    IF Patient has increasing frequency of migraine attacks (e.g., five or more attacks a month) OR attacks are unresponsive/poorly responsive to abortive treatments THEN
+        Consider preventive agents.
+        - Option 1: Administer Tab. propranolol 40–120 mg BD.
+        - Option 2: Administer Tab. sodium valproate 400–600 mg BD.
+        - Option 3: Administer Tab. topiramate 25–200 mg/d OD.
+    ENDIF
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for specific drugs, but general contraindications for each drug class would apply based on standard medical practice).
+```

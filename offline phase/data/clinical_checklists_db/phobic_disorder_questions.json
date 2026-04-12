@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "Does the patient prefer non-pharmacological treatment? (Yes/No)",
+        "Is non-pharmacological treatment insufficient? (Yes/No)"
+    ]
+}

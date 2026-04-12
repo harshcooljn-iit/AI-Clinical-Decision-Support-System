@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "Does the patient need pain relief? (Yes/No)",
+        "What is the patient's exact age in years?",
+        "Is this a complicated case? (Yes/No)",
+        "Does the patient have nasal congestion? (Yes/No)",
+        "Is there no clinical improvement by the 3rd day? (Yes/No)",
+        "Is there intense pain OR bulging of the ear drum OR persisting fever despite treatment? (Yes/No)"
+    ]
+}

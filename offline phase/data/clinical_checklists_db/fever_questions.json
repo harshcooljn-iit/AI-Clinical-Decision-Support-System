@@ -1,0 +1,11 @@
+{
+    "questions": [
+        "Is the fever low-grade? (Yes/No)",
+        "Is the febrile illness suggestive of a viral or bacterial cause? (Yes/No)",
+        "Is non-pharmacological treatment indicated? (Yes/No)",
+        "Is pharmacological treatment indicated? (Yes/No)",
+        "Which antipyretic is chosen? (Paracetamol/Ibuprofen)",
+        "Is specific treatment needed based on clinical and laboratory evaluation? (Yes/No)",
+        "Has a diagnosis been reached within 3 weeks? (Yes/No)"
+    ]
+}

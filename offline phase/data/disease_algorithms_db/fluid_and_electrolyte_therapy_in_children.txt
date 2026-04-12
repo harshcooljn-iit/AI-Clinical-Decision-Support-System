@@ -1,0 +1,103 @@
+```text
+DISEASE: Fluid And Electrolyte Therapy In Children
+
+ABBREVIATIONS:
+- GIT: Gastrointestinal Tract
+- N/5: Normal Saline (0.9% NaCl) - Note: Text mentions 0.18% NaCl, which is likely a typo or specific formulation. The common N/5 is 0.9%. Assuming N/5 refers to 0.9% NaCl unless otherwise specified.
+- ml: Milliliter
+- kg: Kilogram
+- m<sup>2</sup>: Square meter
+- Dextrose: Glucose
+- mmol: Millimole
+- NaCl: Sodium Chloride
+- KCl: Potassium Chloride
+- IV: Intravenous
+
+DIAGNOSTICS:
+- Assessment of hydration status (e.g., clinical signs like skin turgor, mucous membrane moisture, capillary refill, urine output, vital signs).
+- Evaluation of electrolyte imbalances (e.g., serum sodium, potassium, chloride, bicarbonate levels).
+- Consideration of underlying conditions causing fluid/electrolyte disturbances (e.g., diarrhea, vomiting, fever, renal failure, cardiac failure).
+
+TREATMENT ALGORITHM:
+
+1.  **Determine Patient Age and Weight:**
+    IF Age is unknown, estimate based on clinical presentation.
+    IF Weight is unknown, estimate based on age or clinical assessment.
+
+2.  **Calculate Baseline Maintenance Fluid Requirement:**
+
+    IF Weight is between 3 kg and 10 kg:
+        Maintenance Fluid = 100 ml/kg/day
+
+    IF Weight is between 10 kg and 20 kg:
+        Maintenance Fluid = (1000 ml) + (50 ml/kg/day * (Weight in kg - 10))
+
+    IF Weight is greater than 20 kg:
+        Maintenance Fluid = (1500 ml) + (20 ml/kg/day * (Weight in kg - 20))
+
+3.  **Calculate Maintenance Fluid Requirement for Newborns (Age < 28 days):**
+
+    IF Age is 1 day:
+        Total Fluids = 60 ml/kg/day
+        Glucose/Dextrose = 10% Dextrose in water
+        Electrolytes = None
+
+    IF Age is 2 days:
+        Total Fluids = 70-80 ml/kg/day
+        Glucose/Dextrose = 10% Dextrose in water
+        Electrolytes = None
+
+    IF Age is 3 days:
+        Total Fluids = 80-90 ml/kg/day
+        Glucose/Dextrose = 10% Dextrose in water
+        Electrolytes = Sodium 2-3 mmol/kg/day, Potassium 2 mmol/kg/day
+
+    IF Age is 4 days:
+        Total Fluids = 90-100 ml/kg/day
+        Glucose/Dextrose = 10% Dextrose in water
+        Electrolytes = Sodium 2-3 mmol/kg/day, Potassium 2 mmol/kg/day
+
+    IF Age is 5 days:
+        Total Fluids = 100-110 ml/kg/day
+        Glucose/Dextrose = 10% Dextrose in water
+        Electrolytes = Sodium 2-3 mmol/kg/day, Potassium 2 mmol/kg/day
+
+    IF Age is 6 days:
+        Total Fluids = 110-120 ml/kg/day
+        Glucose/Dextrose = 10% Dextrose in water
+        Electrolytes = Sodium 2-3 mmol/kg/day, Potassium 2 mmol/kg/day
+
+4.  **Adjust Maintenance Fluid Requirement based on Newborn Weight (if applicable):**
+
+    IF Age is > 7 days AND Age is <= 28 days AND Weight is < 1500 g:
+        Adjusted Total Fluids = (Normal Total Fluids for Age) + (10-20 ml/kg/day)
+        IF Adjusted Total Fluids > 150 ml/kg/day:
+            Adjusted Total Fluids = 150 ml/kg/day
+
+5.  **Adjust Maintenance Fluid Requirement based on Clinical Conditions:**
+
+    IF Fever is present (Temperature > 37.5°C):
+        Fluid Increase = 10 ml/kg/day for every 1°C increase above 37.5°C
+        Total Maintenance Fluid = (Baseline Maintenance Fluid) + (Fluid Increase)
+
+    IF Phototherapy is present:
+        Fluid Increase = 10-20 ml/kg/day
+        Total Maintenance Fluid = (Baseline Maintenance Fluid) + (Fluid Increase)
+
+    IF Congestive Cardiac Failure is present:
+        Total Maintenance Fluid = (Baseline Maintenance Fluid) * (2/3)
+
+    IF Renal Failure is present (decreased urinary output):
+        Total Maintenance Fluid = (400 ml/m<sup>2</sup>/day) + (Urinary Output over the day)
+        IF Acute Renal Failure is suspected:
+            Potassium should be added with caution or omitted.
+
+6.  **Select Intravenous Maintenance Fluid:**
+    - Commonly used fluid: N/5 (0.18%) sodium chloride in 5% glucose + potassium chloride 20 mEq/Liter (e.g., Isolyte P, Kidral).
+    - Adjust electrolyte content as needed based on specific patient requirements and laboratory values.
+
+CONTRAINDICATIONS:
+- **Potassium Supplementation in Renal Failure:** Potassium should be added with caution or omitted in suspected cases of acute renal failure due to the risk of hyperkalemia.
+- **Excessive Fluid in Congestive Cardiac Failure:** Overly aggressive fluid administration can worsen cardiac failure. Fluid requirements should be reduced.
+- **Specific Fluid Types:** Contraindications depend on the specific fluid composition. For example, fluids high in sodium might be contraindicated in certain conditions like SIADH, while fluids high in potassium might be contraindicated in hyperkalemia or renal failure.
+```

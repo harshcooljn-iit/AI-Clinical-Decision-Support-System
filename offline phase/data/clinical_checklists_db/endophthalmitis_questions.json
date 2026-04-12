@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "What type of endophthalmitis is it? (Post-operative, Traumatic, Fungal)",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have any known drug allergies? (Yes/No)",
+        "If yes, please specify the allergy:",
+        "Is visual acuity limited to light perception? (Yes/No)",
+        "Has the patient responded poorly to treatment in the last 30-36 hours? (Yes/No)"
+    ]
+}

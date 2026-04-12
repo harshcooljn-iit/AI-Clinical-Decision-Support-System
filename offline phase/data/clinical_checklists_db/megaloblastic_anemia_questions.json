@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "What is the specific deficiency diagnosed (Folic Acid or Vitamin B12)?",
+        "What is the patient's exact age in years?",
+        "If Vitamin B12 Deficiency is diagnosed, is the chosen route Oral/sublingual or Parenteral?"
+    ]
+}

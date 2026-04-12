@@ -1,0 +1,20 @@
+```text
+DISEASE: Dissociative Disorder
+
+ABBREVIATIONS:
+- None found in the provided text.
+
+DIAGNOSTICS:
+- Dissociative amnesia: Disturbances in recalling important personal information, usually traumatic, extensive memory loss causing socio-occupational impairment.
+- Dissociative fugue: Sudden, unexpected travel with inability to recall past events, partial/complete new identity assumption, causing socio-occupational impairment.
+- Dissociative identity disorder: Presence of two or more distinct personalities/identities controlling behavior, often with inability to recall personal information.
+
+TREATMENT ALGORITHM:
+IF DISEASE is Dissociative Disorder THEN
+    - Psychotherapeutic interventions are the mainstay of treatment.
+        - Options include psychoanalytic psychotherapy, cognitive psychotherapy, behavioral therapy, and hypnotherapy.
+    - Pharmacological treatment may be used.
+        - Options include antidepressants and antipsychotics.
+        - Note: Limited benefits reported for pharmacological treatment.
+ENDIF
+```

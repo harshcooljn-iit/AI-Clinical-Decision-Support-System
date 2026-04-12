@@ -1,0 +1,54 @@
+```text
+DISEASE: Constipation
+
+ABBREVIATIONS:
+- UTI: Urinary Tract Infection
+- ml: milliliter
+- kg: kilogram
+- day: daily
+
+DIAGNOSTICS:
+- Defined as passage of hard stools difficult to pass, irrespective of frequency.
+- Passage of stool less than twice a week is considered constipation.
+- Symptoms include fretfulness, poor appetite, intermittent abdominal pain, distension, retentive posturing, history of recurrent UTI, impaired weight gain.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    IF Constipation is diagnosed based on symptoms and frequency, THEN proceed to treatment.
+
+2.  **Non-Pharmacological Treatment:**
+    IF Constipation is present, THEN implement non-pharmacological measures:
+    - Ensure adequate fluid intake.
+    - IF infant is not breast-fed, THEN add extra sugar to cow's milk.
+    - Add fiber (cereals, pulses, vegetables, salads, fruits, isabgol).
+    - Implement toilet training (use bathroom after meals).
+    - Maintain evacuation calendar.
+    - Use positive reinforcement for successful toileting; avoid punishment.
+
+3.  **Pharmacological Treatment (Initial):**
+    IF non-pharmacological measures are insufficient, THEN consider pharmacological options:
+    - Option 1: Agarol 2.5-10 ml/day (infants) or 40-90 ml/day (children) in 3-4 divided doses.
+    - Option 2: Lactulose 2.5-10 ml/day (infants) or 40-90 ml/day (children) in 3-4 divided doses.
+    - Option 3: Mineral oil (liquid paraffin) 5-15 ml/kg/day.
+    - Option 4: Milk of magnesia 0.5-3 ml/kg/day.
+    - Titrate dose to produce at least one stool/day.
+
+4.  **Severe Cases / Failure of Initial Therapy:**
+    IF initial pharmacological therapy fails OR constipation is severe, THEN consider further interventions:
+    - Enemas may be used.
+    - IF severe cases with faecoliths, THEN enemas may be required daily or on alternate days for initial few days.
+    - IF severe cases with faecal soiling, THEN bowel cleaning/disimpaction may be required with enemas 1-2/day or suppositories 1-2/day in initial stages.
+    - IF very severe cases with multiple faecoliths, failed medical treatment, mental retardation, THEN surgical disimpaction may be considered.
+
+5.  **Suspected Surgical Cause:**
+    IF a surgical cause (e.g., imperforate anus, Hirschsprung's disease, low intestinal obstruction) is suspected, THEN investigate and treat accordingly.
+
+6.  **Patient Education:**
+    - Explain the importance of dietary modifications.
+    - Do not abandon treatment early after recovery.
+    - Bowel training should use only positive reinforcement; avoid negative reinforcement.
+
+CONTRAINDICATIONS:
+- (None specified in the text for the listed medications, but general contraindications apply based on patient factors not mentioned here).
+```

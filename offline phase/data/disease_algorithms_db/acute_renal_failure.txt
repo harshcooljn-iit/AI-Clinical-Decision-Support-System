@@ -1,0 +1,57 @@
+```text
+DISEASE: Acute Renal Failure (ARF)
+
+ABBREVIATIONS:
+- ARF: Acute Renal Failure
+- GFR: Glomerular Filtration Rate
+- CCF: Congestive Cardiac Failure
+- NSAIDs: Nonsteroidal Anti-inflammatory Drugs
+- Inj: Injection
+- JVP: Jugular Venous Pressure
+- FeNa: Fractional Excretion of Sodium
+- PO4: Phosphate
+
+DIAGNOSTICS:
+- Rapid decline in renal function (GFR) over hours to days.
+- Rising creatinine values.
+- Clinical signs/symptoms (anorexia, fatigue, mental status changes, nausea/vomiting, pruritus, shortness of breath, pericardial rub, pedal edema, pulmonary rales, raised JVP, seizures).
+- Investigations (Blood: Urea, Creatinine, Serum Electrolytes, Serum Calcium, Serum PO4, Serum Albumin; Urine Analysis: casts, WBCs, epithelial cells, muddy brown appearance; FeNa calculation).
+
+TREATMENT ALGORITHM:
+
+// Initial Assessment
+IF ARF is suspected based on clinical presentation and rising creatinine THEN
+    // Determine Etiology
+    IF etiology is Pre-renal THEN
+        // Treatment for Pre-renal ARF
+        Hydrate with Inj. normal saline 0.9%.
+        Eliminate toxins if present.
+        Treat underlying cause (e.g., hypovolemia, low cardiac output, sepsis, NSAID use).
+    ELSE IF etiology is Renal THEN
+        // Treatment for Renal ARF
+        Eliminate toxins.
+        Consult Nephrology.
+    ELSE IF etiology is Post-renal THEN
+        // Treatment for Post-renal ARF
+        Relieve obstruction.
+        Consult Urology.
+    ENDIF
+
+    // Indications for Dialysis
+    IF hyperkalemia is present THEN
+        Consider Dialysis.
+    ENDIF
+    IF metabolic Acidosis is present THEN
+        Consider Dialysis.
+    ENDIF
+    IF volume Overload is present THEN
+        Consider Dialysis.
+    ENDIF
+    IF encephalopathy is present THEN
+        Consider Dialysis.
+    ENDIF
+    IF pericarditis is present THEN
+        Consider Dialysis.
+    ENDIF
+ENDIF
+```

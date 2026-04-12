@@ -1,0 +1,20 @@
+{
+    "questions": [
+        "What is the patient's systolic blood pressure (mmHg)?",
+        "What is the patient's diastolic blood pressure (mmHg)?",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have Coronary Artery Disease (CAD)? (Yes/No)",
+        "Does the patient have Left Ventricular Hypertrophy (LVH)? (Yes/No)",
+        "Does the patient have Cerebrovascular Accidents (CVA)? (Yes/No)",
+        "Does the patient have Transient Ischemic Attacks (TIA)? (Yes/No)",
+        "Does the patient have Congestive Cardiac Failure (CCF)? (Yes/No)",
+        "Does the patient have diabetes mellitus? (Yes/No)",
+        "Does the patient have Chronic Kidney Disease (CKD)? (Yes/No)",
+        "Does the patient have dyslipidemia? (Yes/No)",
+        "Does the patient have pheochromocytoma? (Yes/No)",
+        "Does the patient have papilledema or other signs of vascular damage? (Yes/No)",
+        "What is the patient's race/ethnicity (e.g., Black or African American)?",
+        "What is the patient's age in years?",
+        "What is the patient's estimated Glomerular Filtration Rate (eGFR) in mL/min/1.73 m\u00b2?"
+    ]
+}

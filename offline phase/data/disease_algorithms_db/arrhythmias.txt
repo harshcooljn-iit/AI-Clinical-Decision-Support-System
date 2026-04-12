@@ -1,0 +1,25 @@
+```text
+DISEASE: Arrhythmias
+
+ABBREVIATIONS:
+- ECG: Electrocardiogram
+- SVT: Supraventricular Tachycardia
+- VT: Ventricular Tachycardia
+
+DIAGNOSTICS:
+- Clinical presentation (palpitation, breathlessness, syncope, chest pain, visual disturbances, tachycardia/bradycardia, hypo/hypertension).
+- ECG changes specific to the type of arrhythmia (SVT, VT, bradyarrhythmias).
+
+TREATMENT ALGORITHM:
+IF Arrhythmia type is Supraventricular Tachycardia (SVT) THEN
+    // Treatment for SVT would go here (not specified in the provided text)
+ELSE IF Arrhythmia type is Ventricular Tachycardia (VT) THEN
+    // Treatment for VT would go here (not specified in the provided text)
+ELSE IF Arrhythmia type is Bradyarrhythmia THEN
+    // Treatment for Bradyarrhythmia would go here (not specified in the provided text)
+ENDIF
+
+// The provided text does not contain specific treatment algorithms or dosages.
+// It only lists salient features and types of arrhythmias.
+// Therefore, the algorithm cannot be fully constructed from this text.
+```

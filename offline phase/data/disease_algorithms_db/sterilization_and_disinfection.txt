@@ -1,0 +1,67 @@
+```text
+DISEASE: Sterilization And Disinfection
+
+ABBREVIATIONS:
+- lb/in<sup>2</sup>: pounds per square inch
+- H<sub>2</sub>O<sub>2</sub>: Hydrogen Peroxide
+- C<sub>6</sub>H<sub>5</sub>Cl: Chlorhexidine
+- C<sub>6</sub>H<sub>5</sub>OH: Phenol
+- C<sub>6</sub>H<sub>5</sub>O: Carbolic acid
+- C<sub>6</sub>H<sub>4</sub>O<sub>2</sub>: Chloroxylenol (Dettol)
+- C<sub>6</sub>H<sub>5</sub>O<sub>2</sub>: Povidone-iodine (Betadine)
+- C<sub>2</sub>H<sub>5</sub>OH: Ethyl alcohol
+- C<sub>6</sub>H<sub>6</sub>O<sub>3</sub>: Proflavin
+- C<sub>6</sub>H<sub>6</sub>O<sub>2</sub>: Aldehydes (Cidex)
+
+DIAGNOSTICS:
+- Not applicable (This guideline describes methods, not diagnosis of a disease).
+
+TREATMENT ALGORITHM:
+
+Sterilization Methods:
+
+IF the method is Heat:
+  IF the heat is Dry heat:
+    THEN the temperature required is 160°C for at least 60 minutes.
+  ELSE IF the heat is Moist heat (e.g., autoclave):
+    THEN the conditions are pressurized steam at 121°C and 15 lb/in<sup>2</sup> for 15 minutes.
+  ELSE
+    THEN the heat method is not specified.
+
+ELSE IF the method is Irradiation:
+  THEN the type is Gamma radiation, effective for inorganic material.
+
+ELSE IF the method is Filtration:
+  THEN the type is ultrafine membrane filters for air or fluids.
+  THEN this method is rarely useful in hospital practice.
+
+ELSE IF the method is Chemical:
+  IF the chemical is Acids/alkalis (e.g., bleach):
+    THEN it is effective for non-human contact use.
+  ELSE IF the chemical is Alcohols/phenols (e.g., ethyl alcohol, carbolic acid, chloroxylenols, phenol):
+    THEN it is used for skin swabs, hand disinfection, etc.
+  ELSE IF the chemical is Oxidizers (e.g., povidone-iodine, H<sub>2</sub>O<sub>2</sub>):
+    THEN it is used for skin disinfection, surgical scrubbing, superficial wound cleansing.
+  ELSE IF the chemical is Aldehydes (e.g., Cidex):
+    THEN it is used for surgical instruments such as endoscopes.
+  ELSE IF the chemical is Cationic solutions (e.g., Chlorhexidine):
+    THEN it is used as antiseptic washes.
+  ELSE IF the chemical is Organic dyes (e.g., Proflavin):
+    THEN it is used for antisepsis.
+  ELSE
+    THEN the chemical method is not specified.
+
+Antisepsis Principles:
+
+IF performing antisepsis:
+  THEN Always remove gross contamination with simple soap first.
+  IF the surface is inert:
+    IF the material is delicate:
+      THEN Use less corrosive oxidizers.
+    ELSE
+      THEN Use high potency acid/alkali disinfection.
+  ELSE IF the surface is skin:
+    THEN Use weak alcohols or oxidizers for skin cleansing.
+  ELSE
+    THEN the surface type is not specified.
+```

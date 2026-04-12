@@ -1,0 +1,19 @@
+{
+    "questions": [
+        "What is the time elapsed since admission in minutes?",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have active internal bleeding? (Yes/No)",
+        "Does the patient have a history of sub-arachnoid or intra-cerebral hemorrhage? (Yes/No)",
+        "Has the patient had a non-hemorrhagic stroke within the last 1 year? (Yes/No)",
+        "Is the patient's systolic blood pressure > 180 mmHg? (Yes/No)",
+        "Is the patient's diastolic blood pressure > 110 mmHg? (Yes/No)",
+        "Is the patient currently using anti-coagulants? (Yes/No)",
+        "Has the patient had an invasive surgical procedure within the last 2 weeks? (Yes/No)",
+        "Has the patient had prolonged (> 10 min) cardiopulmonary resuscitation recently? (Yes/No)",
+        "Does the patient have a known bleeding diathesis? (Yes/No)",
+        "Does the patient have hemorrhage prone ophthalmic conditions? (Yes/No)",
+        "Does the patient have an active peptic ulcer or disease? (Yes/No)",
+        "Does the patient have a recent history of severe hypertension? (Yes/No)",
+        "Has the patient received streptokinase within the preceding 5 days to 2 years? (Yes/No)"
+    ]
+}

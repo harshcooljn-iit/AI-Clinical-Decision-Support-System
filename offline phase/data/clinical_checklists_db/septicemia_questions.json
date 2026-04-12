@@ -1,0 +1,13 @@
+{
+    "questions": [
+        "Is the patient an adult? (Yes/No)",
+        "Is the patient immunocompromised? (Yes/No)",
+        "Is gram-positive infection suspected? (Yes/No)",
+        "Is an anaerobic source suspected? (Yes/No)",
+        "Is Legionella a potential source? (Yes/No)",
+        "Does the patient have acidosis? (Yes/No)",
+        "Does the patient have DIC? (Yes/No)",
+        "Is suspected adrenal insufficiency present? (Yes/No)",
+        "Is the patient's blood pressure <70 mmHg despite dopamine? (Yes/No)"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "Is pharmacological treatment indicated? (Yes/No)",
+        "Is infection suspected? (Yes/No)",
+        "Is constipation present? (Yes/No)",
+        "Is there relief with local lignocaine application? (Yes/No)",
+        "Has pharmacological treatment failed or is it inappropriate? (Yes/No)"
+    ]
+}

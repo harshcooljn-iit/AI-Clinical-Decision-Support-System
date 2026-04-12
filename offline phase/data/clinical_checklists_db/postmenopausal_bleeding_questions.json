@@ -1,0 +1,14 @@
+{
+    "questions": [
+        "What is the patient's age in years?",
+        "Is the patient currently on Hormone Replacement Therapy (HRT)? (Yes/No)",
+        "Is there a palpable pelvic mass? (Yes/No)",
+        "Are there lesions suspicious of cancer on vulva, vagina, or cervix on examination or ultrasound? (Yes/No)",
+        "Is the patient experiencing postcoital bleeding (PCB)? (Yes/No)",
+        "If yes to PCB, for how long has it persisted? (in weeks)",
+        "Is the patient experiencing prolonged or unexpected bleeding that persists for more than 4 weeks after stopping HRT? (Yes/No)",
+        "Is the patient over 45 years with persistent abdominal distension or pain? (Yes/No)",
+        "Is the bleeding excessive? (Yes/No)",
+        "What is the identified cause of the Postmenopausal Bleeding (PMB)? (e.g., Benign neoplasm, HRT, Infection, Injury, Coagulation disorder, Endometritis, Atrophic vaginitis, Cancer, Unexplained)"
+    ]
+}

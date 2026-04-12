@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "What is the patient's weight in kilograms?",
+        "Does the patient have a fever (Temperature > 37.5\u00b0C)? (Yes/No)",
+        "Is the patient receiving phototherapy? (Yes/No)",
+        "Does the patient have congestive cardiac failure? (Yes/No)",
+        "Does the patient have renal failure (decreased urinary output)? (Yes/No)"
+    ]
+}

@@ -1,0 +1,54 @@
+```text
+DISEASE: Dental Caries
+
+ABBREVIATIONS:
+- None explicitly listed in the text.
+
+DIAGNOSTICS:
+- Examination for stage of caries (white/brown/black spots, cavitated lesions).
+- Assessment of symptoms (tooth sensitivity/ache to cold/sweet).
+
+TREATMENT ALGORITHM:
+
+IF patient has non-cavitated lesion AND is low risk AND has good oral hygiene practices
+    THEN no treatment is given.
+ELSE IF patient has cavitated lesion
+    THEN restoration is done.
+ENDIF
+
+IF patient is high risk (likely to progress caries)
+    THEN consider pit and fissure sealant.
+ENDIF
+
+IF patient has caries
+    THEN consider topical 2% sodium fluoride.
+ENDIF
+
+IF patient is caries active
+    THEN consider mouth wash with 0.2% chlorhexidine twice a day.
+ENDIF
+
+IF patient has caries
+    THEN advise fluorinated toothpaste or fluorinated mouthwashes.
+ENDIF
+
+Assessment of response to therapy:
+IF patient is caries active
+    THEN follow up visit every 3 months to check progression of lesions.
+ELSE IF patient is normal
+    THEN follow up every 6 months to 1 year to check for development of white spot cavitation.
+ENDIF
+
+Patient education/prevention:
+IF patient is caries active/high risk
+    THEN advise diet control and avoidance of sugar containing food.
+    THEN advise substitution of frequent sucrose ingestion with sugar-free foods.
+    THEN advise oral hygiene: brushing twice a day, flossing, thorough rinsing after every meal.
+    THEN consider Fluoride application using Topical 2% sodium fluoride (by dentist) 4 applications at weekly intervals at the age of 3, 7, 11 and 13 years.
+    THEN consider 0.05% sodium fluoride daily rinse (should not be swallowed).
+    THEN consider 0.2% sodium fluoride supervised weekly rinse in school (age of children >7 years) IF identified as caries active patients.
+ENDIF
+
+CONTRAINDICATIONS:
+- None specified in the text for the listed treatments.
+```

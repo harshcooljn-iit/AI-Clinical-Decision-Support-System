@@ -1,0 +1,92 @@
+```text
+DISEASE: Bipolar Mood Disorder
+
+ABBREVIATIONS:
+- ADHD: Attention-Deficit/Hyperactivity Disorder
+- EEG: Electroencephalogram
+- ECG: Electrocardiogram
+- MRI: Magnetic Resonance Imaging
+- PET: Positron Emission Tomography
+- CSF: Cerebrospinal Fluid
+- SSRI: Selective Serotonin Reuptake Inhibitor
+- SNRI: Serotonin-Norepinephrine Reuptake Inhibitor
+- MAOI: Monoamine Oxidase Inhibitor
+- TCA: Tricyclic Antidepressant
+- CBT: Cognitive Behavioral Therapy
+- DBT: Dialectical Behavior Therapy
+- IPT: Interpersonal Therapy
+- ECT: Electroconvulsive Therapy
+- EPS: Extrapyramidal Symptoms
+- NMS: Neuroleptic Malignant Syndrome
+- SIADH: Syndrome of Inappropriate Antidiuretic Hormone Secretion
+- LFTs: Liver Function Tests
+- RFTs: Renal Function Tests
+- CBC: Complete Blood Count
+- ESR: Erythrocyte Sedimentation Rate
+- CRP: C-Reactive Protein
+- TSH: Thyroid-Stimulating Hormone
+- FT4: Free Thyroxine
+- HbA1c: Glycated Hemoglobin
+
+DIAGNOSTICS:
+- Characterized by episodes of mania and depression or mania alone with intervening periods of normalcy.
+- Diagnosis involves clinical assessment of mood episodes, history, and ruling out other conditions.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    IF patient presents with symptoms suggestive of a manic episode AND is known to have a history of depression:
+        THEN stop antidepressants.
+        IF patient is taking anti-manic medication:
+            THEN check compliance and dose.
+            IF antipsychotics are being taken:
+                THEN increase dose if necessary AND consider adding lithium or valproate.
+            ELSE IF lithium is being taken:
+                THEN check plasma levels.
+                IF levels are low:
+                    THEN consider increasing the dose to achieve levels of 1.0 to 1.2 mEq/L AND/OR consider adding antipsychotics.
+            ELSE IF valproate is being taken:
+                THEN check plasma levels.
+                IF levels are low:
+                    THEN consider increasing the dose if tolerated AND consider adding antipsychotics.
+        ELSE:
+            IF symptoms are severe:
+                THEN consider an antipsychotic.
+                THEN consider adding lithium (if future adherence likely) or valproate (avoid in women of childbearing potential).
+            IF response is inadequate (to antipsychotic alone or lithium/valproate):
+                THEN combine antipsychotic with lithium/valproate.
+        IN ALL PATIENTS (manic episode):
+            ADD short-term benzodiazepine (lorazepam or clonazepam), which can be tapered off.
+
+2.  **Treatment of Depressive Episode:**
+    IF patient presents with a depressive episode:
+        THEN treat as in major depressive disorder.
+        CONSIDER lamotrigine 25-100 mg as the treatment of choice.
+
+3.  **Prophylactic Treatment (Prevention of Recurrent Episodes):**
+    IF prophylactic treatment is indicated:
+        THEN administer one of the following:
+        - Lithium carbonate 900-1500 mg /day in divided doses.
+        - Sodium valproate 600-2000 mg /day in divided doses.
+        - Carbamazepine 600-1200 mg / day in divided doses.
+
+4.  **Dosage Schedule of Anti-Manic Drugs:**
+    IF Lithium is chosen:
+        THEN start with 600 to 900 mg/day after getting baseline investigations done.
+        ADJUST dose after 3-4 days according to plasma levels.
+        Initial dose can also be 400 mg/day adjusted after 3-4 days.
+    IF Sodium valproate is chosen:
+        THEN start with 200mg thrice a day.
+        GRADUALLY increase up to the per kg maximum dose (20-30 mg/kg/day for slow release) if no or less response.
+    IF Oxcarbazepine is chosen:
+        THEN start with 300mg.
+        BUILD UP to 1500 mg.
+        NOTE: Oxcarbazepine has lesser side effects than carbamazepine.
+
+CONTRAINDICATIONS:
+- Sodium valproate: AVOID in women of childbearing potential (due to teratogenicity).
+- Lithium:
+    IF patient develops fever, vomiting, or diarrhea while on lithium:
+        THEN reduce the dose of lithium to half and contact a physician or psychiatrist.
+    ADVISE patients on lithium to take plenty of fluids, especially during summer, and not to restrict salt intake.
+```

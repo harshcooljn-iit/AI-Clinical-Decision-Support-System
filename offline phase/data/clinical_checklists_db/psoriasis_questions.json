@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "What is the patient's Body Surface Area (BSA) involvement percentage?",
+        "Are there identifiable triggering factors? (Yes/No)",
+        "Is Methotrexate considered? (Yes/No)",
+        "Is Cyclosporine considered? (Yes/No)",
+        "Is Acitretin considered? (Yes/No)"
+    ]
+}

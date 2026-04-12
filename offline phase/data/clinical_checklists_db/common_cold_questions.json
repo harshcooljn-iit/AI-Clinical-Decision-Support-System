@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Does the patient have nasal stuffiness or obstruction? (Yes/No)",
+        "Does the patient require antihistamine therapy? (Yes/No)",
+        "Does the patient have malaise and/or fever? (Yes/No)",
+        "Does the patient have severe nasal obstruction? (Yes/No)"
+    ]
+}

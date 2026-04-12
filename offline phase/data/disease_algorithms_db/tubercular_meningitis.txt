@@ -1,0 +1,75 @@
+```text
+DISEASE: Tubercular Meningitis (TBM)
+
+ABBREVIATIONS:
+- CSF: Cerebrospinal Fluid
+- AFB: Acid-Fast Bacilli
+- IV: Intravenous
+- Tab: Tablet
+- Inj: Injection
+- VP Shunt: Ventriculoperitoneal Shunt
+- ICP: Intracranial Pressure
+- TB: Tuberculosis
+
+DIAGNOSTICS:
+- Lumbar puncture showing CSF with lymphocytic leucocytosis, elevated proteins, and low sugar level.
+- Demonstration of AFB in CSF confirms diagnosis (low yield).
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Management:**
+    *   Provide appropriate fluid therapy to correct dehydration.
+
+2.  **Steroid Therapy:**
+    *   IF patient is pediatric:
+        *   Administer Inj. dexamethasone 0.15 mg/kg IV every 6 hours for 2 weeks.
+        *   Follow with Tab. prednisolone 1.5 mg/kg/day orally (through feeding tube if necessary) for 4 weeks.
+        *   Taper the prednisolone dose over another 2 weeks.
+        *   Total duration of steroid therapy is recommended to be 6-8 weeks.
+
+3.  **Management of Increased Intracranial Pressure (ICP):**
+    *   IF increased ICP is present:
+        *   Administer Mannitol (20% solution) at a dose of 1.5 to 2 g/kg or 8-10 ml/kg over 30-60 minutes.
+        *   Repeat Mannitol every 6-8 hours for 7 days.
+        *   Alternatively, administer Glycerol at a dose of 1 ml/kg/dose every 6-8 hours, diluted in orange juice or water, given through feeding tube.
+        *   Alternatively, administer Tab. acetazolamide at a dose of 50 mg/kg/day, divided into 3 doses, for 2-3 weeks.
+
+4.  **Seizure Management:**
+    *   IF seizures are present:
+        *   Treat with phenytoin or carbamazepine in appropriate doses.
+
+5.  **Antitubercular Therapy:**
+    *   Administer specific antitubercular therapy as per standard guidelines for tuberculosis management.
+
+6.  **Hydrocephalus Management:**
+    *   IF hydrocephalus is present (degree unspecified, but often develops by 4 weeks):
+        *   Consider surgical treatment with a Ventriculoperitoneal (VP) Shunt.
+        *   IF obstructive hydrocephalus is present:
+            *   Shunt immediately.
+        *   IF non-obstructive hydrocephalus is present with increased intracranial pressure (shown by ventricular tap or CT scan):
+            *   VP shunt is beneficial.
+        *   An early shunt is preferable.
+
+7.  **Non-Pharmacological Treatment:**
+    *   Provide nutrition rehabilitation.
+    *   Ensure skin care and prevention of bedsores.
+    *   Provide care for bowel and bladder.
+    *   Institute physiotherapy and occupational therapy early to prevent deformities and contractures.
+
+8.  **Follow-up:**
+    *   Keep the patient under follow-up after discharge.
+    *   Assess for neurological deficit and features of increased ICP.
+    *   Check compliance with drugs.
+    *   Ensure continuation of occupational therapy/physiotherapy.
+    *   Assess physical, mental, visual, and auditory handicap.
+    *   Consider rehabilitation from specialists.
+
+9.  **Patient Education:**
+    *   Explain the seriousness of the disease.
+    *   Perform a contact survey.
+    *   Counsel family members with active TB to attend a TB clinic for therapy.
+    *   Explain the need for compliance with treatment.
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for the listed drugs, but standard contraindications apply based on drug properties and patient conditions).
+```

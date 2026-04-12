@@ -1,0 +1,42 @@
+```text
+DISEASE: Hydatid Disease Of Liver
+
+ABBREVIATIONS:
+- TC: Total Count (likely referring to white blood cell count)
+- DC: Differential Count (likely referring to white blood cell differential)
+- ELISA: Enzyme-Linked Immunosorbent Assay
+- CT: Computed Tomography
+- PAIR: Puncture, Aspiration, Injection, Reaspiration
+- TDS: Three times a day
+
+DIAGNOSTICS:
+- Clinical features: Asymptomatic, abdominal lump (RUQ), abdominal heaviness, obstructive jaundice, anaphylactic shock (cyst rupture).
+- Laboratory: Eosinophilia (TC, DC), positive ELISA.
+- Imaging: Ultrasound, CT scan (smooth space occupying lesion with septa).
+- WHO Classification: Group 1 (Active), Group 2 (Transition), Group 3 (Inactive).
+
+TREATMENT ALGORITHM:
+
+IF Pharmacological treatment is considered:
+    THEN Administer albendazole.
+    IF Albendazole is prescribed:
+        THEN Dosage: 400 mg TDS (three times a day).
+        THEN Duration: 28 days.
+        THEN Repeat: For 3 cycles.
+
+IF Surgical treatment is considered:
+    THEN Choose one of the following surgical options:
+        IF PAIR procedure is chosen:
+            THEN Perform Puncture, Aspiration, Injection (of a scolicidal agent), Reaspiration.
+        IF Radical pericystectomy is chosen:
+            THEN Perform Radical pericystectomy.
+        IF Partial pericystectomy is chosen:
+            THEN Perform Partial pericystectomy.
+        IF Hepatic segmentectomy is chosen:
+            THEN Perform Hepatic segmentectomy.
+    IF Scolicidal agents are used during surgery:
+        THEN Available agents: hypertonic saline 15%, cetrimide 3%.
+
+CONTRAINDICATIONS:
+(No specific contraindications for albendazole or surgical procedures are mentioned in the provided text. Contraindications would depend on patient factors not specified here.)
+```

@@ -1,0 +1,15 @@
+{
+    "questions": [
+        "Does the patient present with vertigo? (Yes/No)",
+        "Are Peripheral Vertigo features present? (Yes/No)",
+        "Is BPPV suspected? (Yes/No)",
+        "Is M\u00e9ni\u00e8re's disease suspected? (Yes/No)",
+        "Is Vestibular Migraine suspected? (Yes/No)",
+        "Is Psychosomatic Dizziness/vertigo suspected? (Yes/No)",
+        "Are acute vertigo symptoms present that need short-term control? (Yes/No)",
+        "If pharmacological treatment is chosen, which class is selected? (Antihistamine/Benzodiazepine/Anticholinergic)",
+        "Are Central Vertigo features present? (Yes/No)",
+        "Are vascular events, demyelination, or neoplasm suspected? (Yes/No)",
+        "Are CT/MRI brain, carotid vertebral doppler indicated? (Yes/No)"
+    ]
+}

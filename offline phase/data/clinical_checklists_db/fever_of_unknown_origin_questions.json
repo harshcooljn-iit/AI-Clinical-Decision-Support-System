@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "Is the patient taking any drugs? (Yes/No)",
+        "Does the fever produce discomfort? (Yes/No)",
+        "Are you considering empirical therapies (antibiotics, ATT, corticosteroids)? (Yes/No)",
+        "Are you considering glucocorticoids or NSAIDs? (Yes/No)",
+        "Are you starting a therapeutic trial? (Yes/No)"
+    ]
+}

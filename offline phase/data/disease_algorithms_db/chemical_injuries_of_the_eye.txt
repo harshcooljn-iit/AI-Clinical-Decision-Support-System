@@ -1,0 +1,82 @@
+```text
+DISEASE: Chemical Injuries Of The Eye
+
+ABBREVIATIONS:
+- SPK: Superficial punctate keratopathy
+- AC: Anterior chamber
+- IOP: Intraocular pressure
+- QID: Four times a day
+- BD: Twice a day
+- NSAIDs: Nonsteroidal anti-inflammatory drugs
+- EDTA: Ethylenediaminetetraacetic acid
+
+DIAGNOSTICS:
+- History (time, type of chemical, time to irrigation, irrigation type/duration, eye protection)
+- Slit-lamp examination with fluorescein staining (repeat if needed)
+- Eyelid eversion (for foreign bodies)
+- Evaluation for conjunctival ulcerations/defects
+- Check IOP
+
+TREATMENT ALGORITHM:
+
+IF Chemical injury occurs THEN
+  Perform Non pharmacological treatment
+  Perform Pharmacological treatment
+  Consider Surgical treatment if necessary
+ENDIF
+
+NON PHARMACOLOGICAL TREATMENT:
+  A. Copious irrigation:
+    - Place eyelid speculum.
+    - Instill topical anesthetic.
+    - Irrigate with saline or ringer lactate for at least 30 minutes.
+    - IF tap water is the only available solution THEN use tap water.
+    - Check pH.
+    - IF pH is not neutral THEN repeat irrigation.
+    - NEVER use acidic solutions to neutralize alkalis or vice versa.
+  B. Double-eversion of the upper eyelid:
+    - Perform to identify and remove retained particulate matter in fornices using a cotton tip applicator.
+    - IF calcium hydroxide particles are present THEN use a cotton-tipped applicator soaked in disodium ethylenediaminetetraacetic acid (EDTA).
+  C. Debridement:
+    - Debride necrosed areas of conjunctiva and cornea to promote healing.
+  D. Hospitalization:
+    - IF severe injury THEN require hospitalization for regular eye drop instillation.
+
+PHARMACOLOGICAL TREATMENT:
+  A. Steroids:
+    - Use to reduce inflammation.
+    - IF topical steroids are used THEN
+      - Use initially (usually 4–8 times daily).
+      - Strength depends on injury severity.
+      - Taper off after 7–10 days.
+    - ALTERNATIVE: Use topical NSAIDs (do not affect keratocyte function).
+  B. Cycloplegia:
+    - May be used to improve comfort.
+  C. Topical Antibiotics:
+    - Use for prophylaxis of bacterial infection.
+  D. Ascorbic acid:
+    - Use to improve wound healing and promote collagen synthesis.
+    - Administer topical sodium ascorbate 10% 2-hourly.
+    - Administer systemic vitamin C (L-ascorbic acid) 1–2 g QID.
+    - IF patient has renal disease THEN do not administer systemic vitamin C.
+  E. Tetracyclines:
+    - Consider IF significant corneal melting is present.
+    - Administer topically (tetracycline ointment QID).
+    - Administer systemically (doxycycline 100 mg BD tapering to once daily).
+  F. Symblepharon prevention:
+    - Prevent by lysis of developing adhesions with a sterile glass rod or damp cotton bud.
+
+SURGICAL TREATMENT:
+  - Early surgery may be necessary to promote limbal revascularization, restore limbal cell population, and re-establish fornices.
+  - Keratoplasty should be delayed for at least 6 months, preferably longer.
+  - Keratoprosthesis may be required for very severely damaged eyes.
+
+GRADING OF SEVERITY:
+  - Grade 1: Clear cornea (epithelial damage only), no limbal ischemia (excellent prognosis).
+  - Grade 2: Hazy cornea, visible iris details, <1/3 limbal ischemia (good prognosis).
+  - Grade 3: Total loss of epithelium, stromal haze obscuring iris, 1/3 to 1/2 limbal ischemia (guarded prognosis).
+  - Grade 4: Opaque cornea, >1/2 limbal ischemia (very poor prognosis).
+
+CONTRAINDICATIONS:
+  - Systemic vitamin C (L-ascorbic acid): IF patient has renal disease.
+```

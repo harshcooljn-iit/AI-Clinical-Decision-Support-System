@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "Does the patient require pharmacological treatment for withdrawal symptoms? (Yes/No)",
+        "Does the patient have muscular pains associated with withdrawal? (Yes/No)",
+        "Has the patient been opioid-free for at least 7-10 days? (Yes/No)",
+        "Does the patient require long-term treatment? (Yes/No)",
+        "Does the patient have significant liver disease (e.g., several-fold increase in serum transaminases)? (Yes/No)"
+    ]
+}

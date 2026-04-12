@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "Is the VT sustained or non-sustained?",
+        "Does the patient have organic cardiac disease? (Yes/No)",
+        "Is the patient haemodynamically stable? (Yes/No)",
+        "Is the patient symptomatic? (Yes/No)",
+        "Has Inj. lidocaine been administered? (Yes/No)",
+        "Has Inj. amiodarone been administered? (Yes/No)"
+    ]
+}

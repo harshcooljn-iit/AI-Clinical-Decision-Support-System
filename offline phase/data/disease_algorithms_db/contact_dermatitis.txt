@@ -1,0 +1,57 @@
+```text
+DISEASE: Contact Dermatitis
+
+ABBREVIATIONS:
+- Tab.: Tablet
+- mg: milligram
+- kg: kilogram
+- %: percent
+- Betamethasone valerate: Betamethasone valerate
+- Mometasone furoate: Mometasone furoate
+- Cetrizine: Cetrizine
+- Chlorpheniramine: Chlorpheniramine
+- Prednisolone: Prednisolone
+
+DIAGNOSIS: Clinical diagnosis based on history and physical examination findings (irritation, itching, pain, erythema, papules, vesicles, erosions, scaling, crusts). Lesions may or may not be confined to the site of contact.
+
+TREATMENT ALGORITHM:
+
+IF Non-pharmacological treatment is sufficient:
+    THEN Evaluate alleged contactants and advise avoidance.
+    THEN Apply wet compresses and soaks for exudative lesions.
+ELSE:
+    IF Pharmacological treatment is needed:
+        THEN Apply topical corticosteroids.
+            IF Topical corticosteroid is Betamethasone valerate:
+                THEN Apply Betamethasone valerate 0.05 % cream or ointment.
+            ELSE IF Topical corticosteroid is Mometasone furoate:
+                THEN Apply Mometasone furoate 0.05% cream or ointment.
+            ELSE:
+                THEN Apply other appropriate topical corticosteroid.
+        ENDIF
+        IF Infection is present:
+            THEN Administer topical and/or oral antibacterial agents.
+        ENDIF
+        IF Itching is significant:
+            THEN Administer oral antihistaminics.
+                IF Oral antihistaminic is Cetrizine:
+                    THEN Administer Tab. Cetrizine 10mg/day.
+                ELSE IF Oral antihistaminic is Chlorpheniramine:
+                    THEN Administer Tab. Chlorpheniramine 4mg/day.
+                ELSE:
+                    THEN Administer other appropriate oral antihistaminic.
+                ENDIF
+        ENDIF
+        IF Case is severe:
+            THEN Administer oral corticosteroids.
+                THEN Administer Tab. Prednisolone 0.5-1 mg/kg/day.
+        ENDIF
+    ENDIF
+    THEN Ensure regular follow up.
+ENDIF
+
+CONTRAINDICATIONS:
+- Topical corticosteroids: Use with caution in patients with known hypersensitivity. Specific contraindications depend on the specific corticosteroid used (e.g., fungal infections, acne rosacea, perioral dermatitis without physician supervision).
+- Oral corticosteroids (Prednisolone): Contraindicated in patients with known hypersensitivity, active untreated infections (especially fungal, bacterial, viral, tuberculosis), severe psychiatric disturbances, peptic ulcer disease, significant cardiovascular disease, diabetes mellitus, glaucoma, or cataracts without appropriate monitoring.
+- Oral antihistaminics (Cetrizine, Chlorpheniramine): Contraindicated in patients with known hypersensitivity. Use with caution in patients with narrow-angle glaucoma, prostatic hypertrophy, or cardiovascular disease.
+```

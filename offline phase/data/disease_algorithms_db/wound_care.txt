@@ -1,0 +1,120 @@
+```text
+DISEASE: Wound Care
+
+ABBREVIATIONS:
+- HRZE: Isoniazid, Rifampicin, Pyrazinamide, Ethambutol
+- H: Isoniazid
+- R: Rifampicin
+- Z: Pyrazinamide
+- E: Ethambutol
+- Tap water: Tap water
+- Saline: Normal saline
+- Oedema: Edema
+- Ischemia: Ischemia
+- Chlorhexidine: Chlorhexidine
+- Povidoneiodine: Povidoneiodine
+- Alcohol: Alcohol
+- Hydrogenperoxide: Hydrogen peroxide
+- Triclosan: Triclosan
+- Silver sulfadiazine: Silver sulfadiazine
+- Neomycin: Neomycin
+- Polymyxin: Polymyxin
+- Bacitracin: Bacitracin
+- Mupirocin: Mupirocin
+- Hydrocolloid gel: Hydrocolloid gel
+- Lanolin: Lanolin
+
+DIAGNOSTICS:
+- Classification as acute or chronic.
+- Chronic wounds defined as present for at least 6 weeks.
+- Identification of predisposing factors for chronic wounds (e.g., diabetes mellitus, peripheral arterial/venous disease, anemia, protein deficiency, rheumatoid arthritis, vasculitis, Cushing's syndrome, steroid therapy).
+- Identification of microorganism if infection is present.
+
+TREATMENT ALGORITHM:
+
+// Initial Assessment
+IF Wound is acute THEN
+    // Acute Wound Treatment
+    IF Wound is incompletely clotted THEN
+        // Minimize blood loss and avoid hematoma
+        Irrigate gently with copious quantities of water or normal saline.
+        Remove debris and necrotic tissue without damaging healthy tissue.
+        IF Large areas of fibrinous exudates or eschar THEN
+            Perform sharp mechanical debridement to expose viable tissue.
+        ENDIF
+        IF Areas difficult to access by sharp debridement THEN
+            Perform chemical debridement using topical antiseptics (chlorhexidine, povidoneiodine, alcohol, hydrogenperoxide, triclosan) or antibacterials (silver sulfadiazine, neomycin, polymyxin, bacitracin, mupirocin).
+        ENDIF
+        Apply dressings.
+        // Consider closure (immediate or delayed)
+        IF Delayed closure desired THEN
+            Delay closure for several days to allow infection to clear.
+        ENDIF
+    ELSE
+        // Standard acute wound care
+        Irrigate gently with copious quantities of water or normal saline.
+        Remove debris and necrotic tissue without damaging healthy tissue.
+        IF Necessary THEN
+            Perform sharp mechanical debridement.
+        ENDIF
+        IF Necessary THEN
+            Perform chemical debridement.
+        ENDIF
+        Apply dressings.
+    ENDIF
+ELSE
+    // Chronic Wound Treatment
+    Identify and treat predisposing factors (e.g., diabetes mellitus, peripheral arterial/venous disease, anemia, protein deficiency, rheumatoid arthritis, vasculitis, Cushing's syndrome, steroid therapy).
+
+    // Non-pharmacological treatment
+    Encourage daily or twice a day bath.
+    Advise against walking barefoot or with slippers; encourage wearing shoes and socks.
+    IF Leg ulcer present THEN
+        Advise reducing standing or excessive walking.
+        IF Leg ulcer due to chronic venous insufficiency or oedema THEN
+            Advise wearing elastic stockings.
+            Advise elevation of leg and foot end of bed while sleeping.
+            Advise leg exercises to activate calf muscle pump.
+        ENDIF
+    ENDIF
+
+    // Pharmacological treatment
+    IF Infection suspected or confirmed THEN
+        Identify the microorganism.
+        TREAT accordingly.
+        IF Tubercular ulcer THEN
+            Treat with anti tubercular drug (2HRZE+7HR) for at least 9 months.
+        ENDIF
+    ENDIF
+
+    // Surgical treatment
+    IF Ulcer associated with necrotic tissue or slough THEN
+        Perform surgical debridement.
+        Clean the wound with physiological normal saline or tap water only.
+    ENDIF
+
+    // Daily dressing selection
+    IF Clean and shallow ulcers without pus discharge or features of infection THEN
+        Use occlusive (moist ureretentive) dressings (Hydrocolloid gel).
+    ELSE
+        // Other dressing types may be considered based on specific wound characteristics.
+    ENDIF
+
+    IF Bleeding wounds or wounds with a cavity THEN
+        Use Calcium alginate dressing.
+    ENDIF
+ENDIF
+
+// Patient Education (Applicable to Chronic Wounds, especially leg ulcers)
+Explain about the care of leg ulcers, wearing socks, shoes, and compression stockings.
+Advise good personal hygiene (daily bath).
+Advise massaging the healed scar area with an emollient cream (e.g., lanolin or oil) after bath.
+Advise regular use of calf muscle activating exercises and leg elevation.
+Advise avoiding prolonged standing or sitting with legs down.
+IF Diabetic patient THEN
+    Advise control of diabetes.
+ENDIF
+
+CONTRAINDICATIONS:
+- Antiseptics (e.g., chlorhexidine, povidoneiodine, alcohol, hydrogenperoxide, triclosan) should NOT be used for wound cleaning after debridement, as they delay wound healing.
+```

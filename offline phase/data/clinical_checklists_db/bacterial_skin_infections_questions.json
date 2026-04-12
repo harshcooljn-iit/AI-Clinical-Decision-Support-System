@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "Is the bacterial skin infection localized (e.g., Impetigo, Folliculitis, Furuncle, Carbuncle, Ecthyma)? (Yes/No)",
+        "Are systemic symptoms (fever, malaise) present? (Yes/No)"
+    ]
+}

@@ -1,0 +1,40 @@
+```text
+DISEASE: Roundworm Infestation (Ascariasis)
+
+ABBREVIATIONS:
+- mg: milligram
+- kg: kilogram
+- Tab: Tablet
+- Syr: Syrup
+- hr: hour
+- day: day
+
+DIAGNOSTICS:
+- Not specified in the provided text, but typically involves stool examination for eggs.
+
+TREATMENT ALGORITHM:
+
+IF Patient Age is less than 2 years:
+    THEN Administer Syrup Albendazole 200 mg as a single dose.
+ELSE IF Patient Age is between 2 years and greater than 2 years:
+    THEN Administer Tablet Mebendazole 100 mg every 12 hours for 3 days.
+ELSE IF Patient Age is between 1 year and 2 years:
+    THEN Administer Syrup Albendazole 200 mg as a single dose.
+ELSE IF Patient Age is greater than 2 years:
+    THEN Administer Syrup Albendazole 400 mg as a single dose.
+
+ALTERNATIVE TREATMENT OPTIONS:
+
+IF Patient is NOT pregnant:
+    THEN Administer Tablet Pyrantel Pamoate 11 mg/kg as a single dose.
+ELSE IF Patient is NOT pregnant:
+    THEN Administer Tablet Albendazole 400 mg as a single dose.
+    IF Infestation is heavy:
+        THEN Administer Tablet Albendazole 400 mg for 2-3 days.
+
+CONTRAINDICATIONS:
+IF Drug is Mebendazole:
+    THEN DO NOT administer if Patient Age is less than 2 years.
+IF Drug is Pyrantel Pamoate OR Drug is Albendazole:
+    THEN DO NOT administer if Patient is pregnant.
+```

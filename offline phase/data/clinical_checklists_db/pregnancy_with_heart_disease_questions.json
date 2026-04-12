@@ -1,0 +1,14 @@
+{
+    "questions": [
+        "Does the patient have heart disease? (Yes/No)",
+        "Is the patient pregnant? (Yes/No)",
+        "What is the patient's NYHA class (I-IV)?",
+        "Does the patient have rheumatic heart disease? (Yes/No)",
+        "Does the patient have mechanical prosthetic valves? (Yes/No)",
+        "Does the patient require oral anticoagulants during pregnancy? (Yes/No)",
+        "Is Caesarean section required? (Yes/No)",
+        "Does the patient have intra cardiac shunts, aortic stenosis, pulmonary hypertension, or hypertrophic cardiomyopathy? (Yes/No)",
+        "Is the patient allergic to penicillin? (Yes/No)",
+        "Is the patient undergoing any operative procedure or in labour? (Yes/No)"
+    ]
+}

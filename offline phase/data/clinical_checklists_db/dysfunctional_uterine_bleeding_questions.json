@@ -1,0 +1,25 @@
+{
+    "questions": [
+        "Is the patient hemodynamically unstable? (Yes/No)",
+        "What is the patient's exact age in years?",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have liver disease? (Yes/No)",
+        "Does the patient have a history of thromboembolic disorder? (Yes/No)",
+        "Does the patient have cardiovascular disease? (Yes/No)",
+        "Does the patient have an estrogen-dependent neoplasm? (Yes/No)",
+        "Does the patient experience depression? (Yes/No)",
+        "Does the patient experience fluid retention? (Yes/No)",
+        "Does the patient experience fatigue? (Yes/No)",
+        "Does the patient experience insomnia? (Yes/No)",
+        "Does the patient experience dizziness? (Yes/No)",
+        "Does the patient experience nausea? (Yes/No)",
+        "Does the patient experience breast tenderness? (Yes/No)",
+        "Is the patient actively bleeding? (Yes/No)",
+        "Is this the first episode of acute bleeding? (Yes/No)",
+        "Is the patient >35 years old? (Yes/No)",
+        "Is the patient in puberty? (Yes/No)",
+        "Is contraception desired? (Yes/No)",
+        "Is fertility desired? (Yes/No)",
+        "Is the DUB anovulatory or ovulatory? (Anovulatory/Ovulatory/Unknown)"
+    ]
+}

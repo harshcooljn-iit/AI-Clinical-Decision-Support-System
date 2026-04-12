@@ -1,0 +1,128 @@
+```text
+DISEASE: Pre-Operative Assessment And Preparations
+
+ABBREVIATIONS:
+- Hb: Hemoglobin
+- TLC: Total Leukocyte Count
+- DLC: Differential Leukocyte Count
+- CT: Clotting Time
+- BT: Bleeding Time
+- ECG: Electrocardiogram
+- IV: Intravenous
+
+DIAGNOSTICS:
+- Preoperative assessment involves evaluating the patient's disease, condition, urgency of surgery, type of surgery, and potential risks/benefits.
+- Routine investigations include Hb, TLC, DLC, CT, BT, urine routine examination, chest X-ray (for patients over 30 years), and ECG (for patients over 30 years).
+- Special investigations may be needed based on the procedure and patient condition.
+
+TREATMENT ALGORITHM:
+
+1.  **Information Gathering:**
+    IF the patient is scheduled for surgery THEN
+    - Gather and record all relevant patient information concisely.
+    - Devise a plan to minimize surgical risks and maximize patient benefits.
+    - Consider potential adverse events and plan for their management.
+    - Ensure the patient (and relatives) understand the surgical plan, including benefits, risks, and alternatives.
+
+2.  **Preoperative Assessment:**
+    IF a surgical patient is identified THEN
+    - Evaluate the nature and extent of the disease.
+    - Evaluate the patient's overall condition and organ system status.
+    - Determine the relative urgency of the surgery.
+    - Consider the type of surgery and available alternatives.
+    - Assess the relative morbidity and mortality of the disease and the surgical procedure.
+    - Consult specialists (physician, cardiologist, anesthetist) if needed.
+    - Document current medications and known allergies.
+
+3.  **Informed Consent:**
+    IF surgery is planned THEN
+    - Obtain informed consent from the patient (and close relatives) after detailed discussion by the surgeon (or assistant).
+    - Discussion should cover the nature of the procedure, expected benefits, involved risks, and possible alternatives.
+    - Allow ample opportunity for questions and clarification.
+
+4.  **Preoperative Preparation - Investigations:**
+    IF the patient is undergoing surgery THEN
+    - Perform routine investigations: Hb, TLC, DLC, CT, BT, urine routine examination.
+    - IF the patient is over 30 years old THEN
+    - Perform chest X-ray and ECG.
+    - Perform special investigations as needed based on the procedure and patient condition.
+
+5.  **Preoperative Preparation - Patient Hygiene & Belongings:**
+    IF the patient is admitted pre-operatively THEN
+    - Remove lipstick, nail polish, and cosmetics that may mask cyanosis or interfere with pulse oximetry.
+    - Remove dentures, spectacles, contact lenses, artificial limbs, artificial eyes, hearing aids, jewelry, cash, and mobile phones before moving to the operating theatre.
+
+6.  **Preoperative Preparation - Withholding Feeds:**
+    IF the patient is undergoing surgery THEN
+    - Withhold feeds before surgery based on the patient's age, type of anesthesia, and nature of the surgery. (Specific guidelines not provided in text).
+
+7.  **Preoperative Preparation - Bathing & Clothing:**
+    IF possible, THEN
+    - Have the patient take a bath on the day before and the morning of surgery, paying special attention to the operative area.
+    - Ensure the patient wears only clean hospital clothing.
+
+8.  **Preoperative Preparation - Hair Removal:**
+    IF hair removal is necessary THEN
+    - Perform hair removal as close to the time of surgery as possible.
+    - IF shaving is required THEN
+    - Shave immediately before surgery.
+    - Use a clipper or chemical depilator instead of shaving to minimize skin damage and reduce postoperative wound infection risk.
+    - Ask about history of allergic reactions to chemical solutions.
+
+9.  **Preoperative Preparation - Skin Scrubbing:**
+    IF scrubbing is performed THEN
+    - Work away from the operative site during scrubbing.
+    - Wash visibly soiled skin with soap and water before using surgical scrub.
+    - Administer preanesthetic medication as per policy.
+
+10. **Preoperative Preparation - Skin Antisepsis:**
+    IF skin preparation is required THEN
+    - Use one of the following surgical scrubs:
+        - Povidone-iodine (combined with detergent)
+        - Chlorhexidine gluconate (alone or with cetrimide)
+        - Alcohol (70% ethyl or isopropyl alcohol)
+
+11. **Preoperative Preparation - Drug Treatment:**
+    IF relevant THEN
+    - Administer prophylactic antibiotics (see specific antibiotic prophylaxis guidelines).
+    - Administer antihypertensives, IV fluids, anticoagulants, Vitamin K, etc., as indicated.
+
+12. **Preoperative Preparation - Non-Drug Treatment:**
+    IF relevant THEN
+    - Perform rectal washouts or stomach wash.
+
+13. **Handling Medicolegal Cases:**
+    IF the case is medicolegal THEN
+    - Provide first aid.
+    - Stabilize the patient.
+    - Guide and help in transferring the patient to an appropriate center.
+    - Send information (in duplicate) to the police.
+    - Prepare a medicolegal report.
+    - Preserve and seal clothes, fluid, and stain samples as indicated.
+    - Respond to information requests from the police.
+    - Arrange for a dying declaration if indicated.
+    - Preserve all X-rays and patient records.
+    - Respond to court summons.
+    - IF death occurs, handover the body to the police.
+    - IF discharge/referral occurs, inform the police.
+
+14. **Care During Transfer (Emergency):**
+    IF an emergency transfer is required THEN
+    - Identify the degree of emergency.
+    - Perform resuscitative measures (manage shock, provide oxygen).
+    - Transfer in a well-equipped ambulance to the appropriate referral center.
+    - Obtain prior intimation and confirmation of readiness at the referral center.
+    - Have a doctor or paramedical staff accompany the patient.
+    - Prepare a referral slip containing:
+        - Patient's condition upon initial presentation.
+        - Diagnosis and resuscitative measures taken.
+        - Reasons for referral.
+        - Referral destination.
+        - Precautions advised during transportation.
+        - Other relevant information (staff, equipment, communication).
+
+CONTRAINDICATIONS:
+- Povidone-iodine: May cause patient skin sensitivity occasionally.
+- Chlorhexidine gluconate: Should be avoided in preparation of the eye. Not effective in presence of organic material (soap, sand, oils, blood, body fluids).
+- Alcohol (70% ethyl or isopropyl alcohol): Should not be used on mucus membranes or open wounds (causes desiccation). All traces must be dry before applying drapes.
+```

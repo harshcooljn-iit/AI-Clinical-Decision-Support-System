@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Is the patient undergoing surgery? (Yes/No)",
+        "What is the patient's exact age in years?",
+        "Does the patient have any known allergies? (Yes/No)",
+        "Is the patient over 30 years old? (Yes/No)"
+    ]
+}

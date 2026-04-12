@@ -1,0 +1,13 @@
+{
+    "questions": [
+        "Does an underlying cause for the fistula exist? (Yes/No)",
+        "Is surgical procedure needed for eradication of the tract? (Yes/No)",
+        "Is the fistula complex (high transsphincteric, suprasphincteric, extrasphincteric)? (Yes/No)",
+        "Is the fistula multiple? (Yes/No)",
+        "Is the fistula recurrent after previous fistulotomy? (Yes/No)",
+        "Is the patient female and the fistula anterior? (Yes/No)",
+        "Are preoperative sphincter pressures poor? (Yes/No)",
+        "Does the patient have Crohn\u2019s disease? (Yes/No)",
+        "Is the patient immunosuppressed? (Yes/No)"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "Is initial treatment indicated? (Yes/No)",
+        "If Yes, is softening the mass chosen? (Yes/No)",
+        "If Yes, are sodium bicarbonate ear drops used? (Yes/No)",
+        "If No to initial treatment, is removal under general anaesthesia indicated? (Yes/No)",
+        "If Yes, is a microscope used? (Yes/No)"
+    ]
+}

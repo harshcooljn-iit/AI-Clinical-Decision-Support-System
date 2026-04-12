@@ -1,0 +1,13 @@
+{
+    "questions": [
+        "Is the diagnosis blood culture-negative subacute native valve endocarditis? (Yes/No)",
+        "What organism was identified in the blood culture?",
+        "Are the Streptococci Penicillin sensitive? (Yes/No)",
+        "Are the Staphylococci Methicillin sensitive? (Yes/No)",
+        "Is the organism HACEK group? (Yes/No)",
+        "Is prophylaxis indicated? (Yes/No)",
+        "Is the patient able to take oral medication? (Yes/No)",
+        "Does the patient have a Penicillin allergy? (Yes/No)",
+        "Is the patient unable to tolerate oral medication? (Yes/No)"
+    ]
+}

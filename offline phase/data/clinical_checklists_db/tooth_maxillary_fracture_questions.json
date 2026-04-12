@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Is bleeding present? (Yes/No)",
+        "Is pain present? (Yes/No)",
+        "Is soft tissue trauma present? (Yes/No)",
+        "Is a bone fracture confirmed or strongly suspected? (Yes/No)"
+    ]
+}

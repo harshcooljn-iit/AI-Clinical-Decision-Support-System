@@ -1,0 +1,54 @@
+```text
+DISEASE: Upper Gastrointestinal Bleeding
+
+ABBREVIATIONS:
+- Hb: Hemoglobin
+- Abo-Rh: Blood group and Rh factor
+- PT: Prothrombin Time
+- APTT: Activated Partial Thromboplastin Time
+- G.I.: Gastrointestinal
+- IV: Intravenous
+- TDS: Three times a day
+- mcg: Micrograms
+- TIPSS: Transjugular Intrahepatic Portosystemic Shunts
+
+DIAGNOSTICS:
+- Blood tests (Hb, Abo-Rh, PT, APTT)
+- Upper G.I. Scopy (Endoscopy)
+- Ultrasonography
+
+TREATMENT ALGORITHM:
+
+IF Patient presents with Upper Gastrointestinal Bleeding THEN
+
+    // Initial Management
+    - Obtain wide bore IV access (16G preferred).
+    - Insert Ryle's tube.
+    - Insert catheter.
+
+    // Pharmacological Treatment
+    - Administer Inj. pantoprazole 40 mg IV every 12 hours.
+    - Administer Inj. tranexamic acid 500 mg TDS.
+    - Administer Inj. octreotide 100 mcg IV every 6 hours.
+
+    // Specific Treatments based on cause (implied)
+    IF Cause is Oesophageal Varices THEN
+        - Perform banding.
+        - OR Insert gastric balloon of Sengstaken-Blackmore tube.
+        - OR Perform injection sclerotherapy.
+    ENDIF
+
+    IF Cause is Peptic Ulcers THEN
+        - Perform argon diathermy.
+        - OR Perform laser therapy.
+    ENDIF
+
+    // Surgical Treatment (if needed)
+    IF Bleeding is uncontrolled OR Cause requires surgical intervention THEN
+        - Perform exploratory laparotomy.
+        - Search for and treat the cause.
+        - OR Perform TIPSS (in uncontrolled portal hypertension cases).
+    ENDIF
+
+ENDIF
+```

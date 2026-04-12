@@ -1,0 +1,11 @@
+{
+    "questions": [
+        "Is severe pain present? (Yes/No)",
+        "What is the patient's exact age in years?",
+        "Is the ear wax hard? (Yes/No)",
+        "Is there a previous history of ear discharge? (Yes/No)",
+        "Is there a perforated tympanic membrane? (Yes/No)",
+        "Has there been instrumental manipulation with ring probe, hook, or forceps? (Yes/No)",
+        "Has there been suction cleaning? (Yes/No)"
+    ]
+}

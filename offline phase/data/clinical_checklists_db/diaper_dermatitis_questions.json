@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have any known allergies? (Yes/No)"
+    ]
+}

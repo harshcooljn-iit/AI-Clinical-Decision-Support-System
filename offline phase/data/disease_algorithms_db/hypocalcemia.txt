@@ -1,0 +1,46 @@
+```text
+DISEASE: Hypocalcemia
+
+ABBREVIATIONS:
+- Ca.gluconate: Calcium gluconate
+- Inj.: Injection
+- IV: Intravenous
+- mg: Milligrams
+- gm: Grams
+- IU: International Units
+- CRF: Chronic Renal Failure
+- Vit D: Vitamin D
+- mcg: Micrograms
+- QTc: QT interval corrected
+
+DIAGNOSTICS:
+- Total Serum Calcium < 8.5 mg/dl
+- ECG: Prolongation of QTc interval
+- Corrected Serum Calcium: Add 1 mg/dl to estimated level for every 1 g/dl albumin falls below 4 g/dl in hypoalbuminemia.
+- Clinical signs: Circumoral paresthesias, muscle cramps, confusion, tetany, convulsions, positive Chvostek's sign, Trousseau's sign.
+
+TREATMENT ALGORITHM:
+
+IF Severe symptomatic hypocalcemia is present THEN
+    Administer 20 ml of 10% Inj. Ca.gluconate solution over 10-15 minutes.
+    Followed by 60-80 ml of 10% Inj. Ca.gluconate solution in 1 liter of 5% distilled water at a rate of 0.5-0.25 mg/kg/hr elemental calcium.
+    IF Hypocalcemia is associated with hypomagnesemia THEN
+        Administer Inj. magnesium sulphate 1-2 gm IV on Day 1.
+        Followed by oral magnesium oxide 600-1200 mg 3 times a day to replenish stores.
+ELSE IF Asymptomatic hypocalcemia is present OR maintenance treatment is needed THEN
+    Treat underlying condition if possible.
+    IF Long term treatment is required (e.g., hypoparathyroidism, pseudohypoparathyroidism, chronic vitamin D deficiency) THEN
+        Administer Tab. calcium carbonate (40% elemental ca) 1-2 gm elemental calcium orally 3 times a day initially.
+        Subsequently, adjust to a maintenance dose of 0.4-1.5 g elemental calcium 3 times a day.
+    IF Patient has Chronic Renal Failure (CRF) THEN
+        Correct concomitant hyperphosphatemia.
+        Administer Vit D 50000 IU/day for 1-2 weeks, then weekly or bimonthly.
+        OR
+        Administer Calcitriol 0.25 mcg orally daily.
+        Advise low Phosphate diet.
+        Administer Phosphate binding agents.
+ENDIF
+
+CONTRAINDICATIONS:
+- Inj. Ca.gluconate should not be mixed with bicarbonate due to potential precipitation of calcium carbonate.
+```

@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "Is the treatment setting a tertiary care centre? (Yes/No)",
+        "What is the specific condition diagnosed? (e.g., autoimmune blistering disorder, collagen vascular disorder, life-threatening infection, severe viral infection, severe fungal infection, condition requiring immunosuppression, condition requiring IVIG/biological agents)",
+        "If the condition is a life-threatening infection, what antibiotic choice is preferred? (Azithromycin, Erythromycin, Other)",
+        "If immunosuppression is required, what immunosuppressant choice is preferred? (Cyclophosphamide, Azathioprine, Cyclosporine, Other)",
+        "Does the patient have severe renal impairment? (Yes/No)"
+    ]
+}

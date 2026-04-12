@@ -1,0 +1,11 @@
+{
+    "questions": [
+        "Does the patient require surgical treatment? (Yes/No)",
+        "Does the patient have symptomatic strictures? (Yes/No)",
+        "Does the patient have acute intestinal obstruction from distal ileal stricture? (Yes/No)",
+        "Does the patient's general condition permit one-stage resection and anastomosis? (Yes/No)",
+        "Is the lesion resectable? (Yes/No)",
+        "Does the patient have perforation? (Yes/No)",
+        "Is the patient's condition very poor? (Yes/No)"
+    ]
+}

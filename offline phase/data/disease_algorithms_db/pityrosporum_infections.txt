@@ -1,0 +1,32 @@
+```text
+DISEASE: Pityrosporum Infections
+
+ABBREVIATIONS:
+- KOH: Potassium Hydroxide
+- Cap.: Capsule
+- Tab.: Tablet
+- mg: Milligram
+
+DIAGNOSTICS:
+- Clinical examination (asymptomatic hypo or hyperpigmented irregular macules with branny scales).
+- Wood’s lamp (yellowish fluorescence).
+- 10% KOH mount (non-branching mycelia and yeasts, "banana and grapes" appearance).
+
+TREATMENT ALGORITHM:
+
+IF Disease is Pityrosporum Infections:
+    IF Severity is Mild superficial fungal infection of stratum corneum:
+        THEN Treatment options include:
+            - Topical antifungal cream (ketoconazole, miconazole, clotrimazole, or terbinafine).
+            - Topical selenium sulfide 2.5% shampoo or lotion.
+            - Systemic antifungals (Cap. fluconazole 400 mg stat).
+            - For recurrence, Tab. ketoconazole 400 mg once per month.
+    ELSE IF Disease is Pityriasis Capitis (Dandruff):
+        THEN Treatment options include:
+            - Non-pharmacological: Frequent hair washes with light massage, avoid oil and soap application.
+            - Pharmacological: Antifungal lotions/shampoos (ketoconazole or econazole), keratolytics (salicylic acid or coal tar) applied 15 min before bath.
+            - Pharmacological: Topical steroids (betamethasone lotion) in combination with antifungal lotion after hair wash.
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for the listed drugs in the context of Pityrosporum Infections or Pityriasis Capitis).
+```

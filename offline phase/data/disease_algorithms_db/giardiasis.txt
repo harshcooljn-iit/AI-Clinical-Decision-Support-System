@@ -1,0 +1,28 @@
+```text
+DISEASE: Giardiasis
+
+ABBREVIATIONS:
+- TDS: Three times daily
+- mg/kg: Milligrams per kilogram
+- g: Grams
+
+DIAGNOSTICS:
+- Demonstration of cysts and/or trophozoites in the stools.
+
+TREATMENT ALGORITHM:
+IF Patient is an adult
+  THEN
+    IF Treatment choice is tinidazole
+      THEN Administer tinidazole 2 g as a single dose.
+    ELSE IF Treatment choice is metronidazole
+      THEN Administer metronidazole 400 mg every TDS for 7 days.
+  ELSE
+    IF Treatment choice is tinidazole
+      THEN Administer tinidazole 50 mg/kg as a single dose.
+    ELSE IF Treatment choice is metronidazole
+      THEN Administer metronidazole 15 mg/kg divided in three doses for 7 days.
+ENDIF
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for tinidazole or metronidazole regarding giardiasis treatment, although a disulfiram-like reaction with alcohol is noted).
+```

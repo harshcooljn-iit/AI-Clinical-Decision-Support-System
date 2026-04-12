@@ -1,0 +1,94 @@
+```text
+DISEASE: Pneumonia
+
+ABBREVIATIONS:
+RR: Respiratory Rate
+HIV: Human Immunodeficiency Virus
+(No other abbreviations found in the text)
+
+DIAGNOSTICS:
+- Clinical assessment based on respiratory rate (RR) and signs like chest indrawing, nasal flaring, cyanosis, feeding difficulty, convulsions, lethargy, unconsciousness, severe respiratory distress.
+- Chest X-ray not routinely needed unless complications are suspected.
+
+TREATMENT ALGORITHM:
+
+IF Age < 3 months THEN
+    IF Severe pneumonia OR Very severe pneumonia THEN
+        Hospitalize and administer IV antibiotics for 7-10 days.
+        IF Antibiotic choice THEN
+            IF Cefotaxime THEN
+                Administer Inj. cefotaxime 100 mg/kg/day in 2 divided doses.
+            ELSE IF Cefuroxime THEN
+                Administer Inj. cefuroxime 100 mg/kg/day in 2 divided doses.
+            ELSE IF Ampicillin THEN
+                Administer Inj. ampicillin 100 mg/kg/day in 3 divided doses PLUS Inj. gentamicin 5-7.5 mg/kg/day in 2 divided doses.
+            END IF
+        END IF
+    ELSE IF Non-severe pneumonia THEN
+        Hospitalize and administer IV antibiotics for 7-10 days.
+        IF Antibiotic choice THEN
+            IF Cefotaxime THEN
+                Administer Inj. cefotaxime 100 mg/kg/day in 2 divided doses.
+            ELSE IF Cefuroxime THEN
+                Administer Inj. cefuroxime 100 mg/kg/day in 2 divided doses.
+            ELSE IF Ampicillin THEN
+                Administer Inj. ampicillin 100 mg/kg/day in 3 divided doses PLUS Inj. gentamicin 5-7.5 mg/kg/day in 2 divided doses.
+            END IF
+        END IF
+    END IF
+ELSE IF Age >= 3 months AND Age <= 5 years THEN
+    IF Non-severe pneumonia THEN
+        Treat at home with oral antibiotics for 7-10 days.
+        IF Antibiotic choice THEN
+            IF Amoxicillin THEN
+                Administer Tab/Syr. amoxicillin 20-40 mg/kg/day in 3 divided doses.
+            ELSE IF Cephalexin THEN
+                Administer Tab/Syr. cephalexin 20-40 mg/kg/day in 3 divided doses for 5-7 days.
+            ELSE IF Chloramphenicol THEN
+                Administer Chloramphenicol 50-100 mg/kg/day in 4 doses for 7-10 days.
+            END IF
+        END IF
+    ELSE IF Severe pneumonia THEN
+        Hospitalize and administer IV antibiotics for 7-10 days.
+        IF Antibiotic choice THEN
+            IF Ampicillin OR Chloramphenicol THEN
+                Administer Inj. ampicillin IV 100 mg/kg/day in 4 divided dose OR Inj. chloramphenicol 50-100 mg/kg/day in 4 divided doses.
+            ELSE IF Cefotaxime THEN
+                Administer Inj. cefotaxime 150-200 mg/kg/day.
+            END IF
+        END IF
+    END IF
+ELSE IF Age > 5 years THEN
+    IF Non-severe pneumonia THEN
+        Treat at home with oral antibiotics for 7-10 days.
+        IF Antibiotic choice THEN
+            IF Amoxicillin THEN
+                Administer Tab/Syr. amoxicillin 20-40 mg/kg/day in 3 divided doses.
+            ELSE IF Cephalexin THEN
+                Administer Tab/Syr. cephalexin 20-40 mg/kg/day in 3 divided doses for 5-7 days.
+            ELSE IF Chloramphenicol THEN
+                Administer Chloramphenicol 50-100 mg/kg/day in 4 doses for 7-10 days.
+            END IF
+        END IF
+    ELSE IF Severe pneumonia THEN
+        Hospitalize and administer IV antibiotics for 7-10 days.
+        IF Antibiotic choice THEN
+            IF Ampicillin OR Chloramphenicol THEN
+                Administer Inj. ampicillin IV 100 mg/kg/day in 4 divided dose OR Inj. chloramphenicol 50-100 mg/kg/day in 4 divided doses.
+            ELSE IF Cefotaxime THEN
+                Administer Inj. cefotaxime 150-200 mg/kg/day.
+            END IF
+        END IF
+    END IF
+END IF
+
+IF Staphylococcal pneumonia is suspected THEN
+    Administer antibiotics for 14 days.
+    IF Antibiotic choice THEN
+        Administer Inj. cefotaxime/ceftriaxone Plus cloxacillin 100-200 mg/kg/day in 4 doses.
+    END IF
+END IF
+
+CONTRAINDICATIONS:
+(No specific contraindications mentioned for the listed drugs in this context)
+```

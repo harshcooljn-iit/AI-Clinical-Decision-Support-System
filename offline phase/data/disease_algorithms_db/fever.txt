@@ -1,0 +1,47 @@
+```text
+DISEASE: Fever
+
+ABBREVIATIONS:
+- ESR: Erythrocyte Sedimentation Rate
+- FUO: Fever of Unknown Origin
+- mg: Milligram
+- tab: tablet
+- hr: hourly
+- X-ray: Radiograph
+
+DIAGNOSTICS:
+- Defined as body temperature > 37.7°C.
+- History of symptoms, associated focal symptoms, exposure, occupational history.
+- Physical examination.
+- If no clinical clues: Complete haemogram with ESR, malaria smear, blood culture, Widal test, urine analysis including urine culture.
+- If febrile illness > 2 weeks: X-ray chest.
+
+TREATMENT ALGORITHM:
+
+IF Fever is present:
+    IF Routine use of antipyretics is considered for low-grade fever:
+        THEN Do not use antipyretics as it may mask clinical indications.
+    ELSE IF Acute febrile illness suggestive of viral or bacterial cause:
+        THEN Treat fever with antipyretics.
+
+    IF Non-pharmacological treatment is indicated:
+        THEN Use hydrotherapy and rest.
+
+    IF Pharmacological treatment is indicated:
+        THEN Use non-specific antipyretics.
+
+        IF Paracetamol is chosen:
+            THEN Administer Tab. paracetamol 500-1000 mg 6-8 hourly.
+        ELSE IF Ibuprofen is chosen:
+            THEN Administer Tab. ibuprofen 400-600 mg 8 hourly.
+
+    IF Specific treatment is needed:
+        THEN Administer antibiotics/antimalarials based on clinical and laboratory evaluation.
+
+    IF Diagnosis is not reached within 3 weeks:
+        THEN Patient has Fever of Unknown Origin (FUO).
+        THEN Manage patient accordingly for FUO.
+
+CONTRAINDICATIONS:
+- Routine use of antipyretics in low-grade fever is not justified.
+```

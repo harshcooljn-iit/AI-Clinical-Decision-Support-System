@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Is pain present? (Yes/No)",
+        "Is the patient in a hospital setting? (Yes/No)",
+        "Is the patient in an endemic area? (Yes/No)",
+        "Is species-specific antiscorpion serum available locally? (Yes/No)"
+    ]
+}

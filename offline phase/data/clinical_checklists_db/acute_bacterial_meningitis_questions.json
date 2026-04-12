@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Does the patient have alcoholism or other debilitating illnesses? (Yes/No)",
+        "Does the patient have hospital-acquired, posttraumatic, post neurosurgery meningitis, neutropenia, or impaired cell-mediated immunity? (Yes/No)"
+    ]
+}

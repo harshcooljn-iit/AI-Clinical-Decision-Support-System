@@ -1,0 +1,55 @@
+```text
+DISEASE: Gastroesophageal Reflux Disease (GERD)
+
+ABBREVIATIONS:
+- GERD: Gastroesophageal Reflux Disease
+- GI: Gastrointestinal
+- PPIs: Proton Pump Inhibitors
+- LES: Lower Esophageal Sphincter
+- Nissen fundoplication: A type of anti-reflux surgery
+
+DIAGNOSTICS:
+- Symptoms: Heartburn, regurgitation, dysphagia, cough, chest pain, wheezing, hoarseness, sore throat, otitis media, enamel erosion.
+- Upper GI endoscopy: To check for complications like esophagitis, strictures, Barrett esophagus, hiatal hernia, masses.
+- Manometry: To measure LES pressure and check for motility disorders.
+- Optional studies: 24-hour pH probe test, nuclear medicine gastric emptying study.
+- Diagnosis can be assumed based on symptoms and history for uncomplicated GERD.
+
+TREATMENT ALGORITHM:
+
+IF patient has symptoms consistent with uncomplicated GERD:
+    THEN assume diagnosis of GERD and begin empirical therapy.
+ELSE IF patient shows signs of GERD complications or other illness or does not respond to therapy:
+    THEN consider further diagnostic testing (endoscopy, manometry, pH probe, gastric emptying study).
+
+IF treatment goals are symptom control, healing esophagitis, and preventing recurrence/complications:
+    THEN use a stepwise approach involving lifestyle modification and medical therapy (antacids, PPIs) or surgical treatment.
+
+IF lifestyle modifications are considered:
+    THEN advise losing weight (if overweight), avoiding alcohol, chocolate, citrus juice, tomato-based products, peppermint, coffee, and possibly the onion family.
+    ALSO advise avoiding large meals, waiting 3 hours after meals before lying down, and elevating the head of the bed 8 inches.
+
+IF pharmacological treatment is indicated:
+    THEN consider the following options (specific regimens not detailed in the provided text, but general classes mentioned):
+    - Antacids
+    - PPIs (Proton Pump Inhibitors)
+    - Domperidone (often used adjunctively)
+
+    // Specific regimen example from text (though not presented as a decision tree):
+    // Omeprazole 40 mg twice daily half an hour before meals, along with Domperidone 30 mg sustained release for 8 weeks.
+
+IF surgical treatment is considered:
+    THEN evaluate indications:
+    - Symptoms not controlled by PPI therapy.
+    - Presence of Barrett esophagus.
+    - Extraesophageal manifestations (respiratory, ENT, dental).
+    - Young patients.
+    - Poor medication compliance.
+    - Postmenopausal women with osteoporosis.
+    - Patients with cardiac conduction defects.
+    - Cost of medical therapy.
+    THEN consider types of surgery: Open or Laparoscopic Nissen fundoplication.
+
+CONTRAINDICATIONS:
+- The provided text does not list specific contraindications for the mentioned drugs (Omeprazole, Domperidone). Contraindications would depend on the specific drug and patient factors (e.g., allergies, interactions, specific medical conditions).
+```

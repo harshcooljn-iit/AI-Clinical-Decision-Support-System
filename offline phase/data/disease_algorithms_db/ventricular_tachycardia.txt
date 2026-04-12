@@ -1,0 +1,40 @@
+```text
+DISEASE: Ventricular Tachycardia
+
+ABBREVIATIONS:
+- VT: Ventricular Tachycardia
+- IV: Intravenous
+- mg: Milligram
+- kg: Kilogram
+- TDS: Three times a day
+- ICD: Implantable Cardioverter-Defibrillator
+- Inj.: Injection
+
+DIAGNOSTICS:
+- Runs of three or more consecutive idioventricular beats exceeding a rate of 100 beats per minute.
+- Types: Sustained (> 30 seconds), Non-sustained (3 beats to 30 seconds), Monomorphic (uniform configuration), Polymorphic (varying configuration).
+
+TREATMENT ALGORITHM:
+
+IF Patient has non-sustained VT AND no organic cardiac disease AND is asymptomatic:
+    THEN No treatment needed.
+ELSE IF Patient has sustained VT AND no organic cardiac disease AND is symptomatic:
+    THEN Administer Tab. amiodarone 200-400 mg /day TDS.
+ELSE IF Patient has VT with organic cardiac disease AND is haemodynamically unstable:
+    THEN Administer unsynchronized cardioversion/defibrillation.
+ELSE IF Patient has VT with organic cardiac disease AND is haemodynamically stable:
+    THEN
+        IF Inj. lidocaine is administered:
+            THEN Administer 1 mg/kg IV bolus.
+            THEN Repeat 0.5-1 mg/kg boluses every 5 minutes if needed.
+            THEN Follow with 2-4 mg/min maintenance Infusion.
+        ELSE IF Inj. amiodarone is administered:
+            THEN Administer Inj. amiodarone.
+        ELSE IF Lidocaine and Amiodarone fail:
+            THEN Perform overdrive pacing.
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for the listed drugs in this specific context, but standard contraindications for Lidocaine and Amiodarone would apply in a real clinical setting).
+```

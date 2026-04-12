@@ -1,0 +1,13 @@
+{
+    "questions": [
+        "What is the patient's pain level and duration (acute/moderate/mild-moderate/chronic)?",
+        "Does the patient have a history of gastric irritation, nausea, vomiting, dyspepsia, GI ulceration, perforation, haemorrhage, or renal toxicity? (Yes/No)",
+        "Is the patient on antihypertensive therapy? (Yes/No)",
+        "Does the patient have leucopenia, thrombocytopenia, or agranulocytosis? (Yes/No)",
+        "Does the patient have a known allergy to NSAIDs? (Yes/No)",
+        "Is the patient overweight? (Yes/No)",
+        "Is the knee acutely swollen? (Yes/No)",
+        "Does the patient have persistent swelling, constitutional symptoms, or mechanical symptoms (locking, frequent giving away sensations)? (Yes/No)",
+        "Does the patient have severe deformities, contractures, or advanced disease with intractable pain affecting ADLs? (Yes/No)"
+    ]
+}

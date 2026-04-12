@@ -1,0 +1,122 @@
+```text
+DISEASE: Cardiopulmonary Resuscitation (CPR)
+
+ABBREVIATIONS:
+- CPR: Cardiopulmonary Resuscitation
+- CPA: Cardiopulmonary Arrest
+- BLS: Basic Life Support
+- ACLS: Advanced Cardiac Life Support
+- IV: Intravenous
+- IO: Intraosseous
+- ECG: Electrocardiogram
+- AED: Automated External Defibrillator
+- VT: Ventricular Tachycardia
+- VF: Ventricular Fibrillation
+- PEA: Pulseless Electrical Activity
+- ROSC: Return of Spontaneous Circulation
+- Epinephrine: Adrenaline
+- mg: Milligram
+- units: Units
+
+DIAGNOSTICS:
+1. Absence of pulse in major arteries (carotid or femoral in older children and femoral or brachial in infants).
+2. Absence of heart sounds on auscultation.
+3. Asystole / Ventricular Fibrillation on ECG.
+4. Absence of respiration (absent chest movements, airflow).
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    IF patient is unresponsive AND not breathing normally (or only gasping):
+        THEN Activate emergency response system.
+        THEN Get AED/defibrillator OR send second rescuer.
+        THEN Check for pulse (within 10 seconds).
+
+2.  **Pulse Check Result:**
+    IF definite pulse is present:
+        THEN Give one breath every 5 to 6 seconds.
+        THEN Recheck pulse every 2 minutes.
+    ELSE (NO pulse):
+        THEN Begin cycles of 30 compressions and 2 breaths.
+
+3.  **AED/Defibrillator Arrival (BLS):**
+    IF AED/defibrillator arrives:
+        THEN Check rhythm.
+        IF rhythm is shockable (VT/VF):
+            THEN Give 1 shock.
+            THEN Resume CPR immediately for 2 minutes.
+            THEN Repeat rhythm check and shock if indicated every 2 minutes until ALS providers take over or victim starts to move.
+        ELSE (rhythm is not shockable):
+            THEN Resume CPR immediately for 2 minutes.
+            THEN Check rhythm every 2 minutes, continue until ALS providers take over or victim starts to move.
+
+4.  **ACLS Algorithm (Adult Cardiac Arrest):**
+    IF patient in cardiac arrest (no pulse):
+        THEN Shout for help/activate emergency response.
+        THEN Start CPR.
+        THEN Give Oxygen.
+        THEN Attach monitor/defibrillator.
+        THEN Check rhythm.
+
+    IF rhythm is shockable (VT/VF):
+        THEN Give 1 shock.
+        THEN Perform CPR for 2 minutes / 5 cycles.
+        THEN Obtain IV/IO access.
+        THEN Check rhythm again.
+        IF rhythm is shockable:
+            THEN Give 1 shock.
+            THEN Perform CPR for 2 minutes / 5 cycles.
+            THEN Give Epinephrine 1 mg IV/IO every 3-5 minutes.
+            THEN Consider advanced airway and capnography.
+            THEN Check rhythm again.
+            IF rhythm is shockable:
+                THEN Give 1 shock.
+                THEN Perform CPR for 2 minutes / 5 cycles.
+                THEN Give Amiodarone 300 mg IV/IO (1st dose).
+                THEN Treat reversible causes.
+                THEN Go back to checking rhythm every 2 minutes.
+            ELSE (rhythm is not shockable):
+                THEN Perform CPR for 2 minutes / 5 cycles.
+                THEN Treat reversible causes.
+                THEN Go back to checking rhythm every 2 minutes.
+        ELSE (rhythm is not shockable after first shock):
+            THEN Perform CPR for 2 minutes / 5 cycles.
+            THEN Give Epinephrine 1 mg IV/IO every 3-5 minutes.
+            THEN Consider advanced airway and capnography.
+            THEN Check rhythm again.
+            IF rhythm is shockable:
+                THEN Give 1 shock.
+                THEN Perform CPR for 2 minutes / 5 cycles.
+                THEN Give Amiodarone 300 mg IV/IO (1st dose).
+                THEN Treat reversible causes.
+                THEN Go back to checking rhythm every 2 minutes.
+            ELSE (rhythm is not shockable):
+                THEN Perform CPR for 2 minutes / 5 cycles.
+                THEN Treat reversible causes.
+                THEN Go back to checking rhythm every 2 minutes.
+
+    ELSE (rhythm is not shockable - PEA/Asystole):
+        THEN Perform CPR for 2 minutes / 5 cycles.
+        THEN Obtain IV/IO access.
+        THEN Give Epinephrine 1 mg IV/IO every 3-5 minutes.
+        THEN Consider advanced airway.
+        THEN Check rhythm again.
+        IF rhythm is shockable:
+            THEN Give 1 shock.
+            THEN Perform CPR for 2 minutes / 5 cycles.
+            THEN Treat reversible causes.
+            THEN Go back to checking rhythm every 2 minutes.
+        ELSE (rhythm is not shockable):
+            THEN Perform CPR for 2 minutes / 5 cycles.
+            THEN Treat reversible causes.
+            THEN Go back to checking rhythm every 2 minutes.
+
+5.  **Return of Spontaneous Circulation (ROSC):**
+    IF signs of ROSC are present:
+        THEN Provide post-cardiac arrest care.
+    ELSE (no signs of ROSC):
+        THEN Continue CPR.
+
+CONTRAINDICATIONS:
+(None specified in the provided text for the listed drugs in the context of CPR, but standard contraindications apply based on patient condition and drug properties).
+```

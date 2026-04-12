@@ -1,0 +1,43 @@
+```text
+DISEASE: Gonococcal Conjunctivitis
+
+ABBREVIATIONS:
+- Inj.: Injection
+- QID: Four times a day
+- BD: Twice a day
+- Tab.: Tablet
+- g: gram
+- mg: milligram
+
+DIAGNOSTICS:
+- Clinical symptoms: Severe purulent discharge, swelling of eyelids (onset 12-24 hours).
+- Examination findings: Conjunctival papillae, marked chemosis, preauricular adenopathy. Cornea examination for peripheral ulcers (risk of perforation).
+- Laboratory tests: Conjunctival scrapings for Gram stain (gram-negative intracellular diplococci) and culture/sensitivity.
+
+TREATMENT ALGORITHM:
+
+IF Gram stain shows gram-negative intracellular diplococci OR high clinical suspicion of gonococcal conjunctivitis THEN:
+    - Administer Inj. ceftriaxone 1 g intramuscularly as a single dose.
+
+    IF corneal involvement exists OR cannot be excluded due to chemosis/eyelid swelling THEN:
+        - Hospitalize the patient.
+        - Administer Inj. ceftriaxone 1 g intravenously every 12 to 24 hours.
+
+    IF patient is penicillin-allergic THEN:
+        - Consider oral fluoroquinolone (e.g., Tab. ciprofloxacin 500 mg for 5 days) OR
+        - Consider a single oral dose of Tab. azithromycin 1 g.
+
+    - Administer topical ciprofloxacin ointment four times a day (QID) OR
+    - Administer fluoroquinolone drops every two hours (e.g., gatifloxacin, moxifloxacin, or ciprofloxacin).
+
+    - Perform saline irrigation four times a day (QID) until discharge resolves.
+
+    - Treat for possible chlamydial co-infection:
+        - Administer Tab. azithromycin 1 g as a single dose OR
+        - Administer Tab. doxycycline 100 mg twice a day (BD) for 7 days.
+
+    - Treat sexual partners with oral antibiotics for both gonorrhea and chlamydia (as described previously).
+
+CONTRAINDICATIONS:
+- Penicillin allergy: Contraindicates Inj. ceftriaxone (unless alternative regimens are used).
+```

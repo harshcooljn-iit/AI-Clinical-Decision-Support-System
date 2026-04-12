@@ -1,0 +1,99 @@
+```text
+DISEASE: Nausea And Vomiting In Pregnancy
+
+ABBREVIATIONS:
+- Tab: Tablet
+- HCl: Hydrochloric Acid
+- GIT: Gastrointestinal Tract
+- IV: Intravenous
+- IM: Intramuscular
+- BD: Bis in die (twice a day)
+- TDS: Ter in die (three times a day)
+- KCl: Potassium Chloride
+- GIT: Gastrointestinal
+
+DIAGNOSTICS:
+- Diagnosis is by exclusion of medical and surgical causes of vomiting (e.g., liver disorders, pyelonephritis, diabetes mellitus).
+- Molar (and multiple) pregnancy should be ruled out in hyperemesis cases by ultrasound.
+
+TREATMENT ALGORITHM:
+
+// Mild and Moderate Cases
+IF Severity is Mild to Moderate THEN
+    // Non-pharmacological treatment
+    ADVICE: Reassurance, frequent small dry carbohydrate-rich meals, avoid fatty/spicy foods, avoid large volume of drinks in the morning.
+
+    // Pharmacological treatment options
+    IF Pharmacological treatment is needed THEN
+        OPTION 1: Tab. doxylamine succinate 10 mg + Tab. pyridoxine HCl 10 mg, 1-2 tablets at bedtime.
+        IF Symptoms persist THEN
+            ADD: One more tablet of doxylamine succinate 10 mg + pyridoxine HCl 10 mg in the morning and afternoon.
+        ENDIF
+
+        OR
+
+        OPTION 2: Tab. metoclopramide 10 mg, 2-4 times a day.
+    ENDIF
+ENDIF
+
+// Hyperemesis Gravidarum
+IF Severity is Hyperemesis Gravidarum THEN
+    // Non-pharmacological treatment
+    ADMIT: Admit patient to hospital.
+    STOP: Stop oral intake of fluids and nutrition.
+    MONITOR: Check serum electrolytes and urinary ketones at admission and every 6 hours.
+    SUPPORT: Provide emotional support, psychiatric referral if required.
+    RULE_OUT: Rule out multiple or molar pregnancy and liver disorders.
+
+    // Pharmacological treatment
+    REPLACE: Adequate and appropriate fluid and electrolyte replacement (Normal saline or Ringer's lactate solutions, add KCl as required).
+
+    IF Urinary ketones are present THEN
+        INFUSE: 1 liter of 10% dextrose over 3-4 hours.
+    ENDIF
+
+    // For prolonged vomiting (if not controlled with fluid/electrolyte replacement in 6-8 hours)
+    IF Vomiting is prolonged THEN
+        IF Orally tolerated THEN
+            ADMINISTER: Tab. thiamine 25-50 mg, 3 times a day.
+        ENDIF
+
+        ADMINISTER: Inj. metoclopramide 10 mg IV or IM every 8 hours.
+        ADMINISTER: Inj. ranitidine 50-100 mg every 6 hours.
+
+        IF Vomiting is not controlled THEN
+            ADMINISTER: Inj. promethazine chloride 25-50 mg IM or IV every 8 hours
+            OR
+            ADMINISTER: Inj. chlorpromazine 25-50 mg IM every 4-6 hours.
+        ENDIF
+    ENDIF
+
+    // Once vomiting is controlled (for 24 hours)
+    IF Vomiting controlled for 24 hours THEN
+        GRADUALLY_START: Oral intake.
+        IF Tolerated THEN
+            OMIT: IV fluids.
+            GIVE: Dry carbohydrate foods in small meals at frequent intervals.
+            GRADUALLY_INTRODUCE: Full diet.
+            IF Prolonged and severe disease THEN
+                CONSIDER: Parenteral nutrition.
+            ENDIF
+        ENDIF
+    ENDIF
+
+    // Discharge criteria (if well tolerated for 48 hours)
+    IF Well tolerated for 48 hours THEN
+        DISCHARGE: Discharge patient from hospital.
+        ADVICE: Provide dietary advice and reassurance.
+        CONTINUE: Tab. metoclopramide 10 mg TDS and Tab. ranitidine 150 mg BD.
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+// (No specific contraindications listed for these drugs in this context, but general pregnancy considerations apply)
+// Doxylamine/Pyridoxine: Generally considered safe in pregnancy.
+// Metoclopramide: Use with caution, potential side effects.
+// Thiamine: Generally safe.
+// Ranitidine: Use with caution, potential side effects.
+// Promethazine/Chlorpromazine: Use with caution, potential side effects.
+```

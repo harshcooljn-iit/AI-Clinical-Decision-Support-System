@@ -1,0 +1,49 @@
+```text
+DISEASE: Chancroid
+
+ABBREVIATIONS:
+- NACO: National AIDS Control Organisation (Implied from context, not explicitly stated in text but common usage)
+
+DIAGNOSTICS:
+- Clinical diagnosis based on multiple painful, non-indurated genital ulceration with painful inguinal lymphadenopathy.
+- Confirmation can be done with Gram stain and bacterial culture.
+
+TREATMENT ALGORITHM:
+IF Patient has Chancroid THEN
+    // Treatment based on NACO Kit 4 (details not provided in the text, assuming standard treatment)
+    // Since specific dosages are missing, providing a placeholder.
+    // In a real implementation, this section would contain specific drug regimens.
+    // Example placeholder:
+    IF Patient is an adult THEN
+        // Placeholder for adult regimen
+        DISPLAY "Administer appropriate antibiotic regimen for adult Chancroid (e.g., Azithromycin or Ceftriaxone + Azithromycin or Ciprofloxacin or Erythromycin)."
+    ELSE IF Patient is a child THEN
+        // Placeholder for pediatric regimen
+        DISPLAY "Administer appropriate antibiotic regimen for pediatric Chancroid (e.g., Azithromycin or Ceftriaxone + Azithromycin)."
+    ENDIF
+ENDIF
+
+// Note: The provided text only mentions "Kit 4 by NACO" without specifying the actual treatment regimen or dosages.
+// Therefore, the TREATMENT ALGORITHM section contains placeholders.
+// If a table with dosages were present, it would be converted as follows:
+
+// Example of how a table would be handled (if present):
+// IF Age is < 1 year AND Weight is < 10 kg THEN
+//     Day 1: Drug A 10 mg/kg
+//     Day 2: Drug A 10 mg/kg
+// ELSE IF Age is 1-5 years AND Weight is 10-19 kg THEN
+//     Day 1: Drug A 15 mg/kg
+//     Day 2: Drug A 15 mg/kg
+// ELSE IF Age is > 5 years AND Weight is > 19 kg THEN
+//     Day 1: Drug A 20 mg/kg
+//     Day 2: Drug A 20 mg/kg
+// ENDIF
+
+CONTRAINDICATIONS:
+// No specific contraindications mentioned in the provided text.
+// In a real implementation, this section would list contraindications for the specific drugs used.
+// Example:
+// IF Patient has a known allergy to Penicillin THEN
+//     DO NOT administer Penicillin-based drugs.
+// ENDIF
+```

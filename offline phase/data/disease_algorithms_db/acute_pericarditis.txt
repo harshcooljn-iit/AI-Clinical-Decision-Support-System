@@ -1,0 +1,52 @@
+```text
+DISEASE: Acute Pericarditis
+
+ABBREVIATIONS:
+- NSAIDs: Non-Steroidal Anti-Inflammatory Drugs
+- ESR: Erythrocyte Sedimentation Rate
+- Tab: Tablet
+- mg: Milligram
+- orally: By mouth
+- q3-4h: Every 3-4 hours
+- qd: Every day
+- Anti tuberculosis treatment: Antituberculosis therapy
+- Uremia: Uremic
+- dialysis: Hemodialysis
+- pericardial effusion: Fluid accumulation in the pericardial sac
+- cardiac tamponade: Life-threatening condition caused by fluid accumulation in the pericardial sac
+- pericardiocentesis: Procedure to remove fluid from the pericardial sac
+
+DIAGNOSTICS:
+- Pleuritic chest pain relieved by bending forward
+- Breathlessness
+- Tachycardia
+- Fever
+- Pleural rub
+- Elevated ESR
+- Irregular pulse
+- Symmetric enlargement of cardiac silhouette (may be present)
+
+TREATMENT ALGORITHM:
+
+IF Cause is Viral, Bacterial, Mycobacterial, Connective Tissue Disorder, Uremia, Malignancy, Radiation, or Trauma THEN
+    IF Cause is Tuberculosis THEN
+        Administer Anti tuberculosis treatment.
+    ELSE IF Cause is Uremia THEN
+        Administer dialysis.
+    ELSE
+        Administer pharmacological treatment.
+
+IF Pharmacological treatment is indicated THEN
+    IF Patient is able to take oral medication THEN
+        Administer Tab. aspirin 650 mg orally every 3-4 hours.
+    OR
+        Administer other NSAIDs like Tab. indomethacin 100-150 mg orally daily in divided doses.
+
+IF Patient develops pericardial effusion THEN
+    Observe carefully.
+    IF Cardiac tamponade develops THEN
+        Perform pericardiocentesis immediately.
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for aspirin or indomethacin in the context of acute pericarditis, but standard contraindications apply, e.g., allergy, GI bleeding risk, renal impairment for NSAIDs).
+```

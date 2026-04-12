@@ -1,0 +1,129 @@
+```text
+DISEASE: Dysfunctional Uterine Bleeding (DUB)
+
+ABBREVIATIONS:
+- DUB: Dysfunctional Uterine Bleeding
+- IV: Intravenous
+- OCPs: Oral Contraceptive Pills
+- MPA: Medroxyprogesterone Acetate
+- NSAIDs: Nonsteroidal Anti-inflammatory Drugs
+- IUCD: Intrauterine Contraceptive Device
+- hCG: Human Chorionic Gonadotropin
+- D&C: Dilatation and Curettage
+- ET: Ethinyl Estradiol
+- ED: Estradiol Valerate
+- OCs: Oral Contraceptives
+- Depo: Depot
+- OD: Once Daily
+- TDS: Three Times Daily
+- BD: Twice Daily
+
+DIAGNOSTICS:
+- Diagnosis is based on clinical presentation (abnormal uterine bleeding) in the absence of organic disease of the genital tract (e.g., fibroids, polyps, malignancy, coagulopathy, systemic disease).
+- Histopathological diagnosis (endometrial biopsy) is recommended before starting hormonal therapy in chronic DUB, except in cases of puberty menorrhagia.
+- For patients >35 years, premenstrual D&C is recommended to rule out endometrial pathology.
+
+TREATMENT ALGORITHM:
+
+I. ACUTE BLEEDING (First Episode)
+
+    A. SEVERE BLEEDING (Hemodynamically Unstable Patient)
+        IF patient is hemodynamically unstable:
+            THEN perform IV line, fluid replacement, blood transfusion, oxygen inhalation, and monitor vitals.
+            THEN perform Dilatation and Curettage (D&C) to arrest bleeding, EXCEPT in cases of puberty menorrhagia where medical management is preferred.
+            THEN consider IV tranexamic acid before resorting to surgical intervention.
+
+    B. LESS SEVERE BLEEDING (Hemodynamically Stable Patient)
+        IF patient is hemodynamically stable:
+            THEN administer high-dose progestogen: norethisterone 10 mg TDS until bleeding stops (not >3 days).
+            THEN follow with norethisterone 5-10 mg OD or MPA 10 mg OD for 21 days.
+            OR administer combined oral contraceptive pills (OCPs) containing 50 mcg ethinyl estradiol: 1 pill BD for 7-10 days.
+            THEN follow with progestins for 7-10 days.
+            THEN expect withdrawal bleeding after 2-4 days of stopping the drug, which stops in 4-5 days.
+
+II. BLEEDING NOT CONTROLLED WITH PROGESTOGENS
+
+    IF bleeding is not controlled with progestogens OR patient has heavy bleeding for many days OR endometrial curettage yields minimal tissue OR patient is on OCs or Depot MPA and endometrium is shallow/atrophic:
+        THEN consider high-dose estrogens depending on severity:
+            1.  IV Conjugated estrogen 25 mg every 4 h until bleeding abates OR for 12 h.
+                THEN start progestin treatment concurrently.
+            2.  Oral Conjugated estrogen 1.25 mg OR Oral Estradiol Valerate 2 mg every 4 h for a maximum of 24 h.
+                THEN follow with a single daily dose for 7-10 days.
+        THEN follow ALL estrogen treatments with progestin coverage (MPA 10 mg OD) along with estrogen for 7 days.
+
+III. CHRONIC DUB (Not Actively Bleeding)
+
+    A. GENERAL
+        IF patient requires treatment for chronic DUB:
+            THEN administer iron therapy: elemental iron maximum 60 mg TDS.
+            THEN obtain histopathological diagnosis (endometrial biopsy) before starting hormonal therapy, EXCEPT in cases of puberty menorrhagia.
+
+    B. ANOVULATORY DUB
+        IF contraception is desired:
+            THEN administer OCPs for 3-6 cycles.
+            OR administer norethisterone 5-10 mg OD.
+        THEN administer MPA 10 mg OD from day 16-25 of the cycle for 3-6 cycles.
+        IF endometrial hyperplasia without atypia is present on histology:
+            THEN administer norethisterone acetate 5 mg TDS OR MPA 10 mg BD from day 5-25 of the cycle for 3-9 cycles.
+            THEN perform repeat endometrial biopsy.
+        IF fertility is desired:
+            THEN advise ovulation induction.
+        THEN Levonorgestrel IUD can be offered after counseling.
+
+    C. OVULATORY DUB
+        IF patient has ovulatory DUB:
+            THEN administer NSAIDs: mefenamic acid 500 mg TDS for 3-5 days during periods.
+            OR administer OCPs if contraception is desired.
+        IF treatment is not effective in the first cycle:
+            THEN refer for tertiary care.
+            THEN consider alternative treatments:
+                - Tab. danazol 200 mg OD for 3 months.
+                - Levonorgestrel IUCD can be offered after counseling.
+
+IV. SURGICAL TREATMENT
+
+    A. INDICATIONS
+        IF acute bleeding in a hemodynamically unstable patient:
+            THEN perform D&C to quickly control bleeding.
+        IF acute episode, bleeding doesn't decrease significantly in 12-24 hours with medical treatment:
+            THEN reevaluate and perform surgical D&C.
+        IF age is >35 years:
+            THEN perform premenstrual D&C for endometrial histology to rule out endometrial pathology.
+        IF medical therapy is not effective:
+            THEN consider endometrial ablation or hysterectomy.
+
+V. FOLLOW UP
+
+    - Follow up after 1, 3, 6 months of therapy.
+    - Stop treatment after 3-6 months.
+    - IF symptoms recur:
+        THEN continue medical treatment OR offer surgery.
+
+VI. CONTRAINDICATIONS FOR HIGH DOSE OESTROGENS
+
+    IF patient has liver disease:
+        THEN DO NOT administer high dose estrogens.
+    IF patient has a history of thromboembolic disorder:
+        THEN DO NOT administer high dose estrogens.
+    IF patient has cardiovascular disease:
+        THEN DO NOT administer high dose estrogens.
+    IF patient has an estrogen-dependent neoplasm:
+        THEN DO NOT administer high dose estrogens.
+
+VII. CONTRAINDICATIONS FOR HIGH DOSE PROGESTOGENS
+
+    IF patient experiences depression:
+        THEN monitor closely or consider alternative.
+    IF patient experiences fluid retention:
+        THEN monitor closely or consider alternative.
+    IF patient experiences fatigue:
+        THEN monitor closely or consider alternative.
+    IF patient experiences insomnia:
+        THEN monitor closely or consider alternative.
+    IF patient experiences dizziness:
+        THEN monitor closely or consider alternative.
+    IF patient experiences nausea:
+        THEN monitor closely or consider alternative.
+    IF patient experiences breast tenderness:
+        THEN monitor closely or consider alternative.
+```

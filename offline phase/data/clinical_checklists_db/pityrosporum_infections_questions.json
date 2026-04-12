@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "What is the severity of the infection?",
+        "Is the patient pregnant? (Yes/No)"
+    ]
+}

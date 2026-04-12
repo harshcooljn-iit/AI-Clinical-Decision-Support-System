@@ -1,0 +1,17 @@
+{
+    "questions": [
+        "What is the patient's oxygen saturation (Spo2) percentage?",
+        "What is the patient's Peak Expiratory Flow Rate (PEFR) percentage of predicted or personal best?",
+        "What is the patient's respiratory rate (breaths/min)?",
+        "What is the patient's heart rate (beats/min)?",
+        "Is the patient able to complete sentences in one breath? (Yes/No)",
+        "Does the patient exhibit accessory muscle use? (Yes/No)",
+        "Does the patient have cyanosis? (Yes/No)",
+        "Is the patient alert? (Yes/No)",
+        "Is the patient exhausted? (Yes/No)",
+        "Is the patient confused? (Yes/No)",
+        "Is the patient hypotensive? (Yes/No)",
+        "Does the patient have a silent chest? (Yes/No)",
+        "Is the patient pregnant? (Yes/No)"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "Does the patient have diabetes mellitus? (Yes/No)",
+        "Does the patient require intervention for their specific type of Diabetic Retinopathy (non-proliferative or proliferative)? (Yes/No)"
+    ]
+}

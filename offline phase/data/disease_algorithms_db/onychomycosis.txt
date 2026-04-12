@@ -1,0 +1,39 @@
+```text
+DISEASE: Onychomycosis
+
+ABBREVIATIONS:
+- KOH: Potassium Hydroxide
+- Tab.: Tablet
+- Cap.: Capsule
+- mg: Milligram
+
+DIAGNOSTICS:
+- Clinical examination.
+- Microscopy: KOH mount.
+- Culture: Sabouraud's dextrose agar.
+
+TREATMENT ALGORITHM:
+
+IF Non-pharmacological treatment is sufficient THEN
+    - Advise patient to avoid tight-fitting footwear.
+    - Advise patient to avoid working in wet areas.
+ELSE
+    IF Pharmacological treatment is indicated THEN
+        IF Topical antifungal agents are chosen THEN
+            - Administer clotrimazole.
+            - Administer miconazole.
+            - Administer tolnaftate.
+        ELSE IF Oral antifungal agents are chosen THEN
+            IF Fluconazole is chosen THEN
+                - Administer Tab. fluconazole 150-300mg once a week for 6-12 months.
+            ELSE IF Terbinafine is chosen THEN
+                - Administer Tab. terbinafine 250mg daily for 6-12 weeks.
+            ELSE IF Itraconazole is chosen THEN
+                - Administer Cap. itraconazole 200mg daily for 2-3 months.
+        ENDIF
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for the listed drugs in the context of onychomycosis. General contraindications for each drug would apply but are not detailed here.)
+```

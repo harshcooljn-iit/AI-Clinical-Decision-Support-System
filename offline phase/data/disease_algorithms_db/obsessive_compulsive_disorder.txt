@@ -1,0 +1,57 @@
+```text
+DISEASE: Obsessive Compulsive Disorder
+
+ABBREVIATIONS:
+- SSRIs: Selective Serotonin Reuptake Inhibitors
+- CBT: Cognitive Behavior Therapy
+- ECTs: Electroconvulsive Therapy
+- OCD: Obsessive Compulsive Disorder
+
+DIAGNOSTICS:
+- Characterized by recurrent irrational intrusive thoughts, images, or impulses (obsessions) that are ego-dystonic (distressing).
+- Presents with anxiety-relieving mental and physical acts (compulsions).
+- Common obsessions include fear of dirt/contamination, fear of terrible events, forbidden/sexual thoughts.
+- Common compulsions include excessive hand washing, bathing, checking, ordering, arranging.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    - IF patient has symptoms consistent with OCD (recurrent obsessions and compulsions causing distress/impairment), THEN proceed to treatment options.
+    - ELSE, consider alternative diagnoses.
+
+2.  **Non-Pharmacological Treatment:**
+    - IF patient is willing and able to engage in therapy, THEN consider behavioral therapy (Exposure and Response Prevention - ERP) as the treatment of choice.
+    - Other psychotherapy options include Cognitive Behavior Therapy (CBT), psychoanalytical, or psychodynamic therapies.
+    - For resistant cases, consider ECTs or surgery.
+
+3.  **Pharmacological Treatment:**
+    - IF patient requires pharmacological treatment, THEN consider the following options:
+
+    - **SSRIs:**
+        - IF patient is starting an SSRI (fluoxetine, fluvoxamine, paroxetine, sertraline), THEN start with a low dose (e.g., 10 mg for paroxetine, specific starting doses not detailed for others but generally low).
+        - Gradually increase the dose up to a maximum of 50 mg/day, based on response and tolerability.
+
+    - **Clomipramine:**
+        - IF patient is starting clomipramine, THEN start with 75 mg sustained release preparation once daily.
+        - Gradually increase the dose depending on the severity of symptoms, up to a maximum of 300 mg/day.
+        - Clomipramine is the only effective tricyclic antidepressant for OCD.
+
+    - **Augmentation:**
+        - IF response to SSRI or clomipramine is inadequate, THEN consider augmenting agents like sodium valproate, lithium, or carbamazepine.
+
+    - **Adjuvant Treatment:**
+        - IF needed, benzodiazepines may be used as adjuvant treatment.
+
+4.  **Patient Education:**
+    - Reassure the patient that OCD is treatable despite being distressing.
+    - Inform the patient that therapeutic response may take about 2 weeks.
+    - Advise the patient that side effects may occur before therapeutic effects.
+    - Counsel the patient on potential side effects (e.g., dry mouth, constipation, postural hypotension for clomipramine; GI distress, nausea, headache, nervousness, anorexia, restlessness, sexual side effects for fluoxetine).
+    - Advise the patient that treatment may be long-term and not to discontinue medication without medical advice.
+    - Instruct the patient to contact the clinician immediately if untoward effects occur.
+    - Encourage the patient to continue regular activities.
+    - Suggest complementary measures like yoga, meditation, and physical exercises.
+
+CONTRAINDICATIONS:
+- (None specified in the text for the listed medications, but standard contraindications for each drug class would apply, e.g., MAOI use with SSRIs/clomipramine, specific conditions for valproate, lithium, benzodiazepines).
+```

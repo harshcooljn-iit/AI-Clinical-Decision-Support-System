@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "Does the patient have simple goiter? (Yes/No)",
+        "Does the patient have multinodular goiter? (Yes/No)",
+        "Is surgical treatment indicated? (Yes/No)"
+    ]
+}

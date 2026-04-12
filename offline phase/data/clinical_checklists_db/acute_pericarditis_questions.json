@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "What is the suspected or confirmed cause of the pericarditis (e.g., Viral, Bacterial, Tuberculosis, Uremia, Connective Tissue Disorder, Malignancy, Radiation, Trauma)?",
+        "Is the patient able to take oral medication? (Yes/No)",
+        "Does the patient have pericardial effusion? (Yes/No)",
+        "Does the patient have cardiac tamponade? (Yes/No)"
+    ]
+}

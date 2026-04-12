@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Does the patient desire treatment? (Yes/No)",
+        "Is the patient a candidate for surgery? (Yes/No)",
+        "Does the patient understand the risks and benefits of surgery? (Yes/No)",
+        "Does the patient consent to surgery? (Yes/No)"
+    ]
+}

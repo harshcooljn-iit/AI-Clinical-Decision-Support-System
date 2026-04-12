@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "Is IV access available? (Yes/No)",
+        "Is rectal access available? (Yes/No)",
+        "Did the patient respond to initial treatment after 10 minutes? (Yes/No)",
+        "Did the patient respond to Phenytoin/Fosphenytoin administration? (Yes/No)",
+        "Did the patient respond after 25-30 minutes? (Yes/No)",
+        "Did the patient respond after 35-45 minutes? (Yes/No)"
+    ]
+}

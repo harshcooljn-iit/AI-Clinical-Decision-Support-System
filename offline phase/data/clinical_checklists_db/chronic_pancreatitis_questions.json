@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Does the patient have pain? (Yes/No)",
+        "Is the pain unresponsive to pharmacological therapy? (Yes/No)",
+        "Is the lesion confined to the body and tail? (Yes/No)",
+        "Is the lesion confined to the head region? (Yes/No)"
+    ]
+}

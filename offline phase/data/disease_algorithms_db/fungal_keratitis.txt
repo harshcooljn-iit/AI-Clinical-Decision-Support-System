@@ -1,0 +1,120 @@
+```text
+DISEASE: Fungal Keratitis
+
+ABBREVIATIONS:
+    _aspergillus_: Aspergillus
+    _penicillium_: Penicillium
+    _fusarium_: Fusarium
+    _candida_: Candida
+    sc: subconjunctival
+    µg: micrograms
+    mg: milligrams
+    ml: milliliters
+    tab: tablet
+    RL: Ringer's Lactate
+
+DIAGNOSTICS:
+    - Examination shows a definite white ring in the mid periphery of the cornea with healthy cornea between the ring and ulcer margin (Immune ring).
+    - Presence of hypopyon is common.
+
+TREATMENT ALGORITHM:
+
+    // Non-pharmacological treatment
+    IF (Patient has Fungal Keratitis) THEN
+        // General measures
+        Use dark goggles and avoid close contact with others for two weeks.
+        Restrict work and school for patients with significant exposure to others.
+        Practice frequent handwashing.
+
+    // Pharmacological treatment - Topical Antifungals
+    IF (Patient has Fungal Keratitis) THEN
+        // Initial dosing
+        Administer topical antifungal drops every hour during the day.
+
+        // Tapering schedule
+        IF (Treatment duration is less than 3-4 days) THEN
+            Administer topical antifungal drops every 4 hours.
+        ELSE IF (Treatment duration is 3-4 days) THEN
+            Reduce frequency to every 4 hours.
+        ENDIF
+
+        // Maintenance dosing
+        IF (Active stage of infection persists) THEN
+            Administer topical antifungal drops 4 times a day for at least 14-21 days or until resolution.
+        ENDIF
+
+    // Pharmacological treatment - Subconjunctival/Oral Antifungals
+    IF (Patient has severe Fungal Keratitis OR poor compliance) THEN
+        Administer subconjunctival injections of antifungal agents.
+    ENDIF
+
+    // Pharmacological treatment - Systemic Antifungals
+    IF (Patient has deep stromal infection) THEN
+        Consider oral antifungal therapy (e.g., ketoconazole, fluconazole 100mg).
+    ENDIF
+
+    // Specific Drug Dosages (Topical)
+    IF (Drug is Amphotericin –B) THEN
+        Administer 1-10mg/ml drops topically.
+    ELSE IF (Drug is Natamycin) THEN
+        Administer 5% drops topically.
+    ELSE IF (Drug is Miconazole) THEN
+        Administer 1% drops OR 2% ointment topically.
+    ELSE IF (Drug is Ketokonazole) THEN
+        Administer 1% drops topically.
+    ELSE IF (Drug is Fluconazole) THEN
+        Administer 0.2%-2% drops topically.
+    ENDIF
+
+    // Specific Drug Dosages (Subconjunctival/Oral)
+    IF (Drug is Amphotericin –B) THEN
+        Administer 0.37mg subconjunctivally.
+    ELSE IF (Drug is Ketokonazole) THEN
+        Administer 200-800mg orally per day.
+    ELSE IF (Drug is Fluconazole) THEN
+        Administer 100-200mg orally every 6 hours.
+    ENDIF
+
+    // Specific Drug Dosages (Intravitreal)
+    IF (Drug is Amphotericin –B) THEN
+        Administer 5-10µg intravitreally.
+    ELSE IF (Drug is Natamycin) THEN
+        Administer 25µg intravitreally.
+    ELSE IF (Drug is Miconazole) THEN
+        Administer no intravitreal dose listed.
+    ELSE IF (Drug is Ketokonazole) THEN
+        Administer 0.5mg intravitreally.
+    ELSE IF (Drug is Fluconazole) THEN
+        Administer 0.1mg intravitreally.
+    ENDIF
+
+    // Intra-cameral Injection
+    IF (Treatment includes intra-cameral injection) THEN
+        Administer Inj. amphotericin-B (5 - 7.5% µg in 0.1ml in 5% dextrose).
+    ENDIF
+
+    // Intra-corneal Injection
+    IF (Treatment includes intra-corneal injection) THEN
+        Administer Inj. amphotericin-B (5µg in 0.1ml) four to five places around the lesion intrastromally, avoiding thin areas.
+    ELSE IF (Treatment includes intra-corneal injection) THEN
+        Administer Inj. voriconazole (50 µg in 0.1% in RL solution) intrastromally.
+    ENDIF
+
+    // Adjunctive Therapies
+    IF (Patient has Fungal Keratitis) THEN
+        Administer cycloplegics.
+        IF (Intraocular pressure is elevated) THEN
+            Add antiglaucoma drugs.
+        ENDIF
+        Perform frequent corneal debridement with a spatula.
+    ENDIF
+
+    // Surgical Intervention
+    IF (Patient fails to respond to medical treatment AND risk of corneal perforation) THEN
+        Consider therapeutic penetrating keratoplasty.
+    ENDIF
+
+CONTRAINDICATIONS:
+    // No specific contraindications listed for the drugs mentioned in the context of Fungal Keratitis treatment.
+    // Standard contraindications for each drug class (e.g., azoles, amphotericin B) should be considered based on patient history and other medications.
+```

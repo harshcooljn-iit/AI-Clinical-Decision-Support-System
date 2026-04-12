@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Does the patient prefer non-pharmacological treatment? (Yes/No)",
+        "Are benzodiazepines chosen? (Yes/No)",
+        "Are SSRIs chosen? (Yes/No)",
+        "Are beta blockers chosen for symptomatic relief? (Yes/No)"
+    ]
+}

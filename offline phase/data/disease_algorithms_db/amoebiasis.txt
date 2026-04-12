@@ -1,0 +1,34 @@
+```text
+DISEASE: Amoebiasis (Intestinal)
+
+ABBREVIATIONS:
+- TDS: Three times a day
+- PO: Per os (by mouth)
+- mg: Milligram
+- kg: Kilogram
+- Tab: Tablet
+
+DIAGNOSTICS:
+- Demonstration of cysts and/or trophozoites of _Entamoeba histolytica_ in the stool.
+
+TREATMENT ALGORITHM:
+
+IF Patient is an asymptomatic cyst passer
+  THEN Administer Tab. diloxanide furoate 500 mg TDS for 10 days
+ELSE IF Patient has acute amoebic dysentery or chronic infection
+  THEN
+    IF Patient is an adult
+      THEN Administer Tab. metronidazole 400 – 800 mg 8 hourly PO for 10 days
+    ELSE IF Patient is a child
+      THEN Administer metronidazole 15 mg/kg divided in three doses for 7 days
+    ELSE IF Patient is an adult
+      THEN Administer Tab. tinidazole 2 g orally as single dose
+    ELSE IF Patient is a child
+      THEN Administer tinidazole 50 mg/kg/day in three divided doses for 10 days
+  ENDIF
+  Followed by Tab. diloxanide furoate 500 mg 8 hourly for 10 days
+ENDIF
+
+CONTRAINDICATIONS:
+(None specified in the provided text for the listed drugs in this context)
+```

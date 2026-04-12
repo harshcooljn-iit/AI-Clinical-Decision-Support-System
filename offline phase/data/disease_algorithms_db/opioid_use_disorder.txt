@@ -1,0 +1,98 @@
+```text
+DISEASE: Opioid Use Disorder
+
+ABBREVIATIONS:
+- BD: Twice daily
+- TDS: Three times daily
+- QID: Four times daily
+- BP: Blood pressure
+- NSAIDs: Nonsteroidal anti-inflammatory drugs
+- OUD: Opioid Use Disorder
+- mg: Milligram
+- mcg: Microgram
+- tab: Tablet
+- paracetamol: Acetaminophen
+- dextropropoxyphen: A synthetic opioid analgesic
+- buprenorphine: A partial opioid agonist
+- naloxone: An opioid antagonist
+- clonidine: An alpha-2 adrenergic agonist
+- naltrexone: An opioid antagonist
+- OUD: Opioid Use Disorder
+- BD: Twice daily
+- TDS: Three times daily
+- QID: Four times daily
+- BP: Blood pressure
+- NSAIDs: Nonsteroidal anti-inflammatory drugs
+- OUD: Opioid Use Disorder
+- mg: Milligram
+- mcg: Microgram
+- tab: Tablet
+- paracetamol: Acetaminophen
+- dextropropoxyphen: A synthetic opioid analgesic
+- buprenorphine: A partial opioid agonist
+- naloxone: An opioid antagonist
+- clonidine: An alpha-2 adrenergic agonist
+- naltrexone: An opioid antagonist
+
+DIAGNOSTICS:
+- Physiological, behavioral, cognitive symptoms indicating repeated continued use of opioid drugs despite related problems.
+- Opioid intoxication symptoms: Euphoria, dysphoria, apathy, psychomotor agitation/retardation, impaired judgment, pupillary constriction, drowsiness, slurred speech, impaired attention/memory.
+- Opioid withdrawal symptoms: Dysphoric mood, lacrimation, nausea/vomiting, muscle aches, diarrhea, yawning, fever, insomnia, pupillary dilatation, piloerection, sweating.
+- Impaired social or occupational functioning.
+
+TREATMENT ALGORITHM:
+
+# Non-pharmacological Treatment
+IF patient has Opioid Use Disorder THEN
+    - Provide individual counseling.
+    - Provide family support.
+    - Encourage joining self-help groups.
+    - Consider prolonged inpatient stay with rehabilitative inputs (beneficial for highly relapsing disorder).
+ENDIF
+
+# Pharmacological Treatment (Acute Withdrawal)
+
+# Option 1: Paracetamol and Dextropropoxyphen
+IF patient requires pharmacological treatment for withdrawal symptoms THEN
+    - Administer Tab. paracetamol 500 mg and dextropropoxyphen 32.5 mg.
+    - Start dosage at BD (Twice daily).
+    - Gradually increase to maximum 2 tablets TDS (Three times daily).
+ENDIF
+
+# Option 2: Buprenorphine and Naloxone
+IF patient requires pharmacological treatment for withdrawal symptoms THEN
+    - Administer Tab. buprenorphine 2 mg and naloxone 0.5 mg.
+    - Start dosage at 1 tablet BD (Twice daily).
+    - Increase dosage to maximum of TDS (Three times daily) or QID (Four times daily) depending on severity of withdrawal symptoms.
+ENDIF
+
+# Option 3: Clonidine
+IF patient requires symptomatic management of withdrawal symptoms THEN
+    - Administer Tab. clonidine 50 mcg BD (Twice daily).
+    - Monitor BP (Blood pressure) carefully.
+ENDIF
+
+# Option 4: NSAIDs
+IF patient has muscular pains associated with withdrawal THEN
+    - Administer NSAIDs (Nonsteroidal anti-inflammatory drugs).
+ENDIF
+
+# Long-Term Treatment (Managed by Psychiatrist)
+
+# Naltrexone for Craving Reduction and Abstinence Maintenance
+IF patient has been opioid-free for at least 7-10 days AND requires long-term treatment THEN
+    - Assess baseline hepatic functions.
+    - Administer Tab. naltrexone 50 mg/day orally.
+    - Monitor hepatic functions once a month while on naltrexone treatment.
+    - Continue drug for a period of 6 months (or longer if appropriate).
+    - IF significant liver disease develops (e.g., several-fold increase in serum transaminases) THEN
+        - Withdraw naltrexone.
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+- Naltrexone:
+    IF patient has significant liver disease (e.g., several-fold increase in serum transaminases) THEN
+        - DO NOT administer naltrexone.
+    ENDIF
+```

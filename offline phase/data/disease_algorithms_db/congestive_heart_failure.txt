@@ -1,0 +1,88 @@
+```text
+DISEASE: Congestive Heart Failure (CHF)
+
+ABBREVIATIONS:
+- CHF: Congestive Heart Failure
+- LV: Left Ventricle
+- SVR: Systemic Vascular Resistance
+- CO: Cardiac Output
+- NSAIDs: Nonsteroidal anti-inflammatory drugs
+- IV: Intravenous
+- IU: International Units
+- SC: Subcutaneous
+- LVEF: Left Ventricular Ejection Fraction
+
+DIAGNOSTICS:
+- Symptoms: Cough expectoration, breathlessness, pedal edema, hypo or hyper tension, easy fatigability, raised jugular venous pressure, positive abdominojugular reflex, basal rales, pulmonary edema, orthopnea, paroxysmal nocturnal dyspnea (PND).
+- Signs: S3, hepatomegaly, ascites, sinus tachycardia.
+- Investigations: Chest X-ray shows cardiomegaly, pulmonary congestion.
+
+TREATMENT ALGORITHM:
+
+1.  **Assess Cardiac Output (CO) and Systemic Vascular Resistance (SVR):**
+    IF CO is low (↓ CO) AND SVR is high (↑ SVR)?
+        THEN proceed to step 2.
+    ELSE
+        IF CO is normal OR high AND SVR is normal OR low?
+            THEN proceed to step 3.
+        ENDIF
+    ENDIF
+
+2.  **Assess Left Ventricular (LV) Filling Pressures:**
+    IF LV filling pressures are elevated (Yes)?
+        THEN Patient is in Profile C ("Cold and wet"). Proceed to treatment for Profile C.
+    ELSE
+        IF LV filling pressures are not elevated (No)?
+            THEN Patient is in Profile L ("Cold and dry"). Proceed to treatment for Profile L.
+        ENDIF
+    ENDIF
+
+3.  **Assess Left Ventricular (LV) Filling Pressures:**
+    IF LV filling pressures are elevated (Yes)?
+        THEN Patient is in Profile B ("Warm and wet"). Proceed to treatment for Profile B.
+    ELSE
+        IF LV filling pressures are not elevated (No)?
+            THEN Patient is in Profile A ("Warm and dry"). No further treatment needed.
+        ENDIF
+    ENDIF
+
+**Treatment based on Profile:**
+
+*   **Profile A ("Warm and dry"):** No further treatment needed.
+*   **Profile B ("Warm and wet"):**
+    *   Pharmacological treatment: Diuretics and vasodilators.
+        *   Inj. furosemide 40 – 80 mg IV stat every 2 to 3 hours with maximum up to 200 mg/day.
+        *   Maintenance dose: Inj. furosemide 40 mg IV 12 hourly.
+        *   Tab. spironolactone 25 – 200 mg/day OR
+        *   Tab. chlorthiazide 250 – 500 mg/day OR
+        *   Tab. indapamide 2.5 – 5 mg/day OR
+        *   Tab. benzthiazide 25 mg plus Tab. triamterene 50 mg/day.
+        *   Tab. enalapril 2.5 -20 mg/day OR
+        *   Tab. lisinopril 2.5 – 10 mg/day
+        *   Tab. isosorbide mononitrate 60 mg/day as slow release preparation at night
+*   **Profile C ("Cold and wet"):**
+    *   Pharmacological treatment: Ionotropic agents, Diuretics, Vasodilators.
+        *   Inj. furosemide 40 – 80 mg IV stat every 2 to 3 hours with maximum up to 200 mg/day.
+        *   Maintenance dose: Inj. furosemide 40 mg IV 12 hourly.
+        *   Tab. spironolactone 25 – 200 mg/day OR
+        *   Tab. chlorthiazide 250 – 500 mg/day OR
+        *   Tab. indapamide 2.5 – 5 mg/day OR
+        *   Tab. benzthiazide 25 mg plus Tab. triamterene 50 mg/day.
+        *   Tab. enalapril 2.5 -20 mg/day OR
+        *   Tab. lisinopril 2.5 – 10 mg/day
+        *   Tab. isosorbide mononitrate 60 mg/day as slow release preparation at night
+        *   Tab. digoxin 0.5 mg first day followed by 0.25 mg/day 5 days/week (IF fast ventricular rate OR LVEF < 30%).
+        *   Tab. carvedilol 3.15 – 25 mg per day in one or two divided doses (IF symptomatic or asymptomatic heart failure OR reduced ejection fraction (40%)).
+*   **Profile L ("Cold and dry"):** Fluid challenge can be given.
+
+**Non-pharmacological treatment (General):**
+- Restrict physical activity, bed rest in propped up position with a back rest.
+- Dietary salt (sodium) restriction (2 – 3 g/day).
+- Fluid restriction depending on output and other conditions.
+
+**Contraindications:**
+- Avoid and discontinue NSAIDs.
+- Avoid and discontinue high dose Beta blockers.
+- Avoid and discontinue calcium channel blockers.
+- Inj. heparin 5000 IU 12 hourly SC (IF patient is bedridden).
+```

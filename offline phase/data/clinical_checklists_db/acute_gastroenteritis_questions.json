@@ -1,0 +1,15 @@
+{
+    "questions": [
+        "What is the duration of diarrhea in days?",
+        "Does the patient have any signs of severe illness (Temperature > 38.5 \u00b0C, abdominal pain, bloody diarrhea, >6 stools/24 hrs, dehydration)? (Yes/No)",
+        "Is the patient immunocompromised (e.g., AIDS, post-transplantation)? (Yes/No)",
+        "Is the patient elderly? (Yes/No)",
+        "Does the patient require rehydration? (Yes/No)",
+        "If yes to rehydration, is the dehydration mild to moderate? (Yes/No)",
+        "Does the patient have very ill symptoms with systemic symptoms associated with bloody diarrhea? (Yes/No)",
+        "Does the patient have amoebic dysentery? (Yes/No)",
+        "Does the patient have acute giardiasis? (Yes/No)",
+        "Is the patient hospitalized? (Yes/No)",
+        "Is the patient vomiting? (Yes/No)"
+    ]
+}

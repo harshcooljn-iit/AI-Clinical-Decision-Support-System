@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Does the patient require non-pharmacological treatment? (Yes/No)",
+        "Does the patient require pharmacological treatment? (Yes/No)"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "Does the patient's partner have urethral discharge or genital sore? (Yes/No)",
+        "Is cervical mucopus present on speculum examination? (Yes/No)",
+        "Is the vaginal discharge curd-like? (Yes/No)",
+        "Is the vaginal discharge otherwise abnormal? (Yes/No)",
+        "Is the patient allergic to Penicillin? (Yes/No)"
+    ]
+}

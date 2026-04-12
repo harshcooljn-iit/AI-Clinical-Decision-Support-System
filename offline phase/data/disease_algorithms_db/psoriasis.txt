@@ -1,0 +1,67 @@
+```text
+DISEASE: Psoriasis
+
+ABBREVIATIONS:
+- BSA: Body Surface Area
+- SOS: As needed (implied from context, not explicitly defined in text)
+
+DIAGNOSTICS:
+- Clinical examination
+- Skin biopsy
+
+TREATMENT ALGORITHM:
+
+IF Psoriasis is diagnosed THEN
+
+    // Non-pharmacological treatment
+    IF Patient has identifiable triggering factors THEN
+        Advise patient to identify and avoid triggering factors.
+    ENDIF
+
+    Advise patient to avoid stress.
+    Advise patient to avoid alcohol.
+    Advise patient to avoid smoking.
+
+    // Pharmacological treatment - Topical agents (if < 10% BSA involved)
+    IF Body Surface Area (BSA) involvement is less than 10% THEN
+        // Emollients
+        Recommend emollients such as liquid paraffin, vaseline, light liquid paraffin, or white soft paraffin.
+
+        // Topical Corticosteroids
+        Recommend topical corticosteroids such as clobetasol or betamethasone, either alone or in combination.
+
+        // Salicylic Acid
+        Recommend salicylic acid 3-6%.
+
+        // Vitamin D3 analogues
+        Recommend Vitamin D3 analogues such as calcitriol or calcipotriol.
+    ELSE
+
+        // Pharmacological treatment - Systemic therapy (if > 20% BSA involved)
+        IF BSA involvement is greater than 20% THEN
+            Recommend referral to a tertiary care centre for systemic therapy.
+
+            // Systemic options at tertiary care centre
+            IF Methotrexate is considered THEN
+                Recommend Tab. methotrexate 5-7.5 mg/week.
+            ENDIF
+
+            IF Cyclosporine is considered THEN
+                Recommend Tab. cyclosporine 100-200 mg/day.
+            ENDIF
+
+            IF Acitretin is considered THEN
+                Recommend Tab. acitretin 25 mg/day.
+            ENDIF
+        ENDIF
+
+        // Phototherapy
+        Recommend Phototherapy.
+    ENDIF
+
+ENDIF
+
+CONTRAINDICATIONS:
+- Avoid beta blockers.
+- Avoid chloroquine.
+```

@@ -1,0 +1,39 @@
+```text
+DISEASE: Fistula In Ano
+
+ABBREVIATIONS:
+- MRI: Magnetic Resonance Imaging
+- eg: for example
+
+DIAGNOSTICS:
+- History of previous anorectal abscess.
+- Symptoms: perianal discharge, pain, swelling, bleeding, diarrhea, skin excoriation, external opening.
+- Investigations (selected cases): Fistulography, Endoanal/endorectal ultrasonography, MRI, Barium enema/small bowel series, Anal manometry, Examination under anesthesia, Proctosigmoidoscopy/colonoscopy.
+
+TREATMENT ALGORITHM:
+IF Underlying cause exists THEN treat underlying cause.
+IF Surgical procedure needed for eradication of tract THEN proceed with surgical treatment.
+
+SURGICAL TREATMENT OPTIONS:
+- Fistulotomy
+- Fistulectomy
+- Mucosal advancement flap
+- Seton placement
+
+INDICATIONS FOR SETON PLACEMENT:
+IF Fistula is complex (high transsphincteric, suprasphincteric, extrasphincteric) THEN consider Seton placement.
+IF Fistula is multiple THEN consider Seton placement.
+IF Fistula is recurrent after previous fistulotomy THEN consider Seton placement.
+IF Fistula is anterior in female patients THEN consider Seton placement.
+IF Preoperative sphincter pressures are poor THEN consider Seton placement.
+IF Patient has Crohn’s disease THEN consider Seton placement.
+IF Patient is immunosuppressed THEN consider Seton placement.
+
+PATIENT EDUCATION AND FOLLOW-UP CARE:
+- Treatment often ambulatory.
+- Provide discharge instructions and close follow-up.
+- Recommend Sitz baths.
+- Recommend analgesics.
+- Recommend stool-bulking agents (e.g., bran, psyllium products).
+- Schedule frequent office visits within the first few weeks for healing and wound care monitoring.
+```

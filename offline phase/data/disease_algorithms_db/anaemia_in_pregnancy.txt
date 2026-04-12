@@ -1,0 +1,121 @@
+```text
+1.  DISEASE: Anaemia In Pregnancy
+2.  ABBREVIATIONS:
+    *   Hb: Haemoglobin
+    *   RBC: Red Blood Cell
+    *   MCV: Mean Corpuscular Volume
+    *   MCH: Mean Corpuscular Haemoglobin
+    *   MCHC: Mean Corpuscular Haemoglobin Concentration
+    *   Inj.: Injection
+    *   IV: Intravenous
+    *   IM: Intramuscular
+    *   NaCl: Sodium Chloride
+    *   g/dl: grams per deciliter
+    *   gm: gram
+    *   mc: microcytic
+    *   pg: picogram
+    *   U: Units
+    *   mg: milligram
+    *   ml: milliliter
+    *   tab: tablet
+    *   mcg: microgram
+
+3.  DIAGNOSTICS:
+    *   Haemoglobin concentration < 11 g/dl
+    *   Haematocrit < 33%
+    *   Classification based on Hb levels:
+        *   Mild: 10-11 g%
+        *   Moderate: 7-10 g%
+        *   Severe: <7 g%
+    *   Basic investigations: Haemoglobin, haematocrit, total RBC counts, peripheral smear (type of anaemia, haematological indices), plasma proteins, stool for ova and cyst.
+    *   Megaloblastic anaemia diagnosis: MCV > 96.11 mc, MCH > 33 pg, MCHC normal. Peripheral smear shows macrocytic anaemia with hypersegmentation of neutrophils, neutropenia, and thrombocytopenia.
+
+4.  TREATMENT ALGORITHM:
+
+    *   **Initial Assessment:**
+        *   IF Haemoglobin (Hb) < 11 g/dl, THEN diagnose Anaemia in Pregnancy.
+        *   IF Hb is 10-11 g/dl, THEN classify as Mild Anaemia.
+        *   IF Hb is 7-10 g/dl, THEN classify as Moderate Anaemia.
+        *   IF Hb is <7 g/dl, THEN classify as Severe Anaemia.
+
+    *   **Severe Anaemia Management:**
+        *   IF Anaemia is Severe, THEN admit the patient, especially if there are features of anoxia or cardiac insufficiency.
+
+    *   **Non-Pharmacological Treatment (All types):**
+        *   Recommend diet rich in iron (jaggery, green leafy vegetables, sprouted pulses, meat, cooking in iron utensils).
+        *   Recommend diet rich in protein (pulses, lentils, milk, nuts, eggs, meat).
+
+    *   **Pharmacological Treatment - Iron Deficiency Anaemia (Most Common):**
+        *   **Oral Iron Therapy:**
+            *   Recommended dose: 200 mg elemental iron daily, divided doses.
+            *   Timing: Not to be taken with meals, milk, coffee, or tea.
+            *   Duration: Continue until blood picture normalizes, then continue 100 mg elemental iron daily for 3 months to build stores.
+            *   Government of India Recommendation: Minimum 100 mg elemental iron + 5 mg folic acid daily for 100 days starting at 20 weeks.
+            *   Common side effects: Epigastric pain, nausea, vomiting, constipation, diarrhoea.
+        *   **Deworming (After first trimester, if necessary):**
+            *   Option 1: Tab. mebendazole 100 mg twice daily for 3 days.
+            *   Option 2: Tab. albendazole 400 mg single dose.
+
+    *   **Monitoring Response to Oral Iron Therapy:**
+        *   Subjective improvement (feeling better, weight gain, improved appetite): After 1-2 weeks.
+        *   Reticulocyte response: Observed in 5-10 days (increases to 5-6%).
+        *   Rise in Hb/Haematocrit: In 2-3 weeks, expected rate 0.1-0.25 g/dl/day or 0.8-1 g/dl/week.
+        *   IF no improvement in 3 weeks, THEN re-evaluate for: incorrect diagnosis, non-compliance, defective absorption, continuing loss, associated deficiencies.
+
+    *   **Parenteral Iron Therapy (Specific Indications):**
+        *   IF Severe intolerance to oral iron, OR malabsorption, OR non-compliance, OR moderate to severe anaemia in advanced pregnancy, THEN consider parenteral therapy.
+
+    *   **Parenteral Iron Therapy - Calculation:**
+        *   Total dose of iron (mg) = (2.4 * weight in kg * deficit in Hb in gm) + 500 mg (for pregnancy).
+        *   CAUTION: Suspend oral iron at least 24 hours prior to parenteral therapy.
+        *   Parenteral route given after hospitalization.
+
+    *   **Parenteral Iron Therapy - Specific Preparations:**
+        *   **Inj. Iron Dextran (IV):**
+            *   Dilute in 5% dextrose.
+            *   Initial infusion: Slowly (8 drops/min) for 30 minutes, monitor for reaction.
+            *   Increase gradually to 40 drops/min.
+            *   Total dose administered in one sitting.
+            *   IF Total dose > 2000 mg, THEN give only half dose in one day.
+            *   Monitor for adverse reactions (rigors, chest pain, hypotension); stop infusion if present.
+        *   **Inj. Iron Dextran or Iron Sorbitol Complex (IM):**
+            *   Available as 50 mg/ml.
+            *   Initial test dose: 0.5 ml IM.
+            *   Subsequent injections: Daily or on alternate days, 2 ml IM using Z technique.
+            *   Prevention of staining: Pass small amount of saline/air down needle before withdrawal.
+        *   **Inj. Iron Sucrose (IV):**
+            *   Each infusion: 200 mg elemental iron in 100 ml 0.9% NaCl.
+            *   Infusion rate: Over 20-30 minutes.
+            *   Test dose: Not required.
+            *   Recommended regimen: Two infusions (each 200 mg elemental iron) twice a week.
+            *   CAUTION: Keep emergency drugs ready for anaphylactic reaction.
+
+    *   **Indications for Blood Transfusion:**
+        *   Severe blood loss.
+        *   Severe anaemia beyond 36 weeks of pregnancy.
+        *   Anaemia refractory to oral and parenteral therapy.
+        *   Anaemic patient with anoxia or cardiac failure.
+
+    *   **Management of Anaemic Patient During Labour:**
+        *   Propped up position, oxygen therapy.
+        *   Sedation and pain relief.
+        *   Shorten 2nd stage of labour (forceps if needed).
+        *   Active management of 3rd stage:
+            *   Option 1: Inj. methylergometrine maleate 0.2 mg IV at delivery of anterior shoulder.
+            *   Option 2: Inj. oxytocin 10 U IM.
+        *   CAUTION: Avoid Inj. methylergometrine in anaemia with cardiac failure.
+        *   Packed cell transfusion if necessary and if Hb < 5 g after giving diuretics.
+
+    *   **Megaloblastic Anaemia Management:**
+        *   **Pharmacological Treatment:**
+            *   Tab. folic acid 5 mg daily for at least 4 weeks in puerperium.
+            *   Inj. cyanocobalamine 250 mcg IM every month.
+        *   **Dimorphic Anaemia:**
+            *   Treat with both iron and folic acid in therapeutic doses.
+
+    *   **Patient Education (All types):**
+        *   Dietary advice (as mentioned for iron deficiency).
+        *   Explain common side effects of therapy (e.g., black stools with oral iron).
+        *   Continue iron supplementation for at least 3 months postpartum.
+        *   Adequate spacing between pregnancies (at least 3 years).
+```

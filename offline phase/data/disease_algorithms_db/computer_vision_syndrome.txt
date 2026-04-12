@@ -1,0 +1,82 @@
+```text
+DISEASE: Computer Vision Syndrome
+
+ABBREVIATIONS:
+- CVS: Computer Vision Syndrome
+- CRT: Cathode Ray Tube
+- LCD: Liquid Crystal Display
+- AIOS: All India Ophthalmological Society
+
+DIAGNOSTICS:
+- Symptoms include tiredness of eyes, headache, blurred near and distant vision, dry or irritated eyes, neck pain and/or backaches, diplopia (double vision), difficulty in re-focusing the eyes.
+- Diagnostic tests include tear film break-up time and Schirmer test.
+- Differential diagnosis includes Cervical spondylitis, anxiety and migraine.
+
+TREATMENT ALGORITHM:
+
+# Non-pharmacological treatment
+IF (Patient has Computer Vision Syndrome) THEN
+    # Counselling and Work Environment Modification
+    Counsel patient regarding the syndrome and work environment modification.
+
+    # Eye Exam
+    IF (Patient is starting computer use) THEN
+        Get a computerized eye exam.
+    ENDIF
+    IF (Patient has been using computer for > 1 year) THEN
+        Repeat computerized eye exam once a year.
+    ENDIF
+
+    # Lighting
+    Use proper lighting.
+    Eliminate exterior light by closing drapes, shades, or blinds.
+    Reduce interior lighting by using lower intensity bulbs and tubes.
+
+    # Glare Minimization
+    Minimize glare:
+    IF (Glare is present) THEN
+        Install an anti-glare screen on the monitor.
+        Paint bright white walls a darker color with a matt finish.
+    ENDIF
+
+    # Display Upgrade
+    Upgrade display:
+    IF (Using CRT monitor) THEN
+        Use LCD monitor instead.
+    ENDIF
+
+    # Screen Adjustment
+    Adjust the brightness and contrast of the computer screen.
+
+    # Blinking
+    Encourage patient to blink more often.
+
+    # Eye Exercises
+    Exercise eyes: Follow 20-20-20 rule (after every 20 minutes, look at 20 feet distance for 20 seconds).
+
+    # Breaks
+    Take frequent breaks:
+    - Two 15-minute breaks.
+    - Four additional five-minute "minibreaks" throughout the workday (6-8 hrs).
+
+    # Workstation Modification
+    Modify workstation for proper posture:
+    - Position computer screen 20 to 24 inches from eyes.
+    - Center of screen should be about 10 to 15 degrees below eye level.
+    - Top of screen tilted back slightly (10-20 degrees) away from the operator.
+
+    # Eyeglasses
+    Consider customized eyeglasses specific for computer use.
+    IF (Using eyeglasses for computer work) THEN
+        Use anti-reflective coating in the lenses.
+        Avoid contact lens use during computer work.
+    ENDIF
+ENDIF
+
+# Pharmacological treatment
+IF (Patient has Computer Vision Syndrome AND symptoms are aggravated during computer work) THEN
+    # Tear Substitute
+    Consider tear substitute.
+    Examples of commercially available tear substitutes include sodium carboxymethylcellulose and hydroxypropyl methylcellulose.
+ENDIF
+```

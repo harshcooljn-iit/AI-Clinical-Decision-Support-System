@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "What is the patient's IOP in mmHg?",
+        "Is the patient's severity high? (Yes/No)",
+        "Are there any contraindications to glycerol 50% 1 g/kg orally? (Yes/No)"
+    ]
+}

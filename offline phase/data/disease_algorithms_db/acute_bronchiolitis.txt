@@ -1,0 +1,62 @@
+```text
+DISEASE: Acute Bronchiolitis
+
+ABBREVIATIONS:
+- Syr.: Syrup
+- URTI: Upper Respiratory Tract Infection
+- SpO2: Peripheral Oxygen Saturation
+- O2: Oxygen
+- NaCl: Sodium Chloride
+- mg: Milligram
+- kg: Kilogram
+- hr: Hour
+- mL: Milliliter
+- tab: Tablet
+
+DIAGNOSTICS:
+- Clinical diagnosis based on symptoms (running nose, cough, wheeze, rapid respiration, chest indrawing, difficulty feeding, hypoxaemia, cyanosis, respiratory failure).
+- History of viral URTI in family members.
+- Physical exam findings (respiratory rate, chest indrawing, feeding difficulty, cyanosis).
+- SpO2 monitoring.
+- Chest X-ray may show hyperinflation and atelectasis (not primary diagnostic tool).
+- Lab tests (leucocyte count) are usually normal or show lymphocytosis.
+
+TREATMENT ALGORITHM:
+
+IF patient has mild disease (ambulatory treatment at home):
+    THEN:
+        - No antibiotics.
+        - Administer Syr. paracetamol 10-15 mg/kg every 4-6 hours for fever.
+        - Monitor for improvement.
+        IF patient shows overall improvement with no evidence of chest indrawing, cyanosis, or difficulty in feeding:
+            THEN: Continue treatment as above.
+        ELSE IF patient shows partial improvement:
+            THEN: Reassess after 2 days or earlier if patient deteriorates.
+        ELSE IF patient shows no improvement or deterioration:
+            THEN: Manage as severe disease (hospitalize).
+
+IF patient has severe disease (needs hospitalization):
+    THEN:
+        - Administer oxygen (humidified O2) by oxygen hood or nasal catheter.
+        - Administer intravenous fluids if the child is unable to feed.
+        - Administer Adrenaline inhalation 0.3 mg/kg by nebulizer (dissolved in 3 ml saline) every 4-6 hours as required.
+        - IF Adrenaline is not available:
+            THEN: Try salbutamol inhalation 0.15 mg/kg (dissolved in 3 ml saline) and continue if response is observed.
+        - Administer Syr. paracetamol 10-15 mg/kg every 4-6 hours for fever.
+        - Do not use sedatives.
+        - Monitor respiratory rate, lower chest indrawing, difficulty in feeding, excessive crying, cyanosis, and oxygen saturation every 4-6 hours until significant improvement.
+        - IF child does not improve/deteriorates:
+            THEN: Look for underlying heart disease (myocarditis/congenital heart disease), get a chest X-ray, and look for complications (massive collapse, infection, pneumothorax) and manage accordingly.
+
+Non-pharmacological treatment (for all severities, especially mild):
+    - Normal saline drops in nostrils as needed, especially before feeds.
+    - Home remedies (ginger, honey, tulsi) for cough control.
+    - Plenty of liquids orally.
+    - Nurse in a comfortable environment.
+
+CONTRAINDICATIONS:
+- Antibiotics: Not indicated for uncomplicated acute bronchiolitis.
+- Steroids (inhaled systemic): Not recommended for treatment.
+- Sedatives: Should not be used.
+- Ribavirine inhalation: No role in uncomplicated patients.
+```

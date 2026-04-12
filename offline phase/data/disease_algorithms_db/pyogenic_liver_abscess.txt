@@ -1,0 +1,56 @@
+```text
+DISEASE: Pyogenic Liver Abscess
+
+ABBREVIATIONS:
+- RHC: Right Upper Quadrant
+- TC: Total Count
+- DC: Differential Count
+- PT: Prothrombin Time
+- APTT: Activated Partial Thromboplastin Time
+- SGPT: Serum Glutamic Pyruvic Transaminase (also known as ALT)
+- USG: Ultrasonography
+- CECT: Contrast-Enhanced Computed Tomography
+- Inj.: Injection
+- IV: Intravenous
+- IM: Intramuscular
+- BD: Bis in Die (Twice a day)
+- Vit. K: Vitamin K
+
+DIAGNOSTICS:
+- Clinical presentation: Right upper quadrant abdominal pain, fever, right upper quadrant tenderness, palpable liver, jaundice.
+- Laboratory tests: Elevated Total Count (TC) with neutrophilia, elevated Prothrombin Time (PT), elevated Activated Partial Thromboplastin Time (APTT), abnormal Liver Function Tests (elevated S. bilirubin, SGPT/ALT, low albumin).
+- Imaging: Chest X-ray (elevated right diaphragm, rule out perforation), USG Abdomen, CECT Abdomen (if rupture suspected).
+- Definitive: Diagnostic aspiration of abscess pus for microscopic examination and culture-sensitivity.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    *   IF Patient presents with symptoms suggestive of Pyogenic Liver Abscess (RHC pain, fever, RHC tenderness, palpable liver, jaundice) AND diagnostic tests confirm the diagnosis (elevated TC, abnormal LFTs, imaging findings, positive pus culture).
+    *   THEN proceed to treatment.
+    *   ELSE consider alternative diagnoses.
+
+2.  **Non-Pharmacological Treatment:**
+    *   Initiate a high glucose diet.
+    *   Initiate a low protein diet.
+
+3.  **Pharmacological Treatment:**
+    *   Administer Inj. ceftriaxone 1-2 g IV BD.
+    *   Administer Inj. diclofenac sodium 75 mg IM 8 hourly.
+    *   Administer Inj. pantoprazole 40 mg IV 12 hourly.
+    *   IF PT/APTT are altered.
+        *   THEN administer Vit. K injections.
+        *   ELSE do not administer Vit. K injections.
+
+4.  **Surgical/Drainage Treatment:**
+    *   Consider Percutaneous aspiration of the abscess cavity.
+        *   IF Percutaneous aspiration is performed.
+            *   THEN typically requires 2-3 aspiration sessions done on alternate days.
+            *   OR use a Percutaneous pigtail catheter to avoid repeated aspirations.
+    *   Consider Laparoscopic drainage of the liver abscess.
+        *   IF the site of the abscess permits laparoscopic access.
+            *   THEN perform Laparoscopic drainage.
+    *   Consider Exploratory laparotomy with drainage.
+        *   IF rupture of the liver abscess is suspected.
+            *   THEN perform Exploratory laparotomy with drainage.
+
+```

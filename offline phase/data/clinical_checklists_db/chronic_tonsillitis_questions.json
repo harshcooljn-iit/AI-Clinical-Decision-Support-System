@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Are symptoms present? (Yes/No)",
+        "Is the patient suitable for amoxicillin? (Yes/No)",
+        "Is the patient suitable for azithromycin? (Yes/No)",
+        "Are there recurrent episodes of tonsillitis? (Yes/No)"
+    ]
+}

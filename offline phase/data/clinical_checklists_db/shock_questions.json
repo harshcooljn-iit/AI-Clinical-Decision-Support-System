@@ -1,0 +1,15 @@
+{
+    "questions": [
+        "What is the suspected cause of shock (e.g., hemorrhagic, cardiogenic, septic, hypovolemic, distributive)?",
+        "What is the patient's systolic blood pressure (mmHg)?",
+        "Is there evidence of poor organ perfusion?",
+        "Is there an anticipated delay (>30 min) to hemorrhage control?",
+        "What is the patient's hemoglobin level (g/dL)?",
+        "What is the patient's CVP?",
+        "What is the patient's urine output?",
+        "Is acidosis present?",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have any known allergies? (Yes/No)",
+        "Does the patient have G6PD deficiency? (Yes/No)"
+    ]
+}

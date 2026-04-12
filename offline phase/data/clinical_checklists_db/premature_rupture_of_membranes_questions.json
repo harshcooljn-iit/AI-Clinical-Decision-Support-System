@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "What is the gestational age in weeks?",
+        "Are there signs of infection (fever, foul-smelling vaginal discharge)? (Yes/No)",
+        "Is there vaginal bleeding? (Yes/No)",
+        "Is there abdominal pain? (Yes/No)",
+        "Are corticosteroids contraindicated due to frank infection? (Yes/No)"
+    ]
+}

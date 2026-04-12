@@ -1,0 +1,31 @@
+{
+    "questions": [
+        "What is the diagnosis (Threatened Abortion, Inevitable Abortion, Incomplete Abortion, Missed Abortion, Molar Pregnancy, Ectopic Pregnancy, Septic Abortion)?",
+        "Is the patient pregnant? (Yes/No)",
+        "Is the patient haemodynamically stable? (Yes/No)",
+        "Is the gestational sac size <3.5 cm? (Yes/No)",
+        "Is the serum hCG titer < 10,000 mIU/ml? (Yes/No)",
+        "Is the gestation <6 weeks? (Yes/No)",
+        "Is there absence of foetal cardiac activity? (Yes/No)",
+        "Is the patient in shock? (Yes/No)",
+        "Is there acidosis? (Yes/No)",
+        "Is there fever? (Yes/No)",
+        "Is there tachycardia? (Yes/No)",
+        "Is there abdominal distension/tenderness? (Yes/No)",
+        "Is there pelvic tenderness? (Yes/No)",
+        "Is there purulent vaginal discharge? (Yes/No)",
+        "Is there evidence of uterine injury or gut perforation? (Yes/No)",
+        "Is there a pelvic abscess? (Yes/No)",
+        "Is the patient allergic to ampicillin? (Yes/No)",
+        "Is the patient allergic to cefuroxime? (Yes/No)",
+        "Is the patient allergic to ceftazidime? (Yes/No)",
+        "Is the patient allergic to gentamicin? (Yes/No)",
+        "Is the patient allergic to amikacin? (Yes/No)",
+        "Is the patient allergic to metronidazole? (Yes/No)",
+        "Is the patient allergic to clindamycin? (Yes/No)",
+        "Does the patient have severe liver disease? (Yes/No)",
+        "Does the patient have active peptic ulcer disease? (Yes/No)",
+        "Does the patient have blood dyscrasias? (Yes/No)",
+        "Does the patient have immunodeficiency? (Yes/No)"
+    ]
+}

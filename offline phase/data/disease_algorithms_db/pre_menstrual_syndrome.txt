@@ -1,0 +1,67 @@
+```text
+DISEASE: Pre Menstrual Syndrome
+
+ABBREVIATIONS:
+- PMS: Pre Menstrual Syndrome
+- NSAIDs: Non-Steroidal Anti-Inflammatory Drugs
+- mg: milligram
+- tab: tablet
+- day: day
+- luteal phase: Luteal phase
+- max: maximum
+- Or: Or
+- OCPs: Oral Contraceptive Pills
+
+DIAGNOSTICS:
+- Cyclic recurrence of physical, psychological, or behavioral symptoms after ovulation.
+- Symptoms resolve after the onset of menstruation.
+- Diagnosis confirmed by excluding other medical or psychiatric disorders.
+
+TREATMENT ALGORITHM:
+
+IF symptoms are severe and interfere with lifestyle, relationships, and occupational functioning THEN proceed with treatment.
+
+# Non-pharmacological treatment (First line)
+IF patient is diagnosed with PMS THEN
+    - Offer daily charting of symptoms for two months.
+    - Offer dietary modifications: increase complex carbohydrates, reduce/eliminate salts, chocolate, caffeine, alcohol (especially in the luteal phase); several small meals per day.
+    - Offer moderate regular aerobic exercise (e.g., brisk walk 1-2 miles per day for 4-5 days/week).
+    - Offer stress management courses/counseling.
+ENDIF
+
+# Pharmacological treatment
+
+# Step 1: Initial Pharmacological Options
+IF patient is diagnosed with PMS THEN
+    - Option 1: Tab. pyridoxine 100 mg/day for 10-14 days (during luteal phase).
+        - Maximum daily dose is 150 mg.
+    - Option 2: Tab. Evening primrose oil 500 mg 3 times a day.
+ENDIF
+
+# Step 2: For Predominantly Physical Symptoms (e.g., bloatedness, irritability, swelling, weight gain, breast tenderness)
+IF patient has predominantly physical symptoms AND symptoms persist THEN
+    - Option 1: Tab. spironolactone 100 mg/day (during luteal phase).
+    - Option 2: Tab. bromocriptine 1.25 - 5 mg/day (during luteal phase) for mastalgia.
+        - IF side effects (nausea, vomiting) are very severe THEN consider vaginal administration.
+ENDIF
+
+# Step 3: For Predominantly Emotional Symptoms (if no relief from previous measures in 2-3 cycles)
+IF symptoms are predominantly emotional AND no relief from previous measures in 2-3 cycles THEN
+    - Consider Tab. fluoxetine 5-20 mg/day (preferably in consultation with a psychiatrist).
+ENDIF
+
+# Step 4: For Non-Responders (if no relief from previous therapies)
+IF patient is a non-responder to previous therapies THEN
+    - Consider ovulation suppression.
+    - Option: Low dose combined oral contraceptive pills (OCPs), 1 pill daily from day 5 to day 25 of the cycle.
+ENDIF
+
+CONTRAINDICATIONS:
+- Tab. pyridoxine: Not specified in the text.
+- Tab. Evening primrose oil: Not specified in the text.
+- NSAIDs (e.g., mefenamic acid): Not specified in the text.
+- Tab. spironolactone: Not specified in the text.
+- Tab. bromocriptine: Not specified in the text.
+- Tab. fluoxetine: Not specified in the text.
+- Low dose combined oral contraceptive pills: Standard contraindications for OCPs apply (e.g., history of VTE, certain migraines, uncontrolled hypertension, etc. - not detailed here).
+```

@@ -1,0 +1,18 @@
+{
+    "questions": [
+        "What is the treatment goal (relieve/control symptoms)? (Yes/No)",
+        "If yes, what is the goal (lower respiratory tract infection/inflammation, remove bronchial secretions, control symptoms with anti-inflammatory therapy, control symptoms with additional agents)?",
+        "If the goal is lower respiratory tract infection/inflammation, what is the route of administration (Oral/Intravenous)?",
+        "If the route is Oral, what is the specific antibiotic prescribed (Amoxicillin/clavulanic acid, Quinolone (ciprofloxacin), Azithromycin, Doxycycline)?",
+        "If the route is Intravenous, what is the specific antibiotic prescribed (Cefuroxime, Ceftriaxone, Amoxicillin/clavulanic acid)?",
+        "Is Pseudomonas the causative organism? (Yes/No)",
+        "If Pseudomonas is the causative organism, what is the route of administration (Oral/Intravenous)?",
+        "If Pseudomonas is the causative organism and the route is Oral, what is the specific antibiotic prescribed (Ciprofloxacin, Piperacillin/tazobactam, Ceftazidime, Meropenem + Aminoglycoside)?",
+        "If the goal is to remove bronchial secretions, is postural drainage indicated? (Yes/No)",
+        "If the goal is to control symptoms with anti-inflammatory therapy, are Corticosteroids (Inhaled and oral) or NSAIDs (Inhaled and oral) considered? (Yes/No)",
+        "If the goal is to control symptoms with additional agents, are Long-acting agonists, Long-acting anticholinergics, Methylxanthines, or LT receptor antagonists considered? (Yes/No)",
+        "Is chest physiotherapy indicated? (Yes/No)",
+        "If yes, what specific chest physiotherapy technique is used (Independent, Device-dependant, Manual, Gravity-assisted positioning, Test of incremental respiratory endurance)?",
+        "Is surgical treatment considered? (Yes/No)"
+    ]
+}

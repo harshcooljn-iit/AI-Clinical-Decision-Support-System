@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "What is the cause of the obstructive jaundice (e.g., choledocholithiasis, periampullary mass)?",
+        "If the cause is choledocholithiasis, are the stones amenable to ERCP retrieval? (Yes/No)",
+        "If the cause is a periampullary mass, is it resectable? (Yes/No)",
+        "Does the patient have any known hypersensitivity to cephalosporins? (Yes/No)",
+        "Does the patient have fluid overload or hypervolemia? (Yes/No)"
+    ]
+}

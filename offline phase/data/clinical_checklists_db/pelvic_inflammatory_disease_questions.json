@@ -1,0 +1,22 @@
+{
+    "questions": [
+        "What is the severity of the PID (mild/severe)?",
+        "Can the patient tolerate oral medication? (Yes/No)",
+        "Are there any contraindications to outpatient treatment? (Yes/No)",
+        "Which treatment regimen is chosen for outpatient therapy (A/B)?",
+        "Is the patient HIV positive? (Yes/No)",
+        "Does the patient have nausea/vomiting? (Yes/No)",
+        "Is the patient able to tolerate outpatient regimen? (Yes/No)",
+        "Has outpatient therapy failed? (Yes/No)",
+        "Which treatment regimen is chosen for inpatient therapy (A/B)?",
+        "Is colpotomy needed? (Yes/No)",
+        "Is dilatation and evacuation needed? (Yes/No)",
+        "Is laparotomy needed? (Yes/No)",
+        "Is laparoscopy needed? (Yes/No)",
+        "Is the male partner asymptomatic? (Yes/No)",
+        "Is the chronic PID due to a pathological lesion? (Yes/No)",
+        "Is the chronic PID due to pelvic tuberculosis? (Yes/No)",
+        "Is definitive surgery chosen for chronic PID? (Yes/No)",
+        "Is surgery indicated for chronic pelvic tuberculosis? (Yes/No)"
+    ]
+}

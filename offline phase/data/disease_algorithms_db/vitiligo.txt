@@ -1,0 +1,37 @@
+```text
+DISEASE: Vitiligo
+
+ABBREVIATIONS:
+- PUVA: Psoralen plus Ultraviolet A radiation
+- mg: milligram
+- kg: kilogram
+- Tab.: Tablet
+
+DIAGNOSTICS:
+- Clinical examination based on characteristic asymptomatic depigmented lesions.
+
+TREATMENT ALGORITHM:
+
+IF Non-pharmacological treatment is sufficient THEN
+    - Provide counselling and reassurance.
+    - Advise good general health and a balanced nutritious diet enriched with adequate proteins, vitamin B complex, vitamin E, minerals such as copper, zinc, and iron.
+    - Advise avoiding trauma.
+    - Advise avoiding soaps and detergents containing phenolic compounds and rubber goods.
+ELSE
+    IF Pharmacological treatment is indicated THEN
+        IF Topical steroids are chosen THEN
+            - Prescribe mometasone furoate 0.1% cream.
+            - OR Prescribe betamethasone valerate 0.05% cream or ointment.
+        ELSE IF Topical calcineurin inhibitors are chosen THEN
+            - Prescribe tacrolimus 0.03% ointment.
+            - OR Prescribe tacrolimus 0.1% ointment.
+        ELSE IF PUVA therapy is chosen THEN
+            - Administer oral methoxsalen (0.6 mg/kg).
+            - OR Apply topical psoralens followed by sun exposure.
+        ENDIF
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for the listed treatments)
+```

@@ -1,0 +1,86 @@
+```text
+DISEASE: Acute Tonsillitis
+
+ABBREVIATIONS:
+- Tab: Tablet
+- mg: Milligram
+- TDS: Ter in die (three times a day)
+- QID: Quarter in die (four times a day)
+- Adenovirus: Adenovirus
+- EBV: Epstein-Barr virus
+- GABHS: Group A beta-hemolytic Streptococcus
+- H. influenzae: Haemophilus influenzae
+- Staph: Staphylococcus
+
+DIAGNOSTICS:
+- Throat pain, difficulty swallowing
+- Pyrexia (fever)
+- Cervical lymphadenopathy (swollen lymph nodes in the neck)
+- Inflamed tonsils with exudates (pus)
+
+TREATMENT ALGORITHM:
+
+// Symptomatic Treatment (Analgesics/Antipyretics)
+
+IF Patient is a child
+    THEN
+        IF Weight is >= 10 kg
+            THEN
+                Administer Tab. paracetamol 500 mg 3-4 times a day for 5 days
+            ELSE
+                // Dosage for children < 10 kg not specified in the text.
+                // Placeholder: Consider age-appropriate paracetamol dosage.
+                DISPLAY "Dosage for children < 10 kg not specified. Consult pediatric guidelines."
+            ENDIF
+        ELSE
+            // Dosage for adults not specified in the text.
+            // Placeholder: Consider standard adult paracetamol dosage (e.g., 500-1000 mg).
+            DISPLAY "Dosage for adults not specified. Consult standard guidelines."
+        ENDIF
+    ELSE
+        // Dosage for adults not specified in the text.
+        // Placeholder: Consider standard adult paracetamol dosage (e.g., 500-1000 mg).
+        DISPLAY "Dosage for adults not specified. Consult standard guidelines."
+    ENDIF
+
+IF Patient is a child
+    THEN
+        IF Weight is >= 10 kg
+            THEN
+                Administer Tab. ibuprofen 400 mg - 600 mg 3 times a day for 5 days
+            ELSE
+                // Dosage for children < 10 kg not specified in the text.
+                // Placeholder: Consider age-appropriate ibuprofen dosage.
+                DISPLAY "Dosage for children < 10 kg not specified. Consult pediatric guidelines."
+            ENDIF
+        ELSE
+            // Dosage for adults not specified in the text.
+            // Placeholder: Consider standard adult ibuprofen dosage (e.g., 200-400 mg).
+            DISPLAY "Dosage for adults not specified. Consult standard guidelines."
+        ENDIF
+    ELSE
+        // Dosage for adults not specified in the text.
+        // Placeholder: Consider standard adult ibuprofen dosage (e.g., 200-400 mg).
+        DISPLAY "Dosage for adults not specified. Consult standard guidelines."
+    ENDIF
+
+// Antibiotic Treatment (if bacterial infection suspected/confirmed)
+
+IF Bacterial infection is suspected or confirmed (e.g., GABHS)
+    THEN
+        IF Patient is allergic to penicillin
+            THEN
+                Administer Tab. erythromycin 500 mg QID for 5-7 days
+            ELSE
+                Administer Cap. amoxicillin 500 mg TDS for 5 days
+            ENDIF
+    ELSE
+        // No antibiotics needed if viral infection.
+        DISPLAY "Viral infection suspected. Symptomatic treatment only."
+    ENDIF
+
+CONTRAINDICATIONS:
+// Contraindications are not specified in the provided text.
+// Placeholder: Add contraindications for each drug based on standard medical knowledge (e.g., Paracetamol: severe liver disease; Ibuprofen: severe kidney disease, peptic ulcer disease, aspirin sensitivity; Amoxicillin: penicillin allergy; Erythromycin: QT prolongation, liver disease).
+DISPLAY "Contraindications not specified in the provided text. Consult drug monographs."
+```

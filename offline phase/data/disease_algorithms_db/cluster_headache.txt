@@ -1,0 +1,93 @@
+```text
+DISEASE: Cluster Headache (CH)
+
+ABBREVIATIONS:
+- CH: Cluster Headache
+- Inj.: Injection
+- SC: Subcutaneous
+- L: Liters
+- min: minutes
+- mg: milligrams
+- kg: kilogram
+- d: day
+- mL: milliliter
+- IV: Intravenous
+- IM: Intramuscular
+- PO: Per os (by mouth)
+- NPO: Nothing by mouth
+- O2: Oxygen
+- NSAID: Nonsteroidal anti-inflammatory drug
+- triptan: Triptan medication
+- GYN: Gynecologic
+- CNS: Central Nervous System
+
+DIAGNOSTICS:
+- Characterized by frequent recurring, brief but extremely severe headache associated with pain around the eye.
+- Associated symptoms include tearing, redness, runny/blocked nose on the affected side, and eyelid drooping.
+- Attacks peak rapidly.
+
+TREATMENT ALGORITHM:
+
+# ACUTE TREATMENT
+
+IF patient is experiencing an acute Cluster Headache attack THEN
+    # Oxygen Therapy
+    IF patient is willing and able to use oxygen THEN
+        Administer 100% Oxygen at 10–12 L/min for 15–20 min.
+    ENDIF
+
+    # Injectable Sumatriptan
+    IF patient requires rapid relief THEN
+        Administer Inj. sumatriptan 6 mg SC.
+    ENDIF
+
+    # Nasal Spray Triptans
+    IF patient prefers or requires nasal spray administration THEN
+        Administer Sumatriptan (20 mg) nasal spray OR Zolmitriptan (5 mg) nasal spray.
+    ENDIF
+ENDIF
+
+# PREVENTIVE TREATMENT
+
+# Short-Term Prevention (Episodic CH)
+
+IF patient has Episodic Cluster Headache AND requires short-term prevention THEN
+    # Prednisone
+    Administer Prednisone 1 mg/kg daily, up to a maximum of 60 mg daily, tapering over 21 days.
+
+    # Methysergide
+    Administer Methysergide 3–12 mg/d.
+
+    # Verapamil
+    Administer Verapamil 160–960 mg/d.
+
+    # Greater Occipital Nerve Injection
+    Administer Greater occipital nerve injection.
+ENDIF
+
+# Long-Term Prevention (Episodic CH and Prolonged Chronic CH)
+
+IF patient has Episodic Cluster Headache OR Prolonged Chronic Cluster Headache AND requires long-term prevention THEN
+    # Verapamil
+    Administer Verapamil 160–960 mg/d.
+
+    # Methysergide
+    Administer Methysergide 3-12 mg/d.
+ENDIF
+
+CONTRAINDICATIONS:
+(Note: Specific contraindications for each drug are not detailed in the provided text, but general considerations apply)
+
+- For Sumatriptan:
+    IF patient has ischemic heart disease, uncontrolled hypertension, stroke, or peripheral vascular disease THEN
+        DO NOT administer Sumatriptan.
+    ENDIF
+- For Methysergide:
+    IF patient has ischemic heart disease, peripheral vascular disease, uncontrolled hypertension, or renal/hepatic impairment THEN
+        DO NOT administer Methysergide.
+    ENDIF
+- For Prednisone:
+    IF patient has untreated infections, peptic ulcer disease, or significant cardiovascular disease THEN
+        Use Prednisone with caution or consider alternative treatments.
+    ENDIF
+```

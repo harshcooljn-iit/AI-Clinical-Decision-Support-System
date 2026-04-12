@@ -1,0 +1,83 @@
+```text
+DISEASE: Common Cold (Coryza)
+
+ABBREVIATIONS:
+- ENT: Ear, Nose, Throat
+- Tab: Tablet
+- mg: Milligram
+- kg: Kilogram
+- HCL: Hydrochloric Acid
+- Saline: Saline nasal drops
+- Ephedrine: Ephedrine nasal drop
+- Oxymetazoline HCL: Oxymetazoline Hydrochloride nasal drops
+- Xylometazoline: Xylometazoline nasal drop
+- Rhinitis medicamentosa: Rebound congestion and rhinitis medicamentosa
+
+DIAGNOSTICS:
+- Clinical presentation: Nasal stuffiness, rhinorrhea, sneezing, low-grade fever, nasal obstruction, profuse mucopurulent secretions, sore throat (initial), cough, nasal discharge.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:** Patient presents with symptoms suggestive of Common Cold.
+
+2.  **Non-Pharmacological Treatment:**
+    - IF patient has nasal stuffiness or obstruction:
+        - THEN recommend steam inhalation 2-3 times/day.
+        - THEN recommend saline nasal drops (1-2 drops in each nostril 2-3 times daily) for nasal obstruction.
+
+3.  **Pharmacological Treatment - Antihistamines:**
+    - IF patient requires antihistamine therapy:
+        - THEN consider the following options:
+            - Option A: Tab. chlorpheniramine 4mg 8 hourly for 5-7 days.
+                - IF patient is a child:
+                    - THEN administer 0.35mg/kg/day in 3 equal doses.
+            - Option B: Tab. pheniramine 25mg 2-3 times daily for 5-7 days.
+                - IF patient is a child:
+                    - THEN administer 0.5mg/kg/day divided in equal doses.
+            - Option C: Tab. cetirizine dihydrochloride 10mg once a day for 5-7 days.
+                - IF patient is a child:
+                    - THEN administer 5mg once per day.
+
+4.  **Pharmacological Treatment - Analgesic/Antipyretic:**
+    - IF patient has malaise and/or fever:
+        - THEN consider Tab. paracetamol.
+            - IF patient is an adult:
+                - THEN administer 1500mg 3-4 times a day for 2-3 days, then as needed.
+            - IF patient is a child:
+                - THEN administer 40-60mg/kg/day divided in 4 doses.
+
+5.  **Pharmacological Treatment - Decongestants (Severe Nasal Obstruction):**
+    - IF patient has severe nasal obstruction:
+        - THEN consider medicated nasal drops for a maximum of 2-3 days.
+        - Option A: Ephedrine 0.75% nasal drop, 1-2 drops in each nostril 3 times a day for 2-3 days.
+            - IF patient is a child:
+                - THEN administer Ephedrine 0.75% nasal drop, 1-2 drops in each nostril 3 times a day for 2-3 days.
+        - Option B: Oxymetazoline HCL 0.05% nasal drops, 1-2 drops in each nostril 3 times a day for 2-3 days.
+            - IF patient is a child:
+                - THEN administer Oxymetazoline HCL 0.025% nasal drops, 1 drop 2 times daily for 2-3 days.
+        - Option C: Xylometazoline 0.1%, 1-2 drops in each nostril 3 times a day for 2-3 days.
+            - IF patient is a child:
+                - THEN administer Xylometazoline 0.05%, 1-2 drops 2 times daily for 2-3 days.
+        - IF patient is a child below 6 years of age:
+            - THEN AVOID medicated nasal drops.
+        - General Caution for Medicated Nasal Drops:
+            - THEN advise patient that these should not be used for more than 7 days due to the risk of rebound congestion (rhinitis medicamentosa).
+
+6.  **Patient Education:**
+    - Inform patient that the common cold is a self-limiting viral infection, usually resolving within a week.
+    - Advise symptomatic relief only.
+    - State that antibiotics are not effective.
+    - Warn that chlorpheniramine and pheniramine can cause sedation and cognitive impairment, advising avoidance for tasks requiring alertness.
+    - Warn about the risk of rebound congestion (rhinitis medicamentosa) with prolonged use (>7 days) of medicated nasal drops.
+
+CONTRAINDICATIONS:
+- Medicated nasal drops (Ephedrine, Oxymetazoline HCL, Xylometazoline):
+    - IF patient is a child below 6 years of age:
+        - THEN AVOID use.
+    - General Contraindication for prolonged use:
+        - IF medicated nasal drops are used for more than 7 days:
+            - THEN risk of rebound congestion (rhinitis medicamentosa) increases.
+- Chlorpheniramine and Pheniramine:
+    - IF patient needs to perform tasks requiring alertness and skill:
+        - THEN AVOID use due to potential sedation and cognitive impairment.
+```

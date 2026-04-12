@@ -1,0 +1,34 @@
+```text
+DISEASE: Malignant Otitis Externa
+
+ABBREVIATIONS:
+- CT: Computed Tomography
+
+DIAGNOSTICS:
+- Otoscopy shows external canal inflammation and granulation.
+- Cranial nerve paralysis or facial palsy may be present.
+- CT scan of temporal bone to rule out osteomyelitis.
+- History of diabetes or immunosuppressive drug use.
+- Severe pain and swelling around the ear.
+
+TREATMENT ALGORITHM:
+IF Patient has Malignant Otitis Externa THEN
+    // Pharmacological Treatment
+    IF Topical anti-pseudomonal antibacterials are indicated THEN
+        // Options include: ciprofloxacin, carbenicillin, amikacin, tobramycin, ticarcillin, third generation cephalosporins
+        // Specific drug choice depends on local resistance patterns and patient factors.
+        // Example using Ciprofloxacin:
+        // IF Ciprofloxacin is chosen THEN
+        //     // Dosage instructions would be specific to the formulation (e.g., drops, ointment)
+        //     // and frequency (e.g., q4-6h).
+        //     // Example: Apply Ciprofloxacin 0.3% otic solution q4h.
+        // ENDIF
+    ENDIF
+
+    // Surgical Treatment
+    IF Surgical debridement is indicated THEN
+        // Judicious surgical debridement of devitalised tissue and bone.
+        // This is typically reserved for cases unresponsive to medical therapy or with extensive necrosis.
+    ENDIF
+ENDIF
+```

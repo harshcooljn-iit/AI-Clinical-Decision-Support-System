@@ -1,0 +1,75 @@
+```text
+DISEASE: Acne Vulgaris
+
+ABBREVIATIONS:
+- p.acnes: Propionibacterium acnes
+- BD: Bis in die (twice a day)
+
+DIAGNOSTICS:
+- Clinical examination.
+- Hormonal assay may be considered for severe acne, menstrual irregularity, or hirsutism.
+
+TREATMENT ALGORITHM:
+
+IF Disease is Acne Vulgaris THEN
+
+    // Non-pharmacological treatment (General advice)
+    THEN
+        IF Patient is advised on diet THEN
+            THEN Advise to avoid sugar-rich diet, milk, etc.
+        ENDIF
+        IF Patient is advised on medication THEN
+            THEN Advise to avoid drugs known to cause acne (e.g., steroids, androgens, halogens).
+        ENDIF
+        IF Patient is advised on skincare THEN
+            THEN Advise to avoid oily products, pomades, and cosmetics.
+        ENDIF
+        IF Patient needs education THEN
+            THEN Educate patient about premenstrual flares and stress management.
+        ENDIF
+        IF Patient needs hygiene advice THEN
+            THEN Advise washing/cleaning face to keep skin dry, shampooing scalp.
+        ENDIF
+
+    // Pharmacological treatment (Based on severity)
+    IF Severity is Mild THEN
+        THEN
+            TREATMENT: Benzoyl peroxide 2.5% cream OR Azelaic acid 10% cream.
+        ENDIF
+    ELSEIF Severity is Moderate THEN
+        THEN
+            TREATMENT: Topical retinoid (e.g., Tretinoin 0.025% gel OR Adapalene 0.1% gel) AND Topical antibacterial (e.g., Clindamycin 1% cream OR Nadifloxacin 1% cream).
+        ENDIF
+    ELSEIF Severity is Severe THEN
+        THEN
+            TREATMENT: Topical therapy (as for moderate or mild) PLUS Systemic antibiotic OR Systemic retinoid.
+
+            // Systemic Antibiotic Options
+            IF Systemic antibiotic is chosen THEN
+                IF Antibiotic is Azithromycin THEN
+                    THEN Dosage: Tab. azithromycin 500 mg daily for 5 days in a month.
+                ELSEIF Antibiotic is Doxycycline THEN
+                    THEN Dosage: Cap. doxycycline 100 mg BD.
+                ELSEIF Antibiotic is Minocycline THEN
+                    THEN Dosage: Tab. minocycline 50/100 mg daily.
+                ENDIF
+            ENDIF
+
+            // Systemic Retinoid Option
+            IF Systemic retinoid is chosen THEN
+                IF Retinoid is Isotretinoin THEN
+                    THEN Dosage: Tab. isotretinoin 0.5-1 mg/kg daily for 3-6 months.
+                    THEN Referral: Tertiary care centre recommended.
+                ENDIF
+            ENDIF
+        ENDIF
+    ENDIF
+
+    // Hormonal Therapy
+    IF Patient is female AND Acne is unresponsive to other treatments AND Patient has menstrual irregularity THEN
+        THEN
+            TREATMENT: Hormonal therapy (specific agent not specified in guideline).
+        ENDIF
+
+ENDIF
+```

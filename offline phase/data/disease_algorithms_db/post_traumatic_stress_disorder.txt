@@ -1,0 +1,32 @@
+```text
+DISEASE: Post Traumatic Stress Disorder (PTSD)
+
+ABBREVIATIONS:
+- SSRIs: Selective Serotonin Reuptake Inhibitors
+
+DIAGNOSTICS:
+- Exposure to a traumatic event (direct experience or witnessing).
+- Presence of symptoms (re-experiencing, avoidance, hyperarousal, detachment/numbing) for more than 1 month.
+- If symptoms persist for less than 4 weeks, it is Acute Stress Disorder.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    - IF patient has symptoms consistent with PTSD for > 1 month: Proceed to treatment options.
+    - ELSE IF patient has symptoms consistent with PTSD for < 4 weeks: Diagnose Acute Stress Disorder. Consider non-pharmacological treatment.
+    - ELSE: Rule out PTSD.
+
+2.  **Non-Pharmacological Treatment:**
+    - IF patient is suitable for psychotherapy:
+        - THEN recommend Focused Cognitive Behavior Therapy (psychoeducation, relaxation techniques, cognitive coping).
+        - THEN consider Gradual Exposure therapy.
+        - THEN consider Crisis Intervention/Psychological Debriefing.
+
+3.  **Pharmacological Treatment:**
+    - IF patient requires pharmacological treatment (e.g., symptoms severe, psychotherapy ineffective/unavailable):
+        - THEN consider SSRIs as agents of choice.
+            - IF SSRI is chosen:
+                - THEN prescribe SSRI at doses typically used for depression.
+        - THEN consider Propranolol for symptomatic treatment.
+
+```

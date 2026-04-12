@@ -1,0 +1,113 @@
+```text
+DISEASE: Pelvic Inflammatory Disease (PID)
+
+ABBREVIATIONS:
+- PID: Pelvic Inflammatory Disease
+- IM: Intramuscular
+- IV: Intravenous
+- LFT: Liver Function Test
+- RFT: Renal Function Test
+- STD: Sexually Transmitted Disease
+- ESR: Erythrocyte Sedimentation Rate
+- SOS: Stat Oral Suspension (as needed)
+- INH: Isoniazid
+- mg/kg: Milligrams per kilogram
+- tab: tablet
+- cap: capsule
+- Inj: Injection
+
+DIAGNOSTICS:
+- Lower abdominal pain
+- Cervical motion tenderness
+- Adenexal tenderness
+- Fever
+- Cervical discharge
+- Leucocytosis
+- Investigations: Haemogram with ESR, LFT, RFT, serum electrolytes, blood culture, endocervical swab culture, ultrasonography if adenexal mass.
+
+TREATMENT ALGORITHM:
+
+# ACUTE PID TREATMENT
+
+IF Severity is mild AND patient can tolerate oral medication AND no contraindications to outpatient treatment:
+    THEN Treat as outpatient.
+    IF Regimen A is chosen:
+        THEN Administer Inj. cefoxitin 2 g IM plus probenecid 1 g orally, as a single dose OR Inj. ceftriaxone 250 mg IM as a single dose OR Inj. ceftizoxime or cefotaxime 500 mg IM as a single dose.
+        AND Administer Cap. doxycycline 100 mg orally 2 times a day for 14 days.
+    ELSE IF Regimen B is chosen:
+        THEN Administer Tab. ofloxacin 400 mg orally 2 times a day for 4 days.
+        AND Administer Tab. Clindamycin 450 mg orally 4 times a day for 14 days OR Tab. metronidazole 400 mg orally 2 times a day for 14 days.
+    ENDIF
+    Follow up after 2-3 days.
+    IF Poor response to outpatient therapy:
+        THEN Admit patient for intravenous antibiotics.
+ELSE
+    THEN Treat as inpatient (severe illness, nausea/vomiting, HIV positive, unable to tolerate outpatient regimen, or outpatient therapy failed).
+    Administer Bed Rest and Hydrotherapy if febrile.
+    Administer IV fluids if vomiting and dehydration, and correct electrolyte imbalance.
+    Monitor clinical condition, vital signs, signs/symptoms of pelvic abscess, and peritonitis.
+    IF Regimen A (IV) is chosen:
+        THEN Administer Inj. cefoxitin 2 g IV every 6 hours OR Inj. cefotetan 2 g IV every 12 hours.
+        AND Administer Inj. doxycycline 100 mg IV or orally every 12 hours.
+        AND Administer Inj. metronidazole 500 mg IV every 8 hours.
+    ELSE IF Regimen B (IV) is chosen:
+        THEN Administer Inj. clindamycin 900 mg IV every 8 hours.
+        AND Administer Inj. gentamicin 2 mg/kg IV followed by 1.5 mg/kg every 8 hours.
+        AND Administer Inj. diclofenac sodium 75 mg deep IM every 8 hours OR Inj. paracetamol 500 mg IM SOS.
+        AND Administer Inj. metronidazole 500 mg IV every 8 hours.
+    ENDIF
+    Continue injectable regimen for at least 48 hours after clinical improvement (afebrile, decreased tenderness, improved constitutional symptoms).
+    After improvement, continue oral therapy for a total of 14 days:
+        IF Using Regimen A (IV):
+            THEN Administer doxycycline 100 mg orally 2 times a day.
+        ELSE IF Using Regimen B (IV):
+            THEN Administer clindamycin 450 mg orally 4 times a day.
+        ENDIF
+    IF Clinical improvement does not occur within 3 days OR symptoms worsen:
+        THEN Consider further diagnostic tests / laparoscopy.
+    ENDIF
+ENDIF
+
+# SURGICAL CONSIDERATIONS (Inpatient/Severe Cases)
+IF Colpotomy is needed:
+    THEN Perform colpotomy for drainage of midline pelvic abscess.
+IF Dilatation and evacuation is needed:
+    THEN Perform dilatation and evacuation of septic products of conception in post abortal sepsis.
+IF Laparotomy is needed:
+    THEN Perform laparotomy in cases of pyoperitoneum, resistant peritonitis, intestinal obstruction, ruptured tubo-ovarian abscess, or enlarging pelvic mass despite medical therapy.
+IF Laparoscopy is needed:
+    THEN Perform laparoscopy if diagnosis is uncertain, no response to treatment, to reconfirm diagnosis, obtain cultures from cul de sac and fallopian tubes, and drain pus if necessary.
+
+# MALE PARTNER TREATMENT
+IF Asymptomatic male partner:
+    THEN Administer Inj. ceftriaxone 125 mg IM followed by oral doxycycline 200 mg orally 2 times a day for 14 days.
+
+# CHRONIC PID TREATMENT
+IF Chronic PID is due to pathological lesion, considering patient's age and desire for childbearing:
+    THEN Consider surgical treatment.
+    IF Definitive surgery is chosen (e.g., total abdominal hysterectomy with bilateral salpingo-oophorectomy):
+        THEN Perform total abdominal hysterectomy with bilateral salpingo-oophorectomy.
+    ELSE
+        THEN Perform conservative surgery (preferred in young females).
+    ENDIF
+ELSE IF Chronic PID is due to pelvic tuberculosis:
+    THEN Administer medical therapy with anti-tubercular drugs for 6 months.
+    Administer Tab. isoniazid 5 mg/kg (maximum 300 mg).
+    Administer Cap. rifampicin 10 mg/kg (maximum 600 mg).
+    Administer Tab. pyrazinamide 15-30 mg/kg (maximum 2 g).
+    Administer Cap. ethambutol 15-25 mg/kg (maximum 2.5 g).
+    All 4 drugs for initial phase (2 months), then INH and rifampicin for 4 months.
+    IF Surgery is indicated (primary unresponsiveness, persistent/enlarging adenexal mass after 4-6 months, persistent/recurrent pelvic pain):
+        THEN Perform total abdominal hysterectomy with bilateral salpingo-oophorectomy.
+    ENDIF
+ENDIF
+
+# PATIENT EDUCATION
+- Emphasize behavioural and contraceptive methods to prevent STDs.
+- Encourage completion of the full 14-day antibiotic course.
+- Advise sexual abstinence until complete treatment.
+- Advise treatment of sexual partner to prevent reinfection.
+
+CONTRAINDICATIONS:
+- (Specific contraindications for individual drugs would be listed here if provided in the source text. Example: IF Drug is Ceftriaxone AND Patient has a known allergy to cephalosporins: THEN Do not administer Ceftriaxone.)
+```

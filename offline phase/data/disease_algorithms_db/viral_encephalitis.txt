@@ -1,0 +1,53 @@
+```text
+DISEASE: Viral Encephalitis
+
+ABBREVIATIONS:
+- HSV: Herpes simplex virus
+- VZV: Varicella zoster virus
+- EBV: Epstein-Barr virus
+- CMV: Cytomegalovirus
+- ICP: Intracranial pressure
+
+DIAGNOSTICS:
+- Acute or subacute onset of fever, headache, altered consciousness, focal neurological symptoms.
+- CSF analysis as in acute bacterial meningitis.
+
+TREATMENT ALGORITHM:
+
+IF Etiology is HSV, VZV, or EBV THEN
+    ADMINISTER Acyclovir
+    IF Patient age/weight is not specified THEN
+        ADMINISTER Acyclovir 10 mg/kg every 8 hours
+    ENDIF
+    FOR Duration of 14 to 21 days
+    MONITOR for side effects: nausea, vomiting, diarrhea, Neurotoxicity (lethargy or obtundation, disorientation, confusion, agitation, hallucinations, tremors, seizures)
+ENDIF
+
+IF Etiology is CMV THEN
+    ADMINISTER Ganciclovir
+    IF Patient age/weight is not specified THEN
+        ADMINISTER Ganciclovir 5 mg/kg every 12 hours, followed by 5 mg/kg
+    ENDIF
+    FOR Indefinite duration
+    MONITOR for side effects: Granulocytopenia, thrombocytopenia, Gastrointestinal side effects (nausea, vomiting, diarrhea, abdominal pain)
+ENDIF
+
+IF Etiology is California encephalitis (LaCrosse) virus, severe adenovirus, or rotavirus encephalitis THEN
+    ADMINISTER Ribavirin
+    IF Patient age/weight is not specified THEN
+        ADMINISTER Ribavirin 15 mg/kg in divided doses every 8 hours
+    ENDIF
+    FOR Duration not specified
+    MONITOR for side effects: Hemolysis, nausea, vomiting, diarrhea, abdominal pain
+ENDIF
+
+BASIC MANAGEMENT:
+- Careful monitoring of ICP.
+- Fluid restriction.
+- Avoidance of hypotonic intravenous solutions.
+- Suppression of fever.
+
+SEIZURE MANAGEMENT:
+- Treat seizures with standard anticonvulsant regimens.
+- Consider prophylactic therapy for severe cases due to high seizure frequency.
+```

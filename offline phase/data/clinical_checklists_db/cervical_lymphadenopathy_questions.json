@@ -1,0 +1,11 @@
+{
+    "questions": [
+        "Are the lymph nodes reactive to viral infections of the upper respiratory tract? (Yes/No)",
+        "Is the lymphadenopathy acute suppurative secondary to bacterial infection? (Yes/No)",
+        "Do the lymph nodes persist after initial evaluation? (Yes/No)",
+        "Is the lymphadenopathy chronic? (Yes/No)",
+        "Is the lymphadenopathy suspected to be tubercular? (Yes/No)",
+        "What is the result of the Fine Needle Aspiration Cytology (FNAC)?",
+        "What is the result of the biopsy?"
+    ]
+}

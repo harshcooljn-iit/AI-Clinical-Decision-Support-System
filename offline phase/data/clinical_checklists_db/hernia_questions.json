@@ -1,0 +1,16 @@
+{
+    "questions": [
+        "Are predisposing factors present? (Yes/No)",
+        "Is chronic cough present? (Yes/No)",
+        "Is chronic constipation present? (Yes/No)",
+        "Is BPH present? (Yes/No)",
+        "Is the hernia congenital? (Yes/No)",
+        "Is the hernia small and/or bilateral? (Yes/No)",
+        "Is TEP suitable? (Yes/No)",
+        "Is TAPP suitable? (Yes/No)",
+        "Is the hernia an incisional hernia? (Yes/No)",
+        "Is Underlay chosen? (Yes/No)",
+        "Is Inlay chosen? (Yes/No)",
+        "Is Onlay/Overlay chosen? (Yes/No)"
+    ]
+}

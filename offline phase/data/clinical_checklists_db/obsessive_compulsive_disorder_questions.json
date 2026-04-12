@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "Is the patient willing and able to engage in therapy? (Yes/No)",
+        "Does the patient require pharmacological treatment? (Yes/No)"
+    ]
+}

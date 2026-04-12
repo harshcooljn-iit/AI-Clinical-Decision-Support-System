@@ -1,0 +1,76 @@
+```text
+DISEASE: Major Depressive Disorders
+
+ABBREVIATIONS:
+- MDD: Major Depressive Disorder
+- SSRIs: Selective Serotonin Reuptake Inhibitors
+- MSE: Mental State Examination
+- HS: Bedtime (from context of sertraline dosage)
+- ECT: Electroconvulsive Therapy
+
+DIAGNOSTICS:
+- Diagnosis is based on history and mental state examination (MSE).
+- Thyroid function tests may be done to rule out co-morbidity.
+- Investigations for associated neurological co-morbidities may be done, particularly in elderly patients.
+
+TREATMENT ALGORITHM:
+
+IF Patient requires hospitalization:
+  THEN Hospitalize the patient.
+  (Conditions for hospitalization: severely suicidal patients, treatment resistant cases, non-compliant patients)
+ELSE
+  // Non-pharmacological treatment
+  Consider psychotherapy (Psychodynamic, Cognitive Behavioral, Interpersonal, Supportive approaches).
+
+  // Pharmacological treatment
+  IF Patient is suitable for SSRIs (drug of choice):
+    IF Choosing fluoxetine:
+      THEN Start Tab. fluoxetine 20 mg/day.
+      IF No response in 4-6 weeks:
+        THEN Increase dose to 40 mg/day.
+    ELSE IF Choosing escitalopram:
+      THEN Start Tab. escitalopram 10 mg/day.
+      IF Tolerability allows:
+        THEN Gradually increase dose up to 30 mg/day.
+    ELSE IF Choosing sertraline:
+      THEN Start Tab. sertraline 25 mg/day or 50 mg/day (depending on severity).
+      THEN Administer dose preferably at bedtime (HS).
+      IF No response:
+        THEN Gradually increase dose up to maximum 300 mg/day.
+  ELSE IF Patient has depression with somatic complaints:
+    IF Choosing imipramine (Tricyclic antidepressant):
+      THEN Start Tab. imipramine 25 mg twice a day.
+      IF No response:
+        THEN Gradually increase dose by 25 mg/day up to maximum 300 mg/day.
+      IF Patient has heart disease OR glaucoma OR benign prostatic enlargement OR epilepsy:
+        THEN DO NOT use Tab. imipramine (Contraindication).
+  ELSE IF Choosing mirtazepine:
+    THEN Start Tab. mirtazepine 7.5 mg/day.
+    THEN Gradually increase dose up to maximum 30 mg/day.
+
+  // General pharmacological considerations
+  IF Patient has insomnia or anxiety:
+    THEN Consider co-administering benzodiazepines initially.
+
+  // Duration of treatment
+  IF First episode of depression:
+    THEN Continue antidepressant treatment for 6-9 months.
+  ELSE IF Recurrent depression:
+    THEN Continue antidepressant treatment for a longer period.
+
+  // Monitoring
+  IF Patient has bipolar depression:
+    THEN Monitor for potential switch to mania.
+    IF Switch to mania occurs:
+      THEN Withdraw antidepressant.
+
+  // Severe/Resistant cases
+  IF Patient has severe depression with or without suicidal ideas OR retarded depression OR resistant depression:
+    THEN Consider ECT (Electroconvulsive therapy).
+
+// Patient Education
+  Explain the nature of illness, consequences of untreated depression, suicidal risk, need for adequate dose for adequate duration, and other supportive measures.
+  Explain that therapeutic response takes time, but side effects may appear earlier.
+  List common side effects of tricyclic antidepressants (dry mouth, constipation, postural hypotension, blurred vision, sweating, palpitation, tremors, delayed micturition, sedation).
+  List common side effects of fluoxetine (agitation, headache, nausea/heartburn, tremors, changes in sexual performance, blurred vision, dry mouth, loss of appetite).
+```

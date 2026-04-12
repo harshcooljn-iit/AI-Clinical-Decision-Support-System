@@ -1,0 +1,56 @@
+```text
+DISEASE: Obstructive Jaundice
+
+ABBREVIATIONS:
+- USG: Ultrasound
+- MRCP: Magnetic Resonance Cholangiopancreatography
+- CECT: Contrast-Enhanced Computed Tomography
+- PT: Prothrombin Time
+- INR: International Normalized Ratio
+- SGPT: Serum Glutamic Pyruvic Transaminase (ALT)
+- SGOT: Serum Glutamic Oxaloacetic Transaminase (AST)
+- SAP: Serum Alkaline Phosphatase
+- CA 19-9: Carbohydrate Antigen 19-9
+- ERCP: Endoscopic Retrograde Cholangiopancreatography
+- CBD: Common Bile Duct
+- FFP: Fresh Frozen Plasma
+- Inj.: Injection
+- IV: Intravenous
+- GM: Gram
+
+DIAGNOSTICS:
+- Clinical features: Jaundice, itching, anorexia, weight loss, clay-colored stools, dark urine, abdominal lump, palpable mass, cachexia.
+- Laboratory tests: Elevated total and direct bilirubin (>2.5 mg/dL), elevated PT/INR, elevated or normal SGPT/SGOT, elevated SAP (>3 folds), elevated CA 19-9 (in periampullary cancers).
+- Imaging: USG-Abdomen, MRCP, CECT-Abdomen, ERCP.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Management:**
+    *   IF patient has Obstructive Jaundice THEN
+        *   Administer IV fluids to maintain hydration.
+        *   Correct electrolyte imbalance.
+        *   Administer Inj. vitamin K.
+        *   Administer FFP when indicated.
+        *   Administer prophylactic antibiotics, Inj. cefotaxime 1 gm IV 8 hourly.
+
+2.  **Dietary Management:**
+    *   IF patient has Obstructive Jaundice THEN
+        *   Recommend low fat, high carbohydrate diet.
+
+3.  **Surgical/Procedural Treatment (based on cause):**
+    *   IF cause is choledocholithiasis AND stones are amenable to ERCP retrieval THEN
+        *   Perform ERCP with sphincterotomy and stenting.
+        *   Followed by cholecystectomy.
+    *   ELSE IF cause is choledocholithiasis AND stones are NOT amenable to ERCP retrieval THEN
+        *   Perform cholecystectomy with CBD exploration.
+    *   ELSE IF cause is resectable periampullary mass THEN
+        *   Perform Whipple procedure (pancreaticoduodenectomy).
+    *   ELSE IF cause is unresectable periampullary mass THEN
+        *   Perform bypass procedures (hepaticojejunostomy with/without gastrojejunostomy).
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for the listed pharmacological treatments, but standard contraindications for each drug/procedure would apply in a clinical setting).
+- FFP: Contraindicated in patients with fluid overload or hypervolemia.
+- Cefotaxime: Contraindicated in patients with known hypersensitivity to cephalosporins.
+- Vitamin K: Generally well-tolerated, but hypersensitivity reactions are possible.
+```

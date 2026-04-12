@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Is the migraine attack mild to moderate? (Yes/No)",
+        "Can the patient take oral tablets? (Yes/No)",
+        "Does the patient have early nausea or difficulty taking tablets? (Yes/No)",
+        "Does the patient have increasing frequency of migraine attacks (e.g., five or more attacks a month) OR are attacks unresponsive/poorly responsive to abortive treatments? (Yes/No)"
+    ]
+}

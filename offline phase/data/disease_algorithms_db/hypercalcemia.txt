@@ -1,0 +1,78 @@
+```text
+DISEASE: Hypercalcemia
+
+ABBREVIATIONS:
+- S. Ca: Serum Calcium
+- mEq/L: milliequivalents per liter
+- mg/dl: milligrams per deciliter
+- ECG: Electrocardiogram
+- QTc: QT interval corrected
+- Inj.: Injection
+- BD: Bis in die (twice a day)
+- IV: Intravenous
+- SC: Subcutaneous
+- IM: Intramuscular
+- U: Units
+- hr: hour
+- Tab.: Tablet
+- g: gram
+- Vit.: Vitamin
+- D: Day
+- lt: liter
+- mg: milligram
+- Saline: Sodium Chloride solution
+- BD: Bis in die (twice a day)
+- Hemo dialysis: Hemodialysis
+- Peritoneal dialysis: Peritoneal dialysis
+
+DIAGNOSTICS:
+- Defined as S. Ca > 10.5 mEq/L.
+- Symptoms appear when S. Ca > 11.5-12.0 mg/dl.
+- Severe hypercalcemia > 15-18 mg/dl can be life-threatening.
+- ECG may show Short QTc and arrhythmias.
+
+TREATMENT ALGORITHM:
+
+IF Serum Calcium (S. Ca) is > 10.5 mEq/L THEN:
+
+    IF Symptoms are present (S. Ca > 11.5-12.0 mg/dl) THEN:
+
+        IF Hypercalcemia is Mild THEN:
+            - Rehydrate with isotonic saline 2-4 lt/day.
+            - After correcting dehydration, administer Inj. frusemide 20-40 mg BD.
+            - Monitor electrolytes (potassium, magnesium) and replace if needed.
+
+        ELSE IF Hypercalcemia is Moderate to Severe THEN:
+            - Aggressive rehydration with isotonic saline 6 lt.
+            - Administer Inj. frusemide up to 100 mg every 1 to 2 hours.
+            - Administer Inj. calcitonin 2-8 U/kg IV/SC/IM every 6-12 hr.
+            - Administer ONE of the following bisphosphonates:
+                - Inj. pamindronate 30-90 mg IV infusion in 0.9% saline over 4-24 hrs.
+                - Tab. alendronate sodium 10 mg orally in the morning with a full glass of water at least 30 mins before any food or drink; remain in upright position for at least 30 mins.
+                - Inj. zolendronate 1-4 mg IV in few mins.
+            - Administer Tab. prednisolone 40-100 mg/day in 4 divided doses (if indicated for osteolytic malignancies, Vit. D intoxication, or sarcoidosis).
+            - Administer Tab. phosphorus (sodium or potassium phosphate) 1-1.5 g/day in 4 divided doses for several days if hypophosphatemia is present.
+            - Consider Peritoneal/Hemo dialysis with calcium-free dialysate, especially if complicated by renal failure.
+
+    ELSE IF S. Ca is > 15-18 mg/dl (Severe Hypercalcemia) THEN:
+        - Aggressive rehydration with isotonic saline 6 lt.
+        - Administer Inj. frusemide up to 100 mg every 1 to 2 hours.
+        - Administer Inj. calcitonin 2-8 U/kg IV/SC/IM every 6-12 hr.
+        - Administer ONE of the following bisphosphonates:
+            - Inj. pamindronate 30-90 mg IV infusion in 0.9% saline over 4-24 hrs.
+            - Tab. alendronate sodium 10 mg orally in the morning with a full glass of water at least 30 mins before any food or drink; remain in upright position for at least 30 mins.
+            - Inj. zolendronate 1-4 mg IV in few mins.
+        - Administer Tab. prednisolone 40-100 mg/day in 4 divided doses (if indicated for osteolytic malignancies, Vit. D intoxication, or sarcoidosis).
+        - Administer Tab. phosphorus (sodium or potassium phosphate) 1-1.5 g/day in 4 divided doses for several days if hypophosphatemia is present.
+        - Consider Peritoneal/Hemo dialysis with calcium-free dialysate.
+
+ENDIF
+
+CONTRAINDICATIONS:
+- (None specified in the text for the listed drugs in the context of hypercalcemia treatment, but standard contraindications apply to each drug).
+    - Furosemide: Known hypersensitivity, hepatic encephalopathy, severe electrolyte depletion.
+    - Calcitonin: Known hypersensitivity.
+    - Pamidronate/Alendronate/Zolendronate: Hypersensitivity, esophageal disorders (for oral bisphosphonates), renal impairment (use with caution).
+    - Prednisolone: Known hypersensitivity.
+    - Phosphate supplements: Severe renal impairment, hyperkalemia, hypocalcemia (unless treating specific conditions).
+```

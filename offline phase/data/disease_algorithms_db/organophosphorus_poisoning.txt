@@ -1,0 +1,65 @@
+```text
+DISEASE: Organophosphorus Poisoning
+
+ABBREVIATIONS:
+- OP: Organophosphorus
+- IV: Intravenous
+- RBC: Red Blood Cell
+- CNS: Central Nervous System
+
+DIAGNOSTICS:
+- Clinical features (dyspnoea, tightness around chest, nausea, vomiting, diarrhea, abdominal pain, excessive sweating and salivation, miosis, blurred vision, lacrimation, headache, giddiness, drowsiness, bradycardia, arrhythmias, QT prolongation, hypotension, fasciculation, muscle weakness, seizures, coma).
+- Reduced RBC cholinesterase and plasma cholinesterase levels (to 20% of normal values).
+
+TREATMENT ALGORITHM:
+
+1.  **Airway Management:**
+    IF patient has airway compromise THEN
+        - Maintain patent airway using oral airway, intubation, or mechanical ventilation as required.
+    ENDIF
+
+2.  **Monitoring:**
+    - Monitor vitals: temperature, pulse, blood pressure, respiratory rate.
+
+3.  **IV Access and Fluids:**
+    - Start intravenous line placement.
+    - Administer maintenance IV fluids (e.g., normal saline, Ringer's lactate).
+
+4.  **Decontamination:**
+    - Remove all clothes.
+    - Perform gastric lavage with activated charcoal and collect samples.
+    - Wash skin with soap and water.
+
+5.  **Pharmacological Treatment - Atropine:**
+    IF patient requires atropine THEN
+        - Administer Inj. atropine 2 mg IV bolus.
+        - Repeat every 5-10 minutes until atropinization (pulse > 80/min, pupillary dilation, drying of secretions).
+        - Followed by atropine IV infusion at 0.02-0.08 mg/kg/min to maintain atropinization.
+        - ALTERNATIVE: Use glycopyrronium instead of atropine to avoid CNS toxicity.
+    ENDIF
+
+6.  **Pharmacological Treatment - Pralidoxime:**
+    IF patient requires pralidoxime THEN
+        - Administer Inj. pralidoxime IV 30 mg/kg immediately.
+        - Followed by 8 mg/kg/hr infusion continued for at least 24 hours.
+        - ALTERNATIVE (if infusion not possible): Administer 30 mg/kg every 4 hours.
+    ENDIF
+
+7.  **Pharmacological Treatment - Obidoxime:**
+    IF patient requires obidoxime THEN
+        - Administer Inj. obidoxime 4 mg/kg bolus initially.
+        - Followed by 0.5 mg/kg/hr infusion.
+        - ALTERNATIVE: Administer 4 mg/kg bolus followed by 2 mg/kg every 4 hours.
+    ENDIF
+
+8.  **Pharmacological Treatment - Crystalloids:**
+    - Administer IV crystalloids (e.g., normal saline, Ringer's lactate).
+
+9.  **Pharmacological Treatment - Benzodiazepines:**
+    IF patient has seizures THEN
+        - Administer Benzodiazepines (midazolam, lorazepam, or diazepam) for treatment and prophylaxis of seizures.
+    ENDIF
+
+CONTRAINDICATIONS:
+- None specified in the text for the listed drugs in the context of OP poisoning.
+```

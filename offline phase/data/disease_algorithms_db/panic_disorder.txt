@@ -1,0 +1,77 @@
+```text
+DISEASE: Panic Disorder
+
+ABBREVIATIONS:
+- SSRI: Selective Serotonin Reuptake Inhibitor
+- HS: Bedtime
+- Inj.: Injection
+
+DIAGNOSTICS:
+- Recurrent panic attacks characterized by intense fear or discomfort reaching a peak within 10 minutes.
+- Associated symptoms: palpitations, sweating, shaking, breathlessness, chest pain, nausea, fainting, feeling of choking, fear of dying or going crazy.
+- Persistence concern about having more attacks.
+- Change in behavior related to attacks.
+- Worries about consequences of the attacks.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    IF Patient presents with symptoms consistent with Panic Disorder (as per DIAGNOSTICS) THEN proceed to treatment options.
+
+2.  **Non-Pharmacological Treatment:**
+    IF Patient is suitable for non-pharmacological treatment THEN
+        THEN Consider cognitive and behavioral therapies (psychoeducation, cognitive distortion correction, relaxation techniques, respiratory training).
+        THEN Consider family therapy (psychoeducation, support).
+        THEN Consider insight-oriented psychotherapy.
+    ENDIF
+
+3.  **Pharmacological Treatment - SSRIs:**
+    IF Patient is suitable for SSRI treatment THEN
+        THEN Consider starting an SSRI.
+        THEN IF SSRI is Paroxetine THEN
+            THEN Start Paroxetine (dosage not specified, follow standard guidelines).
+            ENDIF
+        THEN IF SSRI is Escitalopram THEN
+            THEN Start Escitalopram (dosage not specified, follow standard guidelines).
+            ENDIF
+        THEN IF SSRI is Citalopram THEN
+            THEN Start Citalopram (dosage not specified, follow standard guidelines).
+            ENDIF
+        THEN IF SSRI is Fluvoxamine THEN
+            THEN Start Fluvoxamine (dosage not specified, follow standard guidelines).
+            ENDIF
+        THEN IF SSRI is Sertraline THEN
+            THEN Start Sertraline (dosage not specified, follow standard guidelines).
+            ENDIF
+    ENDIF
+
+4.  **Pharmacological Treatment - Benzodiazepines (Alprazolam):**
+    IF Patient requires rapid symptomatic relief AND is suitable for benzodiazepine treatment THEN
+        THEN Consider Alprazolam.
+        THEN Start Alprazolam 0.25 mg/day at HS.
+        THEN Increase dose as needed, up to a maximum of 6 mg/day.
+    ENDIF
+
+5.  **Pharmacological Treatment - Benzodiazepines (Inj. Lorazepam/Diazepam):**
+    IF Patient presents with acute anxiety AND is suitable for benzodiazepine treatment THEN
+        THEN Consider Inj. Lorazepam 2mg/ml OR Diazepam 5ml/ml.
+    ENDIF
+
+6.  **Pharmacological Treatment - Tricyclic Antidepressants:**
+    IF Patient is suitable for Tricyclic Antidepressant treatment THEN
+        THEN Consider Amitriptyline.
+        THEN Start Amitriptyline (dosage not specified, follow standard guidelines).
+    ENDIF
+
+7.  **Patient Education:**
+    IF Patient is receiving treatment THEN
+        THEN Provide general reassurance about the benign nature of symptoms and possibility of spontaneous recovery.
+        THEN Advise continuing with breathing exercises.
+    ENDIF
+
+CONTRAINDICATIONS:
+- Alprazolam: Specific contraindications not listed in the text. Follow standard drug information.
+- Inj. Lorazepam/Diazepam: Specific contraindications not listed in the text. Follow standard drug information.
+- Amitriptyline: Specific contraindications not listed in the text. Follow standard drug information.
+- SSRIs: Specific contraindications not listed in the text. Follow standard drug information.
+```

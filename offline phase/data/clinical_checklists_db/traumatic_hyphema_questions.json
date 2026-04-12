@@ -1,0 +1,17 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Does the patient have pain or iritis? (Yes/No)",
+        "Is the patient taking aspirin-containing products or NSAIDs? (Yes/No)",
+        "Does the patient require analgesia? (Yes/No)",
+        "Is there suggestion of iritis (photophobia, deep ache, ciliary flush), evidence of lens capsule rupture, any protein (fibrin), or definitive white blood cells in anterior chamber? (Yes/No)",
+        "What is the patient's Intraocular Pressure (IOP) in mm Hg?",
+        "Is the patient hospitalized? (Yes/No)",
+        "Does the patient have severe nausea or vomiting? (Yes/No)",
+        "Is there corneal stromal blood staining? (Yes/No)",
+        "Is there significant visual deterioration? (Yes/No)",
+        "Has the hyphema decreased to <50% by 8 days? (Yes/No)",
+        "Is the IOP > 60 mm Hg for > 48 hours despite maximal medical therapy? (Yes/No)",
+        "Is the IOP > 25 mm Hg with total hyphema for > 5 days? (Yes/No)"
+    ]
+}

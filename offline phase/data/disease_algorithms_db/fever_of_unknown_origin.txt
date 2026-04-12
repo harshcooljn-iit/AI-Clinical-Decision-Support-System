@@ -1,0 +1,64 @@
+```text
+DISEASE: Fever Of Unknown Origin (FUO)
+
+ABBREVIATIONS:
+- FUO: Fever Of Unknown Origin
+- PDC: Potentially Diagnostic Clues
+- ATT: Anti-tubercular treatment
+- NSAIDs: Nonsteroidal anti-inflammatory drugs
+
+DIAGNOSTICS:
+- Fever of 38.3°C or more recorded on several occasions.
+- Fever evolving for at least 3 weeks.
+- No diagnosis reached even after one week of relevant and intelligent investigations.
+- Requires detailed clinical history, repeated physical examination, basic laboratory investigations (complete haemogram, peripheral blood smear for malaria, serum biochemistry, liver function tests, tuberculin test, chest X-ray).
+- May require further investigations (tests for collagen vascular diseases, ultrasonography, CECT of chest and abdomen).
+
+TREATMENT ALGORITHM:
+
+IF patient has FUO:
+  IF patient is taking any drugs:
+    THEN discontinue all drugs to rule out drug fever.
+  ENDIF
+
+  // Symptomatic treatment for fever (details in separate section)
+  IF fever produces discomfort:
+    THEN consider cold sponging.
+  ENDIF
+
+  // General principles for FUO management
+  IF emphasis is on continued observation and examination:
+    THEN continue observation and examination.
+  ENDIF
+
+  // Caution against empirical therapies
+  IF considering empirical therapies (antibiotics, ATT, corticosteroids):
+    THEN AVOID'shotgun' trials (multiple therapies simultaneously).
+  ENDIF
+
+  // Caution against masking fever
+  IF considering glucocorticoids or NSAIDs:
+    THEN AVOID their use unless infection has been largely ruled out.
+  ENDIF
+
+  // Therapeutic trial principles
+  IF starting a therapeutic trial:
+    THEN
+      IF giving multiple trials simultaneously:
+        THEN GIVE only one set of trial at a given time.
+      ENDIF
+      IF doses or period of trial are inadequate:
+        THEN Ensure doses of drugs and period of therapeutic trial are adequate.
+      ENDIF
+      IF patient follow-up is insufficient:
+        THEN Follow the patient closely for response.
+      ENDIF
+    ENDIF
+  ENDIF
+
+  // Patient education
+  THEN advise patient to avoid self-medication.
+  THEN advise patient to take antibiotics only on physician's advice.
+  THEN advise patient to take plenty of fluids and stay in a cool environment.
+ENDIF
+```

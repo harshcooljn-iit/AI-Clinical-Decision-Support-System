@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Is marked inflammation present? (Yes/No)",
+        "Is there profuse mucopurulent discharge AND associated URTI? (Yes/No)",
+        "What is the patient's exact age in years?",
+        "Is the ear dry and infection nidus treated? (Yes/No)"
+    ]
+}

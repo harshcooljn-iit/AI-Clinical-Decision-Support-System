@@ -1,0 +1,41 @@
+```text
+DISEASE: Oral Hygiene
+
+ABBREVIATIONS: None
+
+DIAGNOSTICS: Based on clinical examination, patient history, and assessment of oral health practices.
+
+TREATMENT ALGORITHM:
+
+IF patient needs improved oral hygiene THEN
+    IF toothbrush quality is inadequate THEN
+        SELECT a toothbrush that is short, soft, and has uniformly trimmed bristles.
+    ENDIF
+    IF toothbrush is older than 3 months THEN
+        CHANGE toothbrush.
+    ENDIF
+    IF brushing frequency is less than twice daily THEN
+        ADVISE brushing teeth at least twice daily for 2-3 minutes.
+    ENDIF
+    IF brushing technique is incorrect OR excessive force is used THEN
+        ADVISE using the right teeth brushing technique and avoiding excessive force.
+    ENDIF
+    IF flossing frequency is less than once daily THEN
+        ADVISE using flossing at least once daily.
+    ENDIF
+    IF excessive sugar intake OR excessive aerated drink intake occurs THEN
+        ADVISE avoiding too much sugar and aerated drinks.
+    ENDIF
+    IF eating occurs between meals THEN
+        IF rinsing mouth or brushing teeth is not possible after eating between meals THEN
+            ADVISE rinsing mouth or brushing teeth after eating between meals.
+        ENDIF
+    ENDIF
+    IF fluorinated toothpaste is ingested or swallowed during brushing THEN
+        ADVISE not to ingest or swallow fluorinated toothpaste while brushing.
+    ENDIF
+    IF dental checkup interval is not 6 months THEN
+        ADVISE ensuring regular dental checkups at 6-monthly intervals.
+    ENDIF
+ENDIF
+```

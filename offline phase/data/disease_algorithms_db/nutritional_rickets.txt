@@ -1,0 +1,28 @@
+```text
+DISEASE: Nutritional Rickets
+
+ABBREVIATIONS:
+- IU: International Units
+- IM: Intramuscular
+- S.: Serum
+
+DIAGNOSTICS:
+- Clinical features: Skeletal deformities (genu valgum/genu varum, broadening of wrists), susceptibility to fractures, weakness, hypotonia, growth disturbances.
+- X-ray: Increased thickness of epiphyseal growth plate, cupped with hazy metaphyseal borders.
+- Lab tests: S. calcium normal/low, phosphate low/normal, alkaline phosphatase raised.
+
+TREATMENT ALGORITHM:
+
+IF patient is diagnosed with Nutritional Rickets THEN
+    - Encourage outdoor play/sunlight exposure.
+    - Enhance dietary intake of vitamin D (dairy, egg, fish liver oil).
+    - Administer Vitamin D 600,000 IU orally or IM stat (especially if sick due to infection).
+    - Repeat X-ray wrist after 4 weeks.
+
+    IF X-ray after 4 weeks shows a positive response (healing line of rickets) THEN
+        - Continue oral Vitamin D 400 IU/day.
+    ELSE IF X-ray after 4 weeks shows no response THEN
+        - Refer patient to a higher center for evaluation of non-nutritional rickets.
+    ENDIF
+ENDIF
+```

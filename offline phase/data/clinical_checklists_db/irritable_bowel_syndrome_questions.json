@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Does the patient have predominant abdominal pain? (Yes/No)",
+        "Does the patient have depressive symptoms? (Yes/No)",
+        "Does the patient have diarrheal symptoms? (Yes/No)",
+        "Does the patient have constipation symptoms? (Yes/No)"
+    ]
+}

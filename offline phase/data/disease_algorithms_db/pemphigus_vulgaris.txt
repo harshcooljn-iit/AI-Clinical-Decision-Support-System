@@ -1,0 +1,123 @@
+```text
+DISEASE: Pemphigus Vulgaris
+ABBREVIATIONS:
+    - OD: Once daily
+    - BD: Twice daily
+    - QID: Four times daily
+    - mg: Milligram
+    - kg: Kilogram
+    - bw: Body weight
+    - Tab.: Tablet
+    - Inj.: Injection
+    - SOS: As needed (stat order set)
+
+DIAGNOSTICS:
+    - Clinical examination
+    - Tzanck smear (demonstrates acantholysis)
+    - Biopsy
+    - Anti-desmoglein autoantibodies test
+
+TREATMENT ALGORITHM:
+    IF Pemphigus Vulgaris is diagnosed THEN
+        # Non-pharmacological treatment
+        Hospitalize the patient.
+        Provide fluid replacement.
+
+        # Pharmacological treatment (only at tertiary care centre)
+        # Oral antibiotics for infection prevention
+        IF infection is present THEN
+            IF culture sensitivity indicates suitability THEN
+                Administer Tab. azithromycin 500 mg OD for 5 days OR
+                Administer Tab. cotrimoxazole 2 BD for 7 days
+            ENDIF
+        ENDIF
+
+        # IV corticosteroids
+        Administer IV dexamethasone at a dose of 1 mg/kg to 2 mg/kg body weight.
+    ENDIF
+
+DISEASE: Cutaneous Adverse Drug Reactions
+ABBREVIATIONS:
+    - OD: Once daily
+    - BD: Twice daily
+    - mg: Milligram
+    - kg: Kilogram
+    - Tab.: Tablet
+    - Inj.: Injection
+    - SOS: As needed (stat order set)
+
+DIAGNOSTICS:
+    - Clinical examination
+    - Complete blood count (for Erythema Multiforme)
+    - Liver function tests (for Erythema Multiforme)
+
+TREATMENT ALGORITHM:
+    IF Cutaneous Adverse Drug Reaction is diagnosed THEN
+        # I. Maculopapular Rash
+        IF Maculopapular Rash is diagnosed THEN
+            # Non-pharmacological treatment
+            Stop the causal drug.
+
+            # Pharmacological treatment
+            Administer Topical calamine lotion.
+            Administer Tab. cetirizine 10 mg/day.
+        ENDIF
+
+        # II. Erythema Multiforme
+        IF Erythema Multiforme is diagnosed THEN
+            # Non-pharmacological treatment
+            Discontinue the causal drug.
+
+            # Pharmacological treatment
+            Administer Topical antiseptics for eroded skin lesions.
+            Administer Antiseptic and local anaesthetic solutions for oral lesions (if herpes simplex).
+            Administer Topical ophthalmic preparations (normal saline or lubricating eye drops) for eye lesions.
+            Administer Tab. cetirizine 10 mg or Tab. chlorpheniramine 4 mg for 3 or 4 days.
+            Administer Tab. prednisone 0.5–1 mg/kg/day.
+        ENDIF
+
+        # III. Fixed Drug Eruption
+        IF Fixed Drug Eruption is diagnosed THEN
+            # Non-pharmacological treatment
+            Stop the offending drug.
+            Enlist the drugs to be avoided.
+
+            # Pharmacological treatment
+            Administer Topical calamine lotion.
+            Administer Tab. cetirizine 10 mg/day or Tab. chlorpheniramine 4 mg/day.
+            IF Generalized bullous FDE is present THEN
+                Administer Tab. prednisolone 0.5-1 mg/kg/day.
+            ENDIF
+        ENDIF
+
+        # IV. Stevens Johnson Syndrome/Toxic Epidermal Necrolysis
+        IF Stevens Johnson Syndrome OR Toxic Epidermal Necrolysis is diagnosed THEN
+            # Non-pharmacological treatment
+            Withdraw offending drug.
+            Provide oral liquid diet with protein supplements.
+            Maintain oral hygiene with antiseptic mouth washes.
+            Maintain optimum temperature of 30-32° C.
+
+            # Pharmacological treatment (tertiary care centre)
+            Hospitalize the patient.
+            Manage fluid and electrolytes.
+            Implement measures to prevent secondary infections.
+            Administer Ophthalmic care (saline or antibiotic eye drops).
+            Administer Systemic antibiotics to prevent infection according to culture sensitivity:
+                - Macrolides: Tab. azithromycin 500 mg OD for 3/5 days OR
+                - Tab. erythromycin 500 mg QID for 5/7 days.
+            Administer Tab. prednisolone 1-2 mg/kg/day OR
+            Administer parentral Inj. dexamethasone 8-16 mg/day.
+            # Corticosteroid administration details
+            IF Corticosteroids are administered THEN
+                Start within 72 hours of onset.
+                Continue for 3-5 days.
+                Perform rapid tapering.
+            ENDIF
+            Administer Tab. cyclosporine 3-5 mg/kg/day for two weeks followed by weaning over another two weeks SOS.
+        ENDIF
+    ENDIF
+
+CONTRAINDICATIONS:
+    - Specific contraindications are not listed in the provided text. General contraindications for the listed drugs (e.g., allergies, specific conditions) would apply based on standard medical practice.
+```

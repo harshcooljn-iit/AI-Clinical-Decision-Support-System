@@ -1,0 +1,89 @@
+```text
+DISEASE: Acute Angle Closure Glaucoma
+
+ABBREVIATIONS:
+- IOP: Intraocular Pressure
+- mmHg: Millimeters of Mercury
+- Inj.: Injection
+- QID: Four times a day
+- BD: Twice a day
+- Tab.: Tablet
+
+DIAGNOSTICS:
+- Patient presents acutely with colored halos around lights, ocular pain, headache.
+- IOP usually very high (> 40 - 50 mmHg).
+- Conjunctival hyperaemia.
+- Corneal edema.
+- Unreactive mid-dilated vertically oval pupil.
+- Fellow eye generally shows an occludable angle.
+
+TREATMENT ALGORITHM:
+
+IF Acute Angle Closure Glaucoma is diagnosed THEN
+
+    # Initial Management (Hospital Admission usually required)
+
+    # Positioning
+    Patient should assume a supine position.
+
+    # Systemic Agents
+    IF Severity is high THEN
+        # Osmotic Agents
+        Administer Inj. mannitol 20% 1–2 g/kg intravenously over half hour
+        OR
+        Administer glycerol 50% 1 g/kg orally (after checking for contraindications).
+    ENDIF
+
+    # Topical Agents (Affected Eye)
+    Administer Pilocarpine 2–4% one drop, repeat after half an hour.
+    # Consider omitting Pilocarpine if IOP is very high due to potential ischemia.
+
+    # Topical Agents (Fellow Eye - Prophylaxis)
+    Administer Pilocarpine 1% one drop.
+
+    # Oral Agents
+    Administer Tab. acetazolamide 500 mg orally.
+
+    # Topical Agents (Affected Eye)
+    Administer topical timolol 0.5%
+    AND
+    Administer topical prednisolone 1%
+    OR
+    Administer topical dexamethasone 0.1%
+    (Leave 5 minutes between each instillation).
+
+    # Symptomatic Relief
+    Administer analgesia and/or an antiemetic if required.
+
+    # Subsequent Medical Treatment (Outpatient or Continued Hospital)
+
+    # Topical Agents (Affected Eye)
+    Administer Pilocarpine 2% QID.
+
+    # Topical Agents (Fellow Eye)
+    Administer Pilocarpine 1% QID.
+
+    # Topical Steroids (Affected Eye - if acutely inflamed)
+    Administer topical prednisolone 1% QID
+    OR
+    Administer topical dexamethasone 0.1% QID.
+
+    # Hypotensive Agents (Continue as necessary based on response)
+    Administer topical timolol 0.5% BD
+    AND/OR
+    Administer oral acetazolamide 250 mg QID.
+
+    # Surgical Treatment
+    # Definitive treatment after corneal edema clears:
+    Perform laser iridotomy or iridoplasty.
+    # Continue topical steroids and necessary hypotensives for at least a week post-procedure.
+    # Surgical options for resistant cases: surgical peripheral iridectomy, lens extraction, goniosynechialysis, trabeculectomy.
+
+    # Patient Education
+    Educate patient to report headache, chronic eye ache, or colored halos around lights.
+
+ENDIF
+
+CONTRAINDICATIONS:
+- Glycerol 50% 1 g/kg orally: Contraindications should be checked before administration (specific contraindications not listed in text).
+```

@@ -1,0 +1,55 @@
+```text
+DISEASE: Renal Stones
+
+ABBREVIATIONS:
+- Inj.: Injection
+- IM: Intramuscular
+- Tab.: Tablet
+- KUB: Kidney, Ureter, Bladder
+- IVP: Intravenous Pyelogram
+- PCNL: Percutaneous Nephrolithotomy
+- ESWL: Extracorporeal Shockwave Lithotripsy
+- BD: Bis in die (twice a day)
+- ml: milliliter
+- mg: milligram
+
+DIAGNOSTICS:
+- Salient calculus
+- Colicky pain in lumbar region, worsened by movements
+- Hematuria
+- Burning micturition
+- Rigidity of lateral abdominal muscles
+- Tenderness in lumbar region
+- Investigations: X ray KUB, ultrasonography of KUB, intravenous urography, CT-IVP
+
+TREATMENT ALGORITHM:
+
+IF Patient presents with renal stone symptoms:
+    THEN Assess stone size and location.
+
+    IF Stone size is less than 5 mm:
+        THEN Advise high fluid intake and avoidance of lithogenic food/beverages.
+        THEN Consider pharmacological treatment for pain relief.
+        IF Pain is severe:
+            THEN Administer Inj. diclofenac sodium 3 ml IM stat.
+            THEN Administer Inj. dicyclomine 2 ml IM stat.
+        ELSE
+            THEN Consider oral analgesics.
+        ENDIF
+        THEN Consider Potassium citrate 5 ml in 100 ml of water 3-4 times/day.
+        THEN Monitor for spontaneous passage.
+    ELSE
+        THEN Consider surgical intervention based on stone size, location, and patient factors.
+        IF Stone is in the kidney:
+            THEN Consider PCNL, ESWL, Open pyelolithotomy, or Nephrolithotomy.
+        ELSE IF Stone is in the ureter:
+            THEN Consider Endoscopic removal (uretero renoscopy, dormia basket, ureteric meatotomy) or open ureterolithotomy.
+        ENDIF
+    ENDIF
+
+    IF Infection is present:
+        THEN Administer Tab. ciprofloxacin 500 mg BD for 5 days.
+
+CONTRAINDICATIONS:
+- (No specific contraindications mentioned in the text for the listed drugs, but standard contraindications for NSAIDs like diclofenac and antibiotics like ciprofloxacin apply based on patient history and allergies).
+```

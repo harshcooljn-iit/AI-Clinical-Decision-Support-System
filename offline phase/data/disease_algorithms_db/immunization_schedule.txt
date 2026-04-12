@@ -1,0 +1,80 @@
+```text
+DISEASE: Immunization Schedule
+
+ABBREVIATIONS:
+- BCG: Bacillus Calmette-Guérin
+- OPV: Oral Polio Vaccine
+- DPT: Diphtheria, Pertussis, Tetanus vaccine
+- DT: Diphtheria, Tetanus vaccine
+- TT: Tetanus Toxoid vaccine
+- HBsAg: Hepatitis B surface Antigen
+- HBIG: Hepatitis B immune globulin
+- Hib: Haemophilus influenzae type b
+- MMR: Measles, Mumps, Rubella vaccine
+- HIV: Human Immunodeficiency Virus
+- DTP: Diphtheria, Tetanus, Pertussis vaccine
+
+DIAGNOSTICS:
+- Based on age and clinical guidelines for vaccine administration.
+
+TREATMENT ALGORITHM:
+
+1.  **General Principles:**
+    - IF vaccines are administered simultaneously, THEN use different sites and separate needles for each component.
+    - IF 2 live vaccines are not given together, THEN a gap of 1 month is recommended between them.
+    - IF skin is infected or compromised by a lesion, THEN avoid giving injections.
+    - Always use a sterile syringe and needle for each injection and to reconstitute each unit of medication.
+    - Dispose of syringes and needles carefully after use.
+
+2.  **National Immunization Schedule (Universal Immunization Programme):**
+    - IF Age is Birth or 6 weeks, THEN administer BCG.
+    - IF Age is Birth, THEN administer OPV.
+    - IF Age is 6 weeks, THEN administer OPV, Hepatitis B, DPT.
+    - IF Age is 10 weeks, THEN administer OPV, Hepatitis B, DPT.
+    - IF Age is 14 weeks, THEN administer OPV, Hepatitis B, DPT.
+    - IF Age is 15-18 months, THEN administer DPT, MMR.
+    - IF Age is 5 years, THEN administer DT.
+    - IF Age is 10 years, THEN administer TT.
+    - IF Age is 16 years, THEN administer TT.
+    - IF TT is given for the first time at age 10 or 16 years, THEN give 2 doses at a 4-week interval.
+
+3.  **Indian Academy of Pediatrics Recommended Immunization:**
+    - IF Age is From birth to 2 weeks, THEN administer BCG.
+    - IF Age is At birth, THEN administer OPV.
+    - IF Age is 6 weeks, THEN administer OPV, DTP, Hepatitis B.
+    - IF Age is 10 weeks, THEN administer OPV, DTP, Hepatitis B.
+    - IF Age is 14 weeks, THEN administer OPV, DTP, Hepatitis B.
+    - IF Age is 15-18 months, THEN administer DTP, MMR, Hib.
+    - IF Age is 5 years, THEN administer DT.
+    - IF Age is 9 months, THEN administer Measles.
+    - IF Age is 2 years or older, THEN administer Typhoid.
+    - IF Age is 10 years, THEN administer TT.
+    - IF Age is 16 years, THEN administer TT.
+    - IF Pregnant, THEN administer 2 doses of TT at a 1-month interval.
+    - IF Age is Above 1 year, THEN administer Varicella.
+    - IF Age is Above 1 year, THEN administer Hepatitis A.
+
+4.  **Hepatitis B Vaccination Guidelines:**
+    - IF Mother is HBsAg negative, THEN administer HB vaccine along with DTP at 6, 10, and 14 weeks.
+    - IF Mother's HBsAg status is unknown, THEN start HB vaccination soon after birth.
+    - IF Mother is HBsAg positive (especially HBeAg positive), THEN administer HBIG within 24 hours of birth along with HB vaccine.
+
+5.  **Combination Vaccines:**
+    - Combination vaccines offer convenience but are not more effective than separate vaccines.
+    - Follow manufacturer's instructions strictly when mixing vaccines in the same syringe.
+
+6.  **Immunization in Special Circumstances:**
+    - **Preterm Infants:** Administer vaccines according to chronological age, irrespective of birth weight or gestation period, if the infant is stable.
+    - **Corticosteroids:**
+        - IF receiving high-dose oral corticosteroids (prednisolone 1-2 mg/kg/day) for >14 days, THEN do not receive live virus vaccines until 1 month after steroid discontinuation.
+        - Killed vaccines are safe but may be less effective.
+        - Topical or inhaled steroids are not a contraindication.
+    - **Splenectomy:** Initiate pneumococcal, Hib, and meningococcal vaccines a few weeks prior to splenectomy.
+    - **HIV Infection:** Immune response may be suboptimal; consider readministration after immune status improves with antiretroviral therapy.
+    - **Lapsed Immunization:** Do not restart the series; continue from where it left off or start the schedule as for an unimmunized child if status is unknown.
+    - **Minor Illnesses:** Fever, diarrhea, respiratory infections, and malnutrition are not contraindications.
+
+CONTRAINDICATIONS:
+- IF skin is infected or compromised by a lesion, THEN avoid giving injections.
+- IF receiving high-dose oral corticosteroids (>14 days), THEN avoid live virus vaccines until 1 month after discontinuation.
+```

@@ -1,0 +1,116 @@
+```text
+DISEASE: Pregnancy Induced Hypertension (PIH)
+
+ABBREVIATIONS:
+- PIH: Pregnancy Induced Hypertension
+- BP: Blood Pressure
+- mmHg: Millimeters of Mercury
+- POG: Period of Gestation
+- IV: Intravenous
+- IM: Intramuscular
+- USG: Ultrasonography
+- IUGR: Intrauterine Growth Restriction
+- DIC: Disseminated Intravascular Coagulation
+- ECG: Electrocardiogram
+- BP: Blood Pressure
+
+DIAGNOSTICS:
+- Hypertension diagnosed when diastolic BP is ≥ 90 mmHg on two consecutive readings taken ≥ 4 hours apart.
+- PIH is hypertension occurring after 20 weeks of gestation, during labor, or within 48 hours of delivery.
+- Chronic hypertension is hypertension occurring before 20 weeks of gestation.
+- Pre-eclampsia is hypertension with proteinuria.
+
+TREATMENT ALGORITHM:
+
+IF Disease is Pregnancy Induced Hypertension (PIH) or Pre-eclampsia:
+  THEN Hospitalize the patient.
+  THEN Definitive therapy is termination of pregnancy.
+  THEN Decision between immediate delivery and expectant management depends on:
+    - Severity of disease
+    - Condition of mother and fetus
+    - Period of Gestation (POG)
+
+IF Disease is Mild Pre-eclampsia:
+  THEN Consider expectant management if:
+    - Gestational age is < 37 weeks
+    - There is no maternal or fetal compromise
+  THEN Non-pharmacological treatment:
+    - Complete bed rest, preferably in left lateral position
+    - Regular diet adequate in proteins and calories
+    - Omit extra table salt
+  THEN Pharmacological treatment:
+    - Start antihypertensive treatment if diastolic BP is persistently > 100 mmHg.
+    - Aim for systolic BP ~ 130 mmHg and diastolic BP ~ 90 mmHg.
+    - Option 1: Tab. methyldopa 250 mg every 8 hours OR every 6 hours (maximum dose 2 g/day).
+    - Option 2: Tab. atenolol 50-100 mg once a day.
+    - IF BP is not controlled in 72 hours with Option 1 or 2:
+      - Add one of the following:
+        - Cap. nifedipine 10 mg every 8 hours OR Tab. nifedipine retard 10 mg every 12 hours (maximum 30 mg every 12 hours).
+        - Tab. labetalol 100-200 mg every 8 hours (maximum 600 mg every 6 hours).
+  THEN Monitoring:
+    - Daily: weight gain, BP, urine albumin, urine output.
+    - Weekly: haemogram with platelet count, liver function tests, kidney function tests, serum uric acid, fundoscopy.
+    - Fetal monitoring: clinical assessment, USG growth assessment, daily fetal movement count, non-stress test twice weekly, biophysical score weekly, Doppler studies if IUGR.
+  THEN Discharge criteria (for mild PIH without proteinuria):
+    - IF after hospitalization, BP is controlled with rest without antihypertensives.
+    - IF no maternal/fetal compromise is detected.
+    - IF the patient is reliable and will follow monitoring instructions and report ominous symptoms immediately.
+  THEN Ominous symptoms: persistent severe headache, visual disturbances (dimness, double vision, blindness), epigastric pain, nausea, vomiting, oliguria.
+  THEN Induction of pregnancy (definitive management) IF:
+    - Gestational age ≥ 37 weeks.
+    - Fetal compromise (severe growth retardation, oligohydramnios, abnormal non-stress test or biophysical score).
+    - Maternal compromise (development of features of severe pre-eclampsia).
+    - Onset of labor, rupture of membranes, or bleeding.
+
+IF Disease is Severe Pre-eclampsia:
+  THEN Treatment preferably in a tertiary care center.
+  THEN Non-pharmacological treatment:
+    - Observation in intensive care unit for 24 hours.
+    - Assessment of maternal and fetal conditions.
+    - BP monitoring every 2-4 hours.
+    - Hourly urine output monitoring.
+    - Watch for signs/symptoms of impending eclampsia and fetal distress.
+  THEN Lab Investigations:
+    - Haemogram with platelet count.
+    - Liver function tests.
+    - Kidney function tests.
+    - Urinary proteins.
+    - Coagulation profile.
+    - Fundus examination.
+    - Obstetric ultrasound with BPS.
+  THEN Intravenous fluids: Ringer's lactate at 60 ml/h (maximum 125 ml/h).
+  THEN Pharmacological treatment (aim: gradual lowering of BP, maintain diastolic BP 90-100 mmHg):
+    - Immediate management:
+      - Option 1: Tab. nifedipine 10 mg orally, repeat after 30-60 min (maximum dose 20 mg every 4 hours).
+        - CAUTION: Side effects - Tachycardia, headache, flushing, aggravation of angina. Rapid BP fall can cause fetal distress.
+      - IF BP not controlled with oral treatment:
+        - Start IV drugs with intensive monitoring.
+        - Option 2: Inj. labetalol initial dose 50 mg slow IV, followed by infusion at 60 mg/h, doubling every 15 min until BP controlled or maximum dose 220 mg in 24 hours reached.
+    - Maintenance therapy:
+      - After initial control, start maintenance therapy with antihypertensives (as described for mild pre-eclampsia).
+      - Bed rest and more frequent maternal and fetal monitoring.
+  THEN Definitive management: Induction of pregnancy.
+    - IF Pregnancy > 34 weeks: Stabilize maternal condition and induce pregnancy.
+    - IF Pregnancy < 24 weeks: Stabilize maternal condition and induce pregnancy.
+  THEN Expectant management criteria (if considered):
+    - Pregnancy between 24-34 weeks.
+    - Hypertension controlled with maximum of two antihypertensive drugs.
+    - Normal urine output.
+    - Normal lab investigations.
+    - No fetal compromise.
+    - Patient hospitalized until delivery.
+  THEN Indications for termination (induction or C-section):
+    - Gestational age ≥ 37 weeks.
+    - Fetal compromise (severe growth retardation, oligohydramnios, abnormal non-stress test or biophysical score).
+    - Maternal compromise (development of features of severe pre-eclampsia).
+    - Onset of labor, rupture of membranes, or bleeding.
+  THEN Indications for Caesarean section:
+    - Deeply unconscious patient (unless delivery is imminent).
+    - Uncooperative patient due to restlessness.
+    - Unlikely vaginal delivery within 6-8 hours from onset of 1st eclamptic seizure.
+    - Eclamptic seizures not controlled in 6-8 hours.
+    - Other obstetric indications.
+
+CONTRAINDICATIONS:
+- (Specific contraindications for drugs are not detailed in the provided text, but general principles apply. For example, certain antihypertensives might be contraindicated in specific fetal or maternal conditions, but this level of detail is not present.)
+```

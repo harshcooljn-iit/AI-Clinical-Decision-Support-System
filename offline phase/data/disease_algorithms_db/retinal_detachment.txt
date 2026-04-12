@@ -1,0 +1,55 @@
+```text
+DISEASE: Retinal Detachment
+
+ABBREVIATIONS:
+- RD: Retinal Detachment
+- RPE: Retinal Pigment Epithelium
+
+DIAGNOSTICS:
+- Rhegmatogenous RD: Examination of the fundus with indirect ophthalmoscopy; retina appears grey with oscillating folds.
+- Tractional RD: Caused by gliotic bands on retina.
+- Exudative RD: Caused by collection of serous fluid between neurosensory retina and RPE.
+
+TREATMENT ALGORITHM:
+
+IF Disease is Retinal Detachment (RD):
+    IF Type is Rhegmatogenous RD:
+        THEN Treatment is reattachment surgery.
+        Surgery involves:
+            - Identification of all retinal breaks.
+            - Identification of areas of vitreous or retinal tractions.
+            - Induction of aseptic chorioretinal inflammation around the breaks to seal them.
+            - Ensuring chorioretinal apposition by approximating choroid/RPE to neurosensory retina (external tamponade, internal tamponade).
+            - Drainage of subretinal fluid.
+            - Adhesion between RPE and retina can be achieved by cryotherapy, diathermy, or photocoagulation.
+        Pharmacological treatment: No pharmacological treatment can prevent or cure rhegmatogenous RD.
+    ELSE IF Type is Exudative RD:
+        IF Caused by inflammatory conditions like panuveitis:
+            THEN Treatment: Systemic corticosteroids (as described in treatment of uveitis).
+            IF Patient is refractory:
+                THEN Treatment: Immunosuppressants.
+        Pharmacological treatment: No pharmacological treatment can prevent or cure exudative RD unless due to inflammation.
+    ELSE IF Type is Tractional RD:
+        THEN Treatment is reattachment surgery.
+        Surgery involves:
+            - Identification of all retinal breaks.
+            - Identification of areas of vitreous or retinal tractions.
+            - Induction of aseptic chorioretinal inflammation around the breaks to seal them.
+            - Ensuring chorioretinal apposition by approximating choroid/RPE to neurosensory retina (external tamponade, internal tamponade).
+            - Drainage of subretinal fluid.
+            - Adhesion between RPE and retina can be achieved by cryotherapy, diathermy, or photocoagulation.
+        Pharmacological treatment: No pharmacological treatment can prevent or cure tractional RD.
+    ELSE:
+        THEN Treatment: Reattachment surgery (general approach).
+        Surgery involves:
+            - Identification of all retinal breaks.
+            - Identification of areas of vitreous or retinal tractions.
+            - Induction of aseptic chorioretinal inflammation around the breaks to seal them.
+            - Ensuring chorioretinal apposition by approximating choroid/RPE to neurosensory retina (external tamponade, internal tamponade).
+            - Drainage of subretinal fluid.
+            - Adhesion between RPE and retina can be achieved by cryotherapy, diathermy, or photocoagulation.
+        Pharmacological treatment: No pharmacological treatment can prevent or cure RD.
+
+CONTRAINDICATIONS:
+- No specific contraindications listed for the mentioned treatments based on the provided text.
+```

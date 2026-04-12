@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "Does the patient have Diabetes Mellitus? (Yes/No)",
+        "Does the patient use dental prosthesis? (Yes/No)",
+        "Is the patient an infant using diapers? (Yes/No)",
+        "Is the Candidiasis localized (e.g., skin, oral, vulvovaginal)? (Yes/No)",
+        "Is the Candidiasis Vulvovaginitis? (Yes/No)",
+        "Is the Candidiasis severe, recurrent, or involving difficult-to-treat areas? (Yes/No)"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "questions": [
+        "Does the patient need eye protection? (Yes/No)",
+        "Does the patient have weakened facial muscles? (Yes/No)",
+        "Does the patient have drooping of the lower face? (Yes/No)",
+        "Is the patient a candidate for corticosteroids? (Yes/No)",
+        "Is treatment initiated within the first 5 days of symptom onset? (Yes/No)",
+        "Does treatment duration extend beyond 5 days? (Yes/No)",
+        "Is the patient a candidate for antiviral therapy? (Yes/No)"
+    ]
+}

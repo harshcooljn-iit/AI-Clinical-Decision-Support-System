@@ -1,0 +1,118 @@
+```text
+DISEASE: Infective Endocarditis
+
+ABBREVIATIONS:
+- Inj.: Injection
+- OD: Once daily
+- QID: Four times daily
+- IV: Intravenous
+- IM: Intramuscular
+- TDS: Three times daily
+- MU: Million Units
+- HACEK: Haemophilus, Aggregatibacter, Cardiobacterium, Eikenella, Kingella
+- Q4h: Every 4 hours
+- q4h: Every 4 hours
+- Tab.: Tablet
+
+DIAGNOSTICS:
+- Microbial infection of the endothelial surface of the heart.
+- Symptoms: Fever, night sweats, weight loss, anorexia, cough, dyspnoea, arthralgia, chest pain.
+- Signs: Murmur, splenomegaly, clubbing, embolic features, Janeway lesions, Roth spots, splinter hemorrhages.
+- Diagnosis confirmed by blood cultures and echocardiography.
+
+TREATMENT ALGORITHM:
+
+// Empirical Therapy (Blood culture-negative subacute native valve endocarditis)
+IF (Diagnosis is blood culture-negative subacute native valve endocarditis) THEN
+    // Option 1: Ampicillin-Sulbactam
+    IF (Choosing Ampicillin-Sulbactam) THEN
+        Administer Inj. ampicillin-sulbactam 12 g every 24 h IV.
+    ELSE
+    // Option 2: Ceftriaxone + Gentamicin + Doxycycline
+    IF (Choosing Ceftriaxone + Gentamicin + Doxycycline) THEN
+        Administer Inj. ceftriaxone 1 g OD IV.
+        Administer Inj. gentamicin 3 mg/kg QID IV.
+        Administer Tab. doxycycline 100 mg twice daily.
+    ENDIF
+ENDIF
+
+// Organism-Specific Therapy (After blood culture report)
+
+// Streptococci
+IF (Organism is Streptococci) THEN
+    // Penicillin Sensitive
+    IF (Streptococci are Penicillin sensitive) THEN
+        Administer Inj. penicillin G 2–3 MU IV q4h OR Inj. ceftriaxone 2 g IV QID for 2 weeks.
+        Administer Inj. gentamicin 3 mg/kg QID IV or IM, as a single dose or divided into equal doses TDS for 2 weeks.
+    ELSE
+    // Penicillin Resistant
+    IF (Streptococci are Penicillin resistant) THEN
+        Administer Inj. ceftriaxone 2 g IV QID for 4 weeks.
+        Administer Inj. gentamicin 3 mg/kg QID IV or IM, as a single dose or divided into equal doses TDS for 2 weeks.
+    ENDIF
+ENDIF
+
+// Enterococci
+IF (Organism is Enterococci) THEN
+    Administer Inj. penicillin G 4–5 MU IV every 4 hours PLUS Inj. gentamicin 1 mg/kg IV TDS, both for 4–6 weeks.
+ENDIF
+
+// Staphylococci
+IF (Organism is Staphylococci) THEN
+    // Methicillin Sensitive
+    IF (Staphylococci are Methicillin sensitive) THEN
+        Administer Inj. nafcillin or oxacillin 2 g IV q4h for 4–6 weeks OR Inj. cefazolin 2 g IV TDS for 4–6 weeks.
+    ELSE
+    // Methicillin Resistant (MRSA)
+    IF (Staphylococci are Methicillin resistant) THEN
+        Administer Inj. vancomycin 15 mg/kg IV every 12 hours for 4 to 6 weeks.
+    ENDIF
+ENDIF
+
+// HACEK group
+IF (Organism is HACEK group) THEN
+    Administer Inj. ceftriaxone 2 g OD IV for 4 weeks.
+ENDIF
+
+// Prophylaxis for Infective Endocarditis (Vulnerable heart valve, specific dental procedures)
+
+// Prophylactic Regimens
+IF (Prophylaxis is indicated) THEN
+    // Option 1: Amoxicillin (Oral)
+    IF (Able to take oral medication) THEN
+        Administer Tab. amoxicillin 2 g 1 hour before procedure.
+    ELSE
+    // Option 2: Ampicillin (IV/IM)
+    IF (Unable to take oral medication) THEN
+        Administer Inj. ampicillin 2 gm IV/IM 1 hour before procedure.
+    ELSE
+    // Option 3: Penicillin Allergy - Clarithromycin/Azithromycin (Oral)
+    IF (Penicillin allergy) THEN
+        Administer Tab. clarithromycin or azithromycin 500 mg 1 hour before procedure.
+    ELSE
+    // Option 4: Penicillin Allergy - Cephalexin (Oral)
+    IF (Penicillin allergy) THEN
+        Administer Tab. cephalexin 2 gm, 1 hour before procedure.
+    ELSE
+    // Option 5: Penicillin Allergy - Clindamycin (Oral)
+    IF (Penicillin allergy) THEN
+        Administer Tab. clindamycin 600 mg 1 hour before procedure.
+    ELSE
+    // Option 6: Penicillin Allergy, Inability to tolerate oral medication - Cefazolin/Ceftriaxone (IV/IM)
+    IF (Penicillin allergy AND Unable to tolerate oral medication) THEN
+        Administer Inj. cefazolin or ceftriaxone 1 gm IV/IM, 30 min before procedure.
+    ELSE
+    // Option 7: Penicillin Allergy, Inability to tolerate oral medication - Clindamycin (IV/IM)
+    IF (Penicillin allergy AND Unable to tolerate oral medication) THEN
+        Administer clindamycin 600 mg IV/IM, 1 hour before procedure.
+    ENDIF
+    ENDIF
+    ENDIF
+    ENDIF
+    ENDIF
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+- (None specified in the text for specific drugs, but general contraindications like allergy would apply).
+```

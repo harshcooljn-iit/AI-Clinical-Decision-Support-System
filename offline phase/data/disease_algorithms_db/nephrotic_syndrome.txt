@@ -1,0 +1,57 @@
+```text
+1.  DISEASE: Nephrotic Syndrome
+2.  ABBREVIATIONS:
+    *   SSNS: Steroid Sensitive Nephrotic Syndrome
+    *   SDNS: Steroid Dependent Nephrotic Syndrome
+    *   SLE: Systemic Lupus Erythematosus
+    *   HBsAg: Hepatitis B surface Antigen
+    *   CBC: Complete Blood Count
+    *   CP: Cyclophosphamide
+    *   MMF: Mycophenolate mofetil
+    *   TAC: Tacrolimus
+    *   CSA: Cyclosporine A
+    *   RTX: Rituximab
+    *   BP: Blood Pressure
+    *   SSA: Sulfosalicylic Acid
+
+3.  DIAGNOSTICS:
+    *   Heavy proteinuria (Dipstick 3+/4+ or heat coagulation)
+    *   Hypoalbuminemia (Serum Albumin < 2.5 g/dl)
+    *   Hyperlipidemia (Serum cholesterol > 200 mg/dl)
+    *   Edema
+    *   Urine analysis
+    *   Blood counts
+    *   Serum cholesterol
+    *   Serum proteins
+    *   Blood urea
+    *   Serum creatinine
+    *   Urine culture
+    *   X-ray chest
+    *   Mantoux test
+    *   HBsAg test
+
+4.  TREATMENT ALGORITHM:
+
+    *   IF Patient has first episode of nephrotic syndrome AND absence of hypertension, hematuria, and azotemia THEN
+        *   Administer Prednisolone 2 mg/kg/day (or 60 mg/m<sup>2</sup>/day) after food for 6 weeks.
+        *   Followed by Prednisolone 1.5 mg/kg/alternate day (or 40 mg/m<sup>2</sup>/alternate day) for 6 weeks.
+        *   IF Patient has infrequent relapses THEN
+            *   Administer Prednisolone 2 mg/kg/day until remission.
+            *   Followed by Prednisolone 1.5 mg/kg/day for 4 weeks.
+        *   ELSE IF Patient has frequent relapses OR steroid dependence THEN
+            *   Administer Prednisolone for achievement of remission.
+            *   Followed by maintenance of a low dose (< 0.5 mg/kg) on alternate day basis for 12-18 months.
+            *   OR Offer Levamisole 2.5 mg/kg/alternate day for 6 to 24 months (Monitor CBC 1-2 monthly).
+            *   OR Offer Cyclophosphamide (CP) 2-3 mg/kg/day for 2-3 months to achieve a cumulative dose of 168 mg/kg (Monitor CBC 1-2 weekly).
+            *   OR Offer Mycophenolate mofetil (MMF) 20-30 mg/kg/day.
+            *   OR Offer Tacrolimus (TAC) 0.1-0.2 mg/kg/day.
+        *   ELSE IF Patient has steroid resistance THEN
+            *   Refer for evaluation of further therapy based on renal biopsy findings.
+    *   IF Patient is receiving high dose steroids for 2 weeks or more in the past year AND presents with serious infections, other critical illnesses, or undergoing major surgery THEN
+        *   Administer stress dose of hydrocortisone (2-4 mg/kg/day).
+
+5.  CONTRAINDICATIONS:
+    *   Live vaccines are contraindicated during immunosuppressive therapy and for 3 months after cessation.
+    *   TAC or CSA: Renal biopsy is advised before starting.
+    *   Immunosuppressive therapy (MMF, TAC, CSA): Requires supervision by paediatric nephrologist and monitoring of hemograms (for all), liver function (MMF and TAC), glucose and magnesium levels (TAC), renal function (TAC and CSA), and drug levels (MMF, TAC, CSA).
+```

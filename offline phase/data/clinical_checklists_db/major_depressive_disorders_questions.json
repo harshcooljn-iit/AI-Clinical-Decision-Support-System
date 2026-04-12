@@ -1,0 +1,11 @@
+{
+    "questions": [
+        "Does the patient require hospitalization? (Yes/No)",
+        "Does the patient have heart disease? (Yes/No)",
+        "Does the patient have glaucoma? (Yes/No)",
+        "Does the patient have benign prostatic enlargement? (Yes/No)",
+        "Does the patient have epilepsy? (Yes/No)",
+        "Does the patient have bipolar depression? (Yes/No)",
+        "Does the patient have severe depression with or without suicidal ideas OR retarded depression OR resistant depression? (Yes/No)"
+    ]
+}

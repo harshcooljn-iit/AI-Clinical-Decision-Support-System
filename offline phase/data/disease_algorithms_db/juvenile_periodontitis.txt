@@ -1,0 +1,39 @@
+```text
+1.  DISEASE: Juvenile Periodontitis
+
+2.  ABBREVIATIONS:
+    *   Cap: Capsule
+    *   mg: milligram
+    *   tab: tablet
+
+3.  DIAGNOSTICS:
+    *   Rapid destruction of periodontal tissues.
+    *   Common in age group 13-25 years.
+    *   Mobility in incisors and molars.
+    *   Spacing in upper incisors.
+    *   Distolabial migration of upper incisors.
+    *   Arc-shaped bone loss (distal surface of second premolar to mesial surface of second molar).
+
+4.  TREATMENT ALGORITHM:
+
+    IF Patient has Juvenile Periodontitis THEN
+        // Pharmacological Treatment
+        IF Patient is eligible for tetracycline treatment THEN
+            Administer Cap. tetracycline 250 mg four times a day for 14 days.
+        ENDIF
+
+        // Surgical Treatment
+        IF Patient has badly involved teeth THEN
+            Extract badly involved teeth.
+            Refer patient to a periodontist for further periodontical management.
+        ENDIF
+
+        // Patient Education
+        Instruct patient on proper brushing technique twice daily using a super soft toothbrush.
+    ENDIF
+
+5.  TABULAR DOSAGES: Not applicable in this guideline.
+
+6.  CONTRAINDICATIONS:
+    *   Tetracycline is contraindicated in patients with known hypersensitivity to tetracyclines, pregnant women, and nursing mothers. (This is a general contraindication for tetracycline, not explicitly stated in the provided text but standard knowledge).
+```

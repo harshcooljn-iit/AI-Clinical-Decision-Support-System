@@ -1,0 +1,95 @@
+```text
+DISEASE: Pregnancy With Diabetes
+
+ABBREVIATIONS:
+- FBS: Fasting Blood Sugar
+- RBS: Random Blood Sugar
+- USG: Ultrasonography
+- IUGR: Intra Uterine Growth Retardation
+- HbA1c: Glycosylated Hemoglobin
+- MTP: Medical Termination of Pregnancy
+
+DIAGNOSTICS:
+- Gestational diabetes is diagnosed based on carbohydrate intolerance with onset or first recognition during pregnancy.
+- Normal values: FBS < 90 mg%, 2 hrs post prandial < 120 mg%, RBS < 100 mg%.
+- All pregnancies in diabetic females should be managed at a tertiary care center.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    *   All pregnancies in diabetic females should be managed at a tertiary care center.
+    *   Initial evaluation includes blood sugar and fundoscopy.
+
+2.  **Non-Pharmacological Treatment (Dietary Advice):**
+    *   Total daily calorie intake: 30 Cal/kg.
+    *   Complex carbohydrates: ~50% of total calories, well distributed.
+    *   Meal structure: 3 major meals and 3-4 snacks.
+    *   Fiber intake: 30-50 g daily.
+
+3.  **General Measures:**
+    *   Ultrasound assessment of foetal gestational age: As early as possible.
+    *   Foetal congenital anomalies screening: Level II USG scan at 16-18 weeks, foetal echo at 22 weeks.
+    *   Foetal growth monitoring and well-being assessment: Serial USG and biophysical scoring after 32 weeks.
+
+4.  **Pharmacological Treatment (Antenatal Management):**
+
+    **(a) Pre-existing Diabetes:**
+    *   Oral hypoglycaemic agents are contraindicated.
+    *   Switch to insulin therapy upon diagnosis of pregnancy if on oral agents.
+    *   Insulin Dosage (based on trimester):
+        *   1st trimester: 0.6-0.8 U/kg/day.
+        *   2nd trimester: 0.7-0.9 U/kg/day.
+        *   3rd trimester: 0.8-1.2 U/kg/day.
+    *   Insulin Regimen: Combination of intermediate acting and regular insulin (2:1 ratio).
+        *   2/3 of total daily dose: Given in the morning before breakfast.
+        *   1/3 of total daily dose: Given at night (regular insulin before dinner, intermediate insulin at bedtime).
+    *   Blood Sugar Goals: Fasting < 95 mg%, Postprandial 70-120 mg%.
+    *   Blood Sugar Monitoring: Initially fasting, pre/post breakfast, pre/post lunch, pre/post dinner, and 2 AM. Then daily monitoring (fasting and postmeal) until controlled, followed by weekly monitoring once controlled.
+    *   Hospitalization Indications: Excessive vomiting, infections, maternal complications (hypertension, retinopathy, nephropathy), foetal compromise (macrosomia, IUGR), poor diabetic control.
+
+    **(b) Gestational Diabetes:**
+    *   General management is the same as for pre-existing diabetes.
+    *   Reassessment after 1 week.
+    *   If control not achieved, start insulin therapy.
+    *   Insulin Regimens (if insulin required):
+        *   Regular insulin before breakfast, lunch, and dinner.
+        *   Combination of regular and long-acting insulin before breakfast and dinner.
+        *   If fasting plasma sugar > 105 mg%, insulin is usually required.
+        *   Adjust regular insulin for post-breakfast glucose.
+        *   Adjust intermediate insulin for post-lunch glucose.
+        *   If evening or fasting glucose is elevated:
+            *   Add a 2nd daily injection.
+            *   If both are elevated, add mixture of intermediate and regular insulin before dinner.
+            *   If only fasting is elevated, add intermediate acting insulin at bedtime.
+        *   Alternative regimen: Inj. regular insulin 3 times a day before each main meal, possibly combined with one dose of intermediate acting insulin at bedtime if fasting hyperglycaemia.
+    *   Blood Sugar Goals: Fasting < 95 mg%, 2 hour postprandial < 120 mg%.
+    *   Monitoring: Throughout pregnancy. Daily monitoring with dose adjustment if levels are high. Once control is achieved, manage at home with weekly blood sugar profile.
+    *   Glycosylated Hb (HbA1c): Done in the 1st trimester.
+        *   Value >= 9%: Indicates poor glycemic control, higher risk of congenital malformation; MTP may be offered after evaluation.
+
+5.  **Management During Labour:**
+    *   Uncomplicated case with good control: Continue pregnancy till expected date of delivery.
+    *   Complications or foetal compromise: Terminate pregnancy at 38 weeks or earlier if required.
+    *   Estimated foetal weight > 4 kg: Perform caesarean section.
+    *   Labour Management: Intensive monitoring.
+    *   Blood Sugar Monitoring: 3-4 hourly.
+    *   Blood Sugar Goal: 100-120 mg%.
+    *   Method: Sliding scale method using regular insulin.
+    *   Postpartum: Insulin requirement decreases.
+
+6.  **Patient Education:**
+    *   Preconception control: Achieve good blood sugar control in known diabetics to reduce congenital anomaly risk.
+    *   Adherence: Strict adherence to diet and insulin therapy is essential.
+    *   Monitoring: Frequent blood sugar monitoring is required due to changing insulin needs.
+    *   Hypoglycaemia: Educate on symptoms (palpitations, sweating, dizziness) and management.
+    *   Gestational Diabetes: Risk of recurrence in subsequent pregnancies and later risk of frank diabetes.
+
+7.  **Contraceptive Advice:**
+    *   Contraindicated: Combined oral contraceptive pills, intrauterine devices.
+    *   Preferred: Barrier methods, progestogen-only pills/implants/injectables, sterilization.
+
+CONTRAINDICATIONS:
+- Oral hypoglycaemic agents are contraindicated during pregnancy.
+- Combined oral contraceptive pills are preferably avoided.
+- Intrauterine devices are preferably avoided.
+```

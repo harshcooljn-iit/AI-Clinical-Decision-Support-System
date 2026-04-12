@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "Is the patient willing and able to participate in psychotherapy? (Yes/No)",
+        "Are the patient's symptoms severe or persistent AND is psychotherapy insufficient? (Yes/No)",
+        "Does the patient have comorbid depression? (Yes/No)"
+    ]
+}

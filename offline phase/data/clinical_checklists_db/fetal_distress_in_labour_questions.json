@@ -1,0 +1,11 @@
+{
+    "questions": [
+        "Is a maternal cause identified? (Yes/No)",
+        "Does the FHR remain abnormal throughout at least three contractions? (Yes/No)",
+        "Is bleeding with intermittent or constant pain found on vaginal examination? (Yes/No)",
+        "Are signs of infection (fever, foul-smelling vaginal discharge) found on vaginal examination? (Yes/No)",
+        "Are FHR abnormalities persistent OR is thick meconium-stained amniotic fluid present? (Yes/No)",
+        "Is the cervix fully dilated? (Yes/No)",
+        "Is the fetal head not more than 1/5 above the symphysis pubis OR is the leading bony edge of the fetal head at 0 station? (Yes/No)"
+    ]
+}

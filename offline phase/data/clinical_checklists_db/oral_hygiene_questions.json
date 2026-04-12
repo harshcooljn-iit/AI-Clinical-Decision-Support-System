@@ -1,0 +1,15 @@
+{
+    "questions": [
+        "Does the patient need improved oral hygiene? (Yes/No)",
+        "Is the toothbrush quality inadequate? (Yes/No)",
+        "Is the toothbrush older than 3 months? (Yes/No)",
+        "Is the brushing frequency less than twice daily? (Yes/No)",
+        "Is the brushing technique incorrect OR is excessive force used? (Yes/No)",
+        "Is the flossing frequency less than once daily? (Yes/No)",
+        "Is there excessive sugar intake OR excessive aerated drink intake? (Yes/No)",
+        "Does the patient eat between meals? (Yes/No)",
+        "If yes, is rinsing mouth or brushing teeth not possible after eating between meals? (Yes/No)",
+        "Is fluorinated toothpaste ingested or swallowed during brushing? (Yes/No)",
+        "Is the dental checkup interval not 6 months? (Yes/No)"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Is the patient penicillin sensitive? (Yes/No)",
+        "Is the patient clinically suspected of leptospirosis in an endemic area during the rainy season? (Yes/No)"
+    ]
+}

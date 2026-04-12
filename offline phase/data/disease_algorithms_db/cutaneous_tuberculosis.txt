@@ -1,0 +1,42 @@
+```text
+DISEASE: Cutaneous Tuberculosis
+
+ABBREVIATIONS:
+- HRZE: Isoniazid, Rifampicin, Pyrazinamide, Ethambutol
+- HRE: Isoniazid, Rifampicin, Ethambutol
+- HR: Isoniazid, Rifampicin
+- AFB: Acid-Fast Bacilli
+- CBC: Complete Blood Count
+- ESR: Erythrocyte Sedimentation Rate
+- TB: Tuberculosis
+
+DIAGNOSIS:
+- Clinical examination
+- CBC, ESR, Mantoux test, Chest X-ray
+- Sputum AFB and biopsy
+
+TREATMENT ALGORITHM:
+
+IF Patient is newly diagnosed (Category 1) THEN
+    Initial Phase (2 months):
+        - Isoniazid (H)
+        - Rifampicin (R)
+        - Pyrazinamide (Z)
+        - Ethambutol (E)
+    Continuation Phase (4 months):
+        - Isoniazid (H)
+        - Rifampicin (R)
+ELSE IF Patient has recurrence, relapse, or is a defaulter (Category 2) THEN
+    Initial Phase (3 months):
+        - Month 1: Isoniazid (H), Rifampicin (R), Pyrazinamide (Z), Ethambutol (E), Streptomycin (S)
+        - Month 2: Isoniazid (H), Rifampicin (R), Pyrazinamide (Z), Ethambutol (E)
+        - Month 3: Isoniazid (H), Rifampicin (R), Pyrazinamide (Z), Ethambutol (E)
+    Continuation Phase (5 months):
+        - Isoniazid (H)
+        - Rifampicin (R)
+        - Ethambutol (E)
+ENDIF
+
+CONTRAINDICATIONS:
+(Note: Specific contraindications for each drug are not provided in the text. This section would typically list conditions where specific drugs like Isoniazid, Rifampicin, Pyrazinamide, Ethambutol, or Streptomycin cannot be used, e.g., severe liver disease for Isoniazid/Pyrazinamide, optic neuritis for Ethambutol, etc. Since the text doesn't provide these, this section remains empty based on the input.)
+```

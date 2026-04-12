@@ -1,0 +1,40 @@
+```text
+DISEASE: Chicken Pox/Varicella
+
+ABBREVIATIONS:
+- VZIG: Varicella Zoster Immunoglobulin
+- IV: Intravenous
+
+DIAGNOSTICS:
+- Clinical presentation: Crops of small red papules evolving into clear vesicles on an erythematous base, appearing over 3-4 days, often accompanied by fever and systemic symptoms.
+
+TREATMENT ALGORITHM:
+
+IF Patient is a healthy child:
+    THEN:
+        - Manage fever with appropriate antipyretics (avoiding aspirin/salicylates).
+        - Use local anti-pruritic agents like calamine lotion for itching.
+        - If itching persists, use Tab. pheniramine 25 mg twice daily OR Tab. cetirizine (2-6 years: 5 mg once daily; >6 years: 10 mg once daily).
+        - Disease is self-limiting.
+        - Exclude from school/daycare until the 6th day of rash or until scabs have formed.
+        - Advise against "over the counter" fever medicines containing aspirin/salicylates.
+
+ELSE IF Patient is immuno-compromised (on long-term steroids, anti-cancer drugs, immunosuppressives, HIV positive) OR older than 12 years OR has chronic cutaneous/pulmonary disorders OR is at increased risk of severe disease:
+    THEN:
+        IF Rash onset is within 24 hours:
+            THEN:
+                IF Patient is severely immuno-compromised OR has severe disease in adults:
+                    THEN:
+                        - Administer Inj. acyclovir 10 mg/kg IV every 8 hours for 7 days.
+                ELSE:
+                    - Administer Tab. acyclovir 20 mg/kg/day divided every 6 hours for 5 days.
+        ELSE:
+            - Consider oral acyclovir if within 24 hours of rash onset, but IV is preferred for severe cases/immuno-compromised.
+
+ELSE IF Patient is a contact of a case who is severely immunocompromised or pregnant (particularly in the first trimester):
+    THEN:
+        - Recommend post-exposure prophylaxis with Varicella Zoster Immunoglobulin (VZIG).
+
+CONTRAINDICATIONS:
+- Aspirin and other salicylates are contraindicated for fever management due to the risk of Reye's syndrome.
+```

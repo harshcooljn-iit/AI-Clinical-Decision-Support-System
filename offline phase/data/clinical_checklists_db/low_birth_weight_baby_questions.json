@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "What is the neonate's birth weight in grams?",
+        "What is the neonate's gestational age in weeks?",
+        "Is the neonate able to take feeds from breast, cup, or spoon? (Yes/No)",
+        "Does the neonate show any signs of sickness (Lethargy, refusal to feed, hypothermia, respiratory distress, grunt, apnoea, abnormal weight gain, jaundice over soles and palms, abdominal distension, feed intolerance, cyanosis, pallor, seizures, bleeding)? (Yes/No)"
+    ]
+}

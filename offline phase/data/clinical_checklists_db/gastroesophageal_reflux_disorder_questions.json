@@ -1,0 +1,14 @@
+{
+    "questions": [
+        "Does the patient show signs of GERD complications or other illness, or does not respond to therapy? (Yes/No)",
+        "Are treatment goals symptom control, healing esophagitis, and preventing recurrence/complications? (Yes/No)",
+        "Are symptoms not controlled by PPI therapy? (Yes/No)",
+        "Is Barrett esophagus present? (Yes/No)",
+        "Are there extraesophageal manifestations (respiratory, ENT, dental)? (Yes/No)",
+        "Is the patient a young patient? (Yes/No)",
+        "Is the patient compliant with medication? (Yes/No)",
+        "Is the patient a postmenopausal woman with osteoporosis? (Yes/No)",
+        "Does the patient have cardiac conduction defects? (Yes/No)",
+        "Is the cost of medical therapy a concern? (Yes/No)"
+    ]
+}

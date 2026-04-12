@@ -1,0 +1,133 @@
+```text
+DISEASE: Ulcerative Colitis (UC)
+
+ABBREVIATIONS:
+- UC: Ulcerative Colitis
+- IV: Intravenous
+- NIL BY MOUTH: Nothing by mouth
+
+DIAGNOSTICS:
+- Sigmoidoscopic examination
+- Mucosal biopsies
+
+TREATMENT ALGORITHM:
+
+# Mild to moderate acute ulcerative colitis (distal/left colonic involvement)
+IF Disease severity is mild to moderate AND involvement is distal/left colonic THEN
+    # Oral Medications
+    IF Patient is taking oral medication THEN
+        # Option 1: Sulphasalazine
+        IF Drug choice is Sulphasalazine THEN
+            Dosage: Tab. sulphasalazine 1 g 3-4 times a day.
+        # Option 2: Mesalazine
+        ELSE IF Drug choice is Mesalazine THEN
+            Dosage: Tab. mesalazine 800 mg 3-4 times a day.
+        # Option 3: Olsalazine
+        ELSE IF Drug choice is Olsalazine THEN
+            Dosage: Tab. olsalazine 1-3 g/day in divided doses.
+        ENDIF
+    ENDIF
+
+    # Enema/Foam (Rectal)
+    IF Patient requires rectal medication THEN
+        # Option 1: Prednisolone phosphate enema
+        IF Rectal medication choice is Prednisolone phosphate enema THEN
+            Dosage: 20 mg in 100 ml saline 1-2 times a day.
+        # Option 2: Hydrocortisone enema
+        ELSE IF Rectal medication choice is Hydrocortisone enema THEN
+            Dosage: 100-125 mg in 100 ml saline 1-2 times a day (prepare fresh).
+        # Option 3: Hydrocortisone foam (for rectal disease only)
+        ELSE IF Disease is limited to rectum AND Rectal medication choice is Hydrocortisone foam THEN
+            Dosage: 125 mg 1-2 times a day.
+        ENDIF
+    ENDIF
+ENDIF
+
+# Moderate to severe or extensive acute disease
+IF Disease severity is moderate to severe OR disease is extensive THEN
+    # Oral Medications (Initial)
+    IF Patient is taking oral medication THEN
+        # Option 1: Sulphasalazine
+        IF Drug choice is Sulphasalazine THEN
+            Dosage: Tab. sulphasalazine 1 g 3-4 times a day.
+        # Option 2: Mesalazine
+        ELSE IF Drug choice is Mesalazine THEN
+            Dosage: Tab. mesalazine 800 mg 3-4 times a day.
+        # Option 3: Olsalazine
+        ELSE IF Drug choice is Olsalazine THEN
+            Dosage: Tab. olsalazine 1-3 g/day in divided doses.
+        ENDIF
+    ENDIF
+
+    # Oral Steroids
+    Dosage: Tab. prednisolone 20-60 mg/day in single or divided doses.
+ENDIF
+
+# Follow-up (Mild to Moderate)
+IF Symptoms do not improve or worsen THEN
+    Action: Hospitalization required.
+ENDIF
+
+# Acute severe disease with systemic symptoms (requires hospitalization)
+IF Disease severity is acute severe AND systemic symptoms are present THEN
+    # IV Steroids
+    IF Patient is receiving IV medication THEN
+        # Option 1: Hydrocortisone IV
+        IF Drug choice is Hydrocortisone IV THEN
+            Dosage: Inj. hydrocortisone 100 mg IV 4 times a day.
+        # Option 2: Dexamethasone IV
+        ELSE IF Drug choice is Dexamethasone IV THEN
+            Dosage: Inj. dexamethasone 4 mg IV 3-4 times a day.
+        ENDIF
+    ENDIF
+
+    # Supportive Care
+    Action: Keep patient 'nil by mouth'.
+    Action: Give adequate intravenous fluids and electrolytes.
+    Action: Give blood transfusion as per requirement.
+
+    # Transition to Oral Therapy
+    IF Patient is improving after 5 days THEN
+        Action: Switch over to oral steroids.
+        Action: Start aminosalicylates as in I.
+        Action: Allow patient to take orally.
+    ENDIF
+
+    # Steroid Failure
+    IF Patient fails to respond to steroids THEN
+        Action: Refer patient to gastroenterologist for immunosuppressive therapy or surgery.
+    ENDIF
+
+    # Steroid Tapering
+    IF Remission is induced THEN
+        Action: Taper steroids slowly over 4-6 weeks period.
+    ENDIF
+
+    # Steroid Duration
+    Action: Do not give steroids for more than 12 weeks for an acute attack.
+ENDIF
+
+# Maintenance of remission
+IF Patient requires maintenance therapy THEN
+    Action: Give any of the drugs used in I lifelong.
+ENDIF
+
+# Patient education
+IF Patient requires follow-up THEN
+    Action: Follow up at 6 monthly intervals.
+    Action: Continue maintenance treatment.
+ENDIF
+
+# Surveillance (Long-standing disease)
+IF Disease duration is more than 10 years THEN
+    Action: Regular sigmoidoscopy and rectal biopsy at 6 monthly intervals to look for dysplasia.
+    Action: Total colonoscopic examination at 2-3 year interval.
+    Action: Explain chronic nature of disease, continuation of maintenance treatment, regular follow-up, and risk of colonic cancer after 10 years.
+ENDIF
+
+# Complications Monitoring
+Action: Close clinical/biochemical/radiological monitoring required for complications like toxic megacolon/perforation.
+
+CONTRAINDICATIONS:
+(None specified in the text for the listed drugs, but general contraindications apply based on drug class and patient factors not mentioned here).
+```

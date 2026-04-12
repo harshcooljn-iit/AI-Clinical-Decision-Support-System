@@ -1,0 +1,73 @@
+```text
+DISEASE: Post-Operative Care
+
+ABBREVIATIONS:
+- NSAIDs: Non-Steroidal Anti-Inflammatory Drugs
+- IM: Intramuscular
+- IV: Intravenous
+- TDS: Three times a day
+- SOS: As and when required
+- OD: Once a day
+- SSI: Surgical Site Infection
+
+DIAGNOSTICS:
+- Postoperative Pain: Assessed based on patient report, vital signs, and clinical observation.
+- Postoperative Nausea and Vomiting: Assessed based on patient report (nausea, vomiting).
+- Postoperative Pneumonia: Assessed based on clinical features (fever, productive cough, dyspnoea, chest pain), physical examination (bronchial breathing, rales), and chest X-ray (area of consolidation).
+
+TREATMENT ALGORITHM:
+
+I. POSTOPERATIVE PAIN RELIEF
+
+IF patient requires immediate postoperative analgesia (IM or IV route) THEN
+    - Administer Inj. diclofenac sodium 75 mg 6-8 hourly.
+    OR
+    - Administer Inj. tramadol (50 mg/ml) IM/IV 4-6 hourly.
+    OR
+    - Administer Inj. pentazocine (30mg/ml) 30-60mg IM/IV repeated 3-4 hourly.
+    OR
+    - Administer Inj. morphine (15 mg/ml) 10-15mg, can be repeated 4-6 times.
+ENDIF
+
+IF patient is in a tertiary care center THEN
+    - Consider epidural analgesia, intravenous patient controlled analgesia (PCA), or intrapleural analgesia under expert care.
+ENDIF
+
+IF patient is able to accept oral medication THEN
+    - Administer Tab. paracetamol 500mg 3-4 times a day.
+    OR
+    - Administer Tab. ibuprofen 400-600mg 8 hourly.
+ENDIF
+
+II. POSTOPERATIVE NAUSEA AND VOMITING
+
+IF nausea and vomiting occur THEN
+    - Rule out bowel obstruction (mechanical or paralytic ileus) via examination and investigations.
+    - Manage with bed rest, intravenous fluids, analgesics for pain relief, and nasogastric decompression if needed.
+    - Administer Inj. metoclopramide (5mg/ml) 10 mg IM/IV TDS or SOS.
+    OR
+    - Administer Inj. ondansetron (2mg/ml) 4 mg slow IV or IM OD.
+ENDIF
+
+III. POSTOPERATIVE PNEUMONIA
+
+IF patient develops symptoms suggestive of postoperative pneumonia (fever, productive cough, dyspnoea, chest pain) AND/OR signs (bronchial breathing, rales) AND/OR chest X-ray shows consolidation THEN
+    - Administer antibiotics based on sputum culture and sensitivity. Initial treatment may include an aminoglycoside and cephalosporin.
+    - Administer Inj. diclofenac 75mg IM every 6-8 hours.
+    - Perform chest physiotherapy.
+    - Use nebulized bronchodilators if bronchospasm is present.
+ENDIF
+
+IV. ANTIBIOTIC PROPHYLAXIS IN SURGERY
+
+IF procedure is clean-contaminated, contaminated, or dirty THEN
+    - Administer antibiotic prophylaxis.
+ENDIF
+
+IF procedure is clean AND specific risk criteria are met OR certain patients require it THEN
+    - Consider antibiotic prophylaxis (optional).
+ENDIF
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for the listed drugs, but general contraindications for each drug class would apply, e.g., allergy, specific medical conditions).
+```

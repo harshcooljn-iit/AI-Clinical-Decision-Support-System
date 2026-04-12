@@ -1,0 +1,92 @@
+```text
+DISEASE: Typhoid Fever
+
+ABBREVIATIONS:
+- IV: Intravenous
+- PO: Per Oral (Oral)
+- BD: Bis in die (Twice a day)
+- TDS: Ter in die (Three times a day)
+- QID: Quarter in die (Four times a day)
+- bid: Bis in die (Twice a day)
+- q8h: Every 8 hours
+
+DIAGNOSTICS:
+- Rising O antibodies (Widal test)
+- Isolation of organism in blood, bone marrow, urine, or stool
+
+TREATMENT ALGORITHM:
+
+IF patient has uncomplicated enteric fever:
+    THEN manage at home with oral antibiotics and antipyretics.
+ELSE IF patient has persistent vomiting, diarrhea, and/or abdominal distension:
+    THEN hospitalize patient.
+    THEN provide supportive therapy.
+    THEN administer parenteral third-generation cephalosporin OR fluoroquinolone based on susceptibility profile.
+    THEN administer therapy for at least 10 days OR for 5 days after fever resolution.
+
+IF indication is Empirical Treatment:
+    IF agent is Ceftriaxone:
+        THEN dosage is 1-2 g/d IV.
+        THEN duration is 7–14 days.
+    ELSE IF agent is Ciprofloxacin:
+        THEN dosage is 500 mg BD (PO) or 400 mg BD (IV).
+        THEN duration is 5–7 days.
+    ELSE IF agent is Amoxicillin:
+        THEN dosage is 1 g TDS (PO) or 2 g QID (IV).
+        THEN duration is 14 days.
+    ELSE IF agent is Chloramphenicol:
+        THEN dosage is 25 mg/kg TDS (PO or IV).
+        THEN duration is 14–21 days.
+    ELSE IF agent is Trimethoprim-sulfamethoxazole:
+        THEN dosage is 160/800 mg BD (PO).
+        THEN duration is 7–14 days.
+    ELSE IF agent is Ciprofloxacin:
+        THEN dosage is 500 mg BD (PO) or 400 mg BD (IV).
+        THEN duration is 5–7 days.
+
+IF susceptibility is Fully Susceptible:
+    IF agent is Ciprofloxacin:
+        THEN dosage is 500 mg BD (PO) or 400 mg BD (IV).
+        THEN duration is 5–7 days.
+    ELSE IF agent is Amoxicillin:
+        THEN dosage is 1 g TDS (PO) or 2 g QID (IV).
+        THEN duration is 14 days.
+    ELSE IF agent is Chloramphenicol:
+        THEN dosage is 25 mg/kg TDS (PO or IV).
+        THEN duration is 14–21 days.
+    ELSE IF agent is Trimethoprim-sulfamethoxazole:
+        THEN dosage is 160/800 mg BD (PO).
+        THEN duration is 7–14 days.
+    ELSE IF agent is Ciprofloxacin:
+        THEN dosage is 500 mg BD (PO) or 400 mg BD (IV).
+        THEN duration is 5–7 days.
+
+IF susceptibility is Multidrug-Resistant:
+    IF agent is Ceftriaxone:
+        THEN dosage is 2–3 g/day (IV).
+        THEN duration is 7–14 days.
+    ELSE IF agent is Azithromycin:
+        THEN dosage is 1 g/day (PO).
+        THEN duration is 5 days.
+    ELSE IF agent is Ceftriaxone:
+        THEN dosage is 2–3 g/d (IV).
+        THEN duration is 7–14 days.
+    ELSE IF agent is Azithromycin:
+        THEN dosage is 1 g/d (PO).
+        THEN duration is 5 days.
+
+IF susceptibility is Nalidixic Acid–Resistant:
+    IF agent is High-dose ciprofloxacin:
+        THEN dosage is 750 mg bid (PO) or 400 mg q8h (IV).
+        THEN duration is 10–14 days.
+
+IF patient develops chronic carriage of Salmonella:
+    THEN treat for 4–6 weeks with an appropriate oral antibiotic.
+    IF treatment is with oral amoxicillin, cotrimoxazole, ciprofloxacin, or norfloxacin:
+        THEN effectiveness is 80% in eradicating chronic carriage of susceptible organisms.
+    IF anatomic abnormality exists (e.g., biliary or kidney stones):
+        THEN eradication often requires both antibiotic therapy and surgical correction.
+
+CONTRAINDICATIONS:
+- (No specific contraindications listed in the provided text for the mentioned drugs in the context of typhoid fever treatment. Contraindications would depend on the specific drug and patient factors not detailed here.)
+```

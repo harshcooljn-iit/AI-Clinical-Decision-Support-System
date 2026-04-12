@@ -1,0 +1,75 @@
+```text
+DISEASE: Dementia
+
+ABBREVIATIONS:
+- MMSE: Mini-Mental Status Examination
+- NPH: Normal Pressure Hydrocephalus
+- CNS: Central Nervous System
+
+DIAGNOSTICS:
+- Acquired deterioration in cognitive abilities.
+- Impairs successful performance of activities of daily living.
+- Memory loss is common.
+- Confirmed using screening tools like MMSE.
+
+TREATMENT ALGORITHM:
+
+IF correctable cause identified THEN
+    IF hypothyroidism THEN
+        TREAT with thyroid replacement.
+    ENDIF
+    IF thiamine or B12 deficiency THEN
+        TREAT with vitamin therapy.
+    ENDIF
+    IF elevated serum homocysteine THEN
+        TREAT with vitamin therapy.
+    ENDIF
+    IF opportunistic infection THEN
+        TREAT with antimicrobials.
+    ENDIF
+    IF HIV infection THEN
+        TREAT with antiretroviral therapy.
+    ENDIF
+    IF NPH THEN
+        TREAT with ventricular shunting.
+    ENDIF
+    IF CNS neoplasm THEN
+        TREAT with appropriate surgical, radiation, and/or chemotherapeutic treatment.
+    ENDIF
+ELSE
+    // Consider symptomatic treatment with drugs listed below
+ENDIF
+
+// Symptomatic Pharmacological Treatment (Based on Table 2)
+
+// Donepezil
+IF drug is donepezil THEN
+    IF age is not specified (assuming adult) THEN
+        ADMINISTER donepezil 10 mg daily.
+    ENDIF
+ENDIF
+
+// Rivastigmine
+IF drug is rivastigmine THEN
+    IF age is not specified (assuming adult) THEN
+        ADMINISTER rivastigmine 6 mg twice daily.
+    ENDIF
+ENDIF
+
+// Galantamine
+IF drug is galantamine THEN
+    IF age is not specified (assuming adult) THEN
+        ADMINISTER galantamine 24 mg daily.
+    ENDIF
+ENDIF
+
+// Memantine
+IF drug is memantine THEN
+    IF age is not specified (assuming adult) THEN
+        ADMINISTER memantine 10 mg twice daily.
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+- No specific contraindications listed for the drugs in the table based on the provided text.
+```

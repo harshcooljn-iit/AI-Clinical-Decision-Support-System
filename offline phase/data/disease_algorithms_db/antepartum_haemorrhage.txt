@@ -1,0 +1,114 @@
+```text
+DISEASE: Antepartum Haemorrhage (APH)
+
+ABBREVIATIONS:
+- APH: Antepartum Haemorrhage
+- POG: Period of Gestation
+- IM: Intramuscular
+- BP: Blood Pressure
+- BT: Bleeding Time
+- CT: Clotting Time
+
+DIAGNOSTICS:
+- Clinical presentation varies depending on severity.
+- Ultrasound is confirmatory for placenta praevia.
+- Physical exam findings (uterus tenderness, fetal parts palpability, lie).
+- Blood loss assessment.
+
+TREATMENT ALGORITHM:
+
+1.  **INITIAL ASSESSMENT & HOSPITALIZATION:**
+    IF Patient presents with bleeding from genital tract after 20 weeks of pregnancy and before completion of second stage of labour THEN
+        Hospitalize patient in a well-equipped center with facilities for blood transfusion, emergency caesarean section, and neonatal care unit.
+
+2.  **ASSESS SEVERITY OF BLOOD LOSS:**
+    IF Acute blood loss is 1000 ml THEN
+        Clinical findings: None.
+    ELSE IF Acute blood loss is 1000-1500 ml THEN
+        Clinical findings: Orthostatic blood pressure changes, positive tilt test, Pulse Pressure = 30 mmHg, reduced peripheral perfusion, prolonged capillary refill time.
+    ELSE IF Acute blood loss is 1500-2000 ml THEN
+        Clinical findings: Cold clammy skin, tachycardia, tachypnoea, hypotension.
+    ELSE IF Acute blood loss is 2000 ml THEN
+        Clinical findings: Profound shock, non-palpable pulse, intrauterine death of the foetus.
+
+3.  **DIFFERENTIAL DIAGNOSIS (Causes):**
+    IF Cause is suspected Placenta Praevia THEN
+        Clinical findings: Painless recurrent bleeding, Relaxed non-tender uterus, Free-floating presenting part, Abnormal lie.
+    ELSE IF Cause is suspected Abruptio Placentae THEN
+        Clinical findings: Associated pain abdomen, Tense tender uterus, Foetal parts not easily palpable, Foetal heart irregular or absent, Pregnancy induced hypertension.
+
+4.  **TREATMENT BASED ON SEVERITY:**
+
+    **MASSIVE HEMORRHAGE (e.g., >1500-2000 ml):**
+    IF Massive haemorrhage is present THEN
+        Perform resuscitative measures immediately.
+        Establish intravenous line (one or two 14/16 gauge cannula).
+        Draw 20 ml blood for cross-match, haemogram, coagulation profile.
+        Start fluid therapy rapidly.
+        Head down tilt, keep the patient warm.
+        Oxygen by mask at 8 liters/minute.
+        Empty bladder (Foley's catheter for urine output).
+        Prepare patient for induction of labour by vaginal or caesarean section depending on the cause of bleeding.
+        Administer IV fluids and blood replacement therapy.
+
+    **MILD APH:**
+    IF Mild APH is present THEN
+        Consider expectant management if:
+            IF Cause is Placenta Praevia AND Pregnancy is less than 37 weeks AND Patient is not having active bleeding AND Patient is not in labour pains THEN
+                Hospitalize and bed rest with foetal and maternal monitoring.
+                IF POG < 35 weeks THEN
+                    Administer Inj. dexamethasone 12 mg IM 12 hourly for 2 doses for foetal lung maturity.
+            ENDIF
+        ENDIF
+
+5.  **DECISION ON DELIVERY (Mild APH or after stabilization of Massive APH):**
+
+    **EXPECTANT MANAGEMENT (Mild APH, Placenta Praevia < 37 weeks):**
+    IF Expectant management is chosen THEN
+        Monitor foetal and maternal status.
+        IF Any of the following occur:
+            - Occurrence of life-threatening bleeding
+            - Pregnancy > 37 weeks
+            - Patient is in labour
+            - Case of abruptio placentae
+            - Baby is dead
+            - Congenitally malformed baby
+            - Bleeding recurring
+            - Premature rupture of membranes leading to maternal or foetal compromise
+        THEN
+            Proceed to definitive treatment (Induction of labour or Caesarean section).
+        ENDIF
+    ENDIF
+
+    **DEFINITIVE TREATMENT (Induction or Caesarean Section):**
+    IF Definitive treatment is required THEN
+        Consider indications for Caesarean section:
+            - Major degree placenta praevia
+            - Non vertex presentation
+            - Abruptio placentae with live foetus if cervix is unfavourable (labour likely > 6 hours)
+            - Failure to progress after amniotomy and oxytocin infusion
+            - Other obstetrical indications for caesarean section
+        ENDIF
+
+        IF Indications for vaginal delivery are met (Minor degree placenta praevia with vertex presentation and slight bleeding with favourable cervix OR abruptio placentae with mild bleeding and no increased uterine tone OR foetus is dead OR has major congenital malformation incompatible with life) THEN
+            Proceed with vaginal delivery.
+            For induction: Artificial rupture of membranes followed by oxytocin infusion.
+            Continue oxytocin infusion in the postpartum period to prevent postpartum haemorrhage.
+        ENDIF
+
+6.  **MONITORING (Especially in Abruptio Placentae):**
+    IF Cause is Abruptio Placentae THEN
+        Monitor for maternal complications early:
+            - Pulse
+            - BP
+            - Uterine height girth chart
+            - Vaginal bleeding
+            - Urinary output
+            - BT (Bleeding Time)
+            - CT (Clotting Time)
+            - Clot retraction time
+    ENDIF
+
+CONTRAINDICATIONS:
+- (None specified in the text for the listed treatments, but standard contraindications apply based on patient condition and specific drug properties).
+```

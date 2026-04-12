@@ -1,0 +1,82 @@
+```text
+DISEASE: Mental Retardation
+
+ABBREVIATIONS:
+- IQ: Intelligence Quotient
+- CNS: Central Nervous System
+- MR: Mental Retardation
+
+DIAGNOSTICS:
+- Detailed history
+- Standardized intellectual assessment
+- Assessment of adaptive functions
+- Examination of physical signs and neurological abnormalities
+- Laboratory tests (chromosomal analysis, urine/blood testing for metabolic disorders, neuroimaging)
+
+TREATMENT ALGORITHM:
+
+// Non-pharmacological Treatment
+IF (Patient has Mental Retardation) THEN
+  // Primary Prevention
+  IF (Focus is on prevention) THEN
+    IMPLEMENT measures to increase knowledge/awareness about MR.
+    IMPLEMENT measures to upgrade public health policies/laws for maternal/child health.
+    IMPLEMENT measures to eradicate known disorders associated with CNS damage.
+  ENDIF
+
+  // Secondary and Tertiary Prevention
+  IF (Focus is on managing associated disorders or minimizing sequelae) THEN
+    TREAT associated disorders to shorten illness course (secondary prevention).
+    IMPLEMENT specialized educational programs for training/adaptive/social/vocation skills.
+    CONSIDER group therapy.
+    CONSIDER behaviour therapy to reinforce desired behaviours and reduce objectionable behaviours.
+    CONSIDER cognitive therapies (dispelling false beliefs, relaxation exercises).
+    CONSIDER psychodynamic therapy for patients/families to decrease conflicts.
+  ENDIF
+
+  // Family Education
+  EDUCATE family and provide counseling/support.
+
+  // Social Intervention
+  IMPLEMENT strategies to improve social competence.
+ENDIF
+
+// Pharmacological Treatment
+IF (Patient has Mental Retardation) THEN
+  // Attention Deficit Hyperactivity Disorder (ADHD)
+  IF (Patient has comorbid ADHD) THEN
+    CONSIDER Methylphenidate.
+  ENDIF
+
+  // Aggressive/Self-Injurious Behaviour
+  IF (Patient exhibits aggressive or self-injurious behaviour) THEN
+    CONSIDER Antiepileptic agents like sodium valproate or carbamazepine.
+  ENDIF
+
+  // Comorbid Depression
+  IF (Patient has comorbid depression) THEN
+    CONSIDER Antidepressants.
+  ENDIF
+
+  // Stereotyped Movements
+  IF (Patient exhibits stereotyped movements) THEN
+    CONSIDER Antipsychotics like haloperidol or chlorpromazine.
+  ENDIF
+
+  // Explosive Rages/Anger Outbursts
+  IF (Patient exhibits explosive rages or anger outbursts) THEN
+    CONSIDER Beta-blockers like propranolol.
+  ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+// No specific contraindications listed for the mentioned drugs in the context of MR itself,
+// but standard contraindications for each drug class apply based on patient's individual medical history.
+// Example (not exhaustive):
+// IF (Drug is Methylphenidate) THEN
+//   IF (Patient has severe hypertension, severe anxiety, glaucoma, hyperthyroidism, or history of psychosis) THEN
+//     AVOID Methylphenidate or use with extreme caution.
+//   ENDIF
+// ENDIF
+// Similar considerations apply to other drug classes (antiepileptics, antidepressants, antipsychotics, beta-blockers).
+```

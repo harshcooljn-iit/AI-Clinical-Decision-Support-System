@@ -1,0 +1,58 @@
+```text
+DISEASE: Tinea Corporis
+
+ABBREVIATIONS:
+- KOH: Potassium Hydroxide
+- Cap.: Capsule
+- Tab.: Tablet
+- mg: Milligram
+- kg: Kilogram
+
+DIAGNOSTICS:
+- Clinical examination
+- KOH mount
+
+TREATMENT ALGORITHM:
+
+IF disease is Tinea Corporis THEN
+
+    // Non-pharmacological treatment
+    Maintain hygiene.
+    Avoid tight clothing.
+
+    // Pharmacological treatment
+
+    // Topical treatment (First-line for most cases)
+    APPLY topical antifungal cream twice daily.
+    Options include:
+        - Clotrimazole cream
+        - Miconazole cream
+        - Ketoconazole cream
+
+    // Systemic treatment (For extensive cases or refractory cases)
+    IF case is extensive OR topical treatment fails THEN
+
+        // Option 1: Fluconazole
+        APPLY Cap. fluconazole 150 mg once weekly for 2-4 weeks.
+
+        // Option 2: Terbinafine
+        APPLY Tab. terbinafine based on weight:
+            IF patient weight is < 20 kg THEN
+                APPLY 62.5 mg daily for 2 weeks.
+            ELSE IF patient weight is between 20 kg and 40 kg (inclusive) THEN
+                APPLY 125 mg daily for 2 weeks.
+            ELSE IF patient weight is > 40 kg THEN
+                APPLY 250 mg daily for 2 weeks.
+            ENDIF
+
+        // Option 3: Itraconazole
+        APPLY Cap. itraconazole 200 mg daily for 1 week.
+
+    ENDIF
+
+ENDIF
+
+CONTRAINDICATIONS:
+(Note: Specific contraindications for these drugs are not provided in the text. General contraindications for antifungals should be considered based on patient history and drug-specific information.)
+- No specific contraindications listed in the provided text.
+```

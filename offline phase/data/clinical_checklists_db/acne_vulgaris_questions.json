@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "What is the severity of the acne (Mild, Moderate, Severe)?",
+        "Is the patient female? (Yes/No)",
+        "Does the patient have menstrual irregularity? (Yes/No)",
+        "Is the acne unresponsive to other treatments? (Yes/No)",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have any allergies? (Yes/No)",
+        "If systemic antibiotic is chosen, which one? (Azithromycin, Doxycycline, Minocycline, None)",
+        "If systemic retinoid is chosen, which one? (Isotretinoin, None)"
+    ]
+}

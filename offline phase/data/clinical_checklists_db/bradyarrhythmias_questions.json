@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Is the bradyarrhythmia symptomatic? (Yes/No)",
+        "Is atropine available and indicated? (Yes/No)",
+        "Is isoproterenol available and indicated? (Yes/No)",
+        "Is a temporary pacemaker insufficient or contraindicated? (Yes/No)"
+    ]
+}

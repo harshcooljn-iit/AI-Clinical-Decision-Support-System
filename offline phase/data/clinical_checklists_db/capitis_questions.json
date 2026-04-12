@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "What drug is being considered? (Griseofulvin, Fluconazole, Terbinafine, Itraconazole)",
+        "Does the patient have matted crusts? (Yes/No)",
+        "What is the patient's weight in kg?"
+    ]
+}

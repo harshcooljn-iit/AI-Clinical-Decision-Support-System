@@ -1,0 +1,59 @@
+```text
+DISEASE: Anterior Uveitis
+
+ABBREVIATIONS:
+- BD: Bis in die (twice a day)
+- TDS: Ter in die (three times a day)
+- QID: Quarter in die (four times a day)
+- IOP: Intraocular pressure
+- FML: Flurometholone
+- CME: Cystoid macular edema
+- KP: Keratic precipitates
+
+DIAGNOSTICS:
+- Symptoms: Pain, redness, photophobia, consensual photophobia, excessive tearing, decreased vision (acute); decreased vision (from vitreous debris, CME, or cataract), exacerbations/remissions (chronic).
+- Slit lamp examination: Cells and flare in the anterior chamber, ciliary flush, keratic precipitates (KP).
+- Ocular examination: Complete ocular examination, IOP check, dilated fundus examination, vitreous evaluation for cells.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:** Evaluate symptoms, slit lamp findings (cells, flare, KP), IOP, and fundus.
+
+2.  **Non-pharmacological Treatment:**
+    - IF patient has symptoms like photophobia or pain, THEN advise wearing dark glasses.
+
+3.  **Pharmacological Treatment - Cycloplegics:**
+    - IF inflammation is mild to moderate, THEN use cyclopentolate 1% eye drops BD.
+    - IF inflammation is severe, THEN use atropine ointment 1% TDS.
+
+4.  **Pharmacological Treatment - Topical Steroids:**
+    - Use prednisolone acetate 1% eye drops.
+    - IF inflammation is mild, THEN administer one drop 1 to 6 hourly, depending on severity.
+    - IF inflammation is moderate to severe, THEN administer one drop 1 to 2 hourly initially.
+    - Consider FML (flurometholone) 1% ophthalmic ointment at night.
+
+5.  **Pharmacological Treatment - Periocular Steroids:**
+    - IF anterior uveitis is severe AND not responding to topical steroids, THEN consider periocular repository steroids (e.g., triamcinolone 20 to 40 mg subtenon injection).
+
+6.  **Pharmacological Treatment - Systemic Steroids/Immunosuppressives:**
+    - IF no improvement on maximal topical and repository steroids, OR if the uveitis is bilateral and severe, THEN consider systemic steroids (prednisolone 1mg/kg/day) OR immunosuppressive therapy.
+
+7.  **Treatment of Secondary Glaucoma:**
+    - IF secondary glaucoma is present, THEN treat with beta blockers.
+    - DO NOT use pilocarpine or prostaglandin analogues for secondary glaucoma in this context.
+
+8.  **Treatment of Specific Etiologies:**
+    - IF an exact etiology is determined (e.g., herpes, tuberculosis, ankylosing spondylitis), THEN provide appropriate systemic management for that etiology.
+
+9.  **Follow-up:**
+    - IF acute phase, THEN follow-up every 1 to 7 days, depending on severity.
+    - IF stable, THEN follow-up every 1 to 6 months.
+    - At each visit, evaluate anterior chamber reaction and IOP.
+
+10. **Steroid Tapering:**
+    - IF anterior chamber reaction is improving, THEN slowly taper steroid drops.
+    - Tapering schedule example: QID for 1 week, then TDS for 1 week, then BD for 1 week.
+
+CONTRAINDICATIONS:
+- Pilocarpine and prostaglandin analogues are contraindicated for treating secondary glaucoma associated with anterior uveitis.
+```

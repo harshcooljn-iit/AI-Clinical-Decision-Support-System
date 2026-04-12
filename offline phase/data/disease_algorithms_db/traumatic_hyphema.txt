@@ -1,0 +1,94 @@
+```text
+DISEASE: Traumatic Hyphema
+
+ABBREVIATIONS:
+- IOP: Intraocular Pressure
+- BD: Bis in die (twice a day)
+- TDS: Ter in die (three times a day)
+- NSAIDs: Nonsteroidal anti-inflammatory drugs
+- OD: Oculus dexter (right eye)
+- IM: Intramuscular
+- PAS: Peripheral anterior synechiae
+- IV: Intravenous
+
+DIAGNOSTICS:
+- History of blunt trauma.
+- Ocular examination (slit lamp) to observe blood/clot in the anterior chamber.
+- Measurement of IOP.
+- Dilated retinal evaluation.
+- Consider CT scan of orbits/brain if indicated (e.g., suspected orbital fracture, IOFB, loss of consciousness).
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Management:**
+    *   IF patient presents with traumatic hyphema:
+        *   Confine patient to bed rest with bathroom privileges or limited activity.
+        *   Elevate head of bed.
+        *   Place a shield over the involved eye at all times.
+        *   DO NOT patch the eye.
+
+2.  **Medications:**
+    *   IF patient has pain or iritis:
+        *   Administer Atropine 1% solution BD to TDS OR Scopolamine 0.25% BD to TDS.
+    *   IF patient is taking aspirin-containing products or NSAIDs:
+        *   Discontinue use.
+    *   IF patient requires analgesia:
+        *   Administer mild analgesics only (e.g., acetaminophen).
+        *   Avoid sedatives.
+    *   IF there is suggestion of iritis (photophobia, deep ache, ciliary flush), evidence of lens capsule rupture, any protein (fibrin), or definitive white blood cells in anterior chamber:
+        *   Administer topical steroids (e.g., Prednisolone acetate 1% four to eight times per day).
+        *   Reduce steroid frequency as signs/symptoms resolve.
+
+3.  **IOP Management:**
+    *   IF IOP is increased:
+        *   Start with a topical beta-blocker (e.g., Timolol 0.5% or Levobunolol 0.5% BD).
+    *   IF IOP remains high after beta-blocker:
+        *   ADD topical alpha-agonist (e.g., Apraclonidine 0.5%, or Brimonidine 0.2% TDS).
+        *   OR ADD topical carbonic anhydrase inhibitor (e.g., Dorzolamide 2%, or Brinzolamide 1% TDS).
+        *   IF patient is under 5 years old:
+            *   DO NOT use topical alpha-agonists.
+        *   Avoid prostaglandin analogs and miotics.
+    *   IF topical therapy fails:
+        *   ADD oral Acetazolamide (500 mg BD for adults, 20 mg/kg/day divided TID for children).
+        *   OR ADD intravenous Mannitol (1 to 2 g/kg over 45 minutes once a day).
+        *   IF Mannitol is necessary:
+            *   Consider surgical evacuation of hyphema.
+
+4.  **Nausea/Vomiting (if hospitalized):**
+    *   IF patient has severe nausea or vomiting:
+        *   Administer antiemetics (e.g., Prochlorperazine 10 mg IM TDS or 25 mg BD).
+
+5.  **Indications for Surgical Evacuation:**
+    *   IF any of the following conditions are met:
+        *   Corneal stromal blood staining.
+        *   Significant visual deterioration.
+        *   Hyphema does not decrease to <50% by 8 days.
+        *   IOP > 60 mm Hg for > 48 hours despite maximal medical therapy.
+        *   IOP > 25 mm Hg with total hyphema for > 5 days.
+
+6.  **Follow-up:**
+    *   See patient daily for 3 days after initial trauma.
+    *   Check visual acuity, IOP, and perform slit-lamp examination.
+    *   Look for new bleeding, increased IOP, corneal blood staining, and other intraocular injuries.
+    *   IF IOP is increased:
+        *   Treat as described in IOP Management section.
+    *   IF patient was hospitalized:
+        *   See 2 to 3 days after discharge.
+    *   IF patient was not hospitalized:
+        *   See several days to 1 week after initial daily follow-up period, depending on severity.
+
+7.  **Long-Term Management:**
+    *   IF condition is severe:
+        *   Maintain on a long-acting cycloplegic (e.g., Atropine 1% solution OD to BD, Scopolamine 0.25% OD to BD).
+    *   Taper topical steroids as blood, fibrin, and white blood cells resolve.
+    *   Use glasses or eye shield during the day and eye shield at night.
+    *   Wear protective eyewear (polycarbonate or Trivex lenses) when potential for eye injury exists.
+    *   Refrain from strenuous physical activities (including bearing down or valsalva maneuvers) for 1 week after initial injury or rebleed.
+    *   Extend this period if blood remains in the anterior chamber.
+
+CONTRAINDICATIONS:
+- Topical alpha-agonists are contraindicated in children under 5 years old.
+- Aspirin-containing products and NSAIDs should not be used.
+- Sedatives should be avoided.
+- Prostaglandin analogs and miotics should be avoided for IOP management.
+```

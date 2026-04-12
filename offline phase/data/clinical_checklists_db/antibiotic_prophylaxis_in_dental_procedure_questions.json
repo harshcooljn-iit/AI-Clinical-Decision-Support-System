@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "Is the patient in the high or moderate risk group? (Yes/No)",
+        "What type of dental procedure is being performed?"
+    ]
+}

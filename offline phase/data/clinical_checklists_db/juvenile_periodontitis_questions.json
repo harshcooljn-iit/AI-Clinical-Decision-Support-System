@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Is the patient eligible for tetracycline treatment? (Yes/No)",
+        "Does the patient have badly involved teeth? (Yes/No)",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have a known hypersensitivity to tetracyclines? (Yes/No)"
+    ]
+}

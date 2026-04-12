@@ -1,0 +1,63 @@
+```text
+DISEASE: Optic Neuritis
+
+ABBREVIATIONS:
+- MRI: Magnetic Resonance Imaging
+- Tab: Tablet
+- Inj: Injection
+- gm: gram
+- mg: milligram
+- kg: kilogram
+
+DIAGNOSTICS:
+- Sudden, progressive, profound visual loss.
+- Decreased dark adaptation.
+- Impaired color vision.
+- Visual obscuration in bright light or with exertion.
+- Possible mild dull eye ache, aggravated by ocular movements.
+- Abnormal papillary responses (sluggish or afferent pupil defect).
+- Fundus examination: Hyperaemia, blurred disc margins, disc oedema, obliterated cup, congested/tortuous veins, possible splinter haemorrhages/exudates.
+- Slit-lamp: Possible inflammatory cells in vitreous.
+- Visual field defect: Often relative central or centrocaecal scotoma.
+
+TREATMENT ALGORITHM:
+
+IF underlying cause is identifiable and treatable THEN
+    Treat the underlying cause.
+ELSE IF underlying cause is idiopathic, hereditary, or associated with demyelinating disorders THEN
+    No specific effective treatment.
+ENDIF
+
+IF considering corticosteroid therapy THEN
+    IF patient has acute optic neuritis THEN
+        IF oral prednisolone therapy alone is considered THEN
+            Oral prednisolone therapy alone is contraindicated because it does not improve visual outcome and increases the risk of new attacks.
+        ENDIF
+
+        IF intravenous methylprednisolone is considered THEN
+            IF brain MRI scan is normal THEN
+                IF visual loss affects both eyes simultaneously or subsequently within hours/days THEN
+                    Administer Inj. methylprednisolone 1 gm/day (or 15 mg/kg/day) intravenously in 2-4 divided doses for 3 days.
+                ENDIF
+
+                IF only good eye is affected THEN
+                    Administer Inj. methylprednisolone 1 gm/day (or 15 mg/kg/day) intravenously in 2-4 divided doses for 3 days.
+                ENDIF
+
+                IF slow progressive visual loss continues THEN
+                    Administer Inj. methylprednisolone 1 gm/day (or 15 mg/kg/day) intravenously in 2-4 divided doses for 3 days.
+                ENDIF
+            ENDIF
+        ENDIF
+
+        IF intravenous methylprednisolone is administered THEN
+            Follow with Tab. prednisolone 1 mg/kg/day orally for 11 days.
+            Taper the Tab. prednisolone dose over the next week.
+        ENDIF
+    ENDIF
+ENDIF
+
+PATIENT EDUCATION:
+- Explain the potential for recurrence and permanent vision loss.
+- Advise avoiding factors that provoke transient visual obscurations (exertion, heat, stress, anger).
+```

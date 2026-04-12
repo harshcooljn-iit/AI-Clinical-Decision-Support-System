@@ -1,0 +1,47 @@
+```text
+DISEASE: Antibiotic Prophylaxis In Dental Procedure
+
+ABBREVIATIONS:
+- None found in the provided text.
+
+DIAGNOSTICS:
+- Patient is classified into high or moderate risk groups (criteria not specified in the text).
+
+TREATMENT ALGORITHM:
+
+IF patient is in the high or moderate risk group
+THEN
+    IF dental procedure is one of the following:
+        - Dental extractions
+        - Periodontal procedures (including surgery, scaling and root planing, probing, recall maintenance)
+        - Dental implant placement
+        - Reimplantation of avulsed teeth
+        - Endodontic (root canal) instrumentation or surgery beyond the apex
+        - Sub gingival placement of antibiotic fibers or strips
+        - Prophylactic cleaning of teeth or implants where bleeding is anticipated
+    THEN
+        - Antibiotic prophylaxis is recommended.
+    ELSE
+        - Antibiotic prophylaxis is not recommended.
+    ENDIF
+ELSE
+    - Antibiotic prophylaxis is not recommended.
+ENDIF
+
+Antibiotic prophylaxis not recommended for the following dental procedures:
+IF dental procedure is one of the following:
+    - Restorative dentistry (operative and prosthodontic) with or without retraction cord
+    - Local anesthetic injections (nonintraligamentary)
+    - Intracanal endodontic treatment; post placement and buildup
+    - Placement of rubber dams
+    - Postoperative suture removal
+    - Taking of oral impressions
+    - Fluoride treatments
+    - Placement of removable prosthodontic or orthodontic appliances
+    - Orthodontic appliance adjustment
+    - Taking of oral radiographs
+    - Shedding of primary teeth
+THEN
+    - Antibiotic prophylaxis is not recommended.
+ENDIF
+```

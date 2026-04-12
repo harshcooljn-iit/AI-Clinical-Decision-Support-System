@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "Does the patient exhibit qualitative impairment in social interactions, impairment in communication, and restricted, repetitive, stereotypical patterns of behavior? (Yes/No)",
+        "Are non-pharmacological treatments chosen? (Yes/No)",
+        "Is symptomatic treatment needed for hyperactivity, obsessions, compulsions, aggression, or self-injurious behavior? (Yes/No)",
+        "Is risperidone chosen for treatment? (Yes/No)",
+        "What is the patient's weight in kg?"
+    ]
+}

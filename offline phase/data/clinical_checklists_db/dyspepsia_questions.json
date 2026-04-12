@@ -1,0 +1,11 @@
+{
+    "questions": [
+        "Does the patient require initial treatment? (Yes/No)",
+        "Does the patient prefer omeprazole? (Yes/No)",
+        "Does the patient have symptoms despite initial medication? (Yes/No)",
+        "Does the patient have dysmotility symptoms? (Yes/No)",
+        "Is the treatment duration needed? (Yes/No)",
+        "Is the patient on long-term NSAIDs? (Yes/No)",
+        "Does the patient have Duodenal/gastric ulcers (complicated, e.g., bleeding)? (Yes/No)"
+    ]
+}

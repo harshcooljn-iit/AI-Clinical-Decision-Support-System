@@ -1,0 +1,11 @@
+{
+    "questions": [
+        "What is the patient's Period of Gestation (POG) in weeks?",
+        "Is the patient experiencing ominous symptoms (persistent severe headache, visual disturbances, epigastric pain, nausea, vomiting, oliguria)? (Yes/No)",
+        "Is the patient's diastolic Blood Pressure (BP) persistently > 100 mmHg? (Yes/No)",
+        "Is the patient's Gestational age \u2265 37 weeks? (Yes/No)",
+        "Is there evidence of fetal compromise (severe growth retardation, oligohydramnios, abnormal non-stress test or biophysical score)? (Yes/No)",
+        "Is there evidence of maternal compromise (development of features of severe pre-eclampsia)? (Yes/No)",
+        "Is the patient in labor, has ruptured membranes, or is there bleeding? (Yes/No)"
+    ]
+}

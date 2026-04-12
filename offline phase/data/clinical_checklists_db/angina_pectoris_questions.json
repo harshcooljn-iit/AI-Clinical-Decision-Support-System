@@ -1,0 +1,15 @@
+{
+    "questions": [
+        "Does the patient have an acute angina attack? (Yes/No)",
+        "Does the patient experience angina attacks twice in a week? (Yes/No)",
+        "Are beta blockers contraindicated? (Yes/No)",
+        "Does angina persist despite beta blockers? (Yes/No)",
+        "Does the patient have bradycardia? (Yes/No)",
+        "Does the patient have heart block? (Yes/No)",
+        "Does the patient have severe asthma? (Yes/No)",
+        "Does the patient have decompensated heart failure? (Yes/No)",
+        "Does the patient have hypotension? (Yes/No)",
+        "Does the patient have sick sinus syndrome? (Yes/No)",
+        "Does the patient have 2nd or 3rd degree AV block? (Yes/No)"
+    ]
+}

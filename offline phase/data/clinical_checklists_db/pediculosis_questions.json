@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "What type of Pediculosis is present (P. capitis, P. corporis, or Phthiriasis pubis)?",
+        "Is non-pharmacological treatment chosen? (Yes/No)",
+        "Is itching present? (Yes/No)",
+        "Is pharmacological treatment chosen? (Yes/No)"
+    ]
+}

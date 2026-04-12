@@ -1,0 +1,15 @@
+{
+    "questions": [
+        "What is the specific opportunistic infection diagnosed?",
+        "For Pneumocystis Carinii Pneumonia (PCP), what is the patient's severity (Severe, Moderate, or Mild)?",
+        "For Pneumocystis Carinii Pneumonia (PCP), what is the patient's PaO2 level breathing room air at rest (in mmHg)?",
+        "For Oesophageal Candidiasis, what is the patient's current CD4 count?",
+        "For Cryptococcosis, what is the patient's current CD4 count?",
+        "For Toxoplasmosis, is cerebral edema present? (Yes/No)",
+        "Does the patient have any allergies, specifically to sulfa drugs, trimethoprim, pyrimethamine, or amphotericin B? (Yes/No)",
+        "Is the patient pregnant or breastfeeding? (Yes/No)",
+        "Is the patient receiving Antiretroviral Therapy (ART)? (Yes/No)",
+        "For Oesophageal Candidiasis, is the patient on ART and has achieved CD4 counts > 100? (Yes/No)",
+        "For Cryptococcosis, has the patient had a sustained CD4 response to ART (CD4 > 200) for > 3 months? (Yes/No)"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "Is wheezing present in the child? (Yes/No)",
+        "Is asthma suspected (recurrent, worse at night/exercise, seasonal, associated allergies)? (Yes/No)",
+        "Are other causes suspected (neonatal onset, feeding issues, choking/vomiting, localized findings, cardiovascular issues)? (Yes/No)"
+    ]
+}

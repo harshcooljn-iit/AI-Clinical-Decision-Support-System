@@ -1,0 +1,93 @@
+```text
+DISEASE: Acute Pyogenic Osteomyelitis
+
+ABBREVIATIONS:
+- ESR: Erythrocyte Sedimentation Rate
+- CRP: C-Reactive Protein
+- IV: Intravenous
+- IM: Intramuscular
+- Inj.: Injection
+- Syr.: Syrup
+- Cap.: Capsule
+- Tab.: Tablet
+- mg: Milligram
+- kg: Kilogram
+- g: Gram
+- Staph.: Staphylococcus
+- Pseud.: Pseudomonas
+- Paed.: Paediatric
+
+DIAGNOSTICS:
+- Classic symptoms: Localized pain, fever, swelling in metaphyseal area, warmth, limited range of motion of adjacent joint.
+- Lab findings: Pus aspirated from bone, positive bone or blood culture for pyogenic organism.
+- Imaging: Radiographic changes typical of acute osteomyelitis (soft tissue swelling, periosteal reaction, lytic areas in metaphysis), usually appearing 7-10 days after onset.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    - IF patient has symptoms suggestive of acute pyogenic osteomyelitis (localized pain, fever, swelling, warmth, limited motion) AND/OR positive bone/blood culture OR typical radiographic changes, THEN proceed to treatment.
+
+2.  **Non-Pharmacological Treatment:**
+    - Rest, splintage, limb elevation, sponging for fever.
+    - IF pus aspirated from bone, THEN drain pus (orthopaedic surgeon) and send for culture/sensitivity.
+    - Splintage duration: 4-6 weeks typically, may be longer (months) for extensive destruction.
+    - Gradually mobilize limb and permit gradual weight bearing after splintage.
+
+3.  **Pharmacological Treatment - Initial IV Antibiotics:**
+    - Start broad-spectrum IV antibiotics based on likely organism (_Staphylococcus aureus_ most common).
+    - Antibiotic choice depends on suspected organism and local resistance patterns:
+        - IF _Staphylococcus aureus_ suspected (MSSA), THEN start Inj. cloxacillin 50-100 mg/kg/day in four divided doses for 1-2 weeks.
+        - OR IF _Staphylococcus aureus_ suspected (MRSA), THEN start Inj. vancomycin by IV infusion:
+            - IF Neonate (upto 1 week), THEN 15 mg/kg initially, then 10 mg/kg every 12 hours.
+            - IF Infant (1-4 weeks), THEN 15 mg/kg initially, then 10 mg/kg every 8 hours.
+            - IF Child (over 1 month), THEN 10 mg/kg every 6 hours.
+            - OR Alternatively, use linezolid in appropriate dose.
+        - OR IF _Pseudomonas aeruginosa_ suspected (resistant to gentamicin/amikacin), THEN start Inj. amikacin 15 mg/kg/day in 2-3 divided doses.
+        - OR IF patient is hypersensitive to penicillins and cephalosporins, THEN start Inj. clindamycin 40 mg/kg/day in 4 divided doses for 1-2 weeks.
+        - OR IF broad coverage needed (e.g., Gram-negatives), THEN start Inj. ceftriaxone 100 mg/kg/day in 2 divided doses (max 2 g/day) for 1-2 weeks.
+        - OR IF broad coverage needed (e.g., Gram-negatives), THEN start Inj. cefotaxime 100-200 mg/kg/day by IV infusion or IM or IV in 2-4 divided doses for 1-2 weeks.
+        - OR IF gentamicin coverage needed (e.g., Gram-negatives), THEN start Inj. gentamicin 5-7.5 mg/kg/day in 2 divided doses for 1-2 weeks.
+
+4.  **Duration of IV Antibiotics:**
+    - Continue IV antibiotics until favorable clinical response is achieved (decrease in swelling/fever, improved well-being/movement, falling ESR/CRP).
+    - Typical duration: 1-2 weeks.
+
+5.  **Transition to Oral Antibiotics:**
+    - IF favorable clinical response after 1-2 weeks of IV therapy, THEN switch to oral antibiotics.
+    - Duration of total antibiotic therapy (IV + Oral): 4-6 weeks.
+
+6.  **Oral Antibiotic Choice:**
+    - Choice depends on culture/sensitivity report.
+    - IF culture report unavailable, THEN use:
+        - Syr./Cap. cloxacillin 50-100 mg/kg/day in 4 divided doses for 3-4 weeks.
+        - OR Syr./Cap. cephalexin 25-50 mg/kg/day in 4 divided doses for 3-4 weeks.
+
+7.  **Monitoring:**
+    - Monitor therapy by clinical response (decrease swelling/fever, improved well-being/movement).
+    - Monitor lab markers: ESR and CRP (CRP is better indicator).
+    - Repeat X-ray after 7-10 days of symptoms to assess bone destruction/damage.
+
+8.  **Referral:**
+    - Refer to orthopaedic surgeon IF:
+        - Pus aspirated from bone.
+        - Acute osteomyelitis suspected in adult.
+        - Acute osteomyelitis suspected in diabetic patient.
+        - Acute osteomyelitis suspected in haemodialysis patient.
+        - Acute osteomyelitis suspected in IV drug user.
+        - Acute osteomyelitis suspected in patient with orthopaedic implant.
+        - Acute osteomyelitis suspected in immunocompromised host.
+
+9.  **Symptomatic Treatment:**
+    - Oral Tab. paracetamol 500 mg for fever.
+
+CONTRAINDICATIONS:
+- Inj. cloxacillin: IF patient is hypersensitive to penicillin.
+- Inj. gentamicin: IF patient has renal impairment or known hypersensitivity.
+- Inj. amikacin: IF patient has renal impairment or known hypersensitivity.
+- Inj. ceftriaxone: IF patient is hypersensitive to cephalosporins or has severe biliary obstruction.
+- Inj. cefotaxime: IF patient is hypersensitive to cephalosporins.
+- Inj. clindamycin: IF patient has a history of severe colitis or known hypersensitivity.
+- Inj. vancomycin: IF patient has known hypersensitivity (red man syndrome, etc.).
+- Syr./Cap. cloxacillin: IF patient is hypersensitive to penicillin.
+- Syr./Cap. cephalexin: IF patient is hypersensitive to cephalosporins.
+```

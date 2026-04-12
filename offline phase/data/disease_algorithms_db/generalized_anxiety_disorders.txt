@@ -1,0 +1,53 @@
+```text
+DISEASE: Generalized Anxiety Disorders
+
+ABBREVIATIONS:
+- GAD: Generalized Anxiety Disorder
+- HS: Bedtime (at night)
+- TDS: Three times a day
+- SSRIs: Selective Serotonin Reuptake Inhibitors
+- BD: Twice a day
+
+DIAGNOSTICS:
+- Diagnosis is based on history and mental status examination.
+- Investigations for co-morbidities (e.g., hyperthyroidism, hypothyroidism, hypo parathyroidism, pheochromocytoma, nutritional deficiencies) should be done to rule out organic causes.
+
+TREATMENT ALGORITHM:
+
+# Non-pharmacological Treatment
+IF patient prefers non-pharmacological treatment THEN
+    - Cognitive behavior therapy (CBT): Focuses on identifying cognitive distortions and altering faulty coping strategies. Techniques include relaxation and biofeedback.
+    - Supportive therapy: Offers reassurance and comfort.
+    - Insight-oriented psychotherapy: Focuses on uncovering unconscious conflicts and identifying ego strengths.
+ENDIF
+
+# Pharmacological Treatment
+
+# Benzodiazepines
+IF benzodiazepines are chosen THEN
+    - Diazepam:
+        - Start with 5 mg HS or 10 mg HS.
+    - Clonazepam:
+        - Start with 0.5 mg HS or TDS depending on symptom severity.
+    - Lorazepam:
+        - Start with 2 mg HS, increase up to a maximum of 8 mg.
+ENDIF
+
+# SSRIs
+IF SSRIs are chosen THEN
+    - Sertraline, escitalopram, or paroxetine are options.
+    - Paroxetine:
+        - Start with Tab. paroxetine 10 mg or 20 mg per day.
+        - Increase up to a maximum of 50 mg/day.
+ENDIF
+
+# Beta Blockers
+IF beta blockers are chosen for symptomatic relief THEN
+    - Propranolol:
+        - Start with Tab. propranolol 20 mg BD.
+        - Or use a sustained-release preparation up to 80 mg/day in divided doses.
+ENDIF
+
+CONTRAINDICATIONS:
+- (Note: Specific contraindications for each drug are not detailed in the provided text. This section would typically list conditions or patient characteristics where a specific drug should not be used, e.g., benzodiazepines in patients with respiratory depression or severe liver disease).
+```

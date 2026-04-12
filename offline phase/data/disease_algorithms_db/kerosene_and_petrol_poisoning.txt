@@ -1,0 +1,31 @@
+```text
+DISEASE: Kerosene And Petrol Poisoning
+
+ABBREVIATIONS:
+- ml: milliliter
+- IV: Intravenous
+
+DIAGNOSTICS:
+- History of exposure to kerosene or petrol.
+- Clinical signs and symptoms (mild or severe, as listed in Salient features).
+- Chest x-ray findings (perihilar densities, basal pneumonitis, atelectasis, consolidation).
+
+TREATMENT ALGORITHM:
+
+IF patient has kerosene/petrol poisoning THEN
+    - Remove contaminated clothes.
+    - Flush skin and oral cavity for at least 15 minutes.
+    - IF chemical was swallowed THEN
+        - Immediately give water or milk.
+    - IF poison was inhaled THEN
+        - Immediately move patient to fresh air.
+        - Maintain patent airway.
+        - Position patient with head low.
+    - Do not induce emesis.
+    - Monitor vital signs (temperature, pulse, blood pressure, respiratory rate).
+    - Provide oxygen via nasal cannula or face mask.
+    - Establish IV line.
+    - Start intravenous crystalloids for supportive therapy.
+    - Monitor for respiratory complications.
+ENDIF
+```

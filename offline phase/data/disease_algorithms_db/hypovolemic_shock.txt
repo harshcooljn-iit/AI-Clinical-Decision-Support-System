@@ -1,0 +1,45 @@
+```text
+DISEASE: Hypovolemic Shock
+
+ABBREVIATIONS:
+- IV: Intravenous
+- PCV: Packed Red Blood Cells
+- Inj.: Injection
+- H2: Histamine-2
+
+DIAGNOSTICS:
+- Clinical signs and symptoms suggestive of shock (e.g., tachycardia, hypotension, poor perfusion, altered mental status) in the context of volume loss (diarrhea, vomiting, hemorrhage, burns, nephrotic syndrome).
+
+TREATMENT ALGORITHM:
+
+IF Patient is in Hypovolemic Shock THEN
+    - Establish IV or intraosseous access.
+    - Administer initial fluid bolus: 20 ml/kg of isotonic saline over 5-10 minutes.
+
+    IF Patient's shock persists after initial bolus THEN
+        - Repeat fluid bolus: Up to 60-80 ml/kg of isotonic saline if required.
+        - Monitor patient response.
+
+    IF Shock is refractory to fluid resuscitation THEN
+        - Consider inotropic therapy.
+        - IF Dopamine is chosen THEN
+            - Administer Inj. dopamine at 3-20 microgram/kg/min IV.
+        - ELSE IF Dobutamine is chosen THEN
+            - Administer Inj. dobutamine at 1-10 microgram/kg/min IV.
+        - ELSE IF Nor-epinephrine is chosen THEN
+            - Administer Inj. nor-epinephrine at 0.05-1.5 microgram/kg/min IV.
+
+    IF Etiology is hemorrhagic shock THEN
+        - Stop ongoing blood loss.
+        - IF Significant blood loss persists THEN
+            - Consider transfusion with PCV.
+
+    IF Etiology is nephrotic syndrome THEN
+        - Administer IV albumin.
+
+    IF Etiology involves diarrhea or vomiting THEN
+        - Treat diarrhea with appropriate antibiotics.
+        - Treat vomiting with anti-emetics.
+        - Consider H2 receptor blockers or proton pump inhibitors.
+ENDIF
+```

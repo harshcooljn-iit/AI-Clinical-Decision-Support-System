@@ -1,0 +1,38 @@
+```text
+DISEASE: Molluscum Contagiosum
+
+ABBREVIATIONS:
+- TCA: Trichloroacetic acid
+- KOH: Potassium hydroxide
+
+DIAGNOSTICS:
+- Clinical examination of skin lesions (shiny, pearly white, hemispherical, umbilicated papules, possibly with a central pore).
+- Extraction of molluscum body.
+- Biopsy (less common).
+
+TREATMENT ALGORITHM:
+
+IF Non-pharmacological treatment is chosen:
+    THEN Advise patient to avoid scratching.
+    THEN Advise patient to avoid shared towels, contact sports, and communal bathing.
+ELSE IF Pharmacological treatment is chosen (typically at tertiary care centres):
+    THEN Consider chemical cauterisation options:
+        IF Using Trichloroacetic acid (TCA):
+            THEN Apply TCA 10-20% concentration directly to the lesion.
+            THEN Apply liquid paraffin over the surrounding skin area.
+        IF Using Phenol:
+            THEN Apply Phenol directly to the lesion.
+            THEN Apply liquid paraffin over the surrounding skin area.
+        IF Using Salicylic acid:
+            THEN Apply Salicylic acid directly to the lesion.
+            THEN Apply liquid paraffin over the surrounding skin area.
+        IF Using Potassium hydroxide (KOH):
+            THEN Apply KOH 10% solution directly to the lesion.
+            THEN Apply liquid paraffin over the surrounding skin area.
+    ELSE IF Surgical removal is chosen:
+        IF Using Curettage:
+            THEN Perform surgical removal by curettage.
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for the listed treatments).
+```

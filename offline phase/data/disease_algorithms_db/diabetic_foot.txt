@@ -1,0 +1,56 @@
+```text
+DISEASE: Diabetic Foot
+
+ABBREVIATIONS:
+- Hb: Hemoglobin
+- TC: Total Count (likely referring to White Blood Cell count)
+- DC: Differential Count (likely referring to White Blood Cell differential)
+- FBS: Fasting Blood Sugar
+- PPBS: Postprandial Blood Sugar
+- BUN: Blood Urea Nitrogen
+- S. creatinine: Serum Creatinine
+
+DIAGNOSTICS:
+- Clinical examination (symptoms, ulceration, gangrene)
+- Maggit's classification (Grade 0-5)
+- Neuropathy classification (Category 1-4)
+- Investigations: Hb, TC, DC, FBS, PPBS, BUN, S. creatinine, urine analysis, local X-ray, biopsy, pus culture/sensitivity, Doppler ultrasound.
+
+TREATMENT ALGORITHM:
+
+IF Disease is Diabetic Foot THEN
+
+  // Determine Grade based on Maggit's classification
+  IF Grade is 0 THEN
+    // No specific treatment, take preventive measures
+    Output: "No specific treatment, take preventive measures to protect the limbs"
+  ELSE IF Grade is 1 THEN
+    // Superficial ulcer
+    Output: "Prescribe special cushioned shoes to protect from pressure sore"
+  ELSE IF Grade is 2 THEN
+    // Deep ulcer
+    Output: "Control of sugar, antibiotics according to culture reports, daily dressing and debridement"
+  ELSE IF Grade is 3 THEN
+    // Deep ulcer with bone involvement
+    Output: "Control of sugar, antibiotics according to culture reports, daily dressing and debridement, drainage of abscess or local amputation"
+  ELSE IF Grade is 4 THEN
+    // Forefoot gangrene
+    Output: "Amputation"
+  ELSE IF Grade is 5 THEN
+    // Whole foot gangrene
+    Output: "Amputation and rehabilitation"
+  ENDIF
+
+  // Determine Neuropathy Category (This information is not used for treatment decisions in the provided text, but is included for completeness)
+  IF Neuropathy Category is 1 THEN
+    Output: "No loss of sensation"
+  ELSE IF Neuropathy Category is 2 THEN
+    Output: "Loss of sensation"
+  ELSE IF Neuropathy Category is 3 THEN
+    Output: "Loss of sensation with deformity"
+  ELSE IF Neuropathy Category is 4 THEN
+    Output: "Loss of sensation with ulcers"
+  ENDIF
+
+ENDIF
+```

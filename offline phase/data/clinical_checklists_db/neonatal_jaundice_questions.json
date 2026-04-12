@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "What is the neonate's gestational age (preterm/term)?",
+        "What is the Total Serum Bilirubin (TSB) level in mg/dl?",
+        "Does the neonate show features of bilirubin encephalopathy? (Yes/No)"
+    ]
+}

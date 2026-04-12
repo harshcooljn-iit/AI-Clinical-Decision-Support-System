@@ -1,0 +1,55 @@
+```text
+DISEASE: Datura Poisoning
+
+ABBREVIATIONS:
+- IV: Intravenous
+- IM: Intramuscular
+- mg: Milligram
+- kg: Kilogram
+- Inj.: Injection
+
+DIAGNOSTICS:
+- Clinical presentation includes: Gastric irritation, dry mouth/throat, burning stomach pain, difficulty swallowing/talking, giddiness, ataxia, incoordination, flushed face, dry hot skin, hyperthermia, diplopia, dilated pupils (loss of accommodation), conjunctival reddening, drowsiness, erythematous rash, full bounding pulse (later weak/irregular), muttering delirium, hallucinations, stupor, convulsions, coma, respiratory failure.
+- History of ingestion of Datura stramonium (seeds or fruits).
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment & Decontamination:**
+    IF time since exposure is within 1 hour AND patient is asymptomatic OR large ingestion suspected:
+        THEN consider early gastric emptying (stomach wash).
+        IF gastric emptying is performed:
+            THEN use 1:10,000 potassium permanganate solution OR 5% tannic acid solution.
+    ELSE:
+        THEN proceed to supportive care and pharmacological treatment as needed.
+
+2.  **Temperature Management:**
+    IF patient is severely hyperthermic (high core body temperature):
+        THEN prioritize aggressive temperature reduction using ice water or evaporative cooling (mist and fans).
+        ELSE:
+            THEN monitor temperature and use supportive measures.
+    NOTE: Antipyretics and simple cooling blankets are ineffective for severe hyperthermia in this context.
+
+3.  **Agitation/Sedation:**
+    IF patient is agitated:
+        THEN administer benzodiazepines.
+        IF using midazolam:
+            THEN administer Inj. midazolam 0.01-0.1 mg/kg IV.
+        IF using lorazepam:
+            THEN administer Inj. lorazepam 0.05-0.1 mg/kg IV.
+
+4.  **Severe Poisoning/Anticholinergic Effects:**
+    IF patient has severe poisoning symptoms (e.g., severe delirium, hallucinations, significant anticholinergic signs):
+        THEN consider Inj. physostigmine.
+        THEN administer Inj. physostigmine 1.2 mg IM or IV.
+        IF symptoms persist after half an hour:
+            THEN repeat Inj. physostigmine 1.2 mg IM or IV.
+        MONITOR FOR SIDE EFFECTS: Bradycardia, heart block, excessive secretions.
+
+5.  **Convulsions:**
+    IF patient develops convulsions:
+        THEN administer Inj. diazepam 10 mg IV slowly diluted.
+
+CONTRAINDICATIONS:
+- No specific contraindications listed for the treatments mentioned, but caution is advised with physostigmine (monitor for bradycardia, heart block, secretions).
+- Antipyretics and simple cooling blankets are ineffective for severe hyperthermia.
+```

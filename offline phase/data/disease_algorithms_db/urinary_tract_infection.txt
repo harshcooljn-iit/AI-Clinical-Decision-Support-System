@@ -1,0 +1,116 @@
+```text
+DISEASE: Urinary Tract Infection (UTI)
+
+ABBREVIATIONS:
+- UTI: Urinary Tract Infection
+- BP: Blood Pressure
+- IV: Intravenous
+- IM: Intramuscular
+- G-6PD: Glucose-6-Phosphate Dehydrogenase
+- MCU: Micturating Cystourethrogram
+- DMSA: Dimercaptosuccinic acid
+- USG: Ultrasonography
+- G-6PD deficiency: Glucose-6-Phosphate Dehydrogenase deficiency
+
+DIAGNOSTICS:
+- Clinical symptoms (fever, loin pain, vomiting, dysuria).
+- Urine culture and sensitivity testing.
+- Physical examination (checking BP, examining genitals, spine).
+- Imaging studies (USG, MCU, DMSA scan) for recurrent or high-risk cases.
+
+TREATMENT ALGORITHM:
+
+1.  **Patient Age and Severity Assessment:**
+    *   IF Patient age is less than 3 months AND patient is systemically toxic (high fever, loin pain, vomiting) AND has underlying structural abnormality of urinary tract:
+        *   THEN Treat as inpatient with parenteral antibiotics.
+    *   ELSE:
+        *   THEN Treat as outpatient with oral antibiotics.
+
+2.  **Initial Antibiotic Choice:**
+    *   IF Local culture and sensitivity report is available:
+        *   THEN Guide initial antibiotic choice based on report.
+    *   ELSE:
+        *   THEN Choose empirical antibiotic based on local resistance patterns and patient factors.
+
+3.  **Duration of Therapy:**
+    *   IF Patient has complicated UTI (infants, children):
+        *   THEN Duration of therapy is 10-14 days.
+    *   ELSE IF Patient has uncomplicated UTI:
+        *   THEN Duration of therapy is 7-10 days.
+    *   ELSE IF Patient is an adolescent with cystitis:
+        *   THEN Duration of therapy may be shorter.
+
+4.  **Supportive Care:**
+    *   Maintain adequate hydration with oral or IV fluids as required.
+    *   Use analgesics and antipyretics as needed.
+    *   IF Patient has obstructive uropathy:
+        *   THEN Urgent drainage may be needed.
+
+5.  **Specific Oral Antibiotic Dosages (Pediatric Conditions):**
+    *   IF Medication is Cefixime:
+        *   THEN Dose is 8-10 mg/kg/day in 2 divided doses.
+    *   IF Medication is Amoxicillin:
+        *   THEN Dose is 30-50 mg/kg/day of amoxicillin in 3 divided doses.
+    *   IF Medication is Ciprofloxacin:
+        *   THEN Dose is 10-20 mg/kg/day in 2 divided doses. (Note: Avoid as first line, use based on culture/sensitivity).
+    *   IF Medication is Ofloxacin:
+        *   THEN Dose is 15-20 mg/kg/day in 2 divided doses. (Note: Avoid as first line, use based on culture/sensitivity).
+    *   IF Medication is Cephalexin:
+        *   THEN Dose is 50-70 mg/kg/day in 2-3 divided doses.
+
+6.  **Specific Parenteral Antibiotic Dosages:**
+    *   IF Medication is Cefriaxone:
+        *   THEN Dose is 75-100 mg/kg/day in 1-2 divided doses IV.
+    *   IF Medication is Cefotaxime:
+        *   THEN Dose is 100-150 mg/kg/day in 2-3 divided doses IV.
+    *   IF Medication is Amikacin:
+        *   THEN Dose is 10-15 mg/kg/day single dose IV or IM.
+    *   IF Medication is Gentamicin:
+        *   THEN Dose is 5-6 mg/kg/day single dose IV or IM.
+    *   IF Medication is Comaxiclav:
+        *   THEN Dose is 30-35 mg/kg/day of amoxicillin in 2 divided doses IV.
+
+7.  **Monitoring and Follow-up (High Risk Patients):**
+    *   IF Patient fails to show clinical response (reduction of fever and toxicity) within 48 hours:
+        *   THEN Perform abdominal USG and repeat urine culture.
+    *   IF Patient has more than one episode of UTI:
+        *   THEN Work up for cause of recurrent UTI (USG, MCU, DMSA scan).
+
+8.  **Antibiotic Prophylaxis Indications:**
+    *   IF Patient is less than 1 year old with UTI while awaiting imaging studies:
+        *   THEN Consider antibiotic prophylaxis.
+    *   IF Patient has Vesico urethral reflux:
+        *   THEN Consider antibiotic prophylaxis.
+    *   IF Patient has frequent febrile UTI even with normal urinary tract:
+        *   THEN Consider antibiotic prophylaxis.
+
+9.  **Antibiotic Prophylaxis Contraindications:**
+    *   IF Patient has urinary tract obstruction:
+        *   THEN Do NOT advise antibiotic prophylaxis.
+    *   IF Patient has urolithiasis:
+        *   THEN Do NOT advise antibiotic prophylaxis.
+    *   IF Patient has neurogenic bladder:
+        *   THEN Do NOT advise antibiotic prophylaxis.
+    *   IF Patient is an inpatient on clean intermittent catheterization:
+        *   THEN Do NOT advise antibiotic prophylaxis.
+
+10. **Specific Prophylactic Antibiotic Dosages:**
+    *   IF Drug is Cotrimoxazole:
+        *   THEN Dose is 1-2 mg/kg/day (trimethoprim).
+        *   IF Patient age is less than 3 months OR Patient has G-6PD deficiency:
+            *   THEN Do NOT use Cotrimoxazole.
+    *   IF Drug is Nitrofurantoin:
+        *   THEN Dose is 1-2 mg/kg/day.
+        *   IF Patient age is less than 3 months OR Patient has G-6PD deficiency OR Patient has renal insufficiency:
+            *   THEN Do NOT use Nitrofurantoin.
+            *   THEN Note: May cause gastrointestinal upset.
+    *   IF Drug is Cephalexin:
+        *   THEN Dose is 10 mg/kg/day.
+        *   THEN Note: Drug of choice in first 3-6 months of life.
+
+11. **Long-term Follow-up:**
+    *   IF Patient has recurrent UTI, renal scars, or risk factors:
+        *   THEN Advise long-term monitoring.
+        *   THEN Advise plenty of oral fluids, regular voiding, avoid constipation, maintain perianal hygiene.
+        *   THEN Advise checking a clean midstream urine if recurrence of fever/symptoms occurs.
+```

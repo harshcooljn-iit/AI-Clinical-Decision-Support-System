@@ -1,0 +1,40 @@
+```text
+DISEASE: Hyperthyroidism
+
+ABBREVIATIONS:
+- TSH: Thyroid Stimulating Hormone
+- T4: Thyroxine
+
+DIAGNOSTICS:
+- Salient features: Tiredness, emotional lability, weight loss, excessive appetite, palpitation, tachycardia, hot moist palms, exopthalmos, lid lag/retraction, agitation, thyroid goitre and bruit.
+- Investigations: Thyroid function test (normal T4, suppressed TSH), thyroid scan.
+
+TREATMENT ALGORITHM:
+
+IF Non pharmacological treatment is chosen:
+    THEN Rest and sedation.
+
+IF Pharmacological treatment is chosen:
+    THEN Administer Tab. carbimazole.
+    IF Patient is not euthyroid:
+        THEN Administer Tab. carbimazole 10 mg four times a day.
+    ELSE IF Patient is euthyroid:
+        THEN Administer Tab. carbimazole 5 mg two or three times a day for 6-24 months (maintenance dose).
+
+IF Surgical treatment is chosen:
+    THEN Determine the type of goiter/thyroid condition.
+    IF Large toxic multinoduler goiter:
+        THEN Perform total thyroidectomy.
+    ELSE IF Large diffuse toxic goiter:
+        THEN Promote elective surgery after a course of treatment with antithyroid drugs and beta blocker.
+        THEN Perform subtotal thyroidectomy.
+    ELSE IF Toxic solitary nodular goitre OR toxic adenoma OR autonomous hot nodule:
+        THEN Perform hemithyroidectomy.
+    ELSE IF Thyrotoxicosis in pregnancy:
+        THEN Perform subtotal thyroidectomy in mid trimester.
+    ELSE IF Hashimoto’s disease OR lymphedenoid goiter:
+        THEN Perform total thyroidectomy or total lobectomy.
+
+CONTRAINDICATIONS:
+(None specified in the provided text for specific drugs, but general surgical contraindications apply based on patient condition).
+```

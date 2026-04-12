@@ -1,0 +1,40 @@
+```text
+DISEASE: Inflammatory Gingival Enlargement
+
+ABBREVIATIONS:
+- Tab.: Tablet
+- b.d.: Twice daily
+- mg: Milligram
+- q.i.d.: Four times daily
+
+DIAGNOSTICS:
+- Clinical examination revealing gingival enlargement (acute or chronic).
+- Acute type: Localized or generalized, very painful, deep red, soft, friable, shiny surface.
+- Chronic type: Localized or generalized, often painless, slowly progressive.
+- Etiological factor evaluation is required before treatment.
+
+TREATMENT ALGORITHM:
+IF Etiological factor is evaluated THEN
+    IF Acute inflammatory gingival enlargement THEN
+        IF Pain is severe THEN
+            THEN Administer Tab. diclofenac potassium 50 mg b.d. for 3-5 days OR Tab. ibuprofen 400 mg 3 times a day for 3-5 days.
+        ENDIF
+        THEN Administer Tab. ciprofloxacin 500 mg 2 times a day for 3-5 days.
+        THEN Instruct patient to rinse with 0.2% chlorhexidine mouthwash twice daily.
+        THEN Consider referral to a periodontist for surgical management and drainage of pus.
+    ELSE IF Chronic inflammatory gingival enlargement THEN
+        THEN Administer Tab. diclofenac potassium 50 mg b.d. for 3-5 days OR Tab. ibuprofen 400 mg 3 times a day for 3-5 days.
+        THEN Administer Tab. ciprofloxacin 500 mg 2 times a day for 3-5 days.
+        THEN Instruct patient to rinse with 0.2% chlorhexidine mouthwash twice daily.
+        THEN Consider referral to a periodontist for surgical management and drainage of pus.
+    ENDIF
+ELSE
+    THEN Evaluate etiological factor before initiating treatment.
+ENDIF
+
+PATIENT EDUCATION:
+- Instruct patient on proper brushing technique twice daily using a super soft toothbrush.
+
+CONTRAINDICATIONS:
+- (None specified in the text, but standard contraindications for listed drugs apply, e.g., allergy to fluoroquinolones for ciprofloxacin, NSAID allergy/sensitivity for diclofenac/ibuprofen).
+```

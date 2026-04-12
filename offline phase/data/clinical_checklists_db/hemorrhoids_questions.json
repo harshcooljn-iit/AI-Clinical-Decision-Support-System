@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "What is the grade of the hemorrhoids (I, II, III, or IV)?",
+        "Does the patient have constipation associated with hemorrhoids? (Yes/No)",
+        "Does the patient have external hemorrhoids associated with hemorrhoids? (Yes/No)",
+        "Is the patient taking Warfarin or other anticoagulants? (Yes/No)",
+        "Does the patient have an allergy to lignocaine? (Yes/No)"
+    ]
+}

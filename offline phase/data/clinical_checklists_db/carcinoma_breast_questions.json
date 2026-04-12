@@ -1,0 +1,14 @@
+{
+    "questions": [
+        "What is the stage of the carcinoma breast?",
+        "What is the tumor size in cm?",
+        "Does the tumor involve the nipple-areola complex? (Yes/No)",
+        "Is the diagnosis Ductal Carcinoma In Situ (DCIS)? (Yes/No)",
+        "Is the stage IIIB (locally advanced breast cancer)? (Yes/No)",
+        "Is the cancer node positive? (Yes/No)",
+        "Is the tumor size > 1 cm? (Yes/No)",
+        "Is the tumor size > 0.5 cm? (Yes/No)",
+        "Are there adverse prognostic factors present (lymphovascular invasion, high nuclear grade, high histological grade, HER 2/neu overexpression, negative hormone receptor status)? (Yes/No)",
+        "Is the patient ER/PR positive? (Yes/No)"
+    ]
+}

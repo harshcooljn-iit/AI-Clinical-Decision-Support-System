@@ -1,0 +1,37 @@
+```text
+DISEASE: Scorpion Bite
+
+ABBREVIATIONS:
+- WHO: World Health Organization
+- IV: Intravenous
+
+DIAGNOSTICS:
+- Clinical presentation (pain, local signs, systemic symptoms).
+- Geographic location (endemic area).
+- Species identification (if possible).
+
+TREATMENT ALGORITHM:
+
+IF patient presents with Scorpion Bite THEN
+
+    // Symptomatic Treatment
+    IF pain is present THEN
+        ADMINISTER simple analgesics such as paracetamol OR aspirin.
+    ENDIF
+
+    // Urgent Referral
+    MAKE EVERY EFFORT to transport the patient to a hospital as soon as possible due to potential for severe reactions.
+
+    // Hospital-Based Treatment (within 24 hours of attack)
+    IF patient is in a hospital setting THEN
+        ADMINISTER vasodilators.
+        // Note: Vasodilators may attenuate cardiovascular response and possibly reduce mortality.
+    ENDIF
+
+    // Antivenom Therapy (in endemic area, if available)
+    IF patient is in an endemic area AND species-specific antiscorpion serum is available locally THEN
+        ADMINISTER antiscorpion serum within a few hours of the attack.
+    ENDIF
+
+ENDIF
+```

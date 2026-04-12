@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "What is the treatment choice (tinidazole or metronidazole)?"
+    ]
+}

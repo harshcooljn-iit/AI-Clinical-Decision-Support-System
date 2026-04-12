@@ -1,0 +1,57 @@
+```text
+DISEASE: Cervical Lymphadenopathy
+
+ABBREVIATIONS:
+- Cap.: Capsule
+- FNAC: Fine Needle Aspiration Cytology
+
+DIAGNOSTICS:
+- Detailed history and physical examination.
+- Fine Needle Aspiration Cytology (FNAC).
+- Biopsy of enlarged lymph node.
+
+TREATMENT ALGORITHM:
+
+IF the patient presents with cervical lymphadenopathy:
+    IF the lymph nodes are reactive to viral infections of the upper respiratory tract:
+        THEN no treatment is required.
+    ELSE IF the lymphadenopathy is acute suppurative secondary to bacterial infection:
+        THEN administer Cap. cephalexin 250-500 mg every 6 hours for 7 days
+        OR administer Cap. amoxicillin 250-500 mg every 8 hours for 7 days.
+    ELSE IF lymph nodes persist after initial evaluation:
+        THEN perform Fine Needle Aspiration Cytology (FNAC).
+        IF FNAC is conclusive:
+            THEN treat accordingly based on FNAC results.
+        ELSE IF FNAC is non-conclusive:
+            THEN perform biopsy of the enlarged lymph node.
+            IF biopsy is conclusive:
+                THEN treat accordingly based on biopsy results.
+            ELSE:
+                THEN further investigation/management is needed.
+    ELSE IF the lymphadenopathy is chronic:
+        THEN perform Fine Needle Aspiration Cytology (FNAC).
+        IF FNAC is conclusive:
+            THEN treat accordingly based on FNAC results.
+        ELSE IF FNAC is non-conclusive:
+            THEN perform biopsy.
+            IF biopsy is conclusive:
+                THEN treat accordingly based on biopsy results.
+            ELSE:
+                THEN further investigation/management is needed.
+    ELSE IF the lymphadenopathy is suspected to be tubercular:
+        THEN start anti-tubercular therapy.
+        AFTER 6 months:
+            IF lymph nodes are not present OR size is less than 1 cm:
+                THEN continue follow-up and treatment.
+            ELSE IF lymph nodes are palpable and more than 1 cm:
+                THEN perform biopsy of the node.
+                IF biopsy results indicate need for change:
+                    THEN treat accordingly and consider second-line anti-tubercular drugs.
+                ELSE:
+                    THEN continue current treatment.
+    ELSE:
+        THEN further investigation/management is needed.
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for the listed treatments)
+```

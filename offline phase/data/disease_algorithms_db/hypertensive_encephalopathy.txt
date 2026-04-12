@@ -1,0 +1,73 @@
+```text
+DISEASE: Hypertensive Encephalopathy
+
+ABBREVIATIONS:
+- Nifidipine: Nifedipine
+- Hydralazine: Hydralazine
+- Reserpine: Reserpine
+- Diazoxide: Diazoxide
+- Phenytoin: Phenytoin
+- Phenobarbitone: Phenobarbital
+- Diazepam: Diazepam
+- Lorazepam: Lorazepam
+- Midazolam: Midazolam
+- IV: Intravenous
+- IM: Intramuscular
+- PO: Per Os (Oral)
+- q: Every
+- mg: Milligram
+- kg: Kilogram
+- min: Minute
+- hr: Hour
+- GI: Gastrointestinal
+
+DIAGNOSTICS:
+- Clinical presentation includes acute seizures and coma, or headache, drowsiness, lethargy, nausea, vomiting, blurred vision, transient cortical blindness, and hemiparesis.
+- Associated with renal disease in children.
+- Cerebral vasoconstriction due to systemic hypertension leading to cerebral edema and hemorrhage.
+
+TREATMENT ALGORITHM:
+
+1.  **Assess Patient Condition:** Determine if the patient presents with signs and symptoms of Hypertensive Encephalopathy.
+
+2.  **Initiate Anti-hypertensive Therapy:**
+    *   **IF** using Nifedipine:
+        *   Administer 0.25-0.5 mg/kg per dose (maximum dose 10 mg) via sublingual or oral route every 6 hours.
+    *   **IF** using Hydralazine:
+        *   Administer 0.1-0.2 mg/kg via IM or IV route, repeat after 4-6 hours.
+        *   For maintenance, administer 1.5-3.5 mg/kg/day in 4 divided doses via PO route.
+    *   **IF** using Reserpine:
+        *   Administer 0.02 mg/kg/dose via IM or PO route every 12 hours, up to a maximum of 0.07 mg/kg or 1 mg.
+    *   **IF** using Diazoxide:
+        *   Administer 1 mg/kg IV bolus.
+        *   Repeat bolus every 15 minutes until blood pressure is controlled or a maximum dose of 5 mg/kg is given.
+
+3.  **Initiate Anti-convulsant Therapy (IF seizures are present):**
+    *   **IF** using Phenytoin:
+        *   Administer 20 mg/kg IV slowly at a rate of 25 mg/min.
+        *   Follow with a maintenance dose of 5 mg/kg every 12 hours.
+    *   **IF** using Phenobarbital:
+        *   Administer 20 mg/kg loading dose IV at a rate of 2 mg/kg/min.
+        *   Follow with a maintenance dose of 5 mg/kg every 12 hours.
+
+4.  **Initiate Sedation/Anti-convulsant Therapy (IF seizures or severe agitation are present):**
+    *   **IF** using Diazepam:
+        *   Administer 0.2-0.5 mg/kg IV bolus over 1-2 minutes.
+    *   **IF** using Lorazepam:
+        *   Administer 0.05-0.1 mg/kg (maximum up to 4 mg) IV over 1-2 minutes.
+    *   **IF** using Midazolam:
+        *   Administer 0.2 mg/kg IV bolus.
+
+5.  **Treat Underlying Condition:** Address the primary cause of the hypertensive encephalopathy (e.g., renal disease).
+
+CONTRAINDICATIONS:
+- Nifedipine: Not specified in the text.
+- Hydralazine: Not specified in the text.
+- Reserpine: Not specified in the text.
+- Diazoxide: Not specified in the text.
+- Phenytoin: Not specified in the text.
+- Phenobarbital: Not specified in the text.
+- Diazepam: Not specified in the text.
+- Lorazepam: Not specified in the text.
+- Midazolam: Not specified in the text.
+```

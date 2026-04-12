@@ -1,0 +1,99 @@
+```text
+DISEASE: Hiv And Aids
+
+ABBREVIATIONS:
+- HIV: Human immunodeficiency virus
+- AIDS: Acquired Immunodeficiency Syndrome
+- ART: Antiretroviral therapy
+- PGL: Persistent generalized lymphadenopathy
+- TB: Tuberculosis
+- ATT: Anti-tuberculosis treatment
+- HBV: Hepatitis B Virus
+- HCV: Hepatitis C Virus
+- NACO: National AIDS Control Organization
+- Hb: Hemoglobin
+- TDF: Tenofovir
+- 3TC: Lamivudine
+- ATV/r: Atazanavir/ritonavir
+- gm/dl: grams per deciliter
+- cu.mm: cubic millimeters
+
+DIAGNOSTICS:
+- HIV serology
+- CD4 + T lymphocytes counts (if available)
+- Complete blood count and chemistry profile
+- Pregnancy test
+- Chest x-ray
+- Urine examination
+- HCV and HBV serology (depending on availability)
+- Confirmation of diagnosis by trained technician in a diagnostic laboratory. Repeat test if doubt exists.
+
+TREATMENT ALGORITHM:
+
+1.  **Assess HIV Infection Status:**
+    IF HIV infection is suspected or confirmed, proceed to staging and treatment initiation criteria.
+
+2.  **Determine WHO Clinical Stage and CD4 Count:**
+    IF WHO Clinical Stage is I or II AND CD4 count is < 350 cells/cu.mm:
+        THEN Initiate ART.
+    ELSE IF WHO Clinical Stage is III or IV:
+        THEN Initiate ART irrespective of CD4 count.
+    ELSE:
+        THEN Do not initiate ART based on these criteria alone.
+
+3.  **Consider Pregnancy:**
+    IF Patient is pregnant:
+        THEN Initiate ART based on the same criteria as non-pregnant adults/adolescents (Clinical Stage I/II & CD4 < 350, or Stage III/IV).
+        IF CD4 count is > 250 cells/cu.mm AND Nevirapine is used:
+            THEN Strict monitoring for adverse effects of Nevirapine is needed.
+        AVOID Efavirenz during the first trimester.
+
+4.  **Consider TB Co-infection:**
+    IF Patient has TB co-infection:
+        IF Type of Tuberculosis is Pulmonary TB (Stage III):
+            THEN Start ART irrespective of clinical stage and CD4 count.
+            Start ATT first.
+            Start ART as soon as TB treatment is tolerated after 2 weeks & before 2 months.
+        ELSE IF Type of Tuberculosis is Extra pulmonary TB (Stage IV):
+            THEN Start ART irrespective of clinical stage and CD4 count.
+            Start ATT first.
+            Start ART as soon as TB treatment is tolerated after 2 weeks & before 2 months.
+
+5.  **Consider HBV or HCV Co-infection:**
+    IF Patient has HIV-HBV or HIV-HCV co-infection:
+        IF There is no evidence of chronic active Hepatitis:
+            IF WHO Clinical Stage is I or II AND CD4 count is < 350 cells/cu.mm:
+                THEN Start ART at CD4 Count < 350.
+            ELSE IF WHO Clinical Stage is III or IV:
+                THEN Start ART irrespective of CD4 Count.
+        ELSE IF There is documented evidence of chronic active Hepatitis:
+            THEN Start ART irrespective of any clinical stage and any CD4 count.
+
+6.  **Select First-line ART Regimen:**
+    IF Patient has Hb > 9 gm/dl:
+        IF Regimen I is chosen:
+            THEN Prescribe Zidovudine + Lamivudine + Nevirapine.
+        ELSE IF Regimen II is chosen:
+            THEN Prescribe Zidovudine + Lamivudine + Efavirenz.
+    ELSE IF Patient has Hb < 9 gm/dl:
+        IF Regimen I is chosen:
+            THEN Prescribe Tenofovir + Lamivudine + Nevirapine.
+        ELSE IF Regimen II is chosen:
+            THEN Prescribe Tenofovir + Lamivudine + Efavirenz.
+    IF Patient is on anti-tuberculosis treatment:
+        IF Hb > 9 gm/dl:
+            THEN Preferred regimen is Zidovudine + Lamivudine + Efavirenz.
+        ELSE IF Hb < 9 gm/dl:
+            THEN Preferred regimen is Tenofovir + Lamivudine + Efavirenz.
+
+7.  **Select Second-line ART Regimen (if applicable):**
+    IF Second-line ART is indicated:
+        THEN Prescribe:
+        - TDF + 3TC: Fixed dose combination of TDF 300 mg + 3TC 300 mg, taken once daily at night (0-0-1).
+        - ATV/r: Cap. atazanavir 300 mg taken once daily at night (0-0-1) AND Tab. ritonavir 100 mg taken once daily at night (0-0-1).
+
+CONTRAINDICATIONS:
+- Efavirenz: Avoid during the first trimester of pregnancy.
+- Nevirapine: Strict monitoring for adverse effects if CD4 count is > 250 cells/cu.mm.
+- Zidovudine: Regimen I and II are preferred for patients with Hb > 9 gm/dl. Regimen I (a) and II (a) are used for patients with Hb < 9 gm/dl.
+```

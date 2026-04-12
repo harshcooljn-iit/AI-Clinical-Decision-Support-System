@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Does the patient have Trachomatous inflammation: follicular (TF) or Trachomatous inflammation: intense (TI)? (Yes/No)",
+        "Is the patient eligible for Azithromycin? (Yes/No)",
+        "Does the patient have any allergies to Azithromycin or Tetracycline? (Yes/No)",
+        "Is the patient pregnant? (Yes/No)"
+    ]
+}

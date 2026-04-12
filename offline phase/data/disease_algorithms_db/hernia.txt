@@ -1,0 +1,65 @@
+```text
+DISEASE: Hernia
+
+ABBREVIATIONS:
+- USG: Ultrasound
+- KUB: Kidney, Ureter, Bladder
+- PSA: Prostate-Specific Antigen
+- BPH: Benign Prostatic Hyperplasia
+- TEP: Totally Extra Peritoneal meshplasty
+- TAPP: Trans Abdominal Preperitoneal meshplasty
+
+DIAGNOSTICS:
+- Clinical diagnosis based on history and physical examination (groin swelling, reducible, impulse on coughing).
+- Investigations (USG, PSA, etc.) may be used if diagnosis is inconclusive or to evaluate associated conditions.
+
+TREATMENT ALGORITHM:
+
+I. INGUINAL HERNIA
+
+A.  PHARMACOLOGICAL TREATMENT:
+    IF predisposing factors are present THEN
+        TREAT predisposing factors.
+    ENDIF
+    IF chronic cough is present THEN
+        TREAT chronic cough according to cause.
+    ENDIF
+    IF chronic constipation is present THEN
+        TREAT chronic constipation.
+    ENDIF
+    IF BPH is present THEN
+        TREAT BPH (pharmacological or surgical).
+    ENDIF
+
+B.  SURGICAL TREATMENT:
+    IF hernia is congenital THEN
+        Herniotomy.
+    ELSE
+        Hernioplasty (Lichtenstein tension-free hernioplasty is the open gold standard).
+        IF hernia is small and/or bilateral THEN
+            Laparoscopic hernioplasty is preferred.
+            IF TEP (Totally Extra Peritoneal meshplasty) is suitable THEN
+                Perform TEP.
+            ELSE IF TAPP (Trans Abdominal Preperitoneal meshplasty) is suitable THEN
+                Perform TAPP.
+            ENDIF
+        ENDIF
+    ENDIF
+
+II. INCISIONAL HERNIA
+
+A.  INVESTIGATIONS:
+    - USG local part for defect.
+    - Preoperative investigations as needed.
+
+B.  SURGICAL TREATMENT:
+    - Mesh placement techniques:
+        IF Underlay (preperitoneal mesh placement under the defect) is chosen THEN
+            Perform Underlay. This is the preferred route.
+        ELSE IF Inlay (mesh placement through the defect) is chosen THEN
+            Perform Inlay.
+        ELSE IF Onlay/Overlay (mesh placement above the defect in muscular plane) is chosen THEN
+            Perform Onlay/Overlay.
+        ENDIF
+    - Laparoscopic mesh placement under the defect is preferred whenever possible.
+```

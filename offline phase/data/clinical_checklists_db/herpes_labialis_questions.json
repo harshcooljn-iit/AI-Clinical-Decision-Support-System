@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "Does the patient require oral antiviral therapy? (Yes/No)",
+        "Does the patient have fever or pain? (Yes/No)"
+    ]
+}

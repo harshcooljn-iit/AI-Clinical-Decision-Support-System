@@ -1,0 +1,52 @@
+```text
+DISEASE: Conversion Disorder
+
+ABBREVIATIONS:
+- SSRIs: Selective Serotonin Reuptake Inhibitors
+- EEG: Electroencephalogram
+
+DIAGNOSTICS:
+- Based on history and mental status examination.
+- Differentiate from seizures (absence of repetitive involuntary jerky movements, unresponsiveness, tongue bite, frothing, injuries, fecal/urinary incontinence, amnesia during episodes).
+- EEG and other investigations can rule out organic causes.
+
+TREATMENT ALGORITHM:
+
+IF patient has Conversion Disorder THEN
+    // Psychotherapy
+    IF patient is willing and able THEN
+        // Insight-oriented therapy
+        THEN recommend insight-oriented therapy
+    ENDIF
+    IF patient is willing and able THEN
+        // Supportive therapy
+        THEN recommend supportive therapy
+    ENDIF
+    IF patient is willing and able THEN
+        // Behavioral therapies
+        THEN recommend behavioral therapies
+    ENDIF
+    IF patient is willing and able THEN
+        // Hypnosis
+        THEN recommend hypnosis
+    ENDIF
+    IF patient is willing and able THEN
+        // Psychodynamic therapy
+        THEN recommend psychodynamic therapy
+    ENDIF
+    IF patient is willing and able THEN
+        // Psychoanalytical therapy
+        THEN recommend psychoanalytical therapy
+    ENDIF
+
+    // Pharmacological treatment
+    IF symptoms are severe or persistent AND psychotherapy is insufficient THEN
+        // Benzodiazepines (adjuvant therapy)
+        THEN consider Benzodiazepines as adjuvant therapy
+    ENDIF
+    IF patient has comorbid depression THEN
+        // SSRIs
+        THEN consider SSRIs
+    ENDIF
+ENDIF
+```

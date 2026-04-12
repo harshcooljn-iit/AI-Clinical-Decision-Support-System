@@ -1,0 +1,13 @@
+{
+    "questions": [
+        "What type of animal caused the bite?",
+        "Is the animal healthy and available for 10-day observation? (Yes/No)",
+        "Did the animal develop clinical signs of rabies during observation? (Yes/No)",
+        "Is the animal known to be rabid or suspected rabid? (Yes/No)",
+        "Is the animal unknown (e.g., escaped)? (Yes/No)",
+        "Is the patient non-immunized against rabies? (Yes/No)",
+        "Is the patient previously immunized against rabies? (Yes/No)",
+        "Does the patient have a history of hypersensitivity? (Yes/No)",
+        "Is the patient taking corticosteroids, antimalarials, or other immunosuppressives? (Yes/No)"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "Was the poison swallowed? (Yes/No)",
+        "Was the poison inhaled? (Yes/No)"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "questions": [
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have pre-existing diabetes or gestational diabetes? (Pre-existing/Gestational)",
+        "What is the patient's HbA1c level in the 1st trimester? (mg/dL)",
+        "What is the patient's fasting blood sugar (FBS) level? (mg/dL)",
+        "What is the patient's 2-hour postprandial blood sugar level? (mg/dL)",
+        "What is the patient's random blood sugar (RBS) level? (mg/dL)",
+        "Is the patient currently taking any oral hypoglycemic agents? (Yes/No)",
+        "What is the estimated foetal weight? (kg)",
+        "Is there evidence of foetal compromise (e.g., macrosomia, IUGR)? (Yes/No)",
+        "Are there any maternal complications (e.g., hypertension, retinopathy, nephropathy)? (Yes/No)",
+        "Is the patient experiencing excessive vomiting or infections? (Yes/No)"
+    ]
+}

@@ -1,0 +1,60 @@
+```text
+DISEASE: Measles
+
+ABBREVIATIONS:
+- IU: International Units
+- IM: Intramuscular
+- MMR: Measles, Mumps, Rubella vaccine
+- PEM: Protein Energy Malnutrition
+
+DIAGNOSTICS:
+- Characterized by fever, cough, coryza, conjunctivitis.
+- Erythematous maculopapular rash appearing on the 4th day.
+- Pathognomonic enanthem (Koplik spots).
+- Rash starts behind ears/hairline, spreads to face, trunk, limbs.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    IF Patient has symptoms suggestive of Measles (fever, cough, coryza, conjunctivitis, rash, Koplik spots) THEN proceed to treatment.
+
+2.  **Non-Pharmacological Treatment:**
+    IF Patient has Measles THEN
+        - Isolate patient from others, especially unimmunized children, for at least 4 days after rash appearance.
+        - Provide bed rest and cold sponging if febrile.
+        - Ensure small frequent feeds and plenty of oral fluids.
+
+3.  **Pharmacological Treatment:**
+    IF Patient has Measles THEN
+        - No specific antiviral treatment.
+        - Manage fever with oral paracetamol.
+
+4.  **Vitamin A Supplementation:**
+    IF Patient has Measles THEN
+        - Administer Inj. vitamin A 100,000 IU IM or high dose oil-based oral preparation (50,000 IU) for 2 consecutive days.
+        - IF there are signs of vitamin A deficiency, give a third dose 4 weeks later.
+
+5.  **Treatment of Co-existing Problems:**
+    IF Patient has Measles AND secondary bacterial infection (e.g., bronchopneumonia, gastrointestinal infection) THEN
+        - Treat appropriately.
+
+6.  **Patient Education:**
+    IF Patient has Measles THEN
+        - Advise on anorexia and risk of PEM. Encourage regular frequent feeds and extra meals during convalescence.
+        - Inform that the disease lasts 10-12 days, maximum infectivity is 5 days before to 4 days after rash.
+        - Advise on rash healing (desquamation, hyperpigmentation).
+        - Instruct parents to report warning signs:
+            - Stiff neck, convulsions, extreme drowsiness, loss of consciousness, altered behaviour.
+            - Rapid/laboured breathing, difficulty feeding, cyanosis.
+            - Significant dehydration (sunken eyes/fontanelles, loss of skin turgor, dry tongue, lack of tears).
+            - Blood in stools.
+
+7.  **Vaccination:**
+    IF Patient has Measles THEN
+        - Do NOT give measles vaccine to a child who has already had the disease.
+    IF Unimmunized child < 5 years is in contact with a Measles patient THEN
+        - Consider immunizing the contact child with Measles vaccine to prevent or decrease severity.
+
+CONTRAINDICATIONS:
+- Measles vaccine: IF the child has already suffered from Measles.
+```

@@ -1,0 +1,84 @@
+```text
+DISEASE: Myocardial Infarction
+
+ABBREVIATIONS:
+- MI: Myocardial Infarction
+- Tab: Tablet
+- mg: Milligram
+- IV: Intravenous
+- SC: Subcutaneous
+- rTPA: Recombinant tissue plasminogen activator
+- Inj: Injection
+- mmHg: Millimeters of mercury
+- ECG: Electrocardiogram
+
+DIAGNOSTICS:
+- Chest pain, breathlessness, perspiration, syncope
+- Tachycardia or bradycardia
+- Hypotension or hypertension
+- Sudden cardiac arrest
+- ECG changes showing ischemia or infarction
+- Raised cardiac markers
+
+TREATMENT ALGORITHM:
+
+IF patient presents with Myocardial Infarction (MI):
+    THEN:
+        - Hospitalize and provide complete immobilization.
+        - Administer Oxygen at 4-6 liters/min.
+        - Administer Oral uncoated chewable Aspirin 325 mg.
+        - Administer Tab. Isosorbide dinitrate 5 mg sublingually, up to 3 times.
+        - Administer Tab. Atorvastatin 80 mg.
+        - Administer Tab. Clopidogrel 300 mg.
+        - Administer Inj. Morphine sulphate 10 mg or Inj. Diamorphine 5 mg IV.
+
+        IF thrombolysis is considered:
+            THEN:
+                IF time of admission is within 30 minutes:
+                    THEN:
+                        - Consider thrombolysis with intravenous streptokinase or alteplase.
+
+                        IF streptokinase is chosen:
+                            THEN:
+                                - Administer Inj. streptokinase 1.5 million units in 100 ml of saline as an intravenous infusion over 1 hour.
+                                - Monitor for hypotension and manage with fluids and slower infusion rate if needed.
+
+                        IF alteplase (rTPA) is chosen:
+                            THEN:
+                                - Administer Inj. alteplase regimen over 90 minutes:
+                                    - Bolus dose of 15 mg.
+                                    - Followed by 0.75 mg/kg of body weight.
+                                    - Followed by 0.5 mg/kg body weight over 60 minutes.
+
+                ELSE:
+                    - Thrombolysis is not indicated due to time elapsed since admission.
+
+        - Administer Inj. Metoprolol 5 mg IV every 2-5 minutes for a maximum of 3 doses.
+        - Change to Tab. Metoprolol 50 mg every 6 hours for 48 hours.
+        - Followed by Tab. Metoprolol 100 mg every 12 hours.
+        - Administer Inj. Nitroglycerine IV at 0.6 – 1.2 mg/hour.
+        - Administer Inj. Heparin 200 units/Kg SC twice daily for 5 days (in addition to oral aspirin).
+
+    - Monitor ECG, blood pressure, and cardiac enzymes.
+
+CONTRAINDICATIONS:
+
+CONTRAINDICATIONS TO THROMBOLYTIC THERAPY:
+
+IF thrombolytic therapy is considered:
+    THEN:
+        IF any of the following absolute contraindications are present:
+            THEN:
+                - DO NOT administer thrombolytics.
+                - Absolute contraindications: Active internal bleeding, previous sub-arachnoid or intra-cerebral hemorrhage, non-hemorrhagic stroke within the last 1 year, uncontrolled hypertension (systolic > 180 mmHg, diastolic > 110 mmHg).
+        ELSE IF any of the following relative contraindications are present:
+            THEN:
+                - Use caution or DO NOT administer thrombolytics based on clinical judgment.
+                - Relative contraindications: Current use of anti-coagulants, recent (< 2 weeks) invasive surgical procedure, recent prolonged (> 10 min) cardiopulmonary resuscitation, known bleeding diathesis, pregnancy, hemorrhage prone ophthalmic conditions, active peptic ulcer, disease, recent history of severe hypertension.
+
+        IF streptokinase is considered:
+            THEN:
+                IF patient received streptokinase within the preceding 5 days to 2 years:
+                    THEN:
+                        - DO NOT administer streptokinase due to risk of allergic reactions.
+```

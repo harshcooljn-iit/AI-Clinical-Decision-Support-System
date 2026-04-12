@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "What is the patient's weight in kilograms?",
+        "What is the patient's height in centimeters?",
+        "Is symmetrical edema present? (Yes/No)",
+        "Does the child have any complications (hypothermia, hypoglycemia, dehydration, septic shock, infections, severe anemia, etc.)? (Yes/No)"
+    ]
+}

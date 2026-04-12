@@ -1,0 +1,108 @@
+```text
+DISEASE: First Trimester Bleeding
+
+ABBREVIATIONS:
+- POG: Period of Gestation
+- POC: Products of Conception
+- hCG: Human Chorionic Gonadotropin
+- IM: Intramuscular
+- IV: Intravenous
+- MTP: Medical Termination of Pregnancy
+- MVA: Manual Vacuum Aspiration
+- PHC: Primary Health Centre
+- BP: Blood Pressure
+- PO2: Partial Pressure of Oxygen
+- CVP: Central Venous Pressure
+- USG: Ultrasonography
+- CRT: Clotting Reaction Time
+- Inj.: Injection
+- Tab.: Tablet
+- mcg: Microgram
+- mEq: Milliequivalent
+- mIU/ml: milli-International Units per milliliter
+- sq meter: square meter
+- mmHg: Millimeters of mercury
+- ml: Milliliter
+- mcg/kg/min: Micrograms per kilogram per minute
+- H2O: Water
+
+DIAGNOSTICS:
+- Clinical findings (uterine size, os status, discharge, pain)
+- Ultrasonography (USG) findings (fetal cardiac activity, gestational sac location, uterine contents)
+- Human Chorionic Gonadotropin (hCG) levels (qualitative and quantitative)
+- Bleeding time, clotting time, Clotting Reaction Time (CRT) in specific cases (e.g., missed abortion)
+
+TREATMENT ALGORITHM:
+
+IF Disease is First Trimester Bleeding THEN
+    // Determine Etiology based on Table 1
+    IF Diagnosis is Threatened Abortion THEN
+        // Clinical findings: Uterine size = POG, Internal Os closed
+        // USG/hCG: Consistent with live foetus
+        // Treatment: Non-pharmacological (Bed rest), Pharmacological (Inj. pentazocin 15 mg + Inj. promethazine 12.5 mg IM stat OR Inj. diazepam 10 mg IM OR Tab. alprazolam 0.5 mg), Tab. folic acid 5 mg daily, Monitor cardiac activity, Discharge after 48 hours if bleeding stops.
+        // Progesterone supplementation IF serum progesterone < 15 ng/ml AND cardiac activity confirmed.
+        // Patient Education: Report recurrent/excessive bleeding, continue bed rest for 2 weeks, abstinence for 4 weeks, high fiber diet, follow-up after 2 weeks.
+    ELSE IF Diagnosis is Inevitable Abortion THEN
+        // Clinical findings: Uterine size = POG, Internal Os open, excessive bleeding and pain
+        // USG/hCG: Cardiac activity + Internal Os dilated
+        // Treatment: Surgical treatment (Manual vacuum aspiration or suction evacuation, dilatation and evacuation or only evacuation).
+    ELSE IF Diagnosis is Incomplete Abortion THEN
+        // Clinical findings: History of passing POC, Uterine size < POG, Internal Os open/closed
+        // USG/hCG: POC in uterine cavity
+        // Treatment: Surgical treatment (Manual vacuum aspiration or suction evacuation, dilatation and evacuation or only evacuation).
+    ELSE IF Diagnosis is Missed Abortion THEN
+        // Clinical findings: Uterine size < POG, Internal Os closed, Brownish discharge
+        // USG/hCG: Cardiac activity absent
+        // Diagnostics: Check Bleeding time, clotting time, CRT.
+        // Treatment: Surgical treatment (Manual vacuum aspiration or suction evacuation, dilatation and evacuation or only evacuation).
+    ELSE IF Diagnosis is Molar Pregnancy THEN
+        // Clinical findings: History of passing vesicles ± Uterine size > or = or < than POG, Internal Os open/closed
+        // USG/hCG: Honeycomb appearance, hCG levels very high
+        // Treatment: Surgical treatment (Manual vacuum aspiration or suction evacuation, dilatation and evacuation or only evacuation).
+    ELSE IF Diagnosis is Ectopic Pregnancy THEN
+        // Clinical findings: Cervical excitation +, Unilateral tender fornix, adnexal mass
+        // USG/hCG: Pseudogestational sac, empty uterine cavity, adenexal mass, HCG rise <66% in 48 hours
+        // Treatment: Laparotomy/laparoscopic removal EXCEPT for selected cases meeting specific criteria.
+        // IF Unruptured ectopic pregnancy AND Haemodynamically stable AND Gestational sac size <3.5 cm AND Serum hCG titer < 10,000 mIU/ml AND Gestation <6 weeks AND Absence of foetal cardiac activity THEN
+        //     Pharmacological treatment: Inj. methotrexate 50 mg/sq meter body surface area IM on day 1.
+        //     Repeat hCG titers on day 4 and 7.
+        //     IF Day 7 hCG titers reflect a drop of at least 15% from maximum levels THEN
+        //         Weekly hCG titers till negative.
+        //     ELSE IF Fall <15% or there is rise THEN
+        //         Repeat Inj. methotrexate.
+        //     Patient Education: Resolution may take up to 6 weeks, 5-10% require surgery, report symptoms of rupture, avoid alcohol/folic acid, avoid intercourse during therapy.
+        // ELSE
+        //     Surgical treatment: Laparotomy/laparoscopic removal.
+    ENDIF
+
+    // General Treatment Considerations
+    IF Abortion (Threatened, Inevitable, Incomplete, Missed) OR Molar pregnancy THEN
+        // Treatment location: Primary centre for abortion, Secondary/tertiary centre for molar pregnancy.
+        // Surgical treatment: Manual vacuum aspiration or suction evacuation, dilatation and evacuation or only evacuation (except threatened abortion).
+    ENDIF
+
+    IF Septic Abortion THEN
+        // Clinical findings: Fever, tachycardia, abdominal distension/tenderness, pelvic tenderness, purulent vaginal discharge, potentially shock/organ failure.
+        // Diagnostics: Obtain high vaginal/cervical swab and blood culture BEFORE antibiotics.
+        // Pharmacological treatment:
+        //     IV fluids for electrolyte imbalance.
+        //     Oxygen by facemask (intubation/ventilation if severe).
+        //     IF Blood pressure not controlled with fluids THEN Inj. dopamine infusion in 5% Dextrose 2 - 5 mcg/kg/min (titrate).
+        //     IF Shock/Acidosis THEN IV sodium bicarbonate 50-100 mEq in normal saline.
+        //     Antibiotics:
+        //         Inj. ampicillin 2 g stat followed by 500 mg IV 6 hourly (after test dose) OR
+        //         Inj. cefuroxime or ceftazidime 1-2 g IV 2 times a day (after test dose).
+        //         AND Inj. gentamicin 1.5mg/kg then 1mg/kg IV 8hourly OR Inj. amikacin 250 - 500 mg IV 8 hourly.
+        //         AND Inj. metronidazole 500mg IV 8hourly OR Inj. clindamycin 600 mg IV 6 hourly.
+        //     Continue antibiotics for 48-72 hours until culture results or clinical response.
+        //     Monitor: Pulse, temperature, BP, respiratory rate, urine output, serum electrolytes, CVP, ABG (if severe).
+        // Surgical treatment:
+        //     Uterine curettage IF patient stable, within 1 hour of antibiotics.
+        //     Laparotomy IF injury to uterus/gut, foreign body, peritonitis.
+        //     Colpotomy IF pelvic abscess.
+    ENDIF
+
+CONTRAINDICATIONS:
+- (Specific contraindications for drugs like pentazocin, promethazine, diazepam, alprazolam, methotrexate, mifepristone, misoprostol, ampicillin, cefuroxime, ceftazidime, gentamicin, amikacin, metronidazole, clindamycin are not detailed in the provided text, but would typically be listed here if present).
+- For example: IF Drug is Methotrexate THEN Contraindicated in patients with severe liver disease, active peptic ulcer disease, blood dyscrasias, immunodeficiency.
+```

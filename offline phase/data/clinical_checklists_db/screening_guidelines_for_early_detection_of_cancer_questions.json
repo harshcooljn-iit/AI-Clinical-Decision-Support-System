@@ -1,0 +1,14 @@
+{
+    "questions": [
+        "What is the patient's sex?",
+        "What is the patient's exact age in years?",
+        "Is the patient immune-compromised? (Yes/No)",
+        "Does the patient have a history of CIN 2/3 before hysterectomy? (Yes/No)",
+        "Does the patient have HNPCC associated genetic mutation carrier status? (Yes/No)",
+        "Is the patient in a country with limited resources? (Yes/No)",
+        "Has the patient recently douched (within 48 hours)? (Yes/No)",
+        "Has the patient recently used vaginal cream (within 1 week)? (Yes/No)",
+        "Has the patient had recent coitus (within 24 hours)? (Yes/No)",
+        "Is the patient currently menstruating?"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "questions": [
+        "Is the underlying cause of the optic neuritis identifiable and treatable? (Yes/No)",
+        "Is the patient considering corticosteroid therapy? (Yes/No)",
+        "Is the patient experiencing acute optic neuritis? (Yes/No)",
+        "Is the brain MRI scan normal? (Yes/No)",
+        "Does the visual loss affect both eyes simultaneously or subsequently within hours/days? (Yes/No)",
+        "Is only the good eye affected? (Yes/No)",
+        "Is the visual loss slow and progressive? (Yes/No)",
+        "Is intravenous methylprednisolone administered? (Yes/No)",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have any allergies? (Yes/No)",
+        "Does the patient have G6PD deficiency? (Yes/No)"
+    ]
+}

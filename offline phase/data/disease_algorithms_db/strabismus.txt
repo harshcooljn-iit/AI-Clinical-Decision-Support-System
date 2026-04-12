@@ -1,0 +1,79 @@
+```text
+DISEASE: Strabismus
+
+ABBREVIATIONS:
+- Atropine Ointment: Atropine Ointment 1%
+
+DIAGNOSTICS:
+- Clinical examination revealing misalignment of the eyes.
+- Refraction under full cycloplegia (Atropine Ointment 1% 3 times a day for 3 days).
+- Evaluation for media opacities (cataract, corneal opacity, retinoblastoma).
+- Assessment for amblyopia.
+
+TREATMENT ALGORITHM:
+
+IF patient presents with strabismus THEN
+    # Rule out refractive error
+    IF refractive error is suspected THEN
+        Administer Atropine Ointment 1% 3 times a day for 3 days prior to retinoscopy.
+        IF refractive error is present THEN
+            Fully correct refractive error with spectacles.
+            Wait for at least 3-6 months with spectacles.
+            # Proceed to next steps after 3-6 months of spectacle correction
+        ELSE
+            # No refractive error found, proceed to next steps
+        ENDIF
+    ELSE
+        # No refractive error suspected, proceed to next steps
+    ENDIF
+
+    # Rule out media opacities
+    IF media opacity is suspected (e.g., cataract, corneal opacity, retinoblastoma) THEN
+        Treat the media opacity appropriately.
+        # Proceed to next steps after treating media opacity
+    ELSE
+        # No media opacity found, proceed to next steps
+    ENDIF
+
+    # Rule out/Treat amblyopia
+    IF amblyopia is present (induced by strabismus or vice versa) THEN
+        Treat amblyopia with occlusion therapy or other modality.
+        # Proceed to next steps after treating amblyopia
+    ELSE
+        # No amblyopia found, proceed to next steps
+    ENDIF
+
+    # Surgical treatment considerations
+    IF refractive error was present and corrected THEN
+        # Already addressed above
+    ENDIF
+
+    IF media opacity was present and treated THEN
+        # Already addressed above
+    ENDIF
+
+    IF amblyopia was present and treated THEN
+        # Already addressed above
+    ENDIF
+
+    # Definitive therapy
+    IF other associated features (refractive error, media opacity, amblyopia) have been treated THEN
+        Perform surgical realignment of eye axis.
+    ELSE
+        # Address associated features first
+    ENDIF
+
+    # Additional therapies
+    IF intermittent exotropia is present THEN
+        Consider fusion exercises.
+    ENDIF
+
+    IF other orthoptic exercises are indicated THEN
+        Perform orthoptic exercises.
+    ENDIF
+
+ENDIF
+
+CONTRAINDICATIONS:
+- None specified in the text for the listed treatments (spectacles, Atropine Ointment, occlusion therapy, surgery, fusion exercises, orthoptic exercises).
+```

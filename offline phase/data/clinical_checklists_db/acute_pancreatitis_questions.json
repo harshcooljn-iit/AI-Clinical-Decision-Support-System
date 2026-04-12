@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "Is the diagnosis Acute Non-Necrotizing Pancreatitis? (Yes/No)",
+        "Is the diagnosis Acute Necrotizing Pancreatitis? (Yes/No)",
+        "Is the cause gallstones? (Yes/No)",
+        "Does the patient have any allergies to diclofenac, pantoprazole, octreotide, or meropenem? (Yes/No)",
+        "Does the patient have renal impairment? (Yes/No)"
+    ]
+}

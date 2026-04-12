@@ -1,0 +1,22 @@
+```text
+DISEASE: Syphilis
+
+ABBREVIATIONS:
+- NACO: National AIDS Control Organisation
+- VDRL: Venereal Disease Research Laboratory test
+- RPR: Rapid Plasma Reagin test
+- FTA-ABS: Fluorescent Treponemal Antibody Absorption test
+- TPHA: Treponema Pallidum Hemagglutination Assay
+- MHA-TP: Microhemagglutination Assay for Treponema Pallidum
+
+DIAGNOSTICS:
+- Dark field microscopy
+- Direct fluorescent antibody test for treponema pallidum
+- Non-treponemal tests (VDRL, RPR)
+- Treponemal tests (FTA-ABS, TPHA, MHA-TP)
+
+TREATMENT ALGORITHM:
+- Treatment is based on Kit 3 by NACO (specific details of Kit 3 are not provided in the text, so the algorithm cannot be fully implemented without that information. Assuming Kit 3 refers to a standard treatment regimen).
+- Patient education includes regular follow-up, serological examination, partner treatment, and counseling on safe sex practices.
+
+```

@@ -1,0 +1,13 @@
+{
+    "questions": [
+        "Is the patient an outpatient? (Yes/No)",
+        "Has the patient received antibiotics in the past 3 months? (Yes/No)",
+        "Does the patient have any co-morbidities? (Yes/No)",
+        "Is the patient in the ICU? (Yes/No)",
+        "Is Pseudomonas considered? (Yes/No)",
+        "Is CA-MRSA considered? (Yes/No)",
+        "Does the patient have septic shock or ARDS secondary to CAP? (Yes/No)",
+        "What specific drug is being considered?",
+        "What is the patient's exact age in years?"
+    ]
+}

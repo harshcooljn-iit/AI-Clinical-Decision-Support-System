@@ -1,0 +1,26 @@
+```text
+DISEASE: Pityriasis Alba
+
+ABBREVIATIONS:
+- None
+
+DIAGNOSTICS:
+- Clinical diagnosis based on asymptomatic hypopigmented, mildly scaly lesions, usually on the face in children.
+
+TREATMENT ALGORITHM:
+IF patient has Pityriasis Alba THEN
+    - Apply emollient.
+    - Apply topical steroid.
+        IF topical steroid is fluticasone THEN
+            - Apply fluticasone 0.005%.
+        ELSE IF topical steroid is fluocinolone THEN
+            - Apply fluocinolone 0.05%.
+        ELSE IF topical steroid is mometasone THEN
+            - Apply mometasone 0.1%.
+        ENDIF
+    - Continue topical steroid application until lesions heal.
+ENDIF
+
+CONTRAINDICATIONS:
+- None specified in the provided text.
+```

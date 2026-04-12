@@ -1,0 +1,169 @@
+```text
+DISEASE: Bacterial Keratitis
+
+ABBREVIATIONS:
+- Gm -ve: Gram-negative
+- Staph: Staphylococcus
+- Gm +ve: Gram-positive
+- I/V: Intravenous
+- I/M: Intramuscular
+- Gm +ve cocci: Gram-positive cocci
+- Gm -ve rods: Gram-negative rods
+- *Pseudomonas*: Pseudomonas aeruginosa
+- *S. aureus*: Staphylococcus aureus
+- *S. epidermidis*: Staphylococcus epidermidis
+- IV: Intravenous
+- IM: Intramuscular
+- Gm +ve org.: Gram-positive organisms
+- Gm -ve org.: Gram-negative organisms
+- *Staph.*: Staphylococcus
+- *Povidone iodine*: Povidone iodine
+- *Carbolic acid*: Carbolic acid
+- *Trichloracetic acid*: Trichloracetic acid
+
+DIAGNOSTICS:
+- Conjunctival swab and ulcer scrapings tested with Gram stain, KOH preparation, and culture.
+- Routine investigations like complete blood count, blood sugar, urine examination.
+- Septic foci should be found.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    *   Patient presents with history of eye trauma, pain, redness, photophobia, discharge, and/or dimness of vision.
+    *   Examination shows conjunctival and circumcorneal vessel engorgement, localized epithelial disintegration, saucer-shaped ulcer projecting above corneal surface, surrounding grey discoloration (cloudiness), and possible leucocytic infiltration.
+    *   Severe cases may have pronounced anterior chamber reaction, often with hypopyon.
+
+2.  **Non-Pharmacological Treatment:**
+    *   Maintain proper ocular hygiene by cleaning discharge twice a day.
+    *   Remove contributory factors (e.g., trichiasis, foreign body).
+    *   Cover the eye with a pad unless discharge is copious; if copious, shield with dark goggles.
+    *   Prevent and treat complications like secondary glaucoma.
+
+3.  **Pharmacological Treatment (Antibiotics):**
+    *   Start with empirical broad-spectrum antibiotics.
+    *   Adjust antibiotics based on sensitivity report.
+
+4.  **Antibiotic Selection and Dosage (Based on Table 1):**
+
+    *   **IF** the organism is Gram-negative (*Gm -ve*) and *Staphylococcus* species:
+        *   **THEN** use Gentamicin.
+            *   **IF** systemic administration is needed:
+                *   **THEN** administer 3-5 mg/kg/day I/V or I/M in divided doses.
+            *   **IF** subconjunctival administration is needed:
+                *   **THEN** administer 20 mg.
+            *   **IF** topical administration is needed:
+                *   **THEN** administer 0.3% drops and ointment 8 hourly.
+
+    *   **IF** the organism is the same as Gentamicin indication:
+        *   **THEN** use Tobramycin.
+            *   **IF** systemic administration is needed:
+                *   **THEN** administer Same as gentamycin.
+            *   **IF** subconjunctival administration is needed:
+                *   **THEN** administer 5-20 mg.
+            *   **IF** topical administration is needed:
+                *   **THEN** administer 0.3% drops 8 hourly.
+
+    *   **IF** the organism is Gram-positive cocci (*Gm +ve cocci*) and Gram-negative rods (*Gm -ve rods*):
+        *   **THEN** use Cefazolin.
+            *   **IF** systemic administration is needed:
+                *   **THEN** administer 25-50 mg/kg/day IV or IM in divided doses 8 hourly.
+            *   **IF** subconjunctival administration is needed:
+                *   **THEN** administer 100 mg.
+            *   **IF** topical administration is needed:
+                *   **THEN** administer 5% concentration as topical drops 8 hourly.
+
+    *   **IF** the organism is Gram-negative (*Gm -ve*), specifically *Pseudomonas*:
+        *   **THEN** use Ceftazidime.
+            *   **IF** systemic administration is needed:
+                *   **THEN** administer 1-2 gm IV 8-12 hourly.
+            *   **IF** subconjunctival administration is needed:
+                *   **THEN** administer 100 mg.
+            *   **IF** topical administration is needed:
+                *   **THEN** administer (no topical dose listed).
+
+    *   **IF** the organism is broad spectrum including most aerobic Gram-negative (*Gm-ve*), *Staphylococcus aureus* (*S. aureus*), and *Staphylococcus epidermidis* (*S. epidermidis*):
+        *   **THEN** use Ciprofloxacin.
+            *   **IF** systemic administration is needed:
+                *   **THEN** administer 500 mg orally 12 hourly OR 200 mg IV 12 hourly.
+            *   **IF** subconjunctival administration is needed:
+                *   **THEN** administer (no subconjunctival dose listed).
+            *   **IF** topical administration is needed:
+                *   **THEN** administer 0.3% drops and ointment 8 hourly.
+
+    *   **IF** the organism requires broad spectrum coverage:
+        *   **THEN** use Ofloxacin.
+            *   **IF** systemic administration is needed:
+                *   **THEN** administer 200-800 mg/day orally OR 200 mg I/V 12 hourly.
+            *   **IF** subconjunctival administration is needed:
+                *   **THEN** administer (no subconjunctival dose listed).
+            *   **IF** topical administration is needed:
+                *   **THEN** administer 0.3% drops 8 hourly.
+
+    *   **IF** the organism is Gram-positive (*Gm +ve*) and Gram-negative (*Gm -ve*), including *Pseudomonas*, but NOT effective against anaerobes:
+        *   **THEN** use Norfloxacin.
+            *   **IF** systemic administration is needed:
+                *   **THEN** administer 400 mg orally 12 hourly.
+            *   **IF** subconjunctival administration is needed:
+                *   **THEN** administer (no subconjunctival dose listed).
+            *   **IF** topical administration is needed:
+                *   **THEN** administer 0.3% drops 8 hourly.
+
+    *   **IF** the organism requires good coverage of Gram-negative (*Gm -ve*), less potent against Gram-positive (*Gm +ve*):
+        *   **THEN** use Lomefloxacin.
+            *   **IF** systemic administration is needed:
+                *   **THEN** administer 400 mg orally or IV 12 hourly.
+            *   **IF** subconjunctival administration is needed:
+                *   **THEN** administer (no subconjunctival dose listed).
+            *   **IF** topical administration is needed:
+                *   **THEN** administer Initially 5 drops in 20 min or 1 drop every hour for 6/10 hours. Then 1 drop 2-3 times a day.
+
+    *   **IF** the organism is broad spectrum, Gram-positive (*Gm +ve*) and Gram-negative (*Gm -ve*), including anaerobes:
+        *   **THEN** use Sparfloxacin.
+            *   **IF** systemic administration is needed:
+                *   **THEN** administer 400 mg orally on day 1, followed by 200 mg once a day.
+            *   **IF** subconjunctival administration is needed:
+                *   **THEN** administer (no subconjunctival dose listed).
+            *   **IF** topical administration is needed:
+                *   **THEN** administer 0.3% drops 8 hourly.
+
+    *   **IF** the organism is Gram-positive (*Gm +ve*), except penicillinase producing *Staphylococcus* (*Staph.*):
+        *   **THEN** use Ampicillin.
+            *   **IF** systemic administration is needed:
+                *   **THEN** administer 500 mg orally 6 hourly OR 3-6 g/day IV or IM in divided doses 6 hourly.
+            *   **IF** subconjunctival administration is needed:
+                *   **THEN** administer 50-100 mg.
+            *   **IF** topical administration is needed:
+                *   **THEN** administer (no topical dose listed).
+
+    *   **IF** the organism is penicillinase producing *Staphylococcus* (*Staph.*):
+        *   **THEN** use Cloxacillin.
+            *   **IF** systemic administration is needed:
+                *   **THEN** administer 250-500 mg orally 6 hourly.
+            *   **IF** subconjunctival administration is needed:
+                *   **THEN** administer (no subconjunctival dose listed).
+            *   **IF** topical administration is needed:
+                *   **THEN** administer (no topical dose listed).
+
+    *   **IF** the organism is Gram-positive cocci (*Gm +ve cocci*) and Gram-negative rods (*Gm -ve rods*):
+        *   **THEN** use Cephalexin.
+            *   **IF** systemic administration is needed:
+                *   **THEN** administer 500 mg orally 6 hourly.
+            *   **IF** subconjunctival administration is needed:
+                *   **THEN** administer (no subconjunctival dose listed).
+            *   **IF** topical administration is needed:
+                *   **THEN** administer (no topical dose listed).
+
+5.  **Additional Treatments:**
+    *   **Iridocyclitis Control:** Use atropine 1% eye drops or ointment to relieve ciliary spasm and prevent synechia formation.
+    *   **Necrotic Material Removal:** If ulcer progresses despite pharmacological treatment, consider scraping or cauterization (100% carbolic acid, 10% trichloracetic acid, 10% or 5% povidone iodine).
+    *   **Non-Resolving Ulcers:** Consider surgical methods (vasculoplasty, conjunctival hooding and patch graft, tectonic penetrating keratoplasty, tarsorraphy).
+
+6.  **Patient Education:**
+    *   Use dark goggles.
+    *   Avoid close contact with others for two weeks.
+    *   Restrict work/school if significant exposure to others.
+    *   Practice frequent handwashing.
+
+CONTRAINDICATIONS:
+(None specified in the provided text for the listed drugs, but standard contraindications would apply based on individual drug profiles, e.g., hypersensitivity, specific systemic conditions).
+```

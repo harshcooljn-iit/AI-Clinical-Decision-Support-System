@@ -1,0 +1,72 @@
+```text
+DISEASE: Acute Pyogenic Meningitis
+
+ABBREVIATIONS:
+- CSF: Cerebrospinal Fluid
+- IV: Intravenous
+- PMN's: Polymorphonuclear leukocytes
+- IU: International Units
+- mg/kg: Milligrams per kilogram
+- stat: Immediately
+- SOS: As needed
+- mL: Milliliter
+- kg: Kilogram
+- tab: Tablet
+- NPO: Nothing by mouth
+- q: Every
+- day: Per day
+- divided doses: Given in multiple administrations throughout the day
+
+DIAGNOSTICS:
+- Clinical presentation: Fever, headache, vomiting, irritability, altered state of consciousness, signs of meningeal irritation, seizures.
+- CSF examination: Analysis of CSF pressure, leucocyte count (with differential), protein level, and glucose level.
+    - Normal CSF: Pressure 50-80 mmH2O, Leucocytosis <5 cells/mm3 (lymphocytes predominant), Protein 20-45 mg/dl, Glucose >50 mg/dl or 75% serum glucose.
+    - Acute bacterial meningitis CSF: Pressure usually elevated (100-300 mmH2O), Leucocytosis 100-10,000 cells/mm3 (PMN's predominant), Protein 100-500 mg/dl, Glucose decreased (<40 mg/dl).
+    - Acute viral meningo-encephalitis CSF: Pressure normal or elevated, Leucocytosis rarely >1000 cells/mm3 (lymphocytes predominant), Protein 50-200 mg/dl, Glucose normal or decreased.
+    - Tubercular meningo-encephalitis CSF: Pressure usually elevated, Leucocytosis 100-500 cells/mm3 (PMN's early, lymphocytes later), Protein 100-3000 mg/dl, Glucose <50 mg/dl.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Supportive Care:**
+    - Maintain airway, breathing, and circulation.
+    - Control seizures:
+        - IF seizure occurs THEN administer IV diazepam 0.2 to 0.4 mg/kg stat.
+        - THEN administer IV phenytoin 10 – 20 mg/kg stat.
+        - THEN administer IV phenytoin 5 mg/kg/day in divided doses.
+    - Manage increased intracranial tension:
+        - Position patient with head elevated at 15 – 30°.
+        - Restrict intravenous fluids to 2/3 of maintenance requirement.
+        - Administer IV mannitol 20% 5 ml/kg over 10 – 15 mins.
+        - THEN administer IV mannitol 20% 3 ml/kg every 6 hours for 48 hours.
+        - THEN administer IV mannitol 20% SOS if increased intracranial tension persists.
+        - OR administer glycerine 1 ml/kg/day through feeding tube if increased intracranial tension persists.
+    - Control fever (do not give aspirin).
+    - Initial IV fluid: Two thirds of the maintenance requirement.
+    - Feeding: Keep patient NPO for the first 24 – 48 hours. Later, guide feeding by level of sensorium. Use tube feeding if necessary.
+
+2.  **Antibiotic Therapy (Empirical, pending culture results):**
+    - Administer parenteral antibiotics immediately if bacterial cause is suspected.
+    - Choice of antibiotics depends on patient age and local prevalence.
+
+3.  **Age-Specific Antibiotic Regimens:**
+
+    - **IF Age is 0-3 months THEN:**
+        - Administer IV cefotaxime 200 mg/kg/day in 4 divided doses for 14 days.
+        - AND Administer IV ampicillin 300 mg/kg/day in 4 divided doses for 14 days.
+
+    - **IF Age is 3 months - 12 years THEN:**
+        - Administer IV ceftriaxone 100 mg/kg/day in 2 divided doses for 10 days.
+        - OR Administer IV cefotaxime 200 mg/kg/day in 3 divided doses for 10 days.
+        - OR Administer IV ampicillin 300 mg/kg/day in 4 divided doses for 10 days.
+        - AND Administer IV chloramphenicol 100 mg/kg/day in 4 divided doses for 10 days.
+        - IF *Meningococci* is suspected/isolated THEN Administer IV penicillin G 300,000 - 400,000 IU/kg/day in 4 divided doses for 7-10 days.
+
+4.  **Discharge Advice:**
+    - Advise regular follow-up for neurological assessment, including deafness.
+    - Continue anticonvulsant therapy if seizures are recurrent during meningitis course.
+    - Children with sequelae require assessment of handicap and multidisciplinary management.
+    - Teach physiotherapy during hospital stay if appropriate.
+
+CONTRAINDICATIONS:
+- Aspirin should NOT be given for fever control.
+```

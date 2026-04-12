@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "What is the stage of caries (white/brown/black spots, cavitated lesions)?",
+        "Does the patient have symptoms (tooth sensitivity/ache to cold/sweet)?",
+        "Is the patient considered high risk (likely to progress caries)? (Yes/No)",
+        "Is the patient caries active? (Yes/No)"
+    ]
+}

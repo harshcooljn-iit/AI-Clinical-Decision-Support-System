@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "Is an abscess present? (Yes/No)",
+        "Are systemic antibiotics indicated? (Yes/No)",
+        "Is pain and inflammation present? (Yes/No)"
+    ]
+}

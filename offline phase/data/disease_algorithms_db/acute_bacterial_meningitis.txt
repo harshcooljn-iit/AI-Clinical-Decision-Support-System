@@ -1,0 +1,139 @@
+```text
+DISEASE: Acute Bacterial Meningitis
+
+ABBREVIATIONS:
+- CSF: Cerebrospinal Fluid
+- CNS: Central Nervous System
+- ICP: Intracranial Pressure
+- PMN: Polymorphonuclear Neutrophils
+- WCC: White Blood Cell Count
+- IV: Intravenous
+- PaCO2: Partial pressure of carbon dioxide
+- RNTCP: Revised National Tuberculosis Control Programme
+- U: Units
+- mg: Milligram
+- kg: Kilogram
+- g: Gram
+- d: Day
+- h: Hour
+- mL: Milliliter
+- Tab: Tablet
+
+DIAGNOSTICS:
+- Clinical presentation: Fever, headache, neck stiffness, photophobia, nausea, vomiting, altered mental status.
+- CSF analysis:
+    - Pressure: >30 cmH2O
+    - Appearance: Turbid
+    - Protein: >1 g/L
+    - Glucose: <2.2 mmol/L
+    - Glucose-CSF:Serum ratio: <0.4
+    - WCC: >500 cells/µL
+    - Gram Stain: 60-90% positive
+    - Cell type: 90% PMN
+
+TREATMENT ALGORITHM:
+
+1.  **Patient Age Group Determination:**
+    IF Patient Age is Preterm infants to infants <1 month THEN
+        Antibiotic regimen = Ampicillin + cefotaxime
+    ELSE IF Patient Age is 1–3 months THEN
+        Antibiotic regimen = Ampicillin + cefotaxime OR Ampicillin + ceftriaxone
+    ELSE IF Patient Age is >3 months AND Patient Age is <55 years THEN
+        Antibiotic regimen = Cefotaxime + vancomycin OR Ceftriaxone + vancomycin OR Cefepime + vancomycin
+    ELSE IF Patient Age is >55 years OR Patient has alcoholism OR Patient has other debilitating illnesses THEN
+        Antibiotic regimen = Ampicillin + cefotaxime + vancomycin OR Ampicillin + ceftriaxone + vancomycin OR Ampicillin + cefepime + vancomycin
+    ELSE IF Patient has Hospital-acquired meningitis OR Posttraumatic meningitis OR Post neurosurgery meningitis OR Neutropenic patient OR Patient has impaired cell-mediated immunity THEN
+        Antibiotic regimen = Ampicillin + ceftazidime + vancomycin OR Ampicillin + meropenem + vancomycin
+    ENDIF
+
+2.  **Antibiotic Dosing (Based on Table 4):**
+    IF Antibiotic regimen includes Ampicillin THEN
+        Dosage = 12 g/d
+        Frequency = every 4 hours
+    ENDIF
+    IF Antibiotic regimen includes Cefipime THEN
+        Dosage = 6 g/d
+        Frequency = every 8 hours
+    ENDIF
+    IF Antibiotic regimen includes Cefotaxime THEN
+        Dosage = 12 g/d
+        Frequency = every 12 hours
+    ENDIF
+    IF Antibiotic regimen includes Ceftriaxone THEN
+        Dosage = 4 g/d
+        Frequency = every 12 hours
+    ENDIF
+    IF Antibiotic regimen includes Ceftazidime THEN
+        Dosage = 6 g/d
+        Frequency = every 8 hours
+    ENDIF
+    IF Antibiotic regimen includes Gentamicin THEN
+        Dosage = 7.5 mg/kg/d
+        Frequency = every 8 hours
+    ENDIF
+    IF Antibiotic regimen includes Meropenem THEN
+        Dosage = 3 g/d
+        Frequency = every 8 hours
+    ENDIF
+    IF Antibiotic regimen includes Metronidazole THEN
+        Dosage = 1500–2000 mg/d
+        Frequency = every 6 hours
+    ENDIF
+    IF Antibiotic regimen includes Penicillin G THEN
+        Dosage = 20–24 million U/d
+        Frequency = every 4 hours
+    ENDIF
+    IF Antibiotic regimen includes Vancomycin THEN
+        Dosage = 2 g/d
+        Frequency = every 12 hours
+    ENDIF
+
+3.  **Dexamethasone Administration:**
+    IF Patient has Bacterial Meningitis THEN
+        Administer Inj. dexamethasone 0.15 mg/kg every 6 hours IV for 2 days.
+        Start dexamethasone shortly before the antibiotic.
+    ENDIF
+
+4.  **Increased ICP Management:**
+    IF Patient has Increased ICP THEN
+        Elevate head of bed to 30–45°.
+        Consider intubation and hyperventilation (target PaCO2 25–30 mm Hg).
+        Administer Inj. mannitol 20% 1 g/kg stat.
+        Follow with 0.5 g/kg every 4-6 hours.
+    ENDIF
+
+5.  **Duration of Therapy:**
+    IF Meningitis is due to _Neisseria meningitidis_ (meningococcal meningitis) AND it is uncomplicated THEN
+        Duration = 7 days
+    ELSE IF Meningitis is due to _Streptococcus pneumoniae_ (pneumococcal meningitis) THEN
+        Duration = 14 days (2 weeks)
+    ELSE IF Meningitis is due to _Listeria monocytogenes_ THEN
+        Duration = at least 21 days (3 weeks)
+    ELSE IF Meningitis is due to gram-negative bacilli THEN
+        Duration = 21 days (3 weeks)
+    ENDIF
+
+6.  **Gentamicin Addition (Specific Cases):**
+    IF Patient is critically ill AND Meningitis is due to _Streptococcus pneumoniae_ OR Meningitis is due to gram-negative bacilli THEN
+        Administer Gentamicin:
+            Loading dose = 2 mg/kg
+            Maintenance dose = 7.5 mg/kg/d every 8 hours
+            Adjust dose for serum levels and renal function.
+    ENDIF
+
+7.  **Chemoprophylaxis for Close Contacts:**
+    IF Patient has Meningococcal Meningitis THEN
+        Administer chemoprophylaxis to index case and all close contacts.
+        Regimen: Rifampin 600 mg every 12 hours for 2 days (adults) OR Rifampin 10 mg/kg every 12 hours for 2 days (children > 1 year).
+    ENDIF
+
+8.  **Culture-Based Therapy Adjustment:**
+    Once culture report is available, change therapy accordingly.
+
+9.  **Tuberculous Meningitis:**
+    IF Meningitis is due to _Mycobacterium tuberculosis_ THEN
+        Treat as per RNTCP protocol.
+
+CONTRAINDICATIONS:
+- (No specific contraindications listed for the drugs mentioned in the context of bacterial meningitis treatment. Contraindications would depend on individual patient factors like allergies, renal function, etc., which are not specified in the guideline.)
+```

@@ -1,0 +1,59 @@
+```text
+DISEASE: Insomnia
+
+ABBREVIATIONS:
+- mg: milligram
+- Tab: Tablet
+- nitrazepam: Nitrazepam
+- clonazepam: Clonazepam
+- zopiclone: Zopiclone
+- zolpidem: Zolpidem
+- diazepam: Diazepam
+
+DIAGNOSTICS:
+- Difficulty initiating sleep.
+- Frequent awakenings from sleep.
+- Early morning insomnia.
+- Non-restorative sleep.
+- Patient distress due to decreased sleep (especially in the elderly).
+- Eliciting stressful situations or symptoms of causative illness.
+- Duration of symptoms varies.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    IF Patient presents with symptoms of insomnia (difficulty initiating sleep, frequent awakenings, early morning insomnia, non-restorative sleep) AND patient is distressed by decreased sleep THEN proceed to treatment.
+
+2.  **Non-Pharmacological Treatment (Sleep Hygiene):**
+    IF Patient has insomnia THEN recommend sleep hygiene measures:
+    - Maintain a regular sleep-wake schedule.
+    - Avoid daytime naps.
+    - Limit time in bed to usual duration.
+    - Avoid large meals near bedtime; eat regularly.
+    - Avoid stimulants (caffeine, nicotine, alcohol) especially in the evening.
+    - Engage in mild to moderate exercise in the morning.
+    - Avoid evening stimulation (TV); substitute with reading or relaxation.
+    - Practice relaxation techniques (meditation, progressive muscle relaxation).
+    - Ensure comfortable sleeping conditions.
+    - Treat any underlying cause of insomnia.
+
+3.  **Pharmacological Treatment (If sleep is inadequate after non-pharmacological measures):**
+    IF Sleep is inadequate after implementing sleep hygiene THEN consider pharmacological treatment for a short period (2-6 weeks).
+
+4.  **Medication Options:**
+    IF Pharmacological treatment is indicated THEN choose one of the following options:
+    - Option A: Tab. nitrazepam 5-10 mg, ½ to 1 hr before bedtime.
+    - Option B: Tab. clonazepam 1-2 mg, ½ to 1 hr before bedtime.
+    - Option C: Tab. zopiclone 7.5-15 mg, ½ to 1 hr before bedtime.
+    - Option D: Tab. zolpidem 5-10 mg, ½ to 1 hr before bedtime.
+
+5.  **Patient Education and Follow-up:**
+    IF Pharmacological treatment is initiated THEN:
+    - Educate patient on sleep hygiene instructions.
+    - Caution patient regarding the risk of dependence with diazepam and nitrazepam.
+    - Plan for tapering off benzodiazepines (if used) in 4-6 weeks.
+
+CONTRAINDICATIONS:
+- Nitrazepam and diazepam: Use with caution due to risk of dependence.
+- Benzodiazepines (including diazepam, nitrazepam, clonazepam): Patients with a history of substance abuse or dependence should be monitored closely or alternative treatments considered.
+```

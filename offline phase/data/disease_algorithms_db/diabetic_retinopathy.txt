@@ -1,0 +1,44 @@
+```text
+DISEASE: Diabetic Retinopathy
+
+ABBREVIATIONS:
+- None found in the provided text.
+
+DIAGNOSTICS:
+- Diagnosed based on microangiopathy of retinal vasculature in patients with long-standing diabetes mellitus.
+- Classified as non-proliferative or proliferative.
+- Requires fundus examination.
+
+TREATMENT ALGORITHM:
+
+IF Patient has Diabetic Retinopathy THEN
+    // Non-pharmacological treatment
+    IF Early diagnosis is possible THEN
+        Perform early diagnosis.
+    ENDIF
+    IF Patient has diabetes mellitus THEN
+        Ensure proper diabetic control.
+    ENDIF
+    IF Patient requires monitoring THEN
+        Schedule regular follow up and fundus examination.
+    ENDIF
+    IF Patient has specific types of Diabetic Retinopathy (non-proliferative or proliferative) AND requires intervention THEN
+        CONSIDER laser photocoagulation.
+    ENDIF
+    IF Patient has specific types of Diabetic Retinopathy (non-proliferative or proliferative) AND requires intervention THEN
+        CONSIDER vitrectomy surgery.
+    ENDIF
+
+    // Pharmacological treatment
+    IF Patient has Diabetic Retinopathy THEN
+        // No proven pharmacological treatment exists to delay, prevent, or cure diabetic retinopathy.
+        // Therefore, no specific pharmacological treatment is indicated based on this guideline.
+    ENDIF
+ENDIF
+
+// Patient Education
+IF Patient has Diabetic Retinopathy THEN
+    Explain the importance of yearly fundus examination.
+    Explain that laser treatment can prevent deterioration of vision but cannot correct existing visual defects.
+ENDIF
+```

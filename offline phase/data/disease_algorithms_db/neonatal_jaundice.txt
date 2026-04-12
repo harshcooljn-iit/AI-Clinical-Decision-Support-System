@@ -1,0 +1,54 @@
+```text
+DISEASE: Neonatal Jaundice
+
+ABBREVIATIONS:
+- RBCs: Red Blood Cells
+- BERA: Brainstem Evoked Response Audiometry
+- IV: Intravenous
+
+DIAGNOSTICS:
+- Clinical assessment: Yellow eyes, mucus membrane, or skin.
+- Progression: Cephalopedal (head to toe).
+- Serum bilirubin levels:
+    - 10-12 mg/dl: Yellow coloration of trunk.
+    - >15 mg/dl: Staining of palms and soles.
+- Timeline:
+    - Physiological jaundice: Appears within 3rd day, resolves within 14 days.
+    - Pathological jaundice: May persist > 2 weeks, requires investigation for cholestatic jaundice.
+
+TREATMENT ALGORITHM:
+
+1.  ASSESSMENT: All neonates need assessment for jaundice.
+
+2.  PHOTOTHERAPY DECISION:
+    - IF Total Serum Bilirubin (TSB) level reaches phototherapy threshold:
+        - THEN Initiate phototherapy.
+        - Phototherapy threshold: 10-12 mg/dl for preterm babies OR 15 mg/dl for term babies.
+    - ELSE: Observe the neonate.
+
+3.  PHOTOTHERAPY ADMINISTRATION:
+    - Position the naked infant (eyes covered) 45 cm below the phototherapy unit.
+    - Administer phototherapy continuously.
+    - Interrupt only for nursing and feeding.
+    - Change position every 2-4 hours.
+
+4.  PHOTOTHERAPY FAILURE:
+    - IF Inability to observe a decline in bilirubin of 1-2 mg/dl after 4-6 hours AND/OR inability to keep bilirubin level below exchange transfusion level:
+        - THEN Phototherapy is considered a failure.
+        - Consider alternative or adjunct treatments (e.g., Exchange Transfusion).
+
+5.  EXCHANGE TRANSFUSION DECISION:
+    - IF Bilirubin level exceeds threshold levels for age and gestational age OR features of bilirubin encephalopathy are present:
+        - THEN Indicate Exchange Transfusion.
+
+6.  EXCHANGE TRANSFUSION PROCEDURE:
+    - Use Group and type specific, compatible packed RBCs with anticoagulant, <7 days old.
+    - Monitor heart rate, saturation, respiration, temperature, glucose, and bilirubin levels.
+
+7.  ADJUNCT TREATMENTS:
+    - Consider Intravenous Immunoglobulin (IVIG).
+    - Consider Phenobarbitone.
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for Phototherapy, Exchange Transfusion, IVIG, or Phenobarbitone).
+```

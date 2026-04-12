@@ -1,0 +1,24 @@
+```text
+DISEASE: Urinary Retention
+
+ABBREVIATIONS:
+- BPH: Benign Prostatic Hyperplasia
+- IFT: Infant Feeding Tube
+- STD: Sexually Transmitted Disease
+- SPC: Suprapubic catheterisation
+- F: French (catheter size)
+
+DIAGNOSTICS:
+- Inability to pass urine
+- Thinning of urinary stream
+- Dribbling of urine
+- Pain in infraumbilical region
+- Palpable urinary bladder above pubic symphysis
+
+TREATMENT ALGORITHM:
+IF Urinary Retention is diagnosed THEN
+    - Option 1: Insert a low diameter (10 to 12 French) urinary catheter.
+    - Option 2: Insert an Infant Feeding Tube (IFT, 5 to 7 French diameter).
+    - Option 3: Perform Suprapubic catheterisation (SPC).
+ENDIF
+```

@@ -1,0 +1,15 @@
+{
+    "questions": [
+        "Is the patient's Fungal Keratitis severe? (Yes/No)",
+        "Does the patient have poor compliance? (Yes/No)",
+        "Does the patient have a deep stromal infection? (Yes/No)",
+        "Is the treatment duration less than 3-4 days? (Yes/No)",
+        "Is the active stage of infection persisting? (Yes/No)",
+        "Is intraocular pressure elevated? (Yes/No)",
+        "Does the patient fail to respond to medical treatment? (Yes/No)",
+        "Is there a risk of corneal perforation? (Yes/No)",
+        "What specific antifungal drug is being used?",
+        "Does the patient have any allergies to antifungal medications? (Yes/No)",
+        "Is the patient pregnant? (Yes/No)"
+    ]
+}

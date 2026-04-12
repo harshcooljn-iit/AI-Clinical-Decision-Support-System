@@ -1,0 +1,70 @@
+```text
+DISEASE: Acute Rheumatic Fever
+
+ABBREVIATIONS:
+- BD: Twice daily
+- QID: Four times daily
+- Inj.: Injection
+- PR: P wave R interval
+- mg: Milligram
+- kg: Kilogram
+- tab: tablet
+- Penicillin V: Penicillin Potassium
+- Penicillin G: Penicillin Benzathine
+- Erythromycin: Erythromycin base
+- Aspirin: Acetylsalicylic acid
+- Naproxen: Naproxen sodium
+- Prednisolone: Prednisolone
+- Carbamazepine: Carbamazepine
+- Sodium valproate: Sodium valproate
+- Haloperidol: Haloperidol
+
+DIAGNOSTICS:
+- Based on Jones criteria (Major and Minor criteria).
+- Major criteria: Pancarditis, polyarthritis, chorea, erythema marginatum, subcutaneous nodules.
+- Minor criteria: Arthralgia, fever, raised PR interval.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Treatment (Acute Phase):**
+    *   IF Patient is NOT allergic to penicillin:
+        *   THEN Administer Tab. penicillin V 500 mg BD for 10 days
+        *   OR Administer Inj. benzathine penicillin G 1.2 million units as a single dose
+    *   ELSE IF Patient IS allergic to penicillin:
+        *   THEN Administer Tab. erythromycin 250 mg QID for 10 days
+
+2.  **Secondary Prophylaxis Duration:**
+    *   IF Patient has Rheumatic fever without carditis:
+        *   THEN Duration of prophylaxis is For 5 years after the last attack OR until 21 years of age (whichever is longer).
+    *   ELSE IF Patient has Rheumatic fever with carditis but no residual valvular disease:
+        *   THEN Duration of prophylaxis is For 10 years after the last attack OR until 21 years of age (whichever is longer).
+    *   ELSE IF Patient has Rheumatic fever with persistent valvular disease (evident clinically or on echocardiography):
+        *   THEN Duration of prophylaxis is For 10 years after the last attack OR until 40 years of age (whichever is longer).
+        *   NOTE: Sometimes lifelong prophylaxis may be required.
+
+3.  **Secondary Prophylaxis Medication:**
+    *   IF Patient requires secondary prophylaxis:
+        *   THEN Administer Inj. benzathine penicillin 1.2 million units every 3 weeks
+        *   OR Administer Tab. penicillin V 250 mg BD daily
+        *   OR Administer Tab. erythromycin 250 mg twice daily
+
+4.  **Arthritis Treatment:**
+    *   IF Patient has arthritis:
+        *   THEN Administer Tab. aspirin 2 g QID (adults)
+        *   OR Administer Tab. aspirin 80-100 mg/kg/day (children) until symptoms persist
+        *   OR Administer Tab. naproxen 10-20 mg/kg/day
+
+5.  **Carditis Treatment:**
+    *   IF Patient has carditis:
+        *   THEN Administer Tab. prednisolone 1-2 mg/kg/day for short periods (up to a maximum of 3 weeks).
+
+6.  **Chorea Treatment:**
+    *   IF Patient has chorea:
+        *   THEN Administer Carbamazepine OR Sodium valproate (preferred over haloperidol)
+        *   OR Administer Haloperidol 0.05 mg/kg/day
+        *   Treatment duration: Continue up to 1-2 weeks after symptoms subside.
+
+CONTRAINDICATIONS:
+- Penicillin V, Benzathine Penicillin G, Erythromycin: Use Erythromycin if patient is allergic to penicillin.
+- Haloperidol: Carbamazepine or Sodium valproate are preferred for chorea.
+```

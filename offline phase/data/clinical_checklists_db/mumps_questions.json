@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Does the patient have fever or pain? (Yes/No)",
+        "Does the patient have abdominal pain? (Yes/No)",
+        "Is the patient male and does he have testicular swelling? (Yes/No)",
+        "Does the patient have signs of raised intracranial tension? (Yes/No)"
+    ]
+}

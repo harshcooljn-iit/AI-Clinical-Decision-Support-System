@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "Is non-pharmacological treatment sufficient? (Yes/No)",
+        "If pharmacological treatment is indicated, are topical antifungal agents chosen? (Yes/No)",
+        "If oral antifungal agents are chosen, is Fluconazole chosen? (Yes/No)",
+        "If oral antifungal agents are chosen and Fluconazole is not chosen, is Terbinafine chosen? (Yes/No)",
+        "If oral antifungal agents are chosen and Fluconazole and Terbinafine are not chosen, is Itraconazole chosen? (Yes/No)"
+    ]
+}

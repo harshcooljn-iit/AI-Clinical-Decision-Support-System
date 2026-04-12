@@ -1,0 +1,39 @@
+```text
+DISEASE: Intestinal Obstruction
+
+ABBREVIATIONS:
+- NG: Nasogastric
+- CT: Contrast enhanced computed tomography
+
+DIAGNOSTICS:
+- Clinical presentation: Sudden onset severe colicky central abdominal pain, distension, early vomiting, constipation (acute); short history of distension/vomiting against background of pain/constipation (acute on chronic); lower abdominal colic, absolute constipation followed by distension (chronic large bowel); dehydration, hypokalemia, pyrexia, abdominal tenderness, signs of strangulation (constant pain, tenderness with rigidity, shock).
+- Imaging: X-ray abdomen (standing, multiple air-fluid levels), Ultrasound abdomen, Contrast enhanced CT scan abdomen with pelvis.
+- Labs: Total and differential counts.
+
+TREATMENT ALGORITHM:
+
+IF Patient presents with symptoms suggestive of Intestinal Obstruction THEN
+    // Initial Management
+    Perform Investigations (X-ray, Ultrasound, CT, Labs)
+    Assess for Strangulation (constant pain, tenderness with rigidity, shock)
+
+    IF Strangulation suspected OR confirmed THEN
+        // Surgical Treatment
+        Proceed to Exploratory laparotomy
+        Perform adhesiolysis, resection of non-viable intestine, or extirpation of obstructing lesion
+    ELSE
+        // Non-surgical treatment considered first, especially for simple obstruction
+        Initiate Nasogastric (NG) decompression
+        Correct dehydration (IV fluids)
+        Correct electrolyte imbalance (e.g., hypokalemia)
+        Administer broad-spectrum antibiotics
+
+        // Re-evaluate patient response to non-surgical treatment
+        IF Symptoms persist or worsen despite non-surgical treatment THEN
+            // Surgical Treatment
+            Proceed to Exploratory laparotomy
+            Perform adhesiolysis, resection of non-viable intestine, or extirpation of obstructing lesion
+        ENDIF
+    ENDIF
+ENDIF
+```

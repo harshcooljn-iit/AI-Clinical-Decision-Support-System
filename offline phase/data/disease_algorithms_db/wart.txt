@@ -1,0 +1,24 @@
+```text
+1.  DISEASE: Wart
+2.  ABBREVIATIONS:
+    *   TCA: Trichloroacetic acid
+    *   Podophyllotoxin: Podophyllotoxin
+    *   Podophyllin: Podophyllin
+3.  DIAGNOSTICS: Clinical examination and/or biopsy.
+4.  TREATMENT ALGORITHM:
+    *   IF the wart is being treated non-pharmacologically:
+        *   THEN advise the patient to avoid scratching.
+        *   THEN advise the patient to avoid shared towels, contact sports, and communal bathing.
+        *   THEN advise safe sex practice if genital warts are present.
+    *   IF the wart is being treated pharmacologically:
+        *   THEN consider Podophyllotoxin 0.5% solution or 0.15% cream.
+            *   IF Podophyllotoxin 0.5% solution or 0.15% cream is chosen:
+                *   THEN apply twice daily for 3 days.
+                *   THEN follow with 4 days of rest.
+                *   THEN repeat the 3-day application and 4-day rest cycle for a total of 3 cycles.
+        *   THEN consider Cryotherapy.
+        *   THEN consider Trichloroacetic acid (TCA) application.
+        *   THEN consider Podophyllin 10%-25%.
+5.  TABULAR DOSAGES: Not applicable in this guideline.
+6.  CONTRAINDICATIONS: Not specified in this guideline.
+```

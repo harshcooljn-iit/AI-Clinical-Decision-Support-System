@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "Is the patient diagnosed with Guillain-Barre Syndrome? (Yes/No)",
+        "Is the patient experiencing coagulopathy? (Yes/No)"
+    ]
+}

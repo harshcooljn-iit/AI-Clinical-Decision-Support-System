@@ -1,0 +1,121 @@
+```text
+DISEASE: Allergic Rhinitis
+
+ABBREVIATIONS:
+- IgE: Immunoglobulin E
+- SAR: Seasonal Allergic Rhinitis
+- PAR: Perennial Allergic Rhinitis
+- od: Once daily
+- mcg: Micrograms
+- mL: Milliliters
+- kg: Kilograms
+- hr: Hour
+
+DIAGNOSTICS:
+- Clinical symptoms (sneezing, itching, watery nasal discharge, nasal obstruction, allergic conjunctivitis, bronchial asthma).
+- Peripheral blood eosinophilia.
+- Nasal smear showing eosinophilia.
+- X-ray of nose and paranasal sinuses.
+- Intranasal provocation test.
+- Specific IgE antibody test.
+
+TREATMENT ALGORITHM:
+
+IF patient has Allergic Rhinitis THEN
+
+    # Non-pharmacological treatment
+    AVOID allergens.
+
+    # Pharmacological treatment
+
+    # Step 1: Antihistamines
+    IF patient is an adult THEN
+        THEN administer Cetirizine 10-20 mg once daily for 7 days.
+    ELSE IF patient is a child THEN
+        THEN administer Cetirizine 5 mg once daily for 7 days.
+    ENDIF
+
+    OR
+
+    IF patient is an adult THEN
+        THEN administer Chlorpheniramine maleate 4 mg every 6-8 hours for 7 days.
+    ELSE IF patient is older than 1 year THEN
+        THEN administer Chlorpheniramine maleate 4 mg every 6-8 hours for 7 days.
+    ELSE IF patient is less than 1 year old THEN
+        THEN DO NOT administer Chlorpheniramine maleate.
+    ENDIF
+
+    OR
+
+    IF patient is an adult THEN
+        THEN administer Pheniramine maleate 25-50 mg every 8 hours for 7 days.
+    ELSE IF patient is a child THEN
+        THEN administer Pheniramine maleate 0.5 mg/kg/day divided in 3 doses for 7 days.
+    ENDIF
+
+    # Step 2: Nasal Decongestants (for nasal obstruction and rhinorrhoea)
+    IF patient has nasal obstruction and rhinorrhoea THEN
+        IF patient is an adult THEN
+            THEN administer Normal saline nasal drops 1-2 drops in each nostril 2 times daily.
+        ENDIF
+
+        OR
+
+        IF patient is an adult THEN
+            THEN administer Xylometazoline 0.1% nasal drops 1-2 drops 2-3 times daily for 5-7 days.
+        ELSE IF patient is a child THEN
+            THEN administer Xylometazoline 0.05% nasal drops 1-2 drops 2 times daily.
+        ENDIF
+
+        OR
+
+        IF patient is an adult THEN
+            THEN administer Oxymetazoline 0.5% nasal drops 2-3 drops 2-3 times daily for 5-7 days.
+        ELSE IF patient is a child THEN
+            THEN administer Oxymetazoline 0.025% nasal drops 1-2 drops 2 times in each nostril.
+        ENDIF
+    ENDIF
+
+    # Step 3: Nasal Corticosteroids/Antihistamines (for persistent symptoms)
+    IF signs and symptoms are persistent THEN
+        THEN administer Betamethasone/hydrocortisone nasal drops 2-3 times/day for up to 7 days.
+
+        OR
+
+        THEN administer Beclomethasone inhaler (50 mcg/puff) 2 puffs every 12 hours.
+
+        OR
+
+        THEN administer Budesonide (50-100 mcg/puff) 1-2 puffs a day.
+
+        OR
+
+        THEN administer Fluticasone 150 mcg/puff 1-2 puffs a day.
+
+        OR
+
+        THEN administer Topical azelastine intranasal spray 2-3 times a day.
+    ENDIF
+
+    # Step 4: Systemic Corticosteroids (for no response to above treatment)
+    IF no response to previous treatments THEN
+        THEN administer Tab. prednisolone 5-60 mg/day in 3-4 divided doses for 5-7 days.
+
+        OR
+
+        THEN administer Tab. dexamethasone 0.5-5.0 mg/day in 3-4 divided doses for 5-7 days.
+
+        OR
+
+        THEN administer Tab. betamethasone 0.5-5.0 mg/day in 3-4 divided doses for 5-7 days.
+    ENDIF
+
+ENDIF
+
+CONTRAINDICATIONS:
+- Chlorpheniramine maleate: DO NOT administer to children under 1 year old.
+- Topical decongestant nasal drops: Avoid prolonged use (can cause atrophic rhinitis, anosmia, rhinitis medicamentosa).
+- Systemic steroids: Taper dose before cessation of therapy.
+- Antihistamines (Chlorpheniramine, pheniramine etc.): May cause sedation, cognitive impairment; patient should avoid tasks requiring alertness and skill. May cause dryness of mouth and urinary hesitancy.
+- Medicated nasal drops: DO NOT use for more than seven days.
+```

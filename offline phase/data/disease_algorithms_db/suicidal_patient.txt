@@ -1,0 +1,27 @@
+```text
+DISEASE: Suicidal Patient
+
+ABBREVIATIONS:
+- None found in the provided text.
+
+DIAGNOSTICS:
+- Assessment based on specific questions regarding suicidal ideation (sadness, loss of hope, thoughts of death, suicide plans).
+- Identification of risk factors (male sex, age >45/55, past attempts, psychiatric illness, substance abuse, recent bereavement, social isolation, family history, unemployment, physical illness).
+
+TREATMENT ALGORITHM:
+
+IF Patient presents with suicidal ideation THEN
+    - Immediate psychiatric intervention is required.
+    - Assess suicidal risk using specific questions.
+    - Identify risk factors.
+    - Initiate non-pharmacological treatment steps:
+        - Do NOT leave the patient alone; keep under constant observation.
+        - Explain the seriousness to the family and include them in management.
+        - Offer psychological support and reassurance; do NOT criticize.
+        - Remove dangerous objects (knives, blades, ropes, medications, etc.) from the patient's vicinity.
+        - Start specific treatment for the underlying cause (e.g., depression, psychosis).
+    - Provide patient education to the family:
+        - Advise a supportive approach; do NOT criticize.
+        - Explain that a suicidal attempt indicates distress and requires treatment of the underlying illness.
+ENDIF
+```

@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "What is the patient's drug group? (Antipsychotics, Antidepressants, Mood stabilizers, Anxiolytics and hypnotics)",
+        "Does the patient have Renal Impairment? (Yes/No)",
+        "Does the patient have Hepatic Impairment? (Yes/No)",
+        "Is the patient pregnant? (Yes/No)",
+        "Is the patient breast feeding? (Yes/No)",
+        "Is the patient wandering aimlessly or exhibiting socially disorganized behavior in public? (Yes/No)",
+        "Is the patient willing to consent to admission? (Yes/No)",
+        "Do family members request admission? (Yes/No)"
+    ]
+}

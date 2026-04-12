@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Are there definite signs of envenomation (coagulopathy or neurotoxicity)? (Yes/No)",
+        "Is anaphylaxis evident? (Yes/No)",
+        "Is coagulation restored? (Yes/No)",
+        "Is the snake identified as King Cobra or Australian elapid? (Yes/No)"
+    ]
+}

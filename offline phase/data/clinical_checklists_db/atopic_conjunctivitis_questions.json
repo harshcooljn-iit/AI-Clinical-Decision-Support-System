@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "Does the patient have a shield ulcer? (Yes/No)",
+        "Is an associated infection present? (Yes/No)",
+        "Are steroids prescribed? (Yes/No)",
+        "Is the cornea involved AND is there much pain due to ciliary spasm? (Yes/No)",
+        "Is the patient responding to preceding treatment? (Yes/No)",
+        "Is the patient on topical steroids? (Yes/No)"
+    ]
+}

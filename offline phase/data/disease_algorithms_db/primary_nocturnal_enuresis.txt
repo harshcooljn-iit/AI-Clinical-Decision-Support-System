@@ -1,0 +1,50 @@
+```text
+DISEASE: Primary Nocturnal Enuresis
+
+ABBREVIATIONS:
+- ADH: Antidiuretic Hormone
+- UTI: Urinary Tract Infection
+
+DIAGNOSTICS:
+- Involuntary discharge of urine after the age at which bladder control should have been established (5 years).
+- Primary nocturnal enuresis: Child has never been dry at night.
+- Secondary nocturnal enuresis: Child has been continent for at least 6 months before wetting again.
+- Rule out organic causes (e.g., obstructive uropathy, UTI).
+
+TREATMENT ALGORITHM:
+
+IF Patient age is < 6 years:
+  THEN Recommend non-pharmacological treatment.
+  - Rule out organic causes.
+  - Restrict fluid intake in the evening.
+  - Bladder exercises:
+    - Hold urine as long as possible during the day.
+    - Practice repeated starting and stopping the stream at the toilet bowl.
+  - Practice getting up from bed and going to the bathroom at bedtime before sleep.
+ELSE IF Patient age is >= 6 years AND non-pharmacological management has failed:
+  THEN Consider pharmacological treatment.
+  - Option 1: Imipramine
+    IF Patient age is 6-8 years:
+      THEN Administer imipramine 25 mg once a day at bedtime.
+    ELSE IF Patient age is 9-12 years:
+      THEN Administer imipramine 50 mg once a day at bedtime.
+    ELSE IF Patient age is > 12 years:
+      THEN Administer imipramine 75 mg once a day at bedtime.
+  - Option 2: Desmopressin acetate (nasal spray, 10 mcg per spray)
+    THEN Start with 10 mcg given at bedtime daily.
+    THEN Increase gradually by 10 mcg per week to a maximum of 40 mcg per day.
+    THEN If effective, use for 3-6 months.
+
+CONTRAINDICATIONS:
+- Imipramine: Not specified in the text.
+- Desmopressin acetate: Not specified in the text.
+
+REFERRAL:
+IF Organic cause is suspected OR diagnosis is in doubt:
+  THEN Refer the patient to a higher centre.
+
+PATIENT EDUCATION:
+- Reassure parents that the condition is self-limiting.
+- Ask parents to maintain a diary record of dry nights.
+- Reward the child for dry nights.
+```

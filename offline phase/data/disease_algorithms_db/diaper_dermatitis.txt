@@ -1,0 +1,43 @@
+```text
+DISEASE: Diaper Dermatitis
+
+ABBREVIATIONS:
+- N/A
+
+DIAGNOSTICS:
+- Clinical diagnosis based on characteristic rash (erythema, scaling) in diaper area, sparing skin folds.
+
+TREATMENT ALGORITHM:
+
+IF Diaper Dermatitis is diagnosed THEN
+    // Non-pharmacological treatment
+    IF True THEN
+        Avoid impermeable diapers.
+    ENDIF
+    IF True THEN
+        Keep affected skin dry.
+    ENDIF
+    IF True THEN
+        Maintain personal hygiene.
+    ENDIF
+    IF True THEN
+        Avoid use of topical antiseptics.
+    ENDIF
+    IF True THEN
+        Avoid use of medicated soaps.
+    ENDIF
+
+    // Pharmacological treatment
+    IF True THEN
+        Apply Zinc oxide paste.
+    ENDIF
+
+    IF True THEN
+        Apply Antifungal cream (clotrimazole 1%, econazole nitrate, or miconazole 2%) after every diaper change OR at least 4 times per day.
+    ENDIF
+
+    IF True THEN
+        Apply Topical corticosteroid (e.g., hydrocortisone 1%) for the first 1-2 days.
+    ENDIF
+ENDIF
+```

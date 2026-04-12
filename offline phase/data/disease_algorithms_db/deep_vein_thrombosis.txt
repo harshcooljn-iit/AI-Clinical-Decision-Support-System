@@ -1,0 +1,69 @@
+```text
+DISEASE: Deep Vein Thrombosis
+
+ABBREVIATIONS:
+- DVT: Deep Vein Thrombosis
+- LMWH: Low Molecular Weight Heparin
+- PT: Prothrombin Time
+- APTT: Activated Partial Thromboplastin Time
+- PE: Pulmonary Embolus
+
+DIAGNOSTICS:
+- Clinical signs/symptoms (pain, swelling, edema, dilated veins, Homan's sign, pyrexia).
+- Risk factors (age, obesity, immobility, etc.).
+- Investigations: D-dimer, PT, APTT, duplex ultrasound.
+
+TREATMENT ALGORITHM:
+
+IF Patient has Deep Vein Thrombosis (DVT) THEN
+    // Initial Treatment
+    Start Low Molecular Weight Heparin (LMWH) AND Warfarin.
+
+    // Warfarin Dosing (Initial)
+    IF Day is Day 1 THEN
+        Administer Warfarin 10 mg.
+    ELSE IF Day is Day 2 THEN
+        Administer Warfarin 10 mg.
+    ELSE IF Day is Day 3 THEN
+        Administer Warfarin 5 mg.
+
+    // Warfarin Dose Adjustment
+    // (Guideline states "Patient taken on day three guides maintenence dose of warfarin" - this is vague, assuming INR result guides dose)
+    IF INR result is available on Day 3 THEN
+        IF INR is below target range THEN
+            Increase Warfarin dose.
+        ELSE IF INR is above target range THEN
+            Decrease Warfarin dose.
+        ELSE
+            Maintain current Warfarin dose.
+        ENDIF
+    ENDIF
+
+    // Severe Cases
+    IF DVT is severe THEN
+        Consider Venous thrombectomy.
+    ENDIF
+
+    // Recurrent/High Risk Cases
+    IF DVT is recurrent OR Patient is high risk THEN
+        Consider Venacaval filter.
+    ENDIF
+ENDIF
+
+// Prophylaxis
+IF Patient is at risk for DVT THEN
+    // Mechanical Methods
+    Consider Graduated elastic compression stockings OR External pneumatic compression stockings.
+
+    // Pharmacological Prophylaxis
+    Consider Low Molecular Weight Heparin (LMWH).
+ENDIF
+
+CONTRAINDICATIONS:
+// (The provided text does not list specific contraindications for LMWH or Warfarin.
+//  A complete guideline would list contraindications here, e.g., active bleeding for anticoagulants.)
+// Example (not from text):
+// IF Patient has active bleeding THEN
+//     DO NOT administer LMWH or Warfarin.
+// ENDIF
+```

@@ -1,0 +1,15 @@
+{
+    "questions": [
+        "Is the tooth available? (Yes/No)",
+        "Can the tooth be reimplanted within 5-20 minutes? (Yes/No)",
+        "Can the tooth be placed back in the socket? (Yes/No)",
+        "What is the storage medium? (Saliva, Milk, Saline, None)",
+        "Does the patient require antibiotic treatment? (Yes/No)",
+        "Does the patient have allergy to penicillin? (Yes/No)",
+        "Does the patient have allergy to fluoroquinolones? (Yes/No)",
+        "Does the patient require analgesic treatment? (Yes/No)",
+        "Does the patient have allergy to NSAIDs? (Yes/No)",
+        "Does the patient have renal impairment? (Yes/No)",
+        "Does the patient have gastrointestinal issues? (Yes/No)"
+    ]
+}

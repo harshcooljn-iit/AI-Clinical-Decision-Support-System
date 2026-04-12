@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "Does the patient have risk factors for MDR pathogens? (Yes/No)",
+        "Is the patient clinically unstable? (Yes/No)",
+        "Is the patient seriously ill? (Yes/No)"
+    ]
+}

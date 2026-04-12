@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Which drug is being considered: Mebendazole, Pyrantel Pamoate, or Albendazole?",
+        "Is the patient less than 1 year old? (Yes/No)",
+        "Is the patient less than 2 years old? (Yes/No)"
+    ]
+}

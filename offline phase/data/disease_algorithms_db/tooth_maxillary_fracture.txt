@@ -1,0 +1,32 @@
+```text
+DISEASE: Tooth Maxillary Fracture
+
+ABBREVIATIONS:
+TMJ: Temporomandibular Joint
+
+DIAGNOSTICS:
+- Pain, mobility of fractured segment of tooth or bone
+- Step deformity
+- Painful or restricted TMJ movement
+- Bleeding from traumatic site
+- Radiographs for fracture suspected sites
+
+TREATMENT ALGORITHM:
+IF (Patient presents with signs/symptoms of tooth or maxillary bone fracture) THEN
+    IF (Bleeding is present) THEN
+        Perform primary treatment for bleeding
+    ENDIF
+    IF (Pain is present) THEN
+        Perform primary treatment for pain
+    ENDIF
+    IF (Soft tissue trauma is present) THEN
+        Perform primary sutures for soft tissue trauma
+    ENDIF
+    IF (Fracture is suspected) THEN
+        Obtain radiographs of suspected fracture sites
+    ENDIF
+    IF (Bone fracture is confirmed or strongly suspected) THEN
+        Refer patient to an oral maxilla facial surgeon
+    ENDIF
+ENDIF
+```

@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "Is the patient presenting with a seizure during a febrile illness? (Yes/No)",
+        "Is the seizure ongoing? (Yes/No)",
+        "Is Diazepam available? (Yes/No)",
+        "Is Lorazepam available? (Yes/No)",
+        "Are you considering intermittent prophylaxis during febrile illness? (Yes/No)",
+        "Are you considering continuous prophylaxis? (Yes/No)"
+    ]
+}

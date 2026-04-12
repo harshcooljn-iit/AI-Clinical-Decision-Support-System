@@ -1,0 +1,16 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Does the patient present with acute onset of flaccid paralysis without obvious cause? (Yes/No)",
+        "Is the paralysis onset less than 4 weeks ago? (Yes/No)",
+        "Does the patient have isolated single lower limb involvement? (Yes/No)",
+        "Is the reporting done after 4 days of onset of paralysis? (Yes/No)",
+        "Is the paralysis not progressing for more than 48 hours? (Yes/No)",
+        "Is there progression of paralysis? (Yes/No)",
+        "Is there respiratory distress? (Yes/No)",
+        "Is there bulbar involvement? (Yes/No)",
+        "Is the paralysis of upper limbs less than 3 days old? (Yes/No)",
+        "Is the patient markedly drowsy? (Yes/No)",
+        "Are there any other complications? (Yes/No)"
+    ]
+}

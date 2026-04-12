@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "What is the suspected etiology of the ARF (Pre-renal, Renal, or Post-renal)?",
+        "Is hyperkalemia present? (Yes/No)",
+        "Is metabolic Acidosis present? (Yes/No)",
+        "Is volume Overload present? (Yes/No)",
+        "Is encephalopathy present? (Yes/No)",
+        "Is pericarditis present? (Yes/No)"
+    ]
+}

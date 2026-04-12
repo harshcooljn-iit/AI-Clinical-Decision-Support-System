@@ -1,0 +1,63 @@
+```text
+DISEASE: Small Bowel Tuberculosis
+
+ABBREVIATIONS:
+- ESR: Erythrocyte Sedimentation Rate
+- CRP: C-Reactive Protein
+- X Ray: Radiography
+
+DIAGNOSTICS:
+- Symptoms: Weight loss, chronic cough, malaise, evening rise of temperature with sweating, vague abdominal pain with distension, alternating constipation and diarrhea. May present with peritonitis, perforation, or obstruction. Doughy abdomen.
+- Investigations: Anemia, raised ESR, raised CRP, positive sputum culture, localized collection on abdominal ultrasound, pulmonary infiltrates on Chest X Ray, multiple small bowel strictures (ileum, subhepatic cecum) on Barium meal and follow through.
+
+TREATMENT ALGORITHM:
+
+IF Patient has Small Bowel Tuberculosis THEN
+    // General Management
+    BEGIN
+        Vigorous supportive care is mandatory.
+        Full drug treatment is mandatory.
+    END
+
+    // Surgical Treatment Considerations
+    IF Patient requires surgical treatment THEN
+        BEGIN
+            // Symptomatic Strictures
+            IF Patient has symptomatic strictures THEN
+                BEGIN
+                    Appropriate resections should be performed.
+                END
+
+            // Acute Intestinal Obstruction (Distal Ileal Stricture)
+            IF Patient has acute intestinal obstruction from distal ileal stricture THEN
+                BEGIN
+                    Thorough resuscitation is required.
+                    Side-to-side ileo-transverse bypass should be performed.
+                    // Post-Recovery
+                    ONCE Patient has recovered with medical treatment THEN
+                        Second stage definitive procedure: Right hemicolectomy should be done.
+                    END
+                END
+
+            // One-Stage Resection and Anastomosis
+            IF Patient's general condition permits AND Patient has a resectable lesion THEN
+                BEGIN
+                    One-stage resection and anastomosis can be done.
+                END
+
+            // Perforation
+            IF Patient has perforation THEN
+                BEGIN
+                    Appropriate local resection and anastomosis should be performed.
+                    // OR (if patient condition is very poor)
+                    IF Patient's condition is very poor THEN
+                        Exteriorization should be performed.
+                        // Post-Recovery
+                        ONCE Patient is fully recovered from anti-tuberculous therapy THEN
+                            Restoration of bowel continuity should be done.
+                    END
+                END
+        END
+    END
+END
+```

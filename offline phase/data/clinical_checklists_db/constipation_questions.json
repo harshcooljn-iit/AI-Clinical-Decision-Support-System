@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "Is constipation present based on symptoms and frequency? (Yes/No)",
+        "Are non-pharmacological measures sufficient? (Yes/No)",
+        "Is initial pharmacological therapy successful? (Yes/No)",
+        "Is constipation severe? (Yes/No)",
+        "Is a surgical cause suspected? (Yes/No)"
+    ]
+}

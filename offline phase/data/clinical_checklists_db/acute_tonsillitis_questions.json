@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Is the patient a child? (Yes/No)",
+        "What is the patient's weight in kg?",
+        "Is bacterial infection suspected or confirmed? (Yes/No)",
+        "Is the patient allergic to penicillin? (Yes/No)"
+    ]
+}

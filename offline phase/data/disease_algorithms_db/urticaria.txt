@@ -1,0 +1,32 @@
+```text
+DISEASE: Urticaria
+
+ABBREVIATIONS:
+- Inj.: Injection
+- IV: Intravenous
+- IM: Intramuscular
+- SC: Subcutaneous
+- OD: Once daily
+- HS: Half-strength (often implies twice daily or bedtime, context dependent)
+- Tab.: Tablet
+- mg: Milligram
+- ml: Milliliter
+
+DIAGNOSTICS:
+- Clinical diagnosis based on transient erythematous wheals, possibly with burning/stinging sensation, and/or angioedema.
+
+TREATMENT ALGORITHM:
+
+IF Urticaria is acute (duration < 6 weeks) AND with/without angioedema:
+    THEN Administer Inj. chlorpheniramine maleate.
+    AND Administer Inj. dexamethasone IV or IM.
+ELSE IF Urticaria is chronic (duration > 6 weeks) AND with/without angioedema:
+    THEN Administer Tab. levocetrizine 5mg OD.
+    AND/OR Administer Tab. chlorpheniramine maleate 4mg HS.
+ELSE IF Laryngopharyngeal edema is present:
+    THEN Administer Inj. epinephrine 0.5 to 1 ml SC immediately.
+    AND Administer Inj. hydrocortisone 100mg IV immediately.
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for the listed drugs in the context of urticaria/angioedema, but standard contraindications for each drug apply, e.g., allergy to the drug, specific conditions for epinephrine, etc. - not detailed here as not provided in the source text).
+```

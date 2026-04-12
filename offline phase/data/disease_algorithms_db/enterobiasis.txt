@@ -1,0 +1,32 @@
+```text
+DISEASE: Enterobiasis
+
+ABBREVIATIONS:
+    _Enterobius vermicularis_: Pin worm
+    mg: milligram
+    kg: kilogram
+    Syr.: Syrup
+
+DIAGNOSTICS:
+    Demonstration of _Enterobius vermicularis_ ova in perianal swabs or on cellophane tape pressed against perianal skin.
+
+TREATMENT ALGORITHM:
+
+IF Patient is an adult or child > 2 years old:
+    THEN
+        IF Treatment choice is Mebendazole:
+            THEN Administer Mebendazole 100 mg as a single dose.
+        ELSE IF Treatment choice is Pyrantel Pamoate:
+            THEN Administer Pyrantel Pamoate 11 mg/kg body weight as a single dose.
+        ELSE IF Treatment choice is Albendazole:
+            THEN Administer Albendazole 400 mg as a single dose.
+    ENDIF
+ELSE IF Patient is a child 1-2 years old:
+    THEN Administer Albendazole Syrup 200 mg as a single dose.
+ENDIF
+
+Repeat treatment after two weeks.
+
+CONTRAINDICATIONS:
+    Mebendazole is contraindicated in pregnancy and in children below one year of age.
+```

@@ -1,0 +1,116 @@
+```text
+1. DISEASE: Septicemia
+
+2. ABBREVIATIONS:
+    - SIRS: Systemic Inflammatory Response Syndrome
+    - PaCO2: partial pressure of arterial carbon dioxide
+    - MODS: Multiple Organ Dysfunction Syndrome
+    - IV: Intravenous
+    - GI: Gastrointestinal
+    - DIC: Disseminated Intravascular Coagulation
+    - PT: Prothrombin Time
+    - PTT: Partial Prothromboplastin Time
+    - ABG: Arterial Blood Gas
+    - ml: milliliter
+    - mg: milligram
+    - µg: microgram
+    - kg: kilogram
+    - mmHg: millimeters of mercury
+    - Tab: Tablet
+    - Inj: Injection
+    - FFP: Fresh-Frozen Plasma
+
+3. DIAGNOSTICS:
+    - Presence of viable bacteria (fungi) in the blood (positive blood cultures).
+    - Clinical syndrome potentially involving SIRS criteria (fever/hypothermia, tachypnea/low PaCO2, tachycardia, abnormal WBC count).
+    - Signs of organ dysfunction, hypoperfusion, or hypotension (severe sepsis).
+    - Hypotension unresponsive to fluid resuscitation plus organ dysfunction or perfusion abnormalities (septic shock).
+
+4. TREATMENT ALGORITHM:
+
+    IF Patient presents with suspected Septicemia:
+
+    THEN:
+    - Initiate aggressive airway management with high-flow oxygen and endotracheal intubation if needed.
+    - Start rapid infusion of crystalloid IV fluid (Ringer’s lactate or normal saline):
+        - Adults: 500 ml every 5 to 10 min initially; 4 to 6 L total.
+        - Children: 20 ml/kg every 5 to 10 min initially; 60 ml/kg total.
+    - Remove potential source of infection (e.g., IV catheters, urinary catheters).
+    - Monitor vital signs (BP, pulse, capillary refill), CVP, PCWP, and urine output.
+
+    IF Patient has hypotension refractory to IV fluid:
+
+    THEN:
+    - Administer Inj. dopamine 5 to 20 µg/kg/min, titrate to response.
+
+    IF Blood pressure remains <70 mmHg despite dopamine:
+
+    THEN:
+    - Administer Inj. norepinephrine loading dose of 8-12 µg/min, followed by an infusion of 2-4 µg/min to maintain mean arterial blood pressure ≥ 60 mmHg.
+
+    IF Patient has suspected Septicemia:
+
+    THEN:
+    - Start empiric antibiotic therapy intravenously at maximum allowed dosages.
+    - Consider gram-positive and gram-negative coverage.
+
+    IF Patient is an adult:
+
+    THEN:
+    - Use a third-generation cephalosporin:
+        - Ceftriaxone 1 g IV
+        - OR Cefotaxime 2 g IV
+        - OR Ceftazidime 2 g IV
+    - OR use an antipseudomonal beta lactamase–susceptible penicillin.
+    - Add an aminoglycoside:
+        - Gentamicin 2 mg/kg IV
+        - OR Tobramycin 2 mg/kg IV
+
+    IF Patient is an immunocompromised adult:
+
+    THEN:
+    - Use Ceftazidime 2 g IV
+    - OR Imipenem 750 mg IV
+    - OR Meropenem 1 g IV (alone).
+
+    IF Gram-positive infection is suspected (e.g., indwelling catheter, IV drug use):
+
+    THEN:
+    - Add Oxacillin 2 g IV
+    - OR Vancomycin 15 mg/kg IV.
+
+    IF Anaerobic source is suspected (e.g., intraabdominal, genital tract, odontogenic, necrotizing soft tissue infection):
+
+    THEN:
+    - Add Metronidazole 7.5 mg/kg IV
+    - OR Clindamycin 900 mg IV.
+
+    IF _Legionella_ is a potential source:
+
+    THEN:
+    - Add Erythromycin 500 mg IV.
+
+    IF Patient has acidosis:
+
+    THEN:
+    - Treat with oxygen, ventilation, and IV fluid replacement.
+    - IF Acidosis is severe (as directed by ABGs):
+        - Administer Sodium bicarbonate 1 meq/kg IV.
+
+    IF Patient has DIC:
+
+    THEN:
+    - Administer Fresh-frozen plasma 15 to 20 ml/kg initially to keep PT at 1.5 to 2 times normal.
+    - Administer Platelet infusion to maintain serum concentration of 50 to 100,000.
+
+    IF Patient has suspected adrenal insufficiency:
+
+    THEN:
+    - Administer Inj. hydrocortisone 100 mg IV.
+
+5. TABULAR DOSAGES:
+    - No tables found in the provided text.
+
+6. CONTRAINDICATIONS:
+    - No specific contraindications listed for the drugs mentioned in the context of septicemia treatment. Standard contraindications for each drug would apply (e.g., allergy, specific renal/hepatic impairment, drug interactions).
+```

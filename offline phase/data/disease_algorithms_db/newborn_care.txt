@@ -1,0 +1,67 @@
+```text
+DISEASE: Newborn Care
+
+ABBREVIATIONS:
+- ENC: Essential newborn care
+- bpm: beats per minute
+- BCG: Bacillus Calmette-Guérin
+
+DIAGNOSTICS:
+- Newborn care involves assessment at birth and during the first few days.
+- High-risk newborns are identified based on maternal history (eclampsia, antepartum haemorrhage, diabetes), birth weight (<2000 g), major malformations (detected by examination, non-passage of meconium/urine), poor sucking/activity/cry, respiratory distress (>60 bpm or severe retractions), and severe jaundice (skin yellowing within 24h or palms/soles yellowing).
+- Hypothermia is diagnosed by axillary (or rectal) temperature <36.0°C or cold stress (cold peripheries, warm abdomen, temp 36-36.4°C).
+
+TREATMENT ALGORITHM:
+
+1.  **Establishment of Breathing at Birth:**
+    *   IF newborn cries immediately at birth THEN no assistance needed.
+    *   ELSE IF newborn is preterm, meconium stained, has signs of infection, is not crying/breathing, or has poor muscle tone THEN proceed to initial steps of resuscitation.
+    *   ELSE IF newborn is term and cyanotic OR requires positive pressure ventilation THEN use 100% oxygen.
+    *   ELSE IF newborn is term and using room air, but no appreciable improvement within 90 seconds THEN use supplementary oxygen.
+    *   ELSE IF supplemental oxygen is unavailable THEN continue positive pressure ventilation with room air.
+    *   IF infant has no signs of life (no heartbeat, no respiratory effort) after 10 minutes of resuscitation THEN discontinuation of resuscitation may be justified.
+
+2.  **Hypothermia Prevention and Management:**
+    *   IF newborn temperature is <36.0°C (hypothermia) OR peripheries are cold but abdomen is warm (cold stress) THEN implement warming measures.
+    *   THEN dry the baby with warm dry linen at birth, discard wet linen, and wrap in dry linen.
+    *   THEN place baby under a radiant warmer or 200 Watt bulb (45 cm distance).
+    *   ELSE IF radiant warmer or bulb unavailable THEN place newborn on mother's chest, wrap baby and mother together.
+    *   ENSURE delivery area is warm (no open windows or fans).
+    *   Suction mouth then nose with mucous sucker.
+    *   Delay bathing for first few days; wipe with warm water if needed, ensuring room is warm and draught-free. Immediately wrap in dry linen after wiping.
+    *   Keep mother and baby in close proximity, baby adequately clothed.
+        *   IF cold weather THEN use 2 layers of cotton vest, woolen sweater, cap, socks, cover legs, wrap in blanket.
+        *   IF summer THEN use cotton dress with cotton diaper wrapped in cotton cloth.
+
+3.  **Prevention of Infection:**
+    *   Clean hands with soap and water, use sterile gloves if available before birth and during examination.
+    *   Use sterilized blade (or new/boiled razor blade) for cutting cord.
+    *   Use sterile or boiled cord tie.
+    *   Ensure clean delivery surface.
+    *   Do not apply anything to cord or eyes after birth.
+    *   Do not give prelacteal feeds. Give exclusive breast-feeding from birth.
+
+4.  **Exclusive Breastfeeding:**
+    *   Advise mothers to start breastfeeding within one hour of birth.
+    *   Do not give prelacteal feeds (honey, water, etc.).
+    *   Give breast feeds on demand.
+    *   Give exclusive breastfeeding for at least the first 6 months.
+    *   Exceptions to exclusive breastfeeding: maternal death, severe maternal illness, HIV positive mothers, documented lactational inadequacy.
+    *   Do not give water during exclusive breastfeeding period.
+
+5.  **Early Identification of High-Risk Newborns:**
+    *   IF mother had eclampsia, antepartum haemorrhage, diabetes, etc. THEN delivery should be at a facility with newborn care.
+    *   IF baby's birth weight is <2000 g THEN careful assessment by a physician trained in child health is needed.
+    *   IF baby has major malformations (neural tube defects, atresias, diaphragmatic hernia, etc.) detected by examination OR non-passage of meconium at 24h OR non-passage of urine at 48h THEN immediate referral needed.
+    *   IF baby has poor sucking, less activity, weak cry THEN immediate referral needed.
+    *   IF baby has respiratory rate >60 bpm (for >=1 minute, persisting on repeat) OR severe subcostal retractions THEN immediate referral needed.
+    *   IF baby has skin yellowing within 24h OR yellowing includes palms/soles at any age THEN immediate referral needed.
+
+6.  **Immunization:**
+    *   IF newborn delivered at a health facility THEN give BCG and one dose of oral polio vaccine within 24 hours of birth.
+
+CONTRAINDICATIONS:
+-   (None specified in the text for the listed treatments, but general contraindications apply based on clinical judgment).
+-   Prolonged resuscitation efforts (10 minutes) with no signs of life may be discontinued.
+-   Pre-lacteal feeds are contraindicated; exclusive breastfeeding is recommended.
+```

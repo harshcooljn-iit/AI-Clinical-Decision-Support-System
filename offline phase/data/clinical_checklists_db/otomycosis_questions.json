@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "What is the formulation of clotrimazole being used (powder or liquid)?",
+        "What is the concentration of clotrimazole being used?",
+        "Is the patient allergic to clotrimazole? (Yes/No)",
+        "Is the patient allergic to ibuprofen? (Yes/No)"
+    ]
+}

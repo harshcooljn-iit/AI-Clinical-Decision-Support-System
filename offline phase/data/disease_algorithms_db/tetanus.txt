@@ -1,0 +1,91 @@
+```text
+DISEASE: Tetanus
+
+ABBREVIATIONS:
+- IV: Intravenous
+- IM: Intramuscular
+- ICU: Intensive Care Unit
+- CVS: Cardiovascular System
+- TIG: Tetanus Immunoglobulin
+- mg: Milligram
+- gm: Gram
+- Inj.: Injection
+- tab: tablet
+
+DIAGNOSTICS:
+- Clinical diagnosis based on symptoms (trismus, rigidity, spasms).
+- Culture of _C. tetani_ from wound provides supportive evidence.
+- Differential diagnosis includes strychnine poisoning, dystonic reactions, hypocalcemia, meningoencephalitis (neonatal tetanus), oropharyngeal infection (cephalic tetanus).
+
+TREATMENT ALGORITHM:
+
+// Non-pharmacological treatment (applies to all grades)
+IF (Patient has Tetanus) THEN
+    Admit patient in a quiet room or ICU with minimum stimulation.
+    Protect airways (intubation/tracheostomy) with or without mechanical ventilation.
+    Monitor cardiovascular parameters.
+    Clean, explore, and debride wound.
+    Maintain hydration and enteral/parentral nutrition (high calorie, high protein).
+ENDIF
+
+// Pharmacological treatment based on Grade
+
+// Grade 1
+IF (Grade is 1) THEN
+    Administer Tab. diazepam 5-20 mg three times a day.
+    // Alternative for moderate to severe tetanus: slow IV infusion of diazepam.
+    // Maximum dose: not exceed 80-100 mg in 24 hours.
+    IF (Spasms are not controlled) THEN
+        Administer Inj. phenobarbitone 200 mg IM every 8-12 hours OR
+        Administer Inj. chlorpromazine 50 mg IM four times a day.
+    ENDIF
+ENDIF
+
+// Grade 2
+IF (Grade is 2) THEN
+    Perform tracheostomy.
+    Administer Inj. diazepam (dosage not specified, likely similar to Grade 1 but potentially higher or IV).
+    IF (Spasms are not controlled) THEN
+        Administer Inj. phenobarbitone 200 mg IM every 8-12 hours OR
+        Administer Inj. chlorpromazine 50 mg IM four times a day.
+    ENDIF
+ENDIF
+
+// Grade 3 and 4
+IF (Grade is 3 OR Grade is 4) THEN
+    Provide ventilatory support.
+    Administer Inj. pancuronium 2-4 mg IV OR
+    Administer Inj. gallamine 20-40 mg IV.
+    IF (Hypotension is present) THEN
+        Administer vasopressor support.
+    ENDIF
+    IF (Hypertension is present) THEN
+        Administer antihypertensive.
+    ENDIF
+    IF (Bradyarrhythmias are present) THEN
+        Administer Inj. atropine 0.6-1.2 mg IV.
+    ENDIF
+    Administer Inj. diazepam (dosage not specified, likely similar to Grade 1 but potentially higher or IV).
+    IF (Spasms are not controlled) THEN
+        Administer Inj. phenobarbitone 200 mg IM every 8-12 hours OR
+        Administer Inj. chlorpromazine 50 mg IM four times a day.
+    ENDIF
+ENDIF
+
+// Additional treatments for ALL patients
+IF (Patient has Tetanus) THEN
+    Administer Inj. crystalline penicillin G 2 mega units IV every 6 hours for 10 days OR
+    Administer Inj. metronidazole 500 mg IV every 8 hours OR
+    Administer Inj. metronidazole 1 gm IV every 12 hours.
+    // Dosage may be adjusted according to the infected wound.
+    Administer Inj. human tetanus immunoglobulin (TIG) 3000-5000 units IV or IM OR
+    IF (Human TIG is not available) THEN
+        Administer Inj. equine antiserum 10000 units by slow IV injection after sensitivity test.
+    ENDIF
+    Administer antiserum before local manipulation of the wound.
+ENDIF
+
+CONTRAINDICATIONS:
+// No specific contraindications listed for the drugs mentioned in the context of Tetanus treatment.
+// Standard contraindications for individual drugs apply (e.g., penicillin allergy for penicillin G, etc.).
+```

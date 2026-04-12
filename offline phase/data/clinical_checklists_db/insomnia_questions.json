@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "Is the patient distressed by decreased sleep? (Yes/No)",
+        "Is sleep inadequate after implementing sleep hygiene measures? (Yes/No)",
+        "Does the patient have a history of substance abuse or dependence? (Yes/No)"
+    ]
+}

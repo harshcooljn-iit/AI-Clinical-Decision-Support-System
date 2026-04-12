@@ -1,0 +1,21 @@
+{
+    "questions": [
+        "What is the newborn's birth weight in grams?",
+        "Does the newborn cry immediately at birth? (Yes/No)",
+        "Is the newborn preterm, meconium stained, has signs of infection, is not crying/breathing, or has poor muscle tone? (Yes/No)",
+        "Is the newborn term and cyanotic? (Yes/No)",
+        "Does the newborn require positive pressure ventilation? (Yes/No)",
+        "Is the newborn term and using room air, but no appreciable improvement within 90 seconds? (Yes/No)",
+        "Is supplemental oxygen unavailable? (Yes/No)",
+        "Does the infant have no signs of life (no heartbeat, no respiratory effort) after 10 minutes of resuscitation? (Yes/No)",
+        "Is the newborn temperature <36.0\u00b0C (hypothermia) OR peripheries are cold but abdomen is warm (cold stress)? (Yes/No)",
+        "Is the delivery area warm (no open windows or fans)? (Yes/No)",
+        "Is the mother able to breastfeed within one hour of birth? (Yes/No)",
+        "Does the mother have eclampsia, antepartum haemorrhage, or diabetes? (Yes/No)",
+        "Does the baby have major malformations (neural tube defects, atresias, diaphragmatic hernia, etc.) detected by examination OR non-passage of meconium at 24h OR non-passage of urine at 48h? (Yes/No)",
+        "Does the baby have poor sucking, less activity, or weak cry? (Yes/No)",
+        "Does the baby have respiratory rate >60 bpm (for >=1 minute, persisting on repeat) OR severe subcostal retractions? (Yes/No)",
+        "Does the baby have skin yellowing within 24h OR yellowing includes palms/soles at any age? (Yes/No)",
+        "Was the newborn delivered at a health facility? (Yes/No)"
+    ]
+}

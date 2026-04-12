@@ -1,0 +1,73 @@
+```text
+DISEASE: Acute Suppurative Otitis Media
+
+ABBREVIATIONS:
+- SOS: Stat or as needed
+- HCl: Hydrochloric acid
+- mg: Milligram
+- kg: Kilogram
+- tab: tablet
+- cap: capsule
+- Otolaryngologist: ENT specialist
+
+DIAGNOSTICS:
+- Otoscopy shows congested and bulging tympanic membrane.
+- Mucopurulent discharge.
+- Symptoms: Pain, fever, ear discharge, hearing impairment, tinnitus. In children: fever, vomiting, diarrhea, sleeplessness, incessant cry, irritability.
+
+TREATMENT ALGORITHM:
+
+IF Patient has Acute Suppurative Otitis Media THEN
+
+    // Non-pharmacological treatment
+    Steam inhalation.
+    Keep ear clean if pus discharge is present.
+
+    // Pharmacological treatment
+
+    // Analgesic
+    IF Patient needs pain relief THEN
+        Administer Tab. paracetamol 500 mg SOS.
+
+    // Antibiotic - Amoxicillin
+    IF Patient is an adult or child >= 2 years old AND no complicated case THEN
+        Administer Cap. amoxicillin 250-500 mg 8 hourly for 7 days.
+    ELSE IF Patient is a child < 2 years old OR complicated case THEN
+        Administer Cap. amoxicillin 250-500 mg 8 hourly for 10 days.
+    ENDIF
+
+    // Alternative Antibiotic - Cephalexin (if Amoxicillin is not suitable or ineffective)
+    IF Patient requires Cephalexin THEN
+        Administer Cap. cephalexin 250-500 mg 8 hourly.
+        // Dosage based on weight for children (20-40 mg/kg/day in 3 divided doses) - This is a general guideline, specific dosing should be calculated.
+    ENDIF
+
+    // Nasal Decongestant
+    IF Patient has nasal congestion THEN
+        IF Patient is an adult THEN
+            Administer Xylometazoline HCl 0.1% 1-2 nasal drops in each nostril 1-2 times daily.
+        ELSE IF Patient is a child THEN
+            Administer Xylometazoline 0.05% 1-2 nasal drops 1-2 times daily.
+        ENDIF
+        // Alternative nasal decongestant - Oxymetazoline
+        IF Patient is an adult THEN
+            Administer Oxymetazoline 0.05% 1-2 nasal drops in each nostril 2 times daily.
+        ELSE IF Patient is a child THEN
+            Administer Oxymetazoline 0.01% 1-2 drops 2 times daily.
+        ENDIF
+    ENDIF
+
+    // Monitoring and Referral
+    IF No clinical improvement by 3rd day THEN
+        Switch antibiotics.
+    ENDIF
+
+    IF Intense pain OR Bulging of the ear drum OR Persisting fever despite treatment THEN
+        Refer to an Otolaryngologist for myringotomy.
+    ENDIF
+
+ENDIF
+
+CONTRAINDICATIONS:
+- (None specified in the text for the listed drugs in the context of ASO).
+```

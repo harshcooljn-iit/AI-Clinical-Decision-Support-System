@@ -1,0 +1,83 @@
+```text
+DISEASE: Parkinsons Disease
+
+ABBREVIATIONS:
+- PD: Parkinsons Disease
+- TDS: Three times a day
+- BD: Twice a day
+- mg: Milligram
+- COMT: Catechol-O-methyltransferase
+- MAO-B: Monoamine oxidase B
+- NMDA: N-methyl-D-aspartate
+
+DIAGNOSTICS:
+- Cardinal features include bradykinesia, rest tremor, rigidity, gait disturbance, and postural instability.
+- Other motor features include micrographia, masked facies, reduced eye blink, soft voice (hypophonia), and dysphagia.
+- Non-motor features include anosmia, sensory disturbances, mood disorders, sleep disturbances, autonomic disturbances, orthostatic hypotension, gastrointestinal disturbances, genitourinal disturbances, sexual dysfunction, and cognitive impairment/dementia.
+
+TREATMENT ALGORITHM:
+
+// Levodopa Treatment
+IF Patient has Parkinsons Disease THEN
+  // Initial Levodopa Therapy
+  IF Patient is initiating Levodopa therapy THEN
+    // Dosage based on formulation (assuming carbidopa/levodopa 1:4)
+    Administer Tab. carbidopa/levodopa (1:4) 10/100mg 4-6 times a day.
+  ENDIF
+
+  // Dopamine Agonists
+  IF Patient is a candidate for Dopamine Agonist therapy THEN
+    // Pramipexole
+    Administer Tab. pramipexole 0.25–1.0 mg TDS.
+    // Ropinirole
+    Administer Tab. ropinirole 6–24 mg/d.
+  ENDIF
+
+  // MAO-B Inhibitors
+  IF Patient is a candidate for MAO-B Inhibitor therapy THEN
+    Administer Tab. selegiline 5 mg BD.
+  ENDIF
+
+  // COMT Inhibitors
+  IF Patient is a candidate for COMT Inhibitor therapy THEN
+    // Entacapone
+    Administer Tab. entacapone 200 mg with each levodopa dose.
+    // Tolcapone
+    Administer Tab. tolcapone 100–200 mg TDS.
+    // Contraindication for Tolcapone
+    IF Patient has hepatic impairment THEN
+      DO NOT administer Tab. tolcapone 100–200 mg TDS.
+    ENDIF
+  ENDIF
+
+  // Central-acting anticholinergic agents
+  IF Patient is a candidate for anticholinergic therapy THEN
+    Administer Tab. trihexyphenidyl 2 mg TDS.
+  ENDIF
+
+  // NMDA-receptor antagonist
+  IF Patient is a candidate for NMDA-receptor antagonist therapy THEN
+    Administer Tab. amantadine 100-300 mg/day.
+  ENDIF
+ENDIF
+
+// Adverse Effects Monitoring (General for Levodopa)
+IF Patient is receiving Levodopa THEN
+  Monitor for acute side effects: nausea, vomiting, orthostatic hypotension.
+  Monitor for long-term motor complications: wearing-off effect, dyskinesia, on-off phenomenon.
+ENDIF
+
+// Adverse Effects Monitoring (General for Dopamine Agonists)
+IF Patient is receiving Dopamine Agonists THEN
+  Monitor for acute side effects: nausea, vomiting, orthostatic hypotension, hallucination.
+ENDIF
+
+// Adverse Effects Monitoring (General for COMT Inhibitors)
+IF Patient is receiving COMT Inhibitors THEN
+  Monitor for primarily dopaminergic adverse effects: nausea, vomiting, increased dyskinesia.
+  // Specific monitoring for Tolcapone
+  IF Patient is receiving Tab. tolcapone 100–200 mg TDS THEN
+    Monitor for signs of hepatic toxicity.
+  ENDIF
+ENDIF
+```

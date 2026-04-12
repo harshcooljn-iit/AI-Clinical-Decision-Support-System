@@ -1,0 +1,90 @@
+```text
+DISEASE: Acute Sinusitis
+
+ABBREVIATIONS:
+- WBC: White Blood Cell count
+- ESR: Erythrocyte Sedimentation Rate
+- ENT: Ear, Nose, and Throat
+- URI: Upper Respiratory Infection
+- OTC: Over-the-counter
+- NSAID: Nonsteroidal anti-inflammatory drug
+- HCL: Hydrochloric Acid
+
+DIAGNOSTICS:
+- Clinical symptoms (headache, nasal obstruction, hawking, postnasal drip, fever, malaise, congested nasal mucosa, pus in middle meatus, tender sinuses).
+- Investigations: X-ray (Water's view - haziness/opacity/fluid level), CT scan (selected cases), Transillumination test (opaque sinuses).
+
+TREATMENT ALGORITHM:
+
+IF Patient has Acute Sinusitis THEN
+    // Non-pharmacological treatment
+    Steam inhalation via nose 2-3 times/day for 2-3 days.
+    Rest.
+
+    // Pharmacological treatment - Pain/Fever
+    IF Patient is an adult THEN
+        Tab. paracetamol 500 mg 3-4 times a day for 5 days.
+    ELSE IF Patient is a child (weight >= 10 kg) THEN
+        Tab. paracetamol 500 mg 3-4 times a day for 5 days (10 kg/dose).
+    ENDIF
+
+    IF Patient is an adult THEN
+        Tab. ibuprofen 400 mg - 600 mg 3 times a day for 5 days.
+    ELSE IF Patient is a child (weight >= 10 kg) THEN
+        Tab. ibuprofen 400 mg - 600 mg 3 times a day for 5 days (10 mg/kg/dose).
+    ENDIF
+
+    // Pharmacological treatment - Antibiotics (General)
+    Cap. amoxicillin 500 mg 8 hourly for 5-7 days.
+    IF Patient is a child THEN
+        Cap. amoxicillin 50 mg/kg/day for 5-7 days.
+    ENDIF
+
+    // Pharmacological treatment - Sinusitis of dental origin
+    IF Sinusitis is of dental origin THEN
+        Cap. amoxicillin 500 mg 3 times a day for 5-7 days.
+        Tab. metronidazole 400 mg 3 times a day for 5-7 days.
+        Tab. bromhexine 8 mg 3 times a day for 7 days.
+    ENDIF
+
+    // Pharmacological treatment - Nasal Obstruction/Rhinorrhoea
+    IF Patient has nasal obstruction or rhinorrhoea THEN
+        // Saline
+        Normal saline nasal drops 1-2 drops in each nostril 2-3 times a day.
+
+        // OR Ephedrine
+        IF Patient is an adult THEN
+            Ephedrine 0.75% nasal drops in isotonic saline 1-2 drops in each nostril 2 times a day.
+        ELSE IF Patient is a child THEN
+            Ephedrine 0.5% nasal drops 1-2 drops in each nostril 2 times daily.
+        ENDIF
+
+        // OR Oxymetazoline HCl
+        IF Patient is an adult THEN
+            Oxymetazoline HCl 0.05% nasal drops 1-2 drops in each nostril 2 times a day.
+        ELSE IF Patient is a child THEN
+            Oxymetazoline HCl 0.025% nasal drops 1-2 drops in each nostril 2 times daily.
+        ENDIF
+
+        // OR Xylometazoline
+        IF Patient is an adult THEN
+            Xylometazoline 0.1% nasal drops 2-3 drops in each nostril 2-3 times a day.
+        ELSE IF Patient is a child THEN
+            Xylometazoline 0.05% nasal drops 1-2 drops in each nostril 2 times daily.
+        ENDIF
+    ENDIF
+
+    // Improvement Check
+    IF Symptoms (pain, tenderness, nasal obstruction, discharge) do not improve within 48-72 hours THEN
+        Refer patient to an Otolaryngologist.
+    ENDIF
+
+    // Patient Education
+    Advise patient to take the full course of systemic antibiotics.
+    Advise patient to avoid prolonged use (more than 7 days) of topical decongestants.
+
+ENDIF
+
+CONTRAINDICATIONS:
+- Medicated nasal drops: Avoid use for more than 7 days due to risk of atrophic rhinitis, anosmia, and rhinitis medicamentosa.
+```

@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "What is the patient's serum potassium level (mEq/l)?",
+        "Is urgent treatment required (e.g., periodic paralysis, ventricular ectopics, myocardial infarction)? (Yes/No)",
+        "Is the patient able to take medication orally? (Yes/No)"
+    ]
+}

@@ -1,0 +1,86 @@
+```text
+DISEASE: Acute Flaccid Paralysis (AFP)
+
+ABBREVIATIONS:
+- AFP: Acute Flaccid Paralysis
+- NPSP: National Polio Surveillance Project
+
+DIAGNOSTICS:
+- Child aged <15 years
+- Acute onset of flaccid paralysis
+- No obvious cause (e.g., severe trauma, electrolyte imbalance)
+- Paralysis onset <4 weeks
+- Affected limb(s) are flaccid
+- Sensation is typically unaffected (if due to polio)
+
+TREATMENT ALGORITHM:
+
+IF Patient is a child aged <15 years
+THEN
+    IF Patient presents with acute onset of flaccid paralysis without obvious cause
+    THEN
+        IF Paralysis onset is <4 weeks
+        THEN
+            IF Patient has isolated single lower limb involvement
+            THEN
+                IF Reporting is after 4 days of onset of paralysis
+                THEN
+                    IF Paralysis is not progressing for more than 48 hours
+                    THEN
+                        Output: "Exclude from treatment protocol (specific cases)."
+                    ELSE
+                        Proceed to general treatment.
+                    ENDIF
+                ELSE
+                    Proceed to general treatment.
+                ENDIF
+            ELSE
+                Proceed to general treatment.
+            ENDIF
+        ELSE
+            Output: "Paralysis onset is not acute (<4 weeks)."
+        ENDIF
+    ELSE
+        Output: "Patient does not have acute flaccid paralysis without obvious cause."
+    ENDIF
+ELSE
+    Output: "Patient is not a child aged <15 years."
+ENDIF
+
+Non-pharmacological treatment:
+- Complete bed rest.
+- Correct positioning: Hip - slight flexion, knee - 5 degrees flexion, foot - 90 degrees with support against the soles.
+- Support legs laterally with pillows/towels/salt/sand packs to prevent rotation.
+- Passive joint movements (10 min, 2-3 times/day) when pain subsides.
+- Warm water fomentation (10 min, 2-3 times/day) for pain relief.
+- Alternate hot/cold compresses over suprapubic region for transient urinary retention.
+
+Caution:
+- No massage.
+- No intramuscular injections.
+- Watch for progression, especially respiratory muscle involvement.
+
+Pharmacological treatment:
+- No specific drug therapy for polio.
+- For fever and pain: Use paracetamol or ibuprofen.
+
+Referral criteria:
+IF Any of the following are present
+THEN
+    Refer to a tertiary care level center with ventilatory support facilities:
+    - Progression of paralysis
+    - Respiratory distress
+    - Bulbar involvement
+    - Paralysis of upper limbs <3 days old
+    - Marked drowsiness
+    - Any other complication
+ENDIF
+
+Patient education:
+- No dietary restrictions.
+- Continue breastfeeding or regular feeding.
+- Paralysis usually progresses for 4-7 days.
+- Recovery may start thereafter over days to weeks.
+- Regular physiotherapy facilitates recovery.
+- Post-polio residual paralysis should be referred for rehabilitative services.
+```

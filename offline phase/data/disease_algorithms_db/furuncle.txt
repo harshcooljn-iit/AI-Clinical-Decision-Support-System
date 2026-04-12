@@ -1,0 +1,62 @@
+```text
+DISEASE: Furuncle
+
+ABBREVIATIONS:
+- IU: International Units
+- TDS: Ter in die (three times a day)
+- OD: Omne die (once a day)
+- Cap.: Capsule
+- Tab.: Tablet
+
+DIAGNOSTICS:
+- History of recent cold and influenza, sign of middle ear infection
+- Otoscopy examination may reveal boils
+- Maximum tenderness over tragus
+- Post-auricular lymphadenitis
+- Obliteration of post aural sulcus with forward displacement of auricle
+- Mastoid radiograph may show well-developed clear cell on affected side
+
+TREATMENT ALGORITHM:
+
+IF patient has Furuncle THEN
+
+    // Non-pharmacological treatment
+    APPLY local heat.
+
+    // Pharmacological treatment
+
+    // Option 1: Wick packing
+    APPLY 10% ichthamol in glycerine wick pack OR antibiotic steroid cream wick pack (polymyxin B sulphate 500 IU, neomycin sulphate 3400 IU, zinc bacitracin 400 IU, hydrocortisone 10 mg, per g) on alternate days until swelling subsides.
+
+    // Option 2: Local ear drops
+    APPLY local ear drops (polymyxin B sulphate 1000 U, neomycin sulphate 3400 U, hydrocortisone 10 mg/ml).
+
+    // Option 3: Systemic Antibiotics
+    APPLY systemic antibacterial therapy:
+    IF patient can take amoxicillin THEN
+        APPLY Cap. amoxicillin 500mg TDS for 5-7 days.
+    ELSE IF patient can take azithromycin THEN
+        APPLY azithromycin 500mg OD for 3-5 days.
+    ENDIF
+
+    // Option 4: Analgesics
+    APPLY analgesics as needed:
+    IF pain requires treatment THEN
+        APPLY Tab. ibuprofen 400 mg as and when required OR
+        APPLY Tab. nimesulide 100 mg twice a day.
+    ENDIF
+
+    // Surgical intervention
+    IF incision and drainage is necessary THEN
+        PERFORM incision and drainage.
+    ENDIF
+
+ENDIF
+
+// Patient Education
+IF patient has recurrent boils THEN
+    RULE OUT diabetes mellitus.
+ENDIF
+
+ADVISE patient to avoid ear picking.
+```

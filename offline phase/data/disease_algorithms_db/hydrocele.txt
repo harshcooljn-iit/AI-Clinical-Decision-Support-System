@@ -1,0 +1,20 @@
+```text
+DISEASE: Hydrocele
+
+ABBREVIATIONS:
+- None found in the provided text.
+
+DIAGNOSTICS:
+- Physical examination: Translucent swelling, possible to get above swelling. Testis may be palpable.
+- Ultrasound scan: Necessary to visualize testis if hydrocele sac is tense; used to exclude testicular malignancy.
+- History: Age of onset (congenital vs. acquired), associated symptoms (painlessness).
+- Physical Exam Findings: Swelling moves downwards and becomes less mobile if the testis is pulled gently downwards.
+
+TREATMENT ALGORITHM:
+IF the hydrocele is congenital THEN
+    Perform herniotomy.
+ELSE IF the hydrocele is acquired THEN
+    Perform Jaboulay's procedure OR Lord's procedure.
+ENDIF
+
+```

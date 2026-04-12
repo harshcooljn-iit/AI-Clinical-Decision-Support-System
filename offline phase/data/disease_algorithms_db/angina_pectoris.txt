@@ -1,0 +1,69 @@
+```text
+DISEASE: Angina Pectoris
+
+ABBREVIATIONS:
+- mg: milligram
+- BD: bis in die (twice a day)
+- OD: omne die (once a day)
+- LVH: Left Ventricular Hypertrophy
+- Tab: Tablet
+- Sublingual: Administered under the tongue
+
+DIAGNOSTICS:
+- Precordial chest pain due to stress or exertion.
+- Associated symptoms: palpitation, breathlessness.
+- Symptoms typically associated with exertion and emotional upset.
+- Symptoms relieved quickly by rest and/or sublingual nitrates.
+- ECG findings: ST depression, T wave inversion, LVH.
+
+TREATMENT ALGORITHM:
+
+// Initial Management of Acute Angina Attack
+IF acute angina attack occurs THEN
+    ADMINISTER Tab. isosorbide dinitrate 5 mg sublingual.
+    REPEAT dose as required.
+    OR
+    ADMINISTER Tab. nitroglycerine 0.3-0.6 mg sublingual.
+ENDIF
+
+// Chronic Prophylaxis Indication
+IF angina attack occurs twice in a week THEN
+    RECOMMEND chronic prophylaxis.
+ENDIF
+
+// First-line Chronic Prophylaxis
+IF chronic prophylaxis is recommended THEN
+    ADMINISTER Tab. metoprolol 50 mg BD.
+    OR
+    ADMINISTER Tab. atenolol 50 mg OD.
+ENDIF
+
+// Second-line Chronic Prophylaxis (if Beta Blockers contraindicated or ineffective)
+IF beta blockers are contraindicated OR angina persists despite beta blockers THEN
+    ADMINISTER Tab. diltiazem 60-120 mg/day.
+ENDIF
+
+// Antiplatelet Therapy
+ADMINISTER Tab. aspirin 100-150 mg/day.
+OR
+ADMINISTER Tab. clopidogrel 75 mg/day.
+
+// Non-pharmacological Treatment
+IF patient has Angina Pectoris THEN
+    ADVISE to avoid heavy exertion.
+    ADVISE to take rest during acute stage.
+    ADVISE to stop smoking.
+    ADVISE weight reduction.
+ENDIF
+
+CONTRAINDICATIONS:
+// Beta Blocker Contraindications (Implied - specific contraindications not listed in text)
+IF patient has bradycardia, heart block, severe asthma, or decompensated heart failure THEN
+    DO NOT administer Tab. metoprolol or Tab. atenolol.
+ENDIF
+
+// Diltiazem Contraindications (Implied - specific contraindications not listed in text)
+IF patient has hypotension, sick sinus syndrome, or 2nd/3rd degree AV block THEN
+    DO NOT administer Tab. diltiazem.
+ENDIF
+```

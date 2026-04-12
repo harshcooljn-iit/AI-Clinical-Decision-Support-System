@@ -1,0 +1,45 @@
+```text
+DISEASE: Aphthous Ulcers
+
+ABBREVIATIONS:
+- mg: milligram
+- kg: kilogram
+- Tab.: Tablet
+- hydrocortisone: hydrocortisone
+- prednisolone: prednisolone
+
+DIAGNOSTICS:
+- Clinical diagnosis based on recurrent, painful, rounded ulcers with a yellowish-gray fibrinoid center.
+- Rule out secondary causes (malabsorption syndrome, inflammatory bowel disease, Behcet's disease, recurrent trauma).
+
+TREATMENT ALGORITHM:
+
+IF patient has aphthous ulcers THEN
+    // Non-pharmacological treatment
+    BEGIN
+        Maintain good oral hygiene.
+        Rinse mouth repeatedly with plain water, especially after eating.
+    END
+
+    // Pharmacological treatment - Symptomatic
+    BEGIN
+        Apply a gel containing a local anesthetic before meals for symptomatic relief.
+    END
+
+    // Pharmacological treatment - Severe cases (large, multiple ulcers)
+    IF ulcers are severe (large, multiple) THEN
+        // Option 1: Hydrocortisone pellets
+        BEGIN
+            Administer hydrocortisone pellets (5 mg) to be kept on the ulcer and sucked every 4 hours for 3-5 days.
+        END
+        // Option 2: Prednisolone tablets
+        ELSE IF ulcers are severe (large, multiple) THEN
+        BEGIN
+            Administer Tab. prednisolone at a dose of 0.5 mg/kg/day in a single dose for 3-5 days.
+        END
+    END
+END
+
+CONTRAINDICATIONS:
+- (None specified in the text for hydrocortisone or prednisolone in this context, but standard contraindications apply based on patient factors not mentioned here, e.g., allergy, infection, etc.)
+```

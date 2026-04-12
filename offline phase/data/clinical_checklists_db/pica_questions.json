@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Is lead poisoning present? (Yes/No)",
+        "Is iron deficiency present? (Yes/No)",
+        "Are bezoars present? (Yes/No)",
+        "Are parasitic infections present? (Yes/No)"
+    ]
+}

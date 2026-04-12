@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "Is the wound acute or chronic?",
+        "If chronic, what are the identified predisposing factors?",
+        "If chronic, is infection suspected or confirmed?",
+        "If chronic and infection is suspected/confirmed, what microorganism was identified?",
+        "If chronic, is the ulcer associated with necrotic tissue or slough?",
+        "If chronic, is the ulcer clean and shallow without pus discharge or features of infection?",
+        "If chronic, is there bleeding or a cavity in the wound?",
+        "If chronic, is the patient diabetic?"
+    ]
+}

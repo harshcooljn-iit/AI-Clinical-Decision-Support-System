@@ -1,0 +1,83 @@
+```text
+DISEASE: Protein Energy Malnutrition
+
+ABBREVIATIONS:
+- PEM: Protein Energy Malnutrition
+- WHO: World Health Organization
+- SD: Standard Deviation
+- NCHS: National Center for Health Statistics
+- ORS: Oral Rehydration Solution
+- IV: Intravenous
+- RDA: Recommended Dietary Allowance
+- JVP: Jugular Venous Pressure
+- IU: International Units
+- mg: Milligram
+- gm: Gram
+- kcal: Kilocalorie
+- ml: Milliliter
+- kg: Kilogram
+- cm: Centimeter
+- hr: Hour
+- IM: Intramuscular
+- STG: Standard Treatment Guideline
+- N/2: One half
+- N/6: One sixth
+
+DIAGNOSTICS:
+- Assessment of nutritional status based on WHO classification using weight for height, height for age, and presence/absence of symmetrical edema.
+- Reference values for weight-for-height/length are used (NCHS/WHO normalized values).
+
+TREATMENT ALGORITHM:
+
+1.  ASSESSMENT: Determine the severity of undernutrition using WHO classification criteria (Table 5).
+    - IF Symmetrical edema is present: Severe undernutrition.
+    - ELSE IF Weight for height SD score is < -3 or <70% of expected: Severe undernutrition.
+    - ELSE IF Height for age SD score is < -3 or <85% of expected: Severe undernutrition.
+    - ELSE IF Symmetrical edema is absent:
+        - IF Weight for height SD score is -2 to -3 or 70-79% of expected: Moderate undernutrition.
+        - ELSE IF Height for age SD score is -2 to -3 or 85-89% of expected: Moderate undernutrition.
+        - ELSE: Mild undernutrition (implied).
+
+2.  TREATMENT BASED ON SEVERITY:
+    - IF Severe undernutrition:
+        - IF Child has complications (hypothermia, hypoglycemia, dehydration, septic shock, infections, severe anemia, etc.): Hospitalize.
+        - Manage complications according to Table 7.
+            - IF Hypothermia (rectal temp < 35.5°C): Keep under heat source (radiant warmer, etc.) until temp reaches 37°C within 2-3 hours. Monitor half hourly. Investigate and treat infection/hypoglycemia.
+            - IF Hypoglycemia (blood sugar < 54 mg/dl): Give 10% glucose 5-10 ml/kg IV immediately, followed by IV infusion of dextrose solution. Stop IV fluids when blood glucose stabilizes and switch to oral feeds.
+            - IF Dehydration (WHO classification):
+                - IF Some dehydration: Correct with 2/3 diluted ORS over 12 hours.
+                - IF Severe dehydration (weak pulse, oliguria): Administer Ringer’s Lactate or N/2 5% saline 30 ml/kg over 2 hours. IF pulse doesn't improve, consider septic shock. After rehydration, maintain fluids at 75-100 mg/kg/day until feeding established. Add potassium (30 mEq/L) after urination.
+            - IF Septic shock: Give blood/plasma transfusion 10 ml/kg over 3 hours. Start antibiotics (ampicillin 50-100 mg/kg IM/IV 6 hrly + gentamicin 7.5 mg/kg IM/IV once daily for 7 days). Fluid management similar to severe dehydration.
+            - IF Dyselectrolytemia: Risk of hypernatremia/hypokalemia. Restrict sodium. Do not give hypertonic saline. Give potassium supplements (30-40 mEq/L) if urinating freely.
+            - IF Infections (no apparent signs, no complications): Give cotrimoxazole 5 mg/kg (trimethoprim) twice daily for 5 days.
+            - IF Infections (septic shock, hypoglycemia, hypothermia, skin/resp/UTI, sick looking): Give injection ampicillin 50-100 mg/kg IM/IV 6 hrly + gentamicin 7.5 mg/kg IM/IV once daily for 7 days. If no response in 48 hours, add chloramphenicol 25 mg/kg IM/IV 8 hrly (or 6 hrly if meningitis suspected). Treat specific infections per STG.
+            - IF Congestive cardiac failure (tachycardia, cardiomegaly): Restrict fluid. Give furosemide 1 mg/kg stat.
+            - IF Severe anemia (hemoglobin < 4 gm%): IF JVP elevated, give digoxin 5 mcg/kg. Give packed red cells 10 ml/kg over 4-6 hours, monitoring cardiac status.
+            - IF Vitamin A deficiency: Give oral vitamin A: <6 months - 50,000 IU; 6-12 months - 100,000 IU; >1 year - 200,000 IU. Repeat dose next day and after 2 weeks if signs present.
+            - IF Vitamin K deficiency or severe bleeding: Give injection vitamin K 2.5 mg IM single dose.
+            - IF Magnesium deficiency: Give 0.02 ml/kg of 50% magnesium sulphate IV single dose.
+            - IF Folic acid deficiency: Give folic acid 5 mg on day 1, then 1 mg/day.
+        - Initiate cure (nutrition) after managing complications (Table 8).
+            - Start feeding as early as possible (oral or nasogastric).
+            - Start with frequent, small feeds (12 feeds on days 1-2, decreasing to 6-8 feeds on days 3-7).
+            - Initial caloric intake: 80 kcal/kg/day (protein 0.7 gm/kg/day). Increase gradually to 150 kcal/kg/day (protein 2-3 gm/kg/day) over one week. Fluid intake: 100-125 ml/kg/day. Add sugar/oil for extra calories.
+            - IF Lactose intolerance (stool pH 5.5 on two occasions): Reduce lactose load by diluting milk or substituting with lactose-free formula/soy/meat/veg protein mixtures.
+            - Supplement with minerals/trace elements: Potassium chloride (1.2-2.4 g/L), magnesium chloride (300-600 mg/L), zinc acetate (20 mg/day), copper acetate (2 mg/L), selenium (6-10 mcg/kg/day), folic acid (1 mg/day). Do not give iron initially.
+            - Monitor for signs of improvement (weight loss in kwashiorkor, little/no weight gain in marasmus).
+        - Rehabilitation phase (2-6 weeks): Aim to restore normal weight for height.
+        - Intensive feeding: Replace milk diet with home diet. Provide therapeutic diet: fluids 150 ml/kg/day, energy 175-200 kcal/kg/day, protein 2-4 gm/kg/day.
+        - Prescribe affordable, easily cooked, culturally acceptable, locally available diet.
+        - Start oral iron 3 mg/kg/day elemental iron once daily. Start other vitamins (B, C, D, E) at double RDA. Continue mineral/trace element supplementation. Provide vitamin D 400 IU daily for 4 weeks.
+    - ELSE IF Mild to moderate undernutrition:
+        - Domiciliary treatment.
+        - Advise parents to increase food intake (adequate calories and protein) from locally available, inexpensive foods.
+        - Monitor growth using a growth chart.
+
+3.  REFERRAL CRITERIA (for severe malnutrition):
+    - IF Child fails to regain appetite by day 4.
+    - IF Child fails to lose oedema by day 5.
+    - IF Child fails to gain weight by day 10.
+
+CONTRAINDICATIONS:
+- (None specified in the text for the listed treatments, but general contraindications would apply based on patient specifics not provided).
+```

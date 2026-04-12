@@ -1,0 +1,140 @@
+```text
+1.  DISEASE: Stroke
+
+2.  ABBREVIATIONS:
+    *   TIA: Transient Ischemic Attacks
+    *   ABC: Airway, Breathing, Circulation
+    *   CT: Computed Tomography
+    *   MRI: Magnetic Resonance Imaging
+    *   BP: Blood Pressure
+    *   AF: Atrial Fibrillation
+    *   INR: International Normalized Ratio
+    *   GI: Gastrointestinal
+    *   HCT: Hematocrit
+    *   PTT: Partial Thromboplastin Time
+    *   rtPA: recombinant tissue plasminogen activator
+    *   MCA: Middle Cerebral Artery
+    *   OD: Once Daily
+    *   SC: Subcutaneous
+    *   IV: Intravenous
+    *   stat: Immediately
+
+3.  DIAGNOSTICS:
+    *   Abrupt onset of neurologic deficit attributable to a focal vascular cause.
+    *   TIA: Neurologic signs/symptoms resolve within 24 hours.
+    *   Brain imaging (CT or MRI) to differentiate ischemia from hemorrhage.
+
+4.  TREATMENT ALGORITHM:
+
+    *   **Initial Assessment & Stabilization:**
+        *   IF patient presents with stroke symptoms:
+            *   Assess ABCs (Airway, Breathing, Circulation).
+            *   Treat hypoglycemia or hyperglycemia.
+            *   Obtain brain imaging (CT preferred for early hemorrhage, MRI for early infarct).
+
+    *   **Blood Pressure Management:**
+        *   IF BP is >185/110 mm Hg AND thrombolytic therapy is anticipated:
+            *   Lower BP.
+        *   IF BP is >180 mmHg systolic OR >130 mmHg diastolic (Hemorrhagic Stroke):
+            *   Institute antihypertensive agents.
+            *   Goal: Maintain mean arterial pressure < 130 mmHg.
+
+    *   **Fever Management:**
+        *   IF patient has fever:
+            *   Treat with antipyretics.
+            *   Use surface cooling.
+
+    *   **Glucose Management:**
+        *   Maintain euglycemia.
+
+    *   **Cerebral Edema Management:**
+        *   IF patient develops cerebral edema causing herniation:
+            *   Elevate head.
+            *   Administer Tab. furosemide 40 mg OD.
+            *   Consider hyperventilation.
+
+    *   **Complication Prevention:**
+        *   Prevent infections (pneumonia, urinary, skin).
+        *   Prevent deep venous thrombosis (DVT) with pulmonary embolism.
+
+    *   **Intravenous Thrombolysis (Ischemic Stroke):**
+        *   IF patient meets indications for thrombolysis (see Table 1 criteria):
+            *   Administer rtPA (recombinant tissue plasminogen activator) according to dosage schedule in Table 1.
+            *   Monitor BP frequently.
+            *   Avoid other antithrombotic treatment for 24 hours.
+            *   IF neurologic decline or uncontrolled BP occurs during infusion:
+                *   Stop infusion.
+                *   Administer cryoprecipitate.
+                *   Reimage brain emergently.
+            *   Avoid urethral catheterization for 2 hours.
+
+    *   **Aspirin Therapy:**
+        *   Administer Tab. aspirin 75 mg OD (for general stroke management).
+        *   Recommend Tab. aspirin 75-325 mg/day for secondary prevention of stroke and TIA.
+
+    *   **Heparin Therapy:**
+        *   Administer Inj. heparin 5000 IU SC (mentioned but not elaborated in algorithm, likely outdated or specific context).
+
+    *   **Hemorrhagic Stroke Specifics:**
+        *   Administer Inj. mannitol 20% 1g/kg stat followed by 0.5 g/kg IV infusion.
+        *   Administer Inj. furosemide 40 mg IV stat.
+        *   Elevate head end.
+        *   Consider hyperventilation.
+        *   IF platelet count < 50,000/µl:
+            *   Transfuse fresh platelets.
+        *   IF cerebellar hemorrhage OR depressed mental status with hydrocephalus:
+            *   Urgent neurosurgical evaluation.
+
+    *   **Secondary Prevention:**
+        *   Control risk factors (hypertension, diabetes, dyslipidemia, smoking cessation).
+        *   IF patient has chronic nonvalvular AF or untreated rheumatic heart disease with AF:
+            *   Administer Tab. warfarin with target INR 2-3.
+
+5.  TABULAR DOSAGES:
+    *   **Table 1: Indications, contraindications and dosage schedule of thrombolytic agents in stroke**
+
+        *   **Indications:**
+            *   Clinical diagnosis of stroke.
+            *   Onset of symptom to drug administration < 3 hours.
+            *   CT scan showing no hemorrhage or edema of >1/3rd of middle cerebral artery (MCA) territory.
+            *   Age > 18 years.
+            *   Consent of patient.
+
+        *   **Contraindications:**
+            *   Sustained BP > 185/110 mm Hg despite treatment.
+            *   Platelets < 100,000.
+            *   HCT < 25%.
+            *   Glucose < 50 or > 400 mg/dl.
+            *   Use of heparin within 48 h and prolonged PTT, or elevated INR.
+            *   Rapidly improving symptoms.
+            *   Prior stroke or head injury within 3 months; prior intracranial hemorrhage.
+            *   Major surgery in preceding 14 days.
+            *   Minor stroke symptoms.
+            *   GI bleeding in preceding 21 days.
+            *   Recent myocardial infarction.
+            *   Coma or stupor.
+
+        *   **Administration:**
+            *   Administer rtPA (recombinant tissue plasminogen activator like alteplase or tenecteplase) 0.9 mg/kg IV (maximum 90 mg) IV as 10% of total dose by bolus, followed by remainder of total dose over 1 h.
+            *   Frequent cuff blood pressure monitoring.
+            *   No other antithrombotic treatment for 24 h.
+            *   For decline in neurologic status or uncontrolled blood pressure, stop infusion, give cryoprecipitate, and reimage brain emergently.
+            *   Avoid urethral catheterization for 2 h.
+
+6.  CONTRAINDICATIONS:
+    *   **Thrombolysis (rtPA):**
+        *   IF BP is sustained > 185/110 mm Hg despite treatment.
+        *   IF Platelets are < 100,000.
+        *   IF HCT is < 25%.
+        *   IF Glucose is < 50 or > 400 mg/dl.
+        *   IF Heparin was used within 48 hours AND PTT is prolonged OR INR is elevated.
+        *   IF Symptoms are rapidly improving.
+        *   IF Prior stroke or head injury within 3 months OR prior intracranial hemorrhage.
+        *   IF Major surgery within 14 days.
+        *   IF Minor stroke symptoms.
+        *   IF GI bleeding within 21 days.
+        *   IF Recent myocardial infarction.
+        *   IF Coma or stupor.
+    *   **Platelet Transfusion:**
+        *   NOT indicated unless platelet count is < 50,000/µl (in the context of hemorrhagic stroke).
+```

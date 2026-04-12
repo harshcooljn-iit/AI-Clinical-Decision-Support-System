@@ -1,0 +1,79 @@
+```text
+DISEASE: Candidiasis
+
+ABBREVIATIONS:
+- KOH: Potassium Hydroxide
+- Cap.: Capsule
+
+DIAGNOSTICS:
+- Clinical examination (characteristic lesions).
+- Microscopy: Demonstration of Candida species (yeast cells, mycelia) using 10% KOH preparation.
+
+TREATMENT ALGORITHM:
+
+IF Disease is Candidiasis THEN
+
+    // Non-pharmacological treatment (General measures)
+    THEN
+        IF Patient has Candidiasis THEN
+            THEN
+                // General hygiene measures
+                Daily bath and maintain personal hygiene.
+                Keep the affected area dry and clean.
+
+                // Address underlying conditions
+                IF Patient has Diabetes Mellitus THEN
+                    Control of diabetes mellitus.
+                ENDIF
+
+                // Specific care
+                IF Patient uses dental prosthesis THEN
+                    Care of dental prosthesis.
+                ENDIF
+
+                // Diaper care
+                IF Patient is an infant using diapers THEN
+                    Avoid prolonged use of diaper.
+                ENDIF
+            ENDIF
+        ENDIF
+
+    // Pharmacological treatment
+    THEN
+        // Topical treatment
+        IF Candidiasis is localized (e.g., skin, oral, vulvovaginal) THEN
+            THEN
+                Apply topical antifungals such as:
+                    - 1% clotrimazole cream
+                    - 1% ciclopirox cream
+                    - 2% miconazole nitrate cream
+                // Other topical options may exist based on specific guidelines not provided.
+            ENDIF
+        ENDIF
+
+        // Vulvovaginal Candidiasis - Specific treatment
+        IF Candidiasis is Vulvovaginitis THEN
+            THEN
+                // Topical treatment (as above)
+                Apply topical antifungals such as:
+                    - 1% clotrimazole cream
+                    - 1% ciclopirox cream
+                    - 2% miconazole nitrate cream
+                // OR
+                // Vaginal pessaries
+                Use clotrimazole vaginal pessaries.
+            ENDIF
+        ENDIF
+
+        // Systemic treatment
+        IF Candidiasis is severe, recurrent, or involves difficult-to-treat areas THEN
+            THEN
+                Administer systemic antifungal therapy.
+                // Example:
+                Administer Cap. fluconazole 150mg as a single dose.
+            ENDIF
+        ENDIF
+
+    ENDIF
+ENDIF
+```

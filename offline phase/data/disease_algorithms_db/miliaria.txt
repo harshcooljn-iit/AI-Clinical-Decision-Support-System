@@ -1,0 +1,26 @@
+```text
+DISEASE: Miliaria
+
+ABBREVIATIONS:
+- None
+
+DIAGNOSTICS:
+- Clinical diagnosis based on characteristic skin lesions (vesicles, macules, papules) in hot/humid conditions.
+
+TREATMENT ALGORITHM:
+
+IF infection is present THEN
+    Administer systemic antibacterial medication.
+ELSE
+    Implement non-pharmacological treatment.
+
+IF non-pharmacological treatment is indicated THEN
+    Recommend cool baths.
+    Recommend aeration.
+    Advise avoidance of heat.
+    Advise avoidance of occlusion (e.g., tight clothing, oils, creams, cosmetics).
+
+IF pharmacological treatment is indicated THEN
+    Recommend Calamine lotion.
+    Recommend Talc.
+```

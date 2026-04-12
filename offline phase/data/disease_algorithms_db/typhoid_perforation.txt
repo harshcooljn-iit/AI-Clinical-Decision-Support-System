@@ -1,0 +1,47 @@
+```text
+DISEASE: Typhoid Perforation
+
+ABBREVIATIONS:
+- Inj.: Injection
+- gm: gram
+- IV: Intravenous
+- tab: tablet
+- mg: milligram
+- TC: Total Count (likely referring to White Blood Cell count)
+- DC: Differential Count (likely referring to White Blood Cell differential)
+- Widal test: Widal test (for typhoid fever diagnosis)
+- X ray: X-ray
+
+DIAGNOSTICS:
+- Patient history: Residence or recent visit to an endemic area, presentation in the 2nd or 3rd week of illness.
+- Clinical presentation: High temperature, toxic appearance, Ross spots, abdominal pain, malena, diarrhea, abdominal tenderness, and guarding.
+- Laboratory findings: TC and DC showing relative neutropenia, positive Widal test.
+- Culture: Positive Blood and Stool culture for _Salmonella typhi_.
+- Imaging: X-ray abdomen standing showing free gas under the diaphragm.
+
+TREATMENT ALGORITHM:
+
+IF Patient presents with signs and symptoms suggestive of Typhoid Perforation:
+    THEN Admit patient to Intensive Care Unit (ICU).
+    THEN Initiate vigorous fluid resuscitation.
+
+    // Surgical Treatment
+    THEN Perform emergency exploratory laparotomy.
+    THEN Identify the site of perforation (commonest site is terminal ileum).
+    THEN Look for additional perforations.
+    THEN Consider exteriorization for very ill patients.
+    THEN Close the peritoneum.
+    THEN Leave the wound open for secondary healing.
+
+    // Pharmacological Treatment (Post-Surgery)
+    THEN Administer Inj. ceftriaxone:
+        IF Loading dose required:
+            THEN Administer 2 gm IV once.
+        THEN Administer 1 gm IV every 8 hours.
+
+    THEN Administer Tab. metronidazole:
+        THEN Administer 400 mg IV every 8 hours.
+
+CONTRAINDICATIONS:
+(None specified in the provided text for the listed medications in this specific context, but general contraindications for ceftriaxone and metronidazole would apply if known).
+```

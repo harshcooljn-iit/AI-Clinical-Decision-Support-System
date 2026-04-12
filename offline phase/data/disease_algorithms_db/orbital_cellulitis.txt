@@ -1,0 +1,60 @@
+```text
+DISEASE: Orbital Cellulitis
+
+ABBREVIATIONS:
+- TDS: Three times a day
+- Inj.: Injection
+- gm: gram
+- mg: milligram
+- kg: kilogram
+
+DIAGNOSTICS:
+- Clinical symptoms: Swelling of eyelids, severe pain increased by eye movement/pressure, fever, nausea, vomiting, possible vision loss.
+- Physical exam: Marked lid swelling, conjunctival chemosis, restriction of ocular movements, possible fundus examination findings (retinal vein congestion, papillitis, papilloedema).
+- Laboratory/Imaging: Bacterial cultures (nasal, conjunctival swabs, blood), X-ray (sinusitis), orbital ultrasonography (abscess).
+
+TREATMENT ALGORITHM:
+
+IF Patient has Orbital Cellulitis THEN
+
+  // Non-pharmacological treatment
+  Warm compresses should be applied.
+
+  // Pharmacological treatment
+  Obtain nasal, conjunctival, and blood culture samples.
+
+  // Antibiotic Therapy - Option 1: Amoxicillin and Clavulanic Acid
+  IF Choosing Amoxicillin and Clavulanic Acid THEN
+    Administer Tab. amoxicillin and clavulanic acid 625mg TDS.
+  ENDIF
+
+  // Antibiotic Therapy - Option 2: Cefotaxime
+  IF Choosing Cefotaxime THEN
+    IF Patient is an adult THEN
+      Administer Inj. cefotaxime 1-2 gm every 12 hours.
+    ELSEIF Patient is a child THEN
+      Administer Inj. cefotaxime 100-150 mg/kg/dose, given in 2 to 3 divided doses per day.
+    ENDIF
+  ENDIF
+
+  // Antibiotic Adjustment
+  Change antibacterials based on culture sensitivity reports.
+  Continue antibiotics until resolution of symptoms.
+
+  // Alternative Antibiotics
+  IF Cefotaxime or Amoxicillin/Clavulanate are not suitable OR as alternatives THEN
+    Consider Ciprofloxacin or Vancomycin.
+  ENDIF
+
+  // Analgesics/Anti-inflammatories
+  Administer analgesic and anti-inflammatory drugs for pain and fever control.
+
+  // Surgical Intervention
+  IF Patient is unresponsive to antibacterials AND/OR
+     Patient has decrease in vision AND/OR
+     Patient has an orbital or subperiosteal abscess THEN
+    Surgical intervention is needed.
+  ENDIF
+
+ENDIF
+```

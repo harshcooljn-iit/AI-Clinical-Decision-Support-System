@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "Does the patient feel exhausted or fatigued? (Yes/No)",
+        "Does the patient have frequent vomiting? (Yes/No)",
+        "Does the patient have fever? (Yes/No)",
+        "Does the fever abate after jaundice appears? (Yes/No)",
+        "Does the patient exhibit any of the following: Alteration in sleep pattern, altered behaviour, abnormal movements, persistent vomiting, dehydration, decreased urinary output, bleeding from any site, or any other complication? (Yes/No)"
+    ]
+}

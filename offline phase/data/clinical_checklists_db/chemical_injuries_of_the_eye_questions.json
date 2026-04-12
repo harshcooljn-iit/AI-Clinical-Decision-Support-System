@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "What is the severity grade of the chemical injury (1-4)?",
+        "Does the patient have renal disease? (Yes/No)"
+    ]
+}

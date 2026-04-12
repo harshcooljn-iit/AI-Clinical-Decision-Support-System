@@ -1,0 +1,16 @@
+{
+    "questions": [
+        "Does the patient have acute inflammation? (Yes/No)",
+        "Is the patient elderly? (Yes/No)",
+        "Does the patient have impaired renal function? (Yes/No)",
+        "Is the patient using more than one NSAID? (Yes/No)",
+        "Is the patient initiating DMARD therapy? (Yes/No)",
+        "Does the patient experience nausea, mouth sores, liver damage, increased chest infections, or macrocytic anaemia? (Yes/No)",
+        "Does the patient have severe disease affecting activities of daily living AND not responding to adequate trial of NSAIDs and DMARD for sufficient duration? (Yes/No)",
+        "Does the patient have predominantly monoarticular arthritis of a large joint? (Yes/No)",
+        "Does the patient have no response to medical therapy after 4-8 weeks OR has severe extra-articular symptoms, deformities, contractures OR is crippled/unable to carry out activities of daily living despite adequate medical treatment? (Yes/No)",
+        "Does the patient have predominantly monoarticular involvement not responding to conservative therapy? (Yes/No)",
+        "Does the patient have disorganized joints? (Yes/No)",
+        "Is the patient receiving methotrexate? (Yes/No)"
+    ]
+}

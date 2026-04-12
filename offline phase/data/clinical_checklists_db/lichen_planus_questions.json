@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "What is the severity of the Lichen Planus (Mild, Moderate, or Severe)?",
+        "Is the patient pregnant? (Yes/No)"
+    ]
+}

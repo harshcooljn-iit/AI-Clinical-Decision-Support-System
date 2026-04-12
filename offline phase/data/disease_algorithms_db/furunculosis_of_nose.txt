@@ -1,0 +1,65 @@
+```text
+DISEASE: Furunculosis Of Nose
+
+ABBREVIATIONS:
+- Cap: Capsule
+- Tab: Tablet
+- IV: Intravenous
+- mg: milligram
+- kg: kilogram
+- hrly: hourly
+- q.i.d.: four times a day
+- prn: as needed
+- DM: Diabetes Mellitus
+
+DIAGNOSTICS:
+- Clinical presentation: Severe pain and tenderness over the tip of the nose, possible headache, malaise, pyrexia.
+- Examination findings: Congestion and swelling of the nasal vestibule.
+- Etiology: Acute infection of a hair follicle, typically caused by _Staphylococcus aureus_.
+
+TREATMENT ALGORITHM:
+
+IF Patient has Furunculosis of Nose THEN
+
+    // Non-pharmacological treatment
+    APPLY Local moist heat to enhance localization and promote drainage.
+
+    // Pharmacological treatment - Antibiotics
+    IF Patient is an adult THEN
+        ADMINISTER Cap. amoxicillin 500mg 8hrly for 5-7 days
+        OR
+        ADMINISTER Cap. amoxicillin 250/500mg plus clavulanic acid 125mg 8 hrly for 5-7 days
+    ELSE IF Patient is a child THEN
+        ADMINISTER Cap. amoxicillin 25-50mg/kg/day in 3 divided doses for 5-7 days
+        OR
+        ADMINISTER Cap. amoxicillin 250/500mg plus clavulanic acid 125mg 8 hrly for 5-7 days
+    ENDIF
+
+    // Pharmacological treatment - Analgesics/Antipyretics
+    ADMINISTER Tab ibuprofen 400-600mg 3 times a day for 5 days
+    OR
+    ADMINISTER Tab paracetamol 500 mg 6hrly for 2-3 days, then as needed until pain and fever subside.
+
+    // Pediatric Analgesics/Antipyretics
+    IF Patient is a child THEN
+        ADMINISTER Tab paracetamol 10mg/kg/dose 6-8hrly
+    ENDIF
+
+    // Monitoring and Escalation
+    MONITOR Patient regularly for improvement in pain, tenderness, and inflammation within 24-48 hours.
+
+    IF Improvement is not seen OR Spreading facial cellulitis develops THEN
+        HOSPITALIZE Patient.
+        ADMINISTER Systemic IV antibiotics.
+    ENDIF
+
+    // Recurrent Cases
+    IF Patient has recurrent furunculosis THEN
+        INVESTIGATE Patient for Diabetes Mellitus (DM).
+    ENDIF
+
+ENDIF
+
+CONTRAINDICATIONS:
+- No specific contraindications listed for the mentioned treatments in this guideline. Standard contraindications for antibiotics (e.g., penicillin allergy for amoxicillin) and analgesics (e.g., NSAID allergy/GI issues for ibuprofen, liver issues for paracetamol) apply but are not detailed here.
+```

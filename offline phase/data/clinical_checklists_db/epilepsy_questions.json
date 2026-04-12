@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "What is the type of seizure (Generalized tonic clonic, Focal, Typical absence, Atypical absence, myoclonic, atonic)?",
+        "Is the patient pregnant? (Yes/No)"
+    ]
+}

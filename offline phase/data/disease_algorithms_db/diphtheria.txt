@@ -1,0 +1,37 @@
+```text
+DISEASE: Diphtheria
+
+ABBREVIATIONS:
+- IU: International Units
+- Kg: Kilogram
+- IV: Intravenous
+- DTP: Diphtheria, Tetanus, Pertussis vaccine
+
+DIAGNOSTICS:
+- Clinical presentation: Fever, chills, fatigue, sore throat, hoarseness, cough, difficulty swallowing, painful swallowing, difficulty breathing, foul-smelling bloodstained nasal discharge.
+- Etiological agent: Corynebacterium diphtheriae.
+
+TREATMENT ALGORITHM:
+
+IF patient has Diphtheria THEN
+    // Non-pharmacological treatment
+    Hydrate patient.
+    Maintain airway.
+    IF hypoxia is present THEN
+        Perform tracheotomy.
+    ENDIF
+
+    // Pharmacological treatment
+    Administer Inj. diphtheria Antitoxin 20000 to 100000 IU after test dose.
+
+    // Antibiotic treatment
+    IF patient is NOT allergic to penicillin THEN
+        Administer Inj. crystalline penicillin 1,00,000-1,50,000 IU/Kg/Day IV in 4 divided doses for 14 days.
+    ELSE
+        Administer erythromycin 40 mg/kg/day in 4 divided doses for 14 days.
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+- Penicillin allergy is a contraindication for Inj. crystalline penicillin.
+```

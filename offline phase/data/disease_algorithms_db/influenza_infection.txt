@@ -1,0 +1,102 @@
+```text
+DISEASE: Influenza Infection
+
+ABBREVIATIONS:
+- BD: Twice daily
+- IV: Intravenous
+- RT-PCR: Reverse Transcription Polymerase Chain Reaction
+- CDC: Centers for Disease Control and Prevention
+- H1N1: Hemagglutinin 1, Neuraminidase 1
+- H3N2: Hemagglutinin 3, Neuraminidase 2
+- H3N1: Hemagglutinin 3, Neuraminidase 1
+- ARDS: Acute Respiratory Distress Syndrome
+- PaO2: Partial pressure of oxygen
+- SpO2: Peripheral capillary oxygen saturation
+- SBP: Systolic Blood Pressure
+- HEPA: High-Efficiency Particulate Air
+- RT-PCR: Reverse Transcription Polymerase Chain Reaction
+- Hb: Hemagglutinin B (likely referring to H2 in the context of probable case definition)
+
+DIAGNOSTICS:
+- Confirmed case: Acute febrile respiratory illness with laboratory confirmation (realtime RT-PCR, viral culture, or fourfold increase in H1N1 virus specific neutralizing antibodies).
+- Probable case: Acute respiratory illness positive for influenza A but negative for H2 and HB by RT-PCR.
+- Suspected case: Acute febrile respiratory illness with close contact with a confirmed swine-origin influenza case or travel to/residence in a community with confirmed cases.
+
+TREATMENT ALGORITHM:
+
+IF patient has confirmed, probable, or suspected H1N1 infection THEN
+    // Treatment
+    IF patient is < 15 kg THEN
+        Administer oseltamivir 30 mg BD for 5 days.
+    ELSE IF patient is 15-23 kg THEN
+        Administer oseltamivir 45 mg BD for 5 days.
+    ELSE IF patient is 24 ≤ 40 kg THEN
+        Administer oseltamivir 60 mg BD for 5 days.
+    ELSE IF patient is > 40 kg THEN
+        Administer oseltamivir 75 mg BD for 5 days.
+    ENDIF
+
+    // Infants specific dosing
+    IF patient age is < 3 months THEN
+        Administer oseltamivir 12 mg BD for 5 days.
+    ELSE IF patient age is 3-5 months THEN
+        Administer oseltamivir 20 mg BD for 5 days.
+    ELSE IF patient age is 6-11 months THEN
+        Administer oseltamivir 25 mg BD for 5 days.
+    ENDIF
+
+    // Supportive Therapy
+    Administer IV fluids, parenteral nutrition, oxygen therapy, or ventilatory support as needed.
+    Administer antibiotics for secondary infection if present.
+    Administer vasopressors for shock if present.
+    Administer paracetamol or ibuprofen for fever, myalgia, and headache.
+    Advise patient to drink plenty of fluids.
+    Advise smokers to avoid smoking.
+    For sore throat, consider topical decongestants, saline nasal drops, throat lozenges, and steam inhalation.
+
+    // Oxygen Therapy
+    IF patient has tachypnea, dyspnea, respiratory distress, or SpO2 < 90% THEN
+        Supplement with oxygen therapy.
+        Oxygen device choice depends on severity (e.g., oxygen cannula, simple mask, partial re-breathing mask, non re-breathing mask, oxygen hood/head box for children).
+    ENDIF
+
+    // Mechanical Ventilation
+    IF patient has severe pneumonia and acute respiratory failure (SpO2 < 90% and PaO2 < 60 mmHg with oxygen therapy) THEN
+        Support with mechanical ventilation (invasive preferred, non-invasive if unavailable).
+        Use HEPA filters on ventilator circuit/high flow oxygen masks.
+    ENDIF
+
+    // Hydration and Nutrition
+    Maintain hydration, electrolyte balance, and nutrition.
+
+    // Discharge
+    IF laboratory reports are negative THEN
+        Discharge patient after completing the full course of oseltamivir.
+    ENDIF
+
+    // Follow-up
+    IF patient has strong epidemiological criteria (even with negative tests) THEN
+        Follow up the patient.
+    ENDIF
+
+    // Corticosteroids
+    IF patient has persisting septic shock (SBP < 90) THEN
+        Consider low dose corticosteroids (Tab. hydrocortisone 200-400 mg/day).
+    ENDIF
+
+    // Antibiotics
+    IF patient has pneumonia THEN
+        Administer antibiotics as per local guidelines.
+    ENDIF
+
+    IF patient is on mechanical ventilation THEN
+        Administer antibiotics prophylactically.
+    ENDIF
+
+ENDIF
+
+CONTRAINDICATIONS:
+IF patient has influenza infection THEN
+    DO NOT administer salicylate / aspirin due to the risk of Reye's syndrome.
+ENDIF
+```

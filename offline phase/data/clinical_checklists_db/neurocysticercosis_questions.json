@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "Does the patient have T. solium tapeworms in stool? (Yes/No)",
+        "Does the patient require treatment for neurocysticercosis cysts? (Yes/No)",
+        "Does the patient have seizures? (Yes/No)",
+        "Is the patient pediatric? (Yes/No)",
+        "Does the patient require treatment to avoid inflammatory response in CNS? (Yes/No)",
+        "Do the patient's cysts have failed to resolve with anti-helminthic treatment AND are causing severe neurologic sequelae? (Yes/No)"
+    ]
+}

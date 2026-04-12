@@ -1,0 +1,50 @@
+```text
+DISEASE: Pediculosis
+ABBREVIATIONS:
+    - P. capitis: Pediculosis humanus capitis (head louse)
+    - P. corporis: Pediculosis humanus corporis (body louse)
+    - Phthiriasis pubis: Pediculosis humanus pubis (pubic louse)
+    - GBHC: Gamma Benzene Hexachloride
+    - Tab: Tablet
+    - mg: Milligram
+    - ml: Milliliter
+    - q.d.: Every day
+    - t.i.d.: Three times a day
+    - P.O.: By mouth
+
+DIAGNOSTICS:
+    - P. capitis: Finding lice in the occipital region.
+    - P. corporis: Finding lice in the sieves of clothes.
+    - Phthiriasis pubis: Finding lice and nits in the pubic region.
+
+TREATMENT ALGORITHM:
+    IF Disease is Pediculosis:
+        THEN Consider non-pharmacological treatment.
+        IF Non-pharmacological treatment is chosen:
+            THEN Maintain personal hygiene.
+            THEN Disinfect bedding and clothing.
+            THEN Treat all family members simultaneously.
+            IF Disease is Phthiriasis pubis:
+                THEN Consider shaving pubic hair.
+                THEN Treat partner(s).
+        ELSE Consider pharmacological treatment.
+            IF Pharmacological treatment is chosen:
+                THEN Consider antihistamines for itching.
+                    IF Antihistamines are chosen:
+                        IF Itching is present:
+                            THEN Administer Tab. cetirizine 10mg q.d. for 7 days.
+                            OR
+                            THEN Administer Tab. pheniramine maleate 25 mg t.i.d. for 7 days.
+                THEN Consider topical treatment based on type of pediculosis.
+                    IF Disease is P. capitis (head louse infestation):
+                        THEN Apply Lotion GBHC/ permethrin 1% to the scalp.
+                        THEN Leave on for more than 30 minutes.
+                        THEN Wash off.
+                    IF Disease is P. corporis (body louse infestation):
+                        THEN Treatment options not specified in text.
+                    IF Disease is Phthiriasis pubis (pubic louse infestation):
+                        THEN Treatment options not specified in text.
+
+CONTRAINDICATIONS:
+    - None specified in the provided text for the listed treatments.
+```

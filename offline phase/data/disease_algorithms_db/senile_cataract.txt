@@ -1,0 +1,36 @@
+```text
+DISEASE: Senile Cataract
+ABBREVIATIONS: None found in the provided text.
+DIAGNOSTICS:
+- Gradual painless progressive diminution of vision.
+- Symptoms: Glare, uniocular diplopia or polyopia, coloured haloes, distortion of images, misty vision, fixed black spots.
+- Ocular examination: Greyish white to white lenticular opacity (torch light).
+- Visual acuity: 6/9 to perception of light (depending on stage).
+- Slit-lamp examination: Complete morphology of opacity (site, size, shape, colour pattern, nucleus hardness) with a fully-dilated pupil.
+
+TREATMENT ALGORITHM:
+IF Patient has Senile Cataract THEN
+    IF Patient desires treatment THEN
+        IF Patient is a candidate for surgery (based on visual impairment and symptoms) THEN
+            IF Patient understands the risks and benefits of surgery THEN
+                IF Patient consents to surgery THEN
+                    THEN Perform surgical treatment (Small Incision Cataract Surgery or Phacoemulsification).
+                ELSE
+                    THEN Discuss alternative options or reasons for not proceeding.
+                ENDIF
+            ELSE
+                THEN Counsel patient on risks and benefits of surgery.
+            ENDIF
+        ELSE
+            THEN Discuss reasons for not being a surgical candidate.
+        ENDIF
+    ELSE
+        THEN Discuss non-surgical management options (if any, though none halt progression) and expected visual outcomes.
+    ENDIF
+ELSE
+    THEN Consider alternative diagnoses.
+ENDIF
+
+CONTRAINDICATIONS:
+- No specific contraindications listed for surgery in the provided text, but general surgical contraindications apply (e.g., severe systemic illness, uncooperative patient).
+```

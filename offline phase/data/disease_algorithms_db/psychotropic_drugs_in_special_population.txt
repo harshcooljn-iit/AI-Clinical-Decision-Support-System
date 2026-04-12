@@ -1,0 +1,68 @@
+```text
+DISEASE: Psychotropic Drugs In Special Population
+
+ABBREVIATIONS:
+- N/A (No abbreviations found in the provided text)
+
+DIAGNOSTICS:
+- N/A (The text provides treatment recommendations, not diagnostic criteria)
+
+TREATMENT ALGORITHM:
+
+A. Renal Impairment:
+  IF Drug group is Antipsychotics THEN
+    Recommended drugs: Haloperidol, olanzapine
+  ELSE IF Drug group is Antidepressants THEN
+    Recommended drugs: Citalopram, sertraline
+  ELSE IF Drug group is Mood stabilizers THEN
+    Recommended drugs: Valproate, carbamazepine, lamotrigine
+  ELSE IF Drug group is Anxiolytics and hypnotics THEN
+    Recommended drugs: Lorazepam, zopiclone
+  ENDIF
+
+B. Hepatic Impairment:
+  IF Drug group is Antipsychotics THEN
+    Recommended drugs: Haloperidol, sulpiride, amisulpiride
+  ELSE IF Drug group is Antidepressants THEN
+    Recommended drugs: Imipramine, paroxetine, citalopram
+  ELSE IF Drug group is Mood stabilizers THEN
+    Recommended drugs: Lithium
+  ELSE IF Drug group is Anxiolytics and hypnotics THEN
+    Recommended drugs: Lorazepam, oxazepam, temazepam, zopiclone
+  ENDIF
+
+C. Pregnancy:
+  IF Drug group is Antipsychotics THEN
+    Recommended drugs: Chlorpromazine, haloperidol, trifluperazine
+  ELSE IF Drug group is Antidepressants THEN
+    Recommended drugs: Nortriptyline, amitriptyline, fluoxetine
+  ELSE IF Drug group is Mood stabilizers THEN
+    Consider using anti-psychotics
+  ELSE IF Drug group is Anxiolytics and hypnotics THEN
+    Non pharmacological measures preferred
+  ENDIF
+
+D. Breast Feeding:
+  IF Drug group is Antipsychotics THEN
+    Recommended drugs: Sulpiride, olanzapine
+  ELSE IF Drug group is Antidepressants THEN
+    Recommended drugs: Sertraline, paroxetine, imipramine, nortriptyline
+  ELSE IF Drug group is Mood stabilizers THEN
+    Consider using anti-psychotics
+  ELSE IF Drug group is Anxiolytics and hypnotics THEN
+    Recommended drugs: Lorazepam, zolpidem
+  ENDIF
+
+MANAGEMENT OF WANDERING MENTALLY ILL PATIENT:
+  IF Patient is wandering aimlessly or exhibiting socially disorganized behavior in public THEN
+    Approach the local police station.
+    The police station in charge has a duty to take the patient to a Magistrate.
+    The Magistrate can issue a reception order for admission to a mental hospital after examination.
+  ENDIF
+  IF Patient is willing to consent THEN
+    Admission to mental hospital can be voluntary.
+  ENDIF
+  IF Family members request admission THEN
+    Admission to mental hospital can be under special circumstances.
+  ENDIF
+```

@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Is the patient immuno-compromised (e.g., on long-term steroids, anti-cancer drugs, immunosuppressives, HIV positive)? (Yes/No)",
+        "Does the patient have chronic cutaneous/pulmonary disorders? (Yes/No)",
+        "Is the patient at increased risk of severe disease? (Yes/No)",
+        "What is the time elapsed since rash onset in hours?",
+        "Is the patient severely immuno-compromised or an adult with severe disease? (Yes/No)",
+        "Is the patient a contact of a severely immunocompromised or pregnant individual (especially first trimester)? (Yes/No)",
+        "Is the patient pregnant? (Yes/No)"
+    ]
+}

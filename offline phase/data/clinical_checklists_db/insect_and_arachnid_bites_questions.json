@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "Is the bite or sting minor (redness, swelling, itching)? (Yes/No)",
+        "Is the bite or sting painful or swollen? (Yes/No)",
+        "Are there severe side-effects (e.g., severe swelling, systemic symptoms)? (Yes/No)",
+        "Does the person collapse, complain of wheezing, feeling of anxiety or faintness, generalized itching, or tightness in the chest within 1 hour of being stung? (Yes/No)",
+        "What is the patient's exact age in years?",
+        "Does the patient have any allergies? (Yes/No)"
+    ]
+}

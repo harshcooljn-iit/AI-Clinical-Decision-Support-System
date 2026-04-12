@@ -1,0 +1,11 @@
+{
+    "questions": [
+        "Does the patient prefer topical therapy? (Yes/No)",
+        "Are the lesions localized? (Yes/No)",
+        "Is the treatment setting a tertiary care center? (Yes/No)",
+        "Are the lesions progressive? (Yes/No)",
+        "Are the lesions unresponsive to topical agents? (Yes/No)",
+        "Is the patient suitable for pulsed therapy? (Yes/No)",
+        "Are systemic corticosteroids contraindicated or ineffective? (Yes/No)"
+    ]
+}

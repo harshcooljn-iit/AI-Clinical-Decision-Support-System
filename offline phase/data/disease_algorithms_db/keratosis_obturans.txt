@@ -1,0 +1,31 @@
+```text
+DISEASE: Keratosis Obturans
+
+ABBREVIATIONS:
+- ENT: Ear, Nose, and Throat
+- GA: General Anaesthesia
+
+DIAGNOSTICS:
+- Otoscopy showing cerumen admixed with desquamated debris, external canal granulations, and potentially bone erosion.
+- Clinical symptoms: Difficulty in hearing, severe pain, serosanguinous discharge.
+
+TREATMENT ALGORITHM:
+
+IF initial treatment is indicated THEN
+    IF softening the mass is chosen THEN
+        IF using sodium bicarbonate ear drops THEN
+            THEN administer sodium bicarbonate ear drops daily for several days.
+            FOLLOWED BY syringing.
+        ENDIF
+    ENDIF
+ELSE
+    IF removal under general anaesthesia is indicated THEN
+        IF using a microscope THEN
+            THEN perform removal under general anaesthesia using a microscope.
+        ENDIF
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+- None specified in the provided text.
+```

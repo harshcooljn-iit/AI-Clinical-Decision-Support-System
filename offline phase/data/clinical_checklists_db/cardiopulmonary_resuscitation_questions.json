@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "Is the patient unresponsive and not breathing normally (or only gasping)? (Yes/No)",
+        "Is a definite pulse present within 10 seconds? (Yes/No)",
+        "Is an AED/defibrillator available? (Yes/No)",
+        "What rhythm is identified by the AED/defibrillator? (Shockable - VT/VF, or Not Shockable - Asystole/PEA)",
+        "Is the patient in cardiac arrest (no pulse)? (Yes/No)",
+        "What is the rhythm identified by the monitor/defibrillator? (Shockable - VT/VF, or Not Shockable - Asystole/PEA)"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "What is the Maggit's classification Grade (0-5)?",
+        "Is the patient pregnant? (Yes/No)"
+    ]
+}

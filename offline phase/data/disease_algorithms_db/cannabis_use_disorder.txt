@@ -1,0 +1,38 @@
+```text
+DISEASE: Cannabis Use Disorder
+
+ABBREVIATIONS:
+- N/A (No abbreviations found in the provided text)
+
+DIAGNOSTICS:
+- Characterized by repetitive and compulsive consumption of cannabis (ganja, charas, etc.).
+- Recent intake symptoms: impaired motor coordination, euphoria, anxiety, slowed perception of time, impaired judgment, social withdrawal, conjunctival congestion, increased appetite, dry mouth, tachycardia.
+- Chronic dependence can lead to apathy.
+- Mild withdrawal symptoms: restlessness, craving for cannabis, dysphoria.
+
+TREATMENT ALGORITHM:
+
+IF patient has Cannabis Use Disorder THEN
+    // Non-pharmacological treatment
+    THEN provide Motivation enhancing counseling.
+    THEN provide individual counseling.
+    THEN provide family counseling.
+    THEN provide group counseling.
+
+    // Pharmacological treatment (Symptomatic)
+    IF patient has nausea symptoms THEN
+        THEN provide symptomatic treatment for nausea.
+    IF patient has insomnia symptoms THEN
+        THEN provide symptomatic treatment for insomnia.
+    IF patient has anxiety symptoms THEN
+        THEN provide symptomatic treatment for anxiety.
+
+    // Withdrawal Management
+    IF patient is experiencing mild cannabis withdrawal symptoms (restlessness, craving, dysphoria) THEN
+        THEN provide only symptomatic treatment for withdrawal symptoms.
+    ENDIF
+ELSE
+    // Condition not met
+    THEN diagnosis is not Cannabis Use Disorder based on provided criteria.
+ENDIF
+```

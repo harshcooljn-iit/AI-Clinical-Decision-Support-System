@@ -1,0 +1,78 @@
+```text
+DISEASE: Atopic Conjunctivitis (Vernal Keratoconjunctivitis - VKC)
+
+ABBREVIATIONS:
+- VKC: Vernal Keratoconjunctivitis
+- QID: Four times a day
+- OD: Once daily
+- BD: Twice daily
+- TDS: Three times daily
+- IOP: Intraocular Pressure
+- QID: Four times a day
+
+DIAGNOSTICS:
+- Recurrent bilateral disorder.
+- IgE- and cell-mediated immune mechanisms.
+- Primarily affects boys, onset from age 5 (mean age 7).
+- Symptoms: Marked itching, thick ropy discharge, seasonal occurrence (spring/summer).
+- History of atopy may be present.
+- Large conjunctival papillae (upper eyelid or limbus - limbal VKC), cobblestone appearance.
+- Superior corneal "shield" ulcer (well-delineated, sterile, gray-white infiltrate) may be present.
+
+TREATMENT ALGORITHM:
+
+IF patient has Atopic Conjunctivitis:
+    THEN treat as for allergic conjunctivitis.
+
+    IF patient requires prophylactic treatment before the season starts:
+        THEN use:
+            - Mast cell stabilizer (e.g., sodium chromoglycate QID)
+            OR
+            - Dual action mast cell stabilizer and antihistamine (e.g., olopatadine 0.1% OD/BD)
+            OR
+            - Ketotifen 0.025%
+            OR
+            - Azelastine 0.05%
+        FOR 2 to 3 weeks.
+
+    IF patient has a shield ulcer:
+        THEN add topical steroid (e.g., loteprednol 0.5%, flurometholone 0.1%, prednisolone 1%).
+        THEN administer steroid four to six times per day.
+        THEN taper steroids over 4 weeks as condition improves.
+        THEN consider scraping the shield ulcer to remove superficial plaque-like material before re-epithelialization.
+
+    IF associated infection is present OR steroids are prescribed:
+        THEN give topical antibiotic (e.g., moxifloxacin 0.3% eye drop, tobramycin 1% QID).
+
+    IF cornea is involved AND there is much pain due to ciliary spasm:
+        THEN give cycloplegic agent (e.g., cyclopentolate 1% BD drops or atropine 1% TDS in form of drops or ointment).
+
+    IF patient is not responding to preceding treatment:
+        THEN consider cyclosporine 0.05% BD.
+        NOTE: Maximal effect may not be seen for several weeks.
+
+    FOLLOW-UP:
+        IF shield ulcer is present:
+            THEN follow-up every 1 to 3 days.
+        ELSE:
+            THEN follow-up every few weeks.
+
+    STERIOD TAPERING:
+        Taper steroids slowly as improvement is noted.
+
+    ANTI-ALLERGY DROPS MAINTENANCE:
+        Maintain anti-allergy drops for the duration of the season.
+        Often reinitiate a few weeks before the next spring.
+
+    MONITORING:
+        IF patient is on topical steroids:
+            THEN monitor regularly, including IOP monitoring, even if used only on the skin.
+
+    PATIENT EDUCATION:
+        - Avoid exposure to substances causing atopy.
+        - Maintain hygiene to prevent secondary infection.
+        - Instruct patients and relatives of children strictly not to use or continue steroids without medical advice.
+
+CONTRAINDICATIONS:
+- Steroids: Use with caution and monitor IOP. Avoid prolonged use without medical supervision, especially in children.
+```

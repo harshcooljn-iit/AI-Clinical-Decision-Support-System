@@ -1,0 +1,104 @@
+```text
+DISEASE: Snake Bite
+
+ABBREVIATIONS:
+- WHO: World Health Organization
+- ASV: Anti-snake venom
+- BP: Blood Pressure
+- PR: Pulse Rate
+- RR: Respiratory Rate
+- Hb: Hemoglobin
+- PT: Prothrombin Time
+- APTT: Activated Partial Thromboplastin Time
+- FDP: Fibrin Degradation Products
+- D-Dimer: D-Dimer
+- ELISA: Enzyme-Linked Immunosorbent Assay
+- Inj.: Injection
+- mg: Milligram
+- ml: Milliliter
+- tab: Tablet
+- hr: Hour
+- tab: Tablet
+- R: Reassure
+- I: Immobilize
+- G-H: Get to Hospital
+- T: Tell the doctor
+
+DIAGNOSTICS:
+- Clinical signs and symptoms (e.g., swelling, pain, bleeding, paralysis, ptosis).
+- Identification of snake (if possible).
+- Blood tests (clotting time, Hb, platelets, PT, APTT, FDP, D-Dimer).
+- Urine examination (proteinuria, RBC, hemoglobinuria, myoglobinuria).
+- Serum tests (creatinine, urea, potassium).
+- Vital signs (O2 saturation, BP, RR, postural BP).
+- ECG, X-Ray, CT, ultrasound (limited benefit).
+- ELISA for snake species confirmation.
+
+TREATMENT ALGORITHM:
+
+IF patient is bitten by a snake THEN
+    # First Aid
+    IF patient is conscious THEN
+        REASSURE patient and control anxiety (R)
+        IMMOBILIZE bitten part by splinting the limb (I)
+    ENDIF
+
+    # Emergency Management
+    GET patient to the nearest hospital (G-H)
+    TELL the doctor about symptoms (T)
+
+    # Things NOT to do
+    DO NOT apply tourniquet
+    DO NOT wash the bite site with soap or other solutions
+    DO NOT make cuts or incisions near the bite
+    DO NOT apply extreme cold or herbal/folk remedies
+    DO NOT suck venom
+    DO NOT give the victim drinks, alcohol, or drugs
+
+    # Initial Assessment and Stabilization
+    ENSURE airway, breathing, and shock management
+    RELIEVE pain with non-sedating analgesic (e.g., oral paracetamol)
+
+    # Determine Envenomation Status
+    IF there are definite signs of envenomation (coagulopathy or neurotoxicity) THEN
+        # Administer Anti-snake venom (ASV)
+        ADMINISTER polyvalent ASV (effective against Indian cobra, Russell's viper, saw-scaled viper, Indian krait)
+
+        # ASV Dosage
+        IF patient is an adult OR child THEN
+            INITIAL DOSE: 8 to 10 vials (each vial is 10 ml reconstituted ASV)
+            ADMINISTER ASV over 1 hour at a constant speed
+            MONITOR patient closely for 2 hours
+        ENDIF
+
+        # ASV Reactions
+        IF anaphylaxis is evident THEN
+            DISCONTINUE ASV
+            ADMINISTER Inj. hydrocortisone 100 mg + antihistamine OR Inj. adrenaline subcutaneously
+        ENDIF
+
+        # Repeat Dosing
+        IF coagulation is not restored THEN
+            REPEAT DOSE: 5-10 vials (half to one full dose) every 6 hours
+            UNTIL coagulation is restored
+            UNLESS a species is identified against which polyvalent ASV is ineffective
+        ENDIF
+
+        # Massive Envenomation
+        IF snake is King Cobra or Australian elapid (injects massive venom) THEN
+            MASSIVE DOSE: 50+ vials may be required
+        ENDIF
+
+    ELSE
+        # No signs of envenomation
+        OBSERVE patient closely for signs/symptoms of envenomation
+    ENDIF
+
+    # Follow-up
+    IF patient is discharged within 24 hours THEN
+        ADVISE patient to return if symptoms/signs worsen (bleeding, pain, swelling, difficulty breathing, altered sensorium)
+        EXPLAIN about signs/symptoms of serum sickness (may manifest after 5-10 days)
+    ENDIF
+
+ENDIF
+```

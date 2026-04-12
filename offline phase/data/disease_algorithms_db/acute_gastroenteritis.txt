@@ -1,0 +1,67 @@
+```text
+DISEASE: Acute Gastroenteritis
+
+ABBREVIATIONS:
+- ORS: Oral Rehydration Salt
+- IV: Intravenous
+- Tab: Tablet
+- mg: Milligram
+- ml: Milliliter
+- kg: Kilogram
+- °C: Celsius
+- AIDS: Acquired Immunodeficiency Syndrome
+- C. difficile: Clostridioides difficile
+- HIV: Human Immunodeficiency Virus
+
+DIAGNOSTICS:
+- Clinical presentation: Diarrhea, abdominal cramps, nausea, vomiting, dehydration, hypotension.
+- Stool tests (if indicated): Fecal leukocytes, routine stool culture, C. difficile assay, ova and parasite testing.
+
+TREATMENT ALGORITHM:
+
+IF Patient presents with Acute Diarrhea lasting less than 7 days:
+    THEN Assess for severe illness criteria:
+        IF Severe illness present (Temperature > 38.5 °C, abdominal pain, bloody diarrhea, >6 stools/24 hrs, dehydration) OR Patient is immunocompromised (e.g., AIDS, post-transplantation) OR Patient is elderly:
+            THEN Send stool for:
+                - Fecal leukocytes
+                - Routine stool culture
+                - C. difficile assay (if recent hospitalization or antibiotic use)
+                - Ova and parasite testing (if diarrhea > 10 days, travel to endemic region, community waterborne outbreak, or HIV infection in men who have sex with men)
+                Consider empiric antibiotic therapy while awaiting culture results IF Fecal leukocytes are positive OR Bloody diarrhea, fever, and abdominal pain are present.
+        ELSE (No severe illness, not immunocompromised, not elderly):
+            THEN Symptomatic therapy:
+                - Antidiarrheal agents (e.g., Loperamide, Bismuth Subsalicylate)
+            IF Illness resolves:
+                THEN No further action.
+            ELSE IF Illness persists for 7-10 days or worsens:
+                THEN Send stool for tests as described in the "Yes" branch (Fecal leukocytes, culture, C. difficile, Ova and parasite).
+
+    IF Patient requires rehydration:
+        IF Mild to moderate dehydration:
+            THEN Give Oral Rehydration Salt (ORS): 75 ml/kg in 4 hours.
+        IF Severe dehydration:
+            THEN Give IV fluid: 100 ml/kg.
+            - Give 30 ml/kg in 30 minutes.
+            - Followed by 70 ml/kg in 2½ hours.
+
+    IF Patient has very ill symptoms with systemic symptoms associated with bloody diarrhea:
+        THEN Consider Tab ciprofloxacin 500 mg two times a day for 3 to 5 days.
+
+    IF Patient has amoebic dysentery:
+        THEN Give Tab metronidazole 400 mg three times a day for 5 to 7 days OR Give Oral Tab tinidazole 600 mg twice a day for 3 to 5 days.
+
+    IF Patient has acute giardiasis:
+        THEN Give Tab tinidazole 1000 mg single dose OR Give Tab metronidazole 400 mg three times a day for 3 days.
+
+    IF Patient is hospitalized (due to dehydration, suspected cholera, immunocompromised, or severe systemic symptoms):
+        THEN Hospitalize.
+
+    IF Patient is not vomiting:
+        THEN Advise sips of fluid (juices, soups, ORS).
+
+    AVOID Milk and related products for at least 2 weeks due to potential secondary lactase deficiency.
+
+CONTRAINDICATIONS:
+- Loperamide, Bismuth Subsalicylate: Not specified in the text, but generally contraindicated in severe infections (e.g., invasive bacterial diarrhea, bloody diarrhea) or fever due to risk of worsening infection or toxic megacolon.
+- Milk and related products: Avoided for at least 2 weeks in acute gastroenteritis due to potential secondary lactase deficiency.
+```

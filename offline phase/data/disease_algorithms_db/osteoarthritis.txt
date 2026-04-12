@@ -1,0 +1,82 @@
+```text
+DISEASE: Osteoarthritis
+
+DIAGNOSTICS:
+- Pain, stiffness after rest, difficulty in climbing stairs, difficulty in getting up from squatting position, grating sensations and off and on episodes of flare and swelling.
+- Erythema and palpable warmth are possible but rare. Genu -varum deformity and/or fixed flexion contracture in severe cases.
+- Classical radiological triad - joint space narrowing, peripheral osteophyte formation and subchondral sclerosis.
+
+TREATMENT ALGORITHM:
+
+1.  **Assess Pain Level and Duration:**
+    IF pain is acute and moderate (initial 7-14 days):
+        THEN consider the following options:
+        IF patient prefers paracetamol:
+            THEN administer Tab. paracetamol 500 mg 4-6 hourly (maximum daily dose 4000 mg).
+        ELSE IF patient prefers ibuprofen:
+            THEN administer Tab. ibuprofen 400 -600 mg 2 or 3 times a day (maximum daily dose 3200 mg).
+        ELSE IF patient prefers diclofenac sodium:
+            THEN administer Tab. diclofenac sodium 50 mg 3 times a day or 75 mg 2 times a day (maximum daily dose 200 mg).
+        ELSE IF patient prefers aspirin:
+            THEN administer Tab. aspirin 350 mg 2 tablets 4-6 hourly (maximum daily dose 5000 mg).
+        ELSE
+            THEN consider other options or non-pharmacological measures.
+    ELSE IF pain is mild to moderate or chronic (for 3-6 weeks and then SOS):
+        THEN consider the following options:
+        IF using reduced frequency dosages of previously mentioned drugs:
+            THEN administer reduced frequency dosages of Tab. paracetamol, Tab. ibuprofen, Tab. diclofenac sodium, or Tab. aspirin.
+        ELSE IF using Tab. diclofenac sodium sustained release:
+            THEN administer Tab. diclofenac sodium 100 mg/75 mg sustained release once a day.
+        ELSE IF using Tab. piroxicam:
+            THEN administer Tab. piroxicam 20 mg once a day.
+        ELSE
+            THEN consider other options or non-pharmacological measures.
+    ELSE
+        THEN consider non-pharmacological treatment or referral.
+
+2.  **Non-pharmacological Treatment:**
+    IF patient is overweight:
+        THEN recommend weight reduction.
+    IF knee is acutely swollen:
+        THEN recommend cold fomentation.
+    ELSE IF patient has chronic pain:
+        THEN consider hot fomentation for symptomatic relief.
+    THEN recommend supervised non-traumatic muscle conditioning and rehabilitation regimens (e.g., isometric quadriceps strengthening exercise). Avoid vigorous exercises in acutely swollen/painful knee.
+    THEN recommend compressive bandage or crepe bandage for effusion.
+    THEN recommend assistive devices like cane (contralateral to more painful side), walker (severe deformities/unsteady gait), or brace (instability).
+
+3.  **Topical Applications:**
+    THEN consider topical applications containing salicylates, capsaicin, nicotinates, menthol, camphor, NSAIDs in various combinations for symptomatic relief.
+    IF topical application is used:
+        THEN avoid hot fomentation immediately after application.
+
+4.  **NSAID Caution and Monitoring:**
+    IF patient is on prolonged NSAID therapy:
+        THEN monitor haemoglobin, stool for occult blood.
+    IF patient experiences epigastric burning, nausea, or vomiting:
+        THEN discontinue NSAID and switch to a safer NSAID OR administer Cap. omeprazole 20 mg half an hour before breakfast.
+
+5.  **Referral:**
+    IF patient has persistent swelling, constitutional symptoms, or mechanical symptoms (locking, frequent giving away sensations):
+        THEN refer to an orthopaedic surgeon.
+    IF patient has severe deformities, contractures, or advanced disease with intractable pain affecting ADLs:
+        THEN consider surgical intervention.
+
+CONTRAINDICATIONS:
+- NSAIDs:
+    IF patient has a history of gastric irritation, nausea, vomiting, dyspepsia, GI ulceration, perforation, haemorrhage, or renal toxicity:
+        THEN use NSAIDs with caution or avoid them.
+    IF patient is on antihypertensive therapy:
+        THEN be aware that NSAIDs can interfere due to salt and water retention.
+    IF patient has leucopenia, thrombocytopenia, or agranulocytosis:
+        THEN use NSAIDs with caution or avoid them.
+    IF patient has known allergy to NSAIDs:
+        THEN avoid the specific NSAID.
+
+ABBREVIATIONS:
+- OA: Osteoarthritis
+- ADLs: Activities of Daily Living
+- GI: Gastrointestinal
+- NSAIDs: Non-Steroidal Anti-Inflammatory Drugs
+- SOS: As needed (from the Latin "si opus sit")
+```

@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "Is the patient dehydrated? (Yes/No)",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have a history of motion sickness? (Yes/No)"
+    ]
+}

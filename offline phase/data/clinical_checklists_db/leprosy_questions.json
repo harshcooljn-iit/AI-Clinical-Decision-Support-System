@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "How many skin lesions are present?",
+        "How many peripheral nerves are involved?",
+        "What is the result of the slit skin smear (Positive/Negative)?",
+        "Does the patient present with signs/symptoms of Lepra reaction? (Yes/No)"
+    ]
+}

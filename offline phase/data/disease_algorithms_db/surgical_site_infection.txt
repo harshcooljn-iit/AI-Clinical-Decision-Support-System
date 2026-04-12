@@ -1,0 +1,67 @@
+```text
+1.  DISEASE: Surgical Site Infection (SSI)
+
+2.  ABBREVIATIONS:
+    *   SSI: Surgical Site Infection
+    *   IV: Intravenous
+    *   ml: milliliter
+    *   kg: kilogram
+    *   tab: tablet
+    *   mg: milligram
+    *   F: Fahrenheit
+    *   °C: degrees Celsius
+    *   g: gram
+    *   h: hour
+    *   min: minute
+    *   p.o.: per os (by mouth)
+
+3.  DIAGNOSTICS:
+    *   Superficial SSI: Infection within 30 days, involving skin/subcutaneous tissue, with purulent drainage, positive culture from superficial incision, or signs/symptoms (pain, tenderness, swelling, redness, heat) plus surgeon/physician diagnosis.
+    *   Deep SSI: Infection within 30 days (no implant) or 1 year (implant), involving deep soft tissues, with purulent drainage from deep incision, deep incision dehiscence with fever/pain, or abscess/infection found on examination/re-op/histopathology/radiology, plus surgeon/physician diagnosis.
+    *   Organ/Space SSI: Infection within 30 days (no implant) or 1 year (implant), involving organs/spaces opened during surgery, with purulent discharge from drain, positive culture from organ/space, or abscess/infection found on examination/re-op/histopathology/radiology, plus surgeon/physician diagnosis.
+
+4.  TREATMENT ALGORITHM:
+
+    *   **Prophylaxis Timing:**
+        *   IF procedure is planned, THEN administer antibiotic prophylaxis before incision, preferably within 30 minutes.
+        *   IF caesarean section, THEN delay prophylaxis until cord clamping.
+        *   IF tourniquet is used, THEN administer antibiotic within 10 minutes of IV injection before tourniquet application.
+        *   IF unexpected contamination occurs during surgery, THEN administer antibiotic immediately.
+        *   IF prolonged operation with major blood loss, THEN surgeon may give an extra dose.
+
+    *   **Prophylaxis Duration:**
+        *   IF procedure duration is long, THEN re-administer antibiotic at 1-2 half-lives.
+        *   ELSE (for most procedures), THEN single dose is sufficient.
+
+    *   **Prophylaxis Route:**
+        *   IF IV administration is possible, THEN administer IV antibiotic immediately before or after anesthesia induction.
+
+    *   **Prophylaxis Dose Adjustment:**
+        *   IF blood loss is up to 1500 ml or haemodilution up to 15 ml/kg, THEN no additional dose is needed.
+        *   IF blood loss is >1500 ml, THEN give additional doses after fluid replacement.
+        *   IF cardiac surgery or intervention, THEN antibiotic prophylaxis is recommended.
+
+    *   **Antibiotic Selection:**
+        *   SELECT antibiotics covering common pathogens for the specific procedure.
+        *   CONSIDER local antimicrobial susceptibility data.
+        *   IF patient has a history of serious adverse event (e.g., penicillin allergy), THEN DO NOT administer that antibiotic.
+
+    *   **Postoperative Wound Management (General):**
+        *   IF wound is covered, THEN use occlusive dressings within 2 hours, leaving on for at least 24 hours for acute wounds (NOT for infected wounds).
+        *   CHANGE dressings once or twice daily, or as needed based on dressing type and wound characteristics.
+
+    *   **Treatment of Superficial SSI:**
+        *   OPEN incision for drainage.
+        *   APPLY daily dressing with povidone-iodine 5% and a wick.
+        *   ADMINISTER Tab. ibuprofen 400mg three times a day as needed for pain.
+
+    *   **Treatment of Deep SSI:**
+        *   PROVIDE drainage of the wound.
+        *   ADMINISTER antibiotics based on pus culture and sensitivity results.
+
+5.  TABULAR DOSAGES:
+    *   (No tabular data found in the provided text to convert into IF/ELSE blocks.)
+
+6.  CONTRAINDICATIONS:
+    *   IF patient has a past history of a serious adverse event to a specific antibiotic (e.g., penicillin), THEN DO NOT administer that antibiotic for prophylaxis or treatment.
+```

@@ -1,0 +1,44 @@
+```text
+DISEASE: Autistic Disorder
+
+ABBREVIATIONS:
+- MSE: Mental Status Examination
+
+DIAGNOSTICS:
+- Based on delayed history and clinical mental status examination (MSE).
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    - IF patient presents with qualitative impairment in social interactions, impairment in communication, and restricted, repetitive, stereotypical patterns of behavior, THEN consider diagnosis of Autistic Disorder.
+
+2.  **Non-Pharmacological Treatment:**
+    - IF diagnosis of Autistic Disorder is confirmed, THEN prioritize non-pharmacological treatments.
+    - IF non-pharmacological treatments are chosen, THEN implement educational and behavioral interventions.
+    - IF educational interventions are chosen, THEN use structured classroom training combined with behavioral methods.
+    - IF behavioral therapies are chosen, THEN use therapies to reinforce socially acceptable behaviors and encourage self-care skills.
+    - IF parent training is chosen, THEN train parents in behavioral modification concepts and skills.
+    - IF language development is needed, THEN add language development interventions to facilitate communication.
+
+3.  **Pharmacological Treatment Consideration:**
+    - IF core symptoms of autism require treatment, THEN note that no medication has proven efficacy for core symptoms.
+    - IF symptomatic treatment is needed for hyperactivity, obsessions, compulsions, aggression, or self-injurious behavior, THEN consider pharmacological options.
+    - IF symptomatic treatment is needed, THEN potential medications include escitalopram, methylphenidate, haloperidol, risperidone, olanzapine, quetiapine, or lithium.
+
+4.  **Risperidone Dosage Guidelines (Children and Adolescents):**
+    - IF risperidone is chosen for treatment, THEN follow the specific dosage guidelines below based on patient weight.
+
+    - **Day 1 Dosage:**
+        - IF patient weight is less than 20 kg, THEN administer 0.25 mg of risperidone per day.
+        - ELSE IF patient weight is 20 kg or more, THEN administer 0.5 mg of risperidone per day.
+
+    - **Day 4 Dosage Adjustment:**
+        - IF patient weight is less than 20 kg, THEN increase the dose by 0.25 mg.
+        - ELSE IF patient weight is 20 kg or more, THEN increase the dose by 0.5 mg.
+
+    - **Assessment:**
+        - AFTER 2 weeks of treatment, THEN assess the patient's response to the medication.
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for the listed medications in the context of Autistic Disorder, but standard contraindications for each drug apply).
+```

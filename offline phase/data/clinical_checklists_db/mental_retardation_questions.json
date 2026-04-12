@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "Does the patient exhibit aggressive or self-injurious behaviour? (Yes/No)",
+        "Does the patient have comorbid ADHD? (Yes/No)",
+        "Does the patient have comorbid depression? (Yes/No)",
+        "Does the patient exhibit stereotyped movements? (Yes/No)",
+        "Does the patient exhibit explosive rages or anger outbursts? (Yes/No)"
+    ]
+}

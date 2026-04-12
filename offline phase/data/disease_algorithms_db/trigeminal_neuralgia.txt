@@ -1,0 +1,26 @@
+```text
+DISEASE: Trigeminal Neuralgia
+
+ABBREVIATIONS:
+- t.d.s: three times a day
+- MRI: Magnetic Resonance Imaging
+
+DIAGNOSTICS:
+- Sudden, sharp, severe or short duration, electric shock-like pain.
+- Presence of trigger zones involving trigeminal nerve areas.
+- Unilateral sharp, shooting, lancinating pain provoked by touch, washing face, shaving, or cold wind exposure.
+- Pain occurs in recurrent bouts of attacks, lasting seconds to minutes.
+- Diagnostic dose of carbamazepine is given to establish diagnosis.
+- Evaluation of any primary lesion in the brain by MRI.
+
+TREATMENT ALGORITHM:
+IF Patient presents with symptoms suggestive of Trigeminal Neuralgia:
+    THEN Administer a diagnostic dose of carbamazepine.
+    AND Perform MRI to evaluate for any primary brain lesion.
+    IF Pain intensity and frequency require treatment:
+        THEN Start carbamazepine 200 mg three times a day (t.d.s).
+        AND Refer patient to a Dentist for further evaluation and treatment.
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for carbamazepine in Trigeminal Neuralgia, but general contraindications apply, e.g., hypersensitivity, porphyria, bone marrow suppression, severe hepatic impairment).
+```

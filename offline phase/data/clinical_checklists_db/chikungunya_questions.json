@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "Are the patient's symptoms (fever, headache, pain) present? (Yes/No)",
+        "Does the patient have persistent arthralgia despite symptomatic treatment? (Yes/No)",
+        "Is the patient being treated for fever or pain? (Yes/No)",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have any known allergies? (Yes/No)",
+        "Does the patient have G6PD deficiency? (Yes/No)"
+    ]
+}

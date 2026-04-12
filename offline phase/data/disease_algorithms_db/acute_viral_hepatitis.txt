@@ -1,0 +1,68 @@
+```text
+DISEASE: Acute Viral Hepatitis
+
+ABBREVIATIONS:
+- mg: milligram
+- kg: kilogram
+- tab: tablet
+
+DIAGNOSTICS:
+- Clinical presentation (prodrome: fever, malaise, nausea, emesis, anorexia, abdominal discomfort; jaundice).
+- History of exposure (faeco-oral route for A/E, blood products for B/C).
+- Liver function tests (implied, but not explicitly stated in the provided text).
+
+TREATMENT ALGORITHM:
+
+IF Patient has Acute Viral Hepatitis:
+
+    # Non-pharmacological treatment
+    THEN:
+        IF Patient feels exhausted or fatigued:
+            THEN: Recommend rest.
+        ENDIF
+        Recommend regular small frequent meals with high caloric content.
+        Recommend hygienic high carbohydrate diets.
+        Maintain adequate hydration, especially in case of vomiting.
+        Avoid fatty meals.
+
+    # Pharmacological treatment
+    IF Patient has frequent vomiting:
+        THEN: Administer oral metoclopramide 0.1 mg/kg/dose as needed, but not before 6 hours.
+    ENDIF
+
+    IF Patient has fever:
+        THEN:
+            IF Fever abates after jaundice appears:
+                THEN: No specific treatment needed.
+            ELSEIF Situation requires fever management:
+                THEN: Use paracetamol sparingly.
+            ENDIF
+        ENDIF
+
+    # Hospitalization criteria
+    IF Patient exhibits any of the following:
+        - Alteration in sleep pattern
+        - Altered behaviour
+        - Abnormal movements
+        - Persistent vomiting
+        - Dehydration
+        - Decreased urinary output
+        - Bleeding from any site
+        - Any other complication
+    THEN:
+        Recommend hospitalization.
+    ENDIF
+
+    # Patient Education
+    THEN:
+        Recommend continuing breastfeeding or regular feeding.
+        Advise careful observation for danger signs (listed above).
+        Inform patient that the disease is usually self-limiting and fever subsides after jaundice appears.
+        Inform patient that recovery typically starts in 7-14 days, with a total duration of illness around 3 weeks.
+        Inform patient about the differences between Hepatitis A and B.
+        Inform patient about Hepatitis A transmission routes (contaminated food/water, close contact).
+        Inform patient about Hepatitis A sources (raw/undercooked food handled by infected individuals).
+
+CONTRAINDICATIONS:
+- None specified for the mentioned drugs (metoclopramide, paracetamol) in the context of acute viral hepatitis, but standard contraindications apply (e.g., hypersensitivity, severe liver disease for paracetamol in high doses).
+```

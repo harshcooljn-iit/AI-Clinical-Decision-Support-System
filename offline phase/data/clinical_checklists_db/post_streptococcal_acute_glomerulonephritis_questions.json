@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "Is there evidence of active streptococcal throat or skin infection? (Yes/No)",
+        "Are complications present (hyperkalemia, hypertension, fluid overload)? (Yes/No)",
+        "Is hyperkalemia present? (Yes/No)"
+    ]
+}

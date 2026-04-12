@@ -1,0 +1,205 @@
+```text
+DISEASE: Normal Labour
+
+ABBREVIATIONS:
+- PR: Pulse Rate
+- BP: Blood Pressure
+- RR: Respiratory Rate
+- POG: Palpation of Guard
+- PROM: Premature Rupture of Membranes
+- PPH: Postpartum Haemorrhage
+- MRP: Maternal Related Problems
+- PIH: Pregnancy Induced Hypertension
+- IUGR: Intrauterine Growth Restriction
+- CPD: Cephalopelvic Disproportion
+- Hb: Haemoglobin
+- IM: Intramuscular
+- IV: Intravenous
+- BP: Blood Pressure
+- PR: Pulse Rate
+- RR: Respiratory Rate
+- POG: Palpation of Guard
+- PROM: Premature Rupture of Membranes
+- PPH: Postpartum Haemorrhage
+- MRP: Maternal Related Problems
+- PIH: Pregnancy Induced Hypertension
+- IUGR: Intrauterine Growth Restriction
+- CPD: Cephalopelvic Disproportion
+- Hb: Haemoglobin
+- IM: Intramuscular
+- IV: Intravenous
+
+DIAGNOSTICS:
+- Painful uterine contractions after 22 weeks gestation.
+- Pain associated with blood-stained mucus vaginal discharge (show).
+- Watery vaginal discharge or a sudden gush of water.
+- Cervical dilatation and effacement.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    IF patient reports to hospital with labour pains THEN
+    - Conduct examination by a doctor.
+    - Assign risk category (based on Table 4).
+
+2.  **General Examination:**
+    - Record height and weight.
+    - Record Pulse rate (PR), blood pressure (BP), respiratory rate (RR), temperature.
+    - Look for pallor, pedal oedema, jaundice, cyanosis.
+    - Auscultate cardiovascular and respiratory system.
+
+3.  **Per Abdomen Examination:**
+    - Assess height of the uterus/POG.
+    - Determine presentation, attitude, palpable foetal head (rule of fifths).
+    - Assess foetal heart rate.
+    - Assess uterine contractions (frequency, intensity, duration).
+    - Assess amount of liquor.
+    - Estimate baby size/weight.
+    - Look for overriding of foetal head.
+    - Assess for features of obstructed labour and uterine contour.
+
+4.  **Per Vaginum Examination:**
+    IF performing per vaginum examination THEN
+    - Use aseptic precautions (hand washing, sterile gloves).
+    - Assess cervical dilatation and effacement.
+    - Assess presentation and station of presenting part.
+    - Assess position and degree of flexion.
+    - Assess status of membranes and liquor colour (I, R, C, M, B).
+    - Rule out cord prolapse or presentation.
+    - Rule out cephalopelvic disproportion (CPD).
+    - Frequency: At least once every 4 hours during the first stage, and after rupture of membranes.
+
+5.  **Investigations:**
+    - Minimum required: Hb, urine albumin and sugar, blood grouping.
+    - In prolonged/obstructed labour: Urine acetone.
+
+6.  **Assessment of Progress of Labour:**
+    - Measure changes in cervical effacement and dilatation during the latent phase.
+    - Measure the rate of cervical dilatation and fetal descent during the active phase.
+    - Assess fetal descent during the second stage.
+    - Plot progress on a partograph once the patient enters the active phase (cervix >= 4 cm).
+
+7.  **Partograph Monitoring:**
+    - Record patient information (Name, Gravida, Para, Hospital number, Date/Time of admission, Time of ruptured membranes).
+    - Record Fetal heart rate every half hour.
+    - Record Amniotic fluid colour at every vaginal examination (I, R, C, M, B).
+    - Record Moulding (1, 2, 3).
+    - Record Cervical dilatation (cross **X**) at every vaginal examination, starting at 4 cm.
+    - Plot Alert line (starts at 4 cm, rate of 1 cm/hour).
+    - Plot Action line (parallel to Alert line, 4 hours to the right).
+    - Record Descent (O) at every abdominal examination.
+    - Record Hours elapsed since onset of active phase.
+    - Record actual Time.
+    - Record Contractions (number in 10 min, duration in seconds):
+        IF duration < 20 seconds THEN record light stippling.
+        IF duration between 20 and 40 seconds THEN record diagonal hatching.
+        IF duration > 40 seconds THEN record solid black square.
+    - Record Oxytocin (amount per volume IV fluids, drops/min) every 30 minutes if used.
+    - Record Drugs given.
+    - Record Pulse (dot ●) every 30 minutes.
+    - Record Blood pressure (arrows) every four hours.
+    - Record Temperature every two hours.
+    - Record Protein, acetone, and volume when urine is passed.
+    - IF Partograph passes to the right of Alert line THEN reassess and consider referral.
+    - IF Partograph passes to the right of Action line THEN refer urgently unless birth is imminent.
+    - Record drugs and IV fluids administered.
+    - Maintain intake-output chart.
+
+8.  **Second Stage of Labour Management:**
+    - Transfer patient to delivery table.
+    - Inform paediatrician.
+    - Ensure delivery equipment and newborn resuscitation equipment are available.
+    - Ensure place of delivery is clean and warm (25°C).
+    - Position patient (dorsal/squatting).
+    - Observe universal precautions.
+    - Clean and drape parts.
+    - IF episiotomy is planned THEN infiltrate perineum with local anaesthetic (e.g., 10 ml of 0.5 - 1% lignocaine).
+    - Encourage patient to bear down.
+    - IF required THEN perform episiotomy.
+    - Control birth of the head (flexion, support perineum).
+    - Suction nose and mouth.
+    - Deliver shoulders and rest of the foetus.
+    - Clamp and cut umbilical cord.
+    - Ensure baby's respiration or institute resuscitation.
+    - Administer Inj. oxytocin 5 Units IM at delivery of the anterior shoulder to prevent PPH.
+
+9.  **Third Stage of Labour Management:**
+    - Recognize signs of placental separation (globular/firm uterus, suprapubic bulge, gush of blood, lengthening cord).
+    - Deliver placenta by controlled cord traction.
+    - Examine placenta for completeness and anomalies.
+    - Administer Inj. oxytocin 5-10 U IM.
+    - Active management of third stage (unless contraindicated).
+    - Examine woman for tears and repair if any.
+    - Stitch episiotomy.
+    - Observe woman closely for one hour after delivery (record PR, BP).
+    - Evaluate uterus frequently and inspect perineum for excessive bleeding/haematoma.
+
+10. **Transfer from Labour Room:**
+    - Observe for 2 hours.
+    - Check pulse rate, BP, uterus, bleeding, pre vaginum, external genitalia (stitches, haematoma), urine output before transfer.
+
+11. **Episiotomy Procedure:**
+    - Not performed routinely.
+    - Applied selectively for: breech, forceps/vacuum delivery, occiput posterior positions, rigid perineum, scarred perineum, shoulder dystocia.
+    - Clean area with antiseptic solution.
+    - Infiltrate with local anaesthetic (e.g., 10 ml of 0.5 - 1% lignocaine).
+    - Check anaesthetic effect before incision.
+    - Perform at crowning.
+    - Place two fingers between head and perineum.
+    - Cut 3-4 cm of perineum in mediolateral direction.
+
+12. **Episiotomy Repair:**
+    - Examine for extensions of tears after delivery.
+    - Repair with vicryl rapide 2-0 suture (or chromic catgut if vicryl unavailable).
+    - Close vaginal mucosa with continuous suture starting 1 cm above apex.
+    - Approximate perineal muscles with interrupted sutures.
+    - Close skin with subcuticular (or interrupted) sutures.
+
+13. **Episiotomy Care:**
+    - Perineal hygiene (clean with antiseptic after urination/defaecation).
+    - Prescribe analgesics for pain.
+
+14. **Referral Criteria:**
+    IF foetal heart rate < 120 or > 160 beats per minute THEN assess facilities/expertise and refer if necessary.
+    IF prolapsed cord THEN assess facilities/expertise and refer if necessary.
+    IF breech presentation THEN assess facilities/expertise and refer if necessary.
+    IF stuck shoulders THEN assess facilities/expertise and refer if necessary.
+    IF multiple births THEN assess facilities/expertise and refer if necessary.
+
+TABLE 4 RISK FACTORS (Text-based conversion):
+
+IF Maternal age < 16 OR Maternal age > 35 THEN risk factor present.
+IF Parity = 0 OR Parity > 5 THEN risk factor present.
+IF Obesity present THEN risk factor present.
+IF Height < 145 cm THEN risk factor present.
+IF Past reproductive history > 1 abortion THEN risk factor present.
+IF Past reproductive history Previous stillbirth THEN risk factor present.
+IF Past reproductive history Previous caesarean section THEN risk factor present.
+IF Past reproductive history Prev PPH/MRP THEN risk factor present.
+IF Past reproductive history PIH THEN risk factor present.
+IF Past reproductive history Eclampsia THEN risk factor present.
+IF Past reproductive history IUGR THEN risk factor present.
+IF Past reproductive history Congenital anomaly in baby THEN risk factor present.
+IF Past reproductive history Previous early neonatal Death THEN risk factor present.
+IF Present pregnancy Bleeding in pregnancy THEN risk factor present.
+IF Present pregnancy Prematurity THEN risk factor present.
+IF Present pregnancy PROM THEN risk factor present.
+IF Present pregnancy Postmaturity THEN risk factor present.
+IF Present pregnancy PIH THEN risk factor present.
+IF Present pregnancy IUGR THEN risk factor present.
+IF Present pregnancy Multiple pregnancy THEN risk factor present.
+IF Present pregnancy Malpresentation THEN risk factor present.
+IF Present pregnancy Malposition THEN risk factor present.
+IF Associated medical/surgical problem Heart disease THEN risk factor present.
+IF Associated medical/surgical problem Diabetes THEN risk factor present.
+IF Associated medical/surgical problem Anaemia THEN risk factor present.
+IF Associated medical/surgical problem Jaundice THEN risk factor present.
+IF Associated medical/surgical problem Hypertension THEN risk factor present.
+IF Associated medical/surgical problem Renal disease THEN risk factor present.
+IF Associated medical/surgical problem Thyroid disease THEN risk factor present.
+IF Associated medical/surgical problem Epilepsy THEN risk factor present.
+IF Associated medical/surgical problem Asthma THEN risk factor present.
+
+CONTRAINDICATIONS:
+- Active management of third stage: IF contraindicated THEN do not administer Inj. oxytocin 5-10 U IM.
+```

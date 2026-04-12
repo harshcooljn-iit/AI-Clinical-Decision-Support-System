@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "Is the patient allergic to penicillin? (Yes/No)",
+        "Is the patient allergic to fluoroquinolones? (Yes/No)",
+        "Is the patient allergic to metronidazole? (Yes/No)",
+        "Is the patient allergic to NSAIDs? (Yes/No)",
+        "Does the patient have a history of peptic ulcer disease? (Yes/No)",
+        "Does the patient have severe heart failure? (Yes/No)",
+        "Does the patient have renal impairment? (Yes/No)",
+        "Does the patient have Diabetes Mellitus? (Yes/No)"
+    ]
+}

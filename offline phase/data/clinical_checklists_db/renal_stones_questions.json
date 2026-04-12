@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "What is the stone size in mm?",
+        "What is the stone location (kidney or ureter)?",
+        "Is infection present? (Yes/No)",
+        "Does the patient have any allergies? (Yes/No)",
+        "Is the pain severe? (Yes/No)"
+    ]
+}

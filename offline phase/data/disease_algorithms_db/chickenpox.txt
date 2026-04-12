@@ -1,0 +1,36 @@
+```text
+DISEASE: Chickenpox
+
+ABBREVIATIONS:
+- QID: Four times a day
+- kg: Kilogram
+
+DIAGNOSTICS:
+- Clinical presentation (generalized pruritic vesicular rash, preceded by fever, chills, headache, malaise, anorexia, polymorphic vesicular lesions with central haemorrhagic crusting, centripetal arrangement).
+- Microscopy (Tzanck smear).
+
+TREATMENT ALGORITHM:
+
+IF patient has Chickenpox THEN
+
+    // Non-pharmacological treatment
+    Rest
+    Cold compresses
+    Tepid baths
+
+    // Pharmacological treatment
+    Symptomatic treatment with rest, analgesics, antibiotics, and topical calamine lotion.
+
+    // Acyclovir treatment (for severe varicella and immune-compromised patients)
+    IF patient has severe varicella OR patient is immune-compromised THEN
+
+        IF patient is a child THEN
+            Acyclovir dosage: 20 mg/kg, administered four times a day (QID).
+        ELSE IF patient is an adult THEN
+            Acyclovir dosage: 800 mg, administered five times a day for 10 days.
+        ENDIF
+
+    ENDIF
+
+ENDIF
+```

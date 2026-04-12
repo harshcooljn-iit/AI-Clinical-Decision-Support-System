@@ -1,0 +1,16 @@
+{
+    "questions": [
+        "Is dehydration present? (Yes/No)",
+        "If yes, is the dehydration some or severe? (Some/Severe)",
+        "Is there shock? (Yes/No)",
+        "Are there contraindications to ORT? (Yes/No)",
+        "Has ORT failed? (Yes/No)",
+        "Is the patient <3 months old? (Yes/No)",
+        "Does the patient have PEM grade III? (Yes/No)",
+        "Does the patient have associated severe systemic infections (septicaemia, meningitis, pneumonia)? (Yes/No)",
+        "Are there frank blood and mucus in stool OR >10 pus cells/HPF? (Yes/No)",
+        "Is Giardiasis suspected (trophozoites seen on stool microscopy)? (Yes/No)",
+        "Is Cholera suspected (severe watery diarrhoea)? (Yes/No)",
+        "Does vomiting persist despite ORS in sips? (Yes/No)"
+    ]
+}

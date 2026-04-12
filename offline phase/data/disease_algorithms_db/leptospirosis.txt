@@ -1,0 +1,58 @@
+```text
+DISEASE: Leptospirosis
+
+ABBREVIATIONS:
+- CSF: Cerebrospinal Fluid
+- MAT: Micro agglutination test
+- ELISA: Enzyme-linked immunosorbent assay
+- MSAT: Microscopic Slide Agglutination Test
+- ANTD: Allergy Negative Test Dose
+- IV: Intravenous
+- IU: International Units
+- mg: Milligrams
+- kg: Kilograms
+- Tab: Tablet
+- Cap: Capsule
+- Inj: Injection
+- stat: Immediately
+- prerenal: Before renal
+
+DIAGNOSTICS:
+- Culture of Blood, CSF, and urine.
+- Micro agglutination test (MAT) showing seroconversion or four-fold rise in titer.
+- Positive ELISA or MSAT.
+
+TREATMENT ALGORITHM:
+
+IF patient is clinically suspected of leptospirosis in an endemic area during the rainy season:
+  THEN start presumptive treatment for leptospirosis and malaria.
+  IF patient is an adult:
+    THEN administer Tab. doxycycline 100 mg twice daily for 7 days.
+    THEN administer Tab. chloroquine 600mg (base) stat, followed by 600 mg after 24 hours, and 300 mg after another 24 hours.
+  ELSE IF patient is a child less than 6 years old:
+    THEN administer Cap. amoxicillin or Cap. ampicillin 30-50 mg/kg/day in divided doses every 6 hours for 7 days.
+
+ELSE IF definitive diagnosis is confirmed:
+  IF patient is not penicillin sensitive:
+    THEN administer Inj. crystalline penicillin 20 lacs IU IV every 6 hours after a negative test dose (ANTD) for 7 days.
+    IF patient is a child:
+      THEN administer crystalline penicillin 2-4 lacs IU/kg/day IV every 6 hours for 7 days.
+  ELSE IF patient is penicillin sensitive:
+    THEN administer Inj. ceftriaxone 1 gm IV once daily for 7 days.
+    OR administer Inj. cefotaxime 1 gm IV every 6 hours daily for 7 days.
+
+SYMPTOMATIC AND SUPPORTIVE TREATMENT:
+- Manage fluid and electrolyte balance.
+- Treat hypovolemia and hypotension with IV fluids.
+- If oligouria and prerenal azotemia suspected, attempt diuresis with fluid therapy.
+- Treat headache and myalgia with analgesics.
+- Treat fever with antipyretics.
+- Treat restlessness and anxiety with sedatives.
+- Treat anemia with blood transfusion.
+- For renal failure, consider peritoneal dialysis (if no contraindications) or hemodialysis.
+
+CONTRAINDICATIONS:
+- Doxycycline: Children less than 6 years old (unless alternative amoxicillin/ampicillin regimen is used).
+- Crystalline penicillin: Penicillin sensitive patients.
+- Peritoneal dialysis: Patients with contraindications to peritoneal dialysis.
+```

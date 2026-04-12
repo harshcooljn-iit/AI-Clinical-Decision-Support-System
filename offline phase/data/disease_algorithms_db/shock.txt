@@ -1,0 +1,114 @@
+```text
+DISEASE: Shock
+
+ABBREVIATIONS:
+- BP: Blood Pressure
+- NaCl: Sodium Chloride
+- RL: Ringer's Lactate
+- PRBC: Packed Red Blood Cell
+- DIC: Disseminated Intravascular Coagulation
+- GI: Gastrointestinal
+- FFP: Fresh Frozen Plasma
+- PEEP: Positive End-Expriatory Pressure
+- WHO: World Health Organization
+- UNICEF: United Nations Children's Emergency Fund
+- CVP: Central Venous Pressure
+- PCWP: Pulmonary Capillary Wedge Pressure
+- IV: Intravenous
+- µg: Micrograms
+- mg: Milligrams
+- meq: Milliequivalents
+- L: Liters
+- mL: Milliliters
+- mmHg: Millimeters of Mercury
+- NaCl: Sodium Chloride
+- K: Potassium
+- Na: Sodium
+- Cl: Chloride
+- K: Potassium
+- g: Grams
+
+DIAGNOSTICS:
+- Shock is defined as circulatory insufficiency causing an imbalance between tissue oxygen supply and demand.
+- Clinical signs include tachycardia, altered blood pressure (normal, elevated, or low), altered mental status, oliguria, cold/clammy/dusky skin, cyanosis, decreased capillary refill, tachypnea.
+- Classification involves stages: Early compensated, Decompensated, Irreversible.
+
+TREATMENT ALGORITHM:
+
+IF the patient is in shock:
+  THEN start oxygen (4-6 L/min).
+  THEN establish airway control and intubation if necessary.
+  THEN secure adequate venous access (large-bore peripheral IV catheters). Consider central venous access if needed.
+
+  IF the cause is hemorrhagic shock:
+    THEN ensure adequate ventilation/oxygenation.
+    THEN provide immediate control of hemorrhage (e.g., traction, direct pressure).
+    THEN initiate judicious infusion of isotonic crystalloid solution (10–20 ml/kg).
+    IF there is evidence of poor organ perfusion AND anticipated delay (>30 min) to hemorrhage control:
+      THEN begin packed red blood cell (PRBC) infusion (5–10 ml/kg).
+    THEN treat coincident dysrhythmias (e.g., atrial fibrillation with synchronized cardioversion).
+
+  ELSE IF the cause is cardiogenic shock:
+    THEN ameliorate increased work of breathing; provide oxygen and PEEP for pulmonary edema.
+    THEN begin vasopressor or inotropic support:
+      IF systolic BP > 100 mmHg:
+        THEN use Inj. dobutamine (2.0 to 20.0 µg/kg/min).
+      ELSE IF systolic BP is 70 to 100 mmHg:
+        THEN use dopamine (2.5 to 20.0 µg/kg/min).
+      ELSE IF systolic BP < 70 mmHg:
+        THEN use Inj. norepinephrine (0.5 to 30.0 µg/min).
+    THEN seek to reverse the insult (e.g., thrombolysis, percutaneous transluminal angioplasty).
+    THEN consider intra-aortic balloon pump counterpulsation for refractory shock.
+
+  ELSE IF the cause is septic shock:
+    THEN ensure adequate oxygenation.
+    THEN administer 20 ml/kg of crystalloid (0.9% normal saline or RL) or 5 ml/kg of colloid (hemaccel or hetastarch), titrating to adequate CVP and urine output.
+    THEN begin antimicrobial therapy.
+    THEN attempt surgical drainage or débridement.
+    THEN begin PRBC infusion for hemoglobin < 8 g/dL.
+    IF volume restoration fails to improve organ perfusion:
+      THEN begin vasopressor support; initial choice includes dopamine infusion (5–15 µg/kg/min).
+
+  ELSE IF the cause is hypovolaemic shock (non-hemorrhagic):
+    THEN initiate judicious infusion of isotonic crystalloid solution (10–20 ml/kg) or colloid solution.
+
+  ELSE IF the cause is distributive/vasogenic shock (septic, anaphylactic, neurogenic):
+    THEN follow guidelines for septic shock if applicable.
+    THEN manage specific causes (e.g., epinephrine for anaphylaxis).
+
+  FOR ALL TYPES OF SHOCK (Initial Resuscitation):
+    THEN perform volume replacement with isotonic intravenous crystalloid fluids (0.9% NaCl, Ringer's lactate).
+    THEN initial bolus volume is 20 to 40 ml/kg over 10 to 20 min (rapid infusion).
+    THEN colloids (dextran, hetastarch) can be used until blood is available.
+    THEN blood is the ideal fluid for hemorrhagic shock or significant anemia.
+    THEN use fully cross-matched blood if possible.
+    THEN if rapid intervention is needed, use type-specific or type O negative blood.
+    THEN consider platelets if ongoing hemorrhage and platelet count ≤ 50,000.
+    THEN consider FFP if prothrombin time is prolonged > 1.5 times.
+
+  IF persistent hypotension after adequate volume resuscitation:
+    THEN use vasopressors:
+      IF systolic BP > 100 mmHg:
+        THEN use Inj. dobutamine (2.0 to 20.0 µg/kg/min).
+      ELSE IF systolic BP is 70 to 100 mmHg:
+        THEN use dopamine (2.5 to 20.0 µg/kg/min).
+      ELSE IF systolic BP < 70 mmHg:
+        THEN use Inj. norepinephrine (0.5 to 30.0 µg/min).
+
+  IF acidosis is present:
+    THEN treat with adequate ventilation and fluid resuscitation.
+    THEN use sodium bicarbonate (1 meq/kg) only for severe acidosis refractory to ventilation and fluids.
+
+  THEN obtain early surgical or medical consultation for admission or transfer.
+
+  MONITORING:
+    THEN carefully and continuously monitor BP, pulse rate, respiratory rate, urine output, and mental status.
+    THEN allow sedated patients to awaken daily to assess neurologic status.
+
+CONTRAINDICATIONS:
+- Crystalloid maintenance fluids (containing dextrose) are NOT suitable for use as replacement fluids in hypovolemia.
+- Plain water should NOT be infused intravenously (risk of hemolysis).
+- Dextrose-containing solutions should NOT be given subcutaneously (risk of tissue sloughing).
+- Oral/nasogastric fluids should NOT be used if the patient is unconscious, has gastrointestinal lesions, or reduced gut motility (e.g., obstruction).
+- Oral/nasogastric fluids should NOT be used if general anesthesia or surgery is planned imminently.
+```

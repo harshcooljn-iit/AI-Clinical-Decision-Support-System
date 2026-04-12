@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "Is severe xerophthalmia present? (Yes/No)",
+        "Can the patient take oral medication? (Yes/No)",
+        "What is the patient's exact age in years?",
+        "Does the patient have persistent vomiting or severe malabsorption? (Yes/No)",
+        "Is the patient a mother? (Yes/No)",
+        "Is the patient allergic to moxifloxacin? (Yes/No)"
+    ]
+}

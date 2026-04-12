@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "What is the duration of the injury in hours?",
+        "Is there contamination present? (Yes/No)",
+        "Is the patient deficient in vitamins/iron? (Yes/No)",
+        "Does the patient have Diabetes mellitus? (Yes/No)",
+        "What is the location of the wound?",
+        "Is there pus or signs of infection? (Yes/No)"
+    ]
+}

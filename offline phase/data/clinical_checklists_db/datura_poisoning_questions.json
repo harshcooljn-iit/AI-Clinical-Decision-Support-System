@@ -1,0 +1,13 @@
+{
+    "questions": [
+        "What is the time since exposure in hours?",
+        "Is the patient asymptomatic?",
+        "Is a large ingestion suspected?",
+        "Is the patient severely hyperthermic?",
+        "Is the patient agitated?",
+        "Does the patient have severe poisoning symptoms (e.g., severe delirium, hallucinations, significant anticholinergic signs)?",
+        "Does the patient have convulsions?",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have any known allergies? (Yes/No)"
+    ]
+}

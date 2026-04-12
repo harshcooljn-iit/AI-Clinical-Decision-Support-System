@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "Are PT/APTT altered? (Yes/No)",
+        "Is rupture of the liver abscess suspected? (Yes/No)",
+        "Does the site of the abscess permit laparoscopic access? (Yes/No)"
+    ]
+}

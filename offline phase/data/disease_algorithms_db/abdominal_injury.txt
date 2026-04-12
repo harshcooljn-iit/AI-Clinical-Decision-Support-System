@@ -1,0 +1,34 @@
+```text
+DISEASE: Abdominal Injury
+ABBREVIATIONS:
+    - USG: Ultrasound
+    - CECT: Contrast Enhanced Computed Tomography
+    - TPRBP: Temperature, Pulse, Respiratory Rate, Blood Pressure
+    - AG: Abdominal Girth
+
+DIAGNOSTICS:
+    - History (assault, RTA, falls)
+    - Haemoglobin levels, hematocrit
+    - X-ray abdomen standing
+    - USG- abdomen
+    - CECT- abdomen and pelvis
+
+TREATMENT ALGORITHM:
+    IF Patient has blunt abdominal injury THEN
+        - Resuscitate the patient.
+        - Secure airway.
+        - Maintain breathing.
+        - Maintain circulation.
+        - Arrange for compatible blood.
+        - Chart TPRBP.
+        - Chart AG.
+
+        IF Vitals are unstable THEN
+            - Perform emergency exploratory laparotomy.
+            - Manage according to organ involved.
+        ELSE IF Vitals are stable THEN
+            - Review with CECT-abdomen and pelvis.
+            - Manage according to organs involved and grade of injury.
+        ENDIF
+    ENDIF
+```

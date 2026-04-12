@@ -1,0 +1,36 @@
+```text
+DISEASE: Wheezy Child
+
+ABBREVIATIONS:
+- N/A
+
+DIAGNOSTICS:
+- Clinical symptom (wheezing) present in various conditions.
+- Asthma: Recurrent wheezing, worse at night/after exercise, seasonal, associated with allergies (atopic dermatitis, allergic rhinitis).
+- Other causes: Neonatal onset, feeding difficulties, choking/vomiting, localized chest findings, cardiovascular abnormalities.
+
+TREATMENT ALGORITHM:
+- IF Wheezing is present in a child:
+    - THEN Consider asthma or other causes.
+    - IF Asthma is suspected (recurrent, worse at night/exercise, seasonal, associated allergies):
+        - THEN Treat for asthma (specific treatment details not provided in this text).
+    - ELSE IF Other causes are suspected (neonatal onset, feeding issues, choking/vomiting, localized findings, cardiovascular issues):
+        - THEN Investigate and treat the underlying cause (specific treatment details not provided in this text).
+    - ELSE IF Wheezing is due to viral infection (common in infancy):
+        - THEN Supportive care (specific treatment details not provided in this text).
+    - ELSE IF Wheezing is due to foreign body inhalation:
+        - THEN Remove foreign body (specific treatment details not provided in this text).
+    - ELSE IF Wheezing is due to tuberculosis:
+        - THEN Treat tuberculosis (specific treatment details not provided in this text).
+    - ELSE IF Wheezing is due to pneumonia:
+        - THEN Treat pneumonia (specific treatment details not provided in this text).
+    - ELSE IF Wheezing is due to cystic fibrosis:
+        - THEN Treat cystic fibrosis (specific treatment details not provided in this text).
+    - ELSE IF Wheezing is due to hypersensitivity pneumonia:
+        - THEN Treat hypersensitivity pneumonia (specific treatment details not provided in this text).
+    - ELSE IF Wheezing is due to airway compression:
+        - THEN Address airway compression (specific treatment details not provided in this text).
+
+CONTRAINDICATIONS:
+- N/A (No specific drug contraindications mentioned in the provided text).
+```

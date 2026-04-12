@@ -1,0 +1,95 @@
+```text
+DISEASE: Severe Malaria
+
+DIAGNOSTICS:
+- Cerebral Malaria: GCS <= 8, failure to localize or respond to noxious stimuli.
+- Convulsion: More than 2 generalized convulsions within 24 hours despite cooling.
+- Severe Normocytic normochromic anaemia: Hematocrit <15% or hemoglobin <5g/dl.
+- Acidosis: Arterial pH <7.25, plasma HCO3 <15 mMo1/L, venous lactate > 6 mMo1/L.
+- Renal failure: Urine output <0.5 ml/kg/hr with no improvement on rehydration and S.creat >3 mg/dl.
+- Hypoglycemia: Whole blood glucose <40 mg/dl, Macroscopic hemoglobinuria.
+- Minor criteria: Impaired consciousness (less severe alteration of sensorium), profound weakness unable to sit or walk with no neurological explanation.
+- Hyperparasitemia: Parasite count >2,50,000/μl or >5% RBC’s parasitized.
+- Jaundice: Detected clinically or S.bilirubin >3 mg/dl.
+- Hyperpyrexia: Rectal temperature > 40°C.
+
+TREATMENT ALGORITHM:
+
+IF patient has Severe Malaria THEN
+    // Pharmacological Treatment
+    IF Artesunate is chosen THEN
+        IF patient weight is known THEN
+            IF patient is receiving Artesunate IV THEN
+                // Initial Dose
+                Dose = 2.4 mg/kg IV
+                Administer Dose
+                // Subsequent Doses
+                Dose = 1.2 mg/kg IV after 12 hours
+                Administer Dose
+                Dose = 1.2 mg/kg IV after 24 hours
+                Administer Dose
+                // Daily Dose until oral intake possible
+                Daily_Dose = 4 mg/kg/day
+                Administer Daily_Dose until orally can be started
+            ELSE
+                // Handle case where weight is unknown or IV route not specified
+                DISPLAY "Weight required for Artesunate dosing."
+            ENDIF
+        ELSE
+            DISPLAY "Weight required for Artesunate dosing."
+        ENDIF
+        Duration = 5 – 7 days
+    ELSE IF Quinine is chosen THEN
+        IF patient weight is known THEN
+            // Loading Dose
+            Loading_Dose = 20 mg/kg IV of salt
+            Administer Loading_Dose
+            // Maintenance Dose
+            Maintenance_Dose = 10 mg/kg/dose IV q 8 hrly
+            Administer Maintenance_Dose until orally can be started
+        ELSE
+            DISPLAY "Weight required for Quinine dosing."
+        ENDIF
+        Duration = 7 days
+    ELSE IF Primaquine is chosen THEN
+        IF patient weight is known THEN
+            Dose = 0.75 mg/kg orally
+            Administer Dose
+        ELSE
+            DISPLAY "Weight required for Primaquine dosing."
+        ENDIF
+        Duration = 1 day
+    ENDIF
+
+    // Supportive Therapy
+    // Manage in ICU if possible.
+    // Clinical assessment: Level of consciousness, BP, respiration, pallor.
+    // Pediatric Conditions: Airway management, semilateral position, NG tube (if unconscious), ventilatory support (if Balyntyre score < 11).
+    // Oxygen, IV fluids, ionotropes for shock.
+    // Anti-convulsants, anti-pyretics.
+    // Blood products as indicated.
+    // Fluid balance, daily weight, vitals monitoring, frequent position changes.
+ENDIF
+
+CONTRAINDICATIONS:
+// (No specific contraindications listed for these drugs in the provided text. Contraindications depend on patient factors not specified here, e.g., G6PD deficiency for Primaquine).
+
+ABBREVIATIONS:
+- GCS: Glasgow Coma Scale
+- ICU: Intensive Care Unit
+- BP: Blood Pressure
+- IV: Intravenous
+- q: Every
+- hrly: Hourly
+- mg: Milligram
+- kg: Kilogram
+- ml: Milliliter
+- dl: Deciliter
+- μl: Microliter
+- RBC: Red Blood Cell
+- HCO3: Bicarbonate
+- S.: Serum
+- NaCl: Sodium Chloride
+- G6PD: Glucose-6-Phosphate Dehydrogenase
+- WHO: World Health Organization
+```

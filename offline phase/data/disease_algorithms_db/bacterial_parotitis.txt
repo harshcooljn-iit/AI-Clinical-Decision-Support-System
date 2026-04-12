@@ -1,0 +1,48 @@
+```text
+DISEASE: Bacterial Parotitis
+
+ABBREVIATIONS:
+- Cap.: Capsule
+- Tab.: Tablet
+- TDS: Three times a day
+- CT: Computed Tomography
+- USG: Ultrasonography
+- mg: Milligram
+
+DIAGNOSTICS:
+- Clinical features: Pain, swelling, tenderness, induration of the gland, erythema of skin and oral mucosa, fever.
+- Investigations: Leucocytosis, culture and sensitivity of purulent discharge from gland milking, palpation and X-ray for stone. CT scan or USG to confirm abscess if non-pharmacological treatment fails.
+
+TREATMENT ALGORITHM:
+IF patient has Bacterial Parotitis THEN
+    // Non-pharmacological treatment
+    IF patient requires non-pharmacological treatment THEN
+        Adequate hydration
+        Good oral hygiene
+        Warm compression and repeated massage of the gland
+        IF stone is present in the distal duct THEN
+            Express stone manually OR
+            Remove stone after enlarging the duct orifice with a small incision
+        ENDIF
+    ENDIF
+
+    // Pharmacological treatment
+    IF patient requires pharmacological treatment THEN
+        IF patient is an adult THEN
+            Administer Cap. amoxicillin 500mg thrice a day OR
+            Administer Tab. amoxicillin with clavulanic acid 625 mg three times a day (TDS)
+            FOR 7 days
+        ENDIF
+    ENDIF
+
+    // Abscess Management
+    IF non-pharmacological treatment fails THEN
+        Consider abscess formation
+        Confirm abscess with CT scan or USG
+        // (Further management for abscess not specified in the text, e.g., drainage, antibiotics)
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+// No specific contraindications mentioned for amoxicillin or amoxicillin/clavulanic acid in this context. Standard contraindications apply (e.g., penicillin allergy).
+```

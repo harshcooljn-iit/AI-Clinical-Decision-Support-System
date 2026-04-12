@@ -1,0 +1,65 @@
+```text
+DISEASE: Sprains
+
+ABBREVIATIONS:
+- X-rays: Radiographs
+- oedema: Edema
+- ecchymosis: Bruising
+- tab: Tablet
+
+DIAGNOSTICS:
+- Clinical evaluation based on symptoms (pain, swelling, discoloration/bruising, impaired joint function).
+- Physical examination to assess severity (joint instability, range of motion).
+- X-rays to rule out fracture.
+- Stress X-rays may be used for grade III sprains to assess joint instability.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    - IF Sprain suspected:
+        - THEN Check sensation and circulation distal to the injury.
+        - THEN Obtain X-rays of the involved region to rule out a fracture.
+
+2.  **Severity Grading:**
+    - IF Grade I sprain (partial tearing, minimal swelling, no instability):
+        - THEN Apply a compression bandage for 5-7 days.
+        - THEN Allow weight-bearing after a week.
+        - THEN Pharmacological treatment (see step 4).
+        - THEN Patient education (see step 5).
+    - ELSE IF Grade II sprain (pain, edema, ecchymosis, some loss of motion, no instability):
+        - THEN Consider splintage (slab later converted to cast) to restrict joint motion.
+        - THEN Patient must remain non-weight bearing for 4-6 weeks.
+        - THEN Pharmacological treatment (see step 4).
+        - THEN Patient education (see step 5).
+    - ELSE IF Grade III sprain (gross instability, complete tearing, marked swelling, severe pain):
+        - THEN Consider splintage (slab later converted to cast) to restrict joint motion.
+        - THEN Patient must remain non-weight bearing for 4-6 weeks.
+        - THEN Pharmacological treatment (see step 4).
+        - THEN Patient education (see step 5).
+    - ELSE:
+        - THEN Diagnosis unclear, further investigation needed.
+
+3.  **Non-Pharmacological Treatment (General):**
+    - THEN Protection, support, and rest.
+    - THEN Restrict movement of the affected area.
+    - THEN Apply cold compresses immediately (avoid direct skin contact).
+    - THEN Elevate the limb above the heart level, especially at night.
+
+4.  **Pharmacological Treatment:**
+    - THEN Administer Tab. ibuprofen 400 mg three times a day for 5-7 days.
+    - OR
+    - THEN Administer Tab. diclofenac sodium 50 mg three times a day for 5-7 days.
+
+5.  **Patient Education:**
+    - THEN Advise against massage or hot fomentation in the acute stage (increases swelling).
+    - THEN Advise rest until pain subsides (7-10 days for mild, 3-5 weeks for severe).
+    - THEN Advise avoiding activities causing pain or swelling.
+    - THEN Advise moderation in physical activities.
+    - THEN IF Pain and swelling decrease within 48 hours:
+        - THEN Advise gentle movement of the affected joint in all directions.
+    - THEN IF Ankle sprain:
+        - THEN Advise avoiding high-heeled shoes.
+
+CONTRAINDICATIONS:
+- (None specified in the text for Ibuprofen or Diclofenac related to sprains, standard contraindications apply).
+```

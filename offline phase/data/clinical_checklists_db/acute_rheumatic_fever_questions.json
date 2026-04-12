@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "Is the patient allergic to penicillin? (Yes/No)",
+        "Does the patient have carditis? (Yes/No)",
+        "Does the patient have arthritis? (Yes/No)",
+        "Does the patient have chorea? (Yes/No)",
+        "Does the patient have persistent valvular disease (evident clinically or on echocardiography)? (Yes/No)",
+        "What is the patient's exact age in years?"
+    ]
+}

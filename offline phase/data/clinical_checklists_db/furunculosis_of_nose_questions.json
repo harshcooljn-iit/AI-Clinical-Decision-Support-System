@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Does the patient have a known allergy to penicillin? (Yes/No)",
+        "Does the patient have a known allergy to NSAIDs? (Yes/No)",
+        "Does the patient have known liver issues? (Yes/No)",
+        "Does the patient have recurrent furunculosis? (Yes/No)",
+        "Does the patient have Diabetes Mellitus? (Yes/No)"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "questions": [
+        "What is the severity of the airway obstruction?",
+        "Is the patient unstable? (Yes/No)",
+        "Is portable radiographic ultrasonography available/indicated? (Yes/No)",
+        "Is ECG monitoring available/indicated? (Yes/No)",
+        "Is supplemental oxygen available/indicated? (Yes/No)",
+        "Is pulse oximetry available/indicated? (Yes/No)",
+        "Is blood pressure measurement available/indicated? (Yes/No)",
+        "Is the patient stable? (Yes/No)",
+        "Is plain X-ray neck indicated? (Yes/No)",
+        "Is fibre optic endoscopy / micro-laryngoscopy / bronchoscopy indicated? (Yes/No)"
+    ]
+}

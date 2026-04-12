@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Does the patient have signs of DHF (positive tourniquet test, petechiae/purpura/ecchymosis, mucosal bleeding, haematemesis/melena, thrombocytopenia \u2264 100,000 cells/mm\u00b3, plasma leakage)? (Yes/No)",
+        "Does the patient have signs of circulatory failure (shock)? (Yes/No)",
+        "Is the patient vomiting persistently or refusing to feed? (Yes/No)",
+        "Is the patient's haematocrit rising? (Yes/No)",
+        "Are the patient's vital signs unstable? (Yes/No)",
+        "Does the patient have haemorrhagic tendencies (bleeding) AND thrombocytopenia? (Yes/No)",
+        "What is the patient's weight in kg?"
+    ]
+}

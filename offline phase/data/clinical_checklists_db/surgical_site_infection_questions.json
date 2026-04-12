@@ -1,0 +1,15 @@
+{
+    "questions": [
+        "Is the procedure planned?",
+        "Is the procedure a caesarean section?",
+        "Is a tourniquet used?",
+        "Did unexpected contamination occur during surgery?",
+        "Is the operation prolonged with major blood loss?",
+        "Is the procedure duration long?",
+        "Is IV administration possible?",
+        "Is blood loss >1500 ml?",
+        "Is the procedure cardiac surgery or intervention?",
+        "What is the specific type of SSI (Superficial, Deep, Organ/Space)?",
+        "Does the patient have a history of a serious adverse event to a specific antibiotic (e.g., penicillin)? (Yes/No)"
+    ]
+}

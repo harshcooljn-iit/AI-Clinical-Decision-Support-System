@@ -1,0 +1,21 @@
+**DISEASE:** Prevention Of Maternal To Child Transmission
+
+**ABBREVIATIONS:**
+*   None found in the provided text.
+
+**DIAGNOSTICS:**
+*   The provided text focuses on prevention, not diagnosis.
+
+**TREATMENT ALGORITHM:**
+
+*   **IF** the goal is to minimize postoperative wound infection rate:
+    *   **THEN** ensure adequate skin preparation.
+    *   **THEN** ensure adequate bowel preparation.
+    *   **THEN** administer prophylactic antibiotics.
+    *   **THEN** use meticulous surgical technique.
+
+**TABULAR DOSAGES:**
+*   No tabular data found in the provided text.
+
+**CONTRAINDICATIONS:**
+*   No contraindications mentioned in the provided text.

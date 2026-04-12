@@ -1,0 +1,18 @@
+{
+    "questions": [
+        "What is the disease severity (mild, moderate, severe)?",
+        "What is the extent of disease involvement (distal/left colonic, extensive)?",
+        "Does the patient require rectal medication? (Yes/No)",
+        "If rectal medication is required, what is the choice (Prednisolone phosphate enema, Hydrocortisone enema, Hydrocortisone foam)?",
+        "Is the disease limited to the rectum? (Yes/No)",
+        "Does the patient have systemic symptoms? (Yes/No)",
+        "Is the patient receiving IV medication? (Yes/No)",
+        "If IV medication is required, what is the drug choice (Hydrocortisone IV, Dexamethasone IV)?",
+        "Is the patient improving after 5 days? (Yes/No)",
+        "Does the patient fail to respond to steroids? (Yes/No)",
+        "Is remission induced? (Yes/No)",
+        "Does the patient require maintenance therapy? (Yes/No)",
+        "Does the patient require follow-up? (Yes/No)",
+        "Is the disease duration more than 10 years? (Yes/No)"
+    ]
+}

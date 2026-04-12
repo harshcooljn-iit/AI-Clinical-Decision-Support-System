@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "What is the result of the X-ray after 4 weeks (positive response/no response)?",
+        "Is the patient pregnant? (Yes/No)"
+    ]
+}

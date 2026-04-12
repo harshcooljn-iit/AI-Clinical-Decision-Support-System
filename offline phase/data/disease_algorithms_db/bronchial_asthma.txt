@@ -1,0 +1,275 @@
+```text
+DISEASE: Bronchial Asthma
+
+ABBREVIATIONS:
+- SABA: Short-acting beta2 agonist
+- LABA: Long-acting beta2 agonist
+- ICS: Inhaled corticosteroid
+- DPI: Dry powdered inhaler
+- pMDI: pressurized Metered Dose Inhaler
+- PEF: Peak expiratory flow
+- FEV1: Forced expiratory volume in 1 second
+- NSAIDs: Nonsteroidal anti-inflammatory drugs
+- PFTs: Pulmonary function tests
+
+DIAGNOSTICS:
+- Suspect asthma based on symptoms (wheezing, breathlessness, chest tightness, coughing).
+- Rule out other disorders.
+- Confirm diagnosis with PFTs showing reversible airflow obstruction (e.g., >=12% or >200ml increase in FEV1 after SABA use).
+- Alternatively, use serial PEF measurements showing >20% change after bronchodilator.
+- If PFTs are non-diagnostic, consider methacholine challenge, exercise challenge, ICS trial, or elevated eosinophil count.
+
+TREATMENT ALGORITHM:
+
+// Non-pharmacological treatment
+IF patient has asthma AND allergens/irritants are identified THEN
+    Evaluate and assess impact and exposure to allergens and irritants.
+ENDIF
+
+IF patient has asthma AND smokes THEN
+    Recommend complete cessation of smoking.
+ENDIF
+
+IF patient has asthma THEN
+    Recommend avoidance of environmental tobacco smoke.
+ENDIF
+
+IF patient has asthma THEN
+    Refer to an asthma education program if available.
+ENDIF
+
+// Pharmacological treatment - Initial assessment
+IF patient has asthma AND expiratory flows are normal AND symptoms are controlled THEN
+    Use inhaled SABA as needed.
+ELSEIF patient has asthma AND (rescue SABA needed > 2 times/week OR lung function is abnormal) THEN
+    Use inhaled ICS.
+ENDIF
+
+// Step wise control of chronic asthma in patients more than 6 years of age (Table 1)
+
+// Step 1
+IF patient age > 6 years AND asthma severity is mild intermittent THEN
+    Use inhaled SABA as required.
+ENDIF
+
+// Step 2
+IF patient age > 6 years AND asthma severity is mild persistent THEN
+    Use inhaled ICS (low dose for children 6-11 years).
+ENDIF
+
+// Step 3
+IF patient age > 6 years AND asthma severity is moderate persistent THEN
+    Add inhaled LABA in combination with ICS.
+    // Assess response to LABA/ICS
+    IF response is good THEN
+        Continue LABA/ICS combination.
+    ELSEIF benefit from LABA/ICS but control still inadequate THEN
+        Continue LABA and increase ICS dose to high dose.
+    ELSEIF no response to LABA/ICS combination THEN
+        Stop LABA combination.
+        Continue high dose ICS.
+        Proceed to Step 4.
+    ENDIF
+ENDIF
+
+// Step 4
+IF patient age > 6 years AND asthma severity is severe persistent THEN
+    Consider the following:
+    - Use a short course of oral corticosteroids (e.g., prednisone 0.6 mg/kg/day for 5 days) in adults to stabilize.
+    - Refer patient for specialist care.
+    - Add a third drug (e.g., leukotriene receptor antagonist, theophylline, or low dose daily oral steroids).
+ENDIF
+
+// General Treatment Considerations
+IF using inhaled corticosteroid MDI THEN
+    Use a spacer device to minimize risk of oral thrush.
+ENDIF
+
+// Medication Adherence and Review
+AT EACH STEP:
+    Review medication adherence.
+    Review inhaler technique.
+    Review patient education.
+    IF no or poor response to therapy THEN
+        Reconsider diagnosis.
+    ENDIF
+
+// Step Down Therapy
+IF symptom control is maintained over 3 months THEN
+    Consider stepping down to the least medication necessary to maintain control.
+ENDIF
+
+// Follow up
+IF patient has asthma THEN
+    Provide an action plan to increase therapy when asthma is not controlled and decrease therapy when well controlled.
+ENDIF
+
+IF patient has asthma THEN
+    Periodically discuss adequacy of asthma control.
+    Identify and eliminate barriers to effective control.
+ENDIF
+
+IF patient has asthma THEN
+    Consider measuring peak flow at each visit.
+ENDIF
+
+IF patient has asthma THEN
+    Encourage patient/family to actively manage illness.
+ENDIF
+
+IF patient has asthma AND not responding to therapy AND compliance/inhaler technique is appropriate THEN
+    Consider alternative diagnosis and/or referral for further assessment.
+ENDIF
+
+// Patient Education
+IF patient has asthma THEN
+    Educate on proper use of prescribed medication and administration techniques.
+    Educate on what constitutes "control" of asthma and how to monitor control (PEF or symptom monitoring).
+ENDIF
+
+IF patient has asthma AND smokes THEN
+    Discuss strategies to assist stopping smoking.
+    Refer to smoking cessation programs.
+ENDIF
+
+// CONTRAINDICATIONS (Example - specific drug contraindications would be listed here if available in the source text)
+// Example:
+// IF patient has asthma AND is prescribed Drug X THEN
+//    IF patient has Condition Y THEN
+//        DO NOT prescribe Drug X.
+//    ENDIF
+// ENDIF
+
+// Table 3: Drugs and recommended dosage (Age > 6 years)
+// Note: This table is converted into nested IF/ELSE blocks for specific age/drug combinations.
+
+// Beclomethasone dipropionate pMDI
+IF patient age > 6 years AND drug is Beclomethasone dipropionate pMDI THEN
+    IF patient is Adult THEN
+        IF dosage level is Low THEN
+            Dosage = 250 mcg per day.
+        ELSEIF dosage level is Medium THEN
+            Dosage = 251-500 mcg per day.
+        ELSEIF dosage level is High (Max) THEN
+            Dosage = > 500 (800) mcg per day.
+        ENDIF
+    ELSEIF patient age is 6-11 years THEN
+        IF dosage level is Low THEN
+            Dosage = 100 mcg per day.
+        ELSEIF dosage level is Medium THEN
+            Dosage = 101-200 mcg per day.
+        ELSEIF dosage level is High (Max) THEN
+            Dosage = > 200 (200) mcg per day.
+        ENDIF
+    ENDIF
+ENDIF
+
+// Budesonide DPI
+IF patient age > 6 years AND drug is Budesonide DPI THEN
+    IF patient is Adult THEN
+        IF dosage level is Low THEN
+            Dosage = 400 mcg per day.
+        ELSEIF dosage level is Medium THEN
+            Dosage = 401-800 mcg per day.
+        ELSEIF dosage level is High (Max) THEN
+            Dosage = > 800 (2400) mcg per day.
+        ENDIF
+    ELSEIF patient age is 6-11 years THEN
+        IF dosage level is Low THEN
+            Dosage = 200 mcg per day.
+        ELSEIF dosage level is Medium THEN
+            Dosage = 201-400 mcg per day.
+        ELSEIF dosage level is High (Max) THEN
+            Dosage = > 400 (400) mcg per day.
+        ENDIF
+    ENDIF
+ENDIF
+
+// Ciclesonide pMDI
+IF patient age > 6 years AND drug is Ciclesonide pMDI THEN
+    IF patient is Adult THEN
+        IF dosage level is Low THEN
+            Dosage = 200 mcg per day.
+        ELSEIF dosage level is Medium THEN
+            Dosage = 201-400 mcg per day.
+        ELSEIF dosage level is High (Max) THEN
+            Dosage = > 400 (800) mcg per day.
+        ENDIF
+    ELSEIF patient age is 6-11 years THEN
+        IF dosage level is Low THEN
+            Dosage = 100 mcg per day.
+        ELSEIF dosage level is Medium THEN
+            Dosage = 101-200 mcg per day.
+        ELSEIF dosage level is High (Max) THEN
+            Dosage = > 200 (200) mcg per day.
+        ENDIF
+    ENDIF
+ENDIF
+
+// Fluticasone propionate pMDI
+IF patient age > 6 years AND drug is Fluticasone propionate pMDI THEN
+    IF patient is Adult THEN
+        IF dosage level is Low THEN
+            Dosage = 250 mcg per day.
+        ELSEIF dosage level is Medium THEN
+            Dosage = 251-500 mcg per day.
+        ELSEIF dosage level is High (Max) THEN
+            Dosage = > 500 (2000) mcg per day.
+        ENDIF
+    ELSEIF patient age is 6-11 years THEN
+        IF dosage level is Low THEN
+            Dosage = 100 mcg per day.
+        ELSEIF dosage level is Medium THEN
+            Dosage = 101-200 mcg per day.
+        ELSEIF dosage level is High (Max) THEN
+            Dosage = > 200 (400) mcg per day.
+        ENDIF
+    ENDIF
+ENDIF
+
+// Fluticasone propionate DPI
+IF patient age > 6 years AND drug is Fluticasone propionate DPI THEN
+    IF patient is Adult THEN
+        IF dosage level is Low THEN
+            Dosage = 250 mcg per day.
+        ELSEIF dosage level is Medium THEN
+            Dosage = 251-500 mcg per day.
+        ELSEIF dosage level is High (Max) THEN
+            Dosage = > 500 (2000) mcg per day.
+        ENDIF
+    ELSEIF patient age is 6-11 years THEN
+        IF dosage level is Low THEN
+            Dosage = 100 mcg per day.
+        ELSEIF dosage level is Medium THEN
+            Dosage = 101-200 mcg per day.
+        ELSEIF dosage level is High (Max) THEN
+            Dosage = > 200 (400) mcg per day.
+        ENDIF
+    ENDIF
+ENDIF
+
+// Table 2: Asthma Control Criteria
+// This table defines levels of asthma control based on symptoms, activity limitation, nocturnal symptoms, reliever use, lung function, and exacerbations.
+// The criteria are used to assess the severity and adjust treatment.
+// (The specific IF/ELSE logic for applying these criteria would depend on the clinical context and data available, but the criteria themselves are listed here for reference).
+
+// Controlled:
+// - Daytime symptoms: None (twice or less/week)
+// - Limitation of activities: None
+// - Nocturnal symptoms/awakening: None
+// - Need for reliever/rescue treatment: None (twice or less/week)
+// - Lung function (PEF or FEV1): Normal
+// - Exacerbation: None
+
+// Partly controlled:
+// - Daytime symptoms: More than twice/week
+// - Limitation of activities: Any
+// - Nocturnal symptoms/awakening: Any
+// - Need for reliever/rescue treatment: More than twice/week
+// - Lung function (PEF or FEV1): < 80% predicted or personal best
+// - Exacerbation: One or more/year
+
+// Uncontrolled:
+// - Three or more features of partly controlled asthma present in any week.
+// - Exacerbation: One in any week.
+```

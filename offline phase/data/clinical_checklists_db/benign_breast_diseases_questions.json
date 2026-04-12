@@ -1,0 +1,13 @@
+{
+    "questions": [
+        "Does the patient have cyclical mastalgia? (Yes/No)",
+        "Does the patient have a benign breast lump (fibroadenoma)? (Yes/No)",
+        "If yes to benign breast lump, does the patient desire treatment? (Yes/No)",
+        "If yes to benign breast lump, is cytology suspicious? (Yes/No)",
+        "If yes to benign breast lump, is the lump size large (>5 cm)? (Yes/No)",
+        "If no to cyclical mastalgia and yes to noncyclical mastalgia, do symptoms persist after Evening primrose oil? (Yes/No)",
+        "If yes to symptoms persisting after Evening primrose oil, do symptoms persist after Tab. danazol 100 mg OD? (Yes/No)",
+        "Does the patient desire contraception? (Yes/No)",
+        "Has the patient been counseled on the side effects of danazol (hirsutism)? (Yes/No)"
+    ]
+}

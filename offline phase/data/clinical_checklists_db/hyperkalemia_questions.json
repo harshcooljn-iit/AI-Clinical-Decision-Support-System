@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "What is the patient's serum potassium level (meq/l)?",
+        "Are ECG changes present? (Yes/No)",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have hypercalcemia? (Yes/No)",
+        "Does the patient have hypoglycemia? (Yes/No)",
+        "Does the patient have G6PD deficiency? (Yes/No)"
+    ]
+}

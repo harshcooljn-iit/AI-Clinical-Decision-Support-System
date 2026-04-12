@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "Is the patient pregnant? (Yes/No)",
+        "Is the woman physically active? (Yes/No)",
+        "Does the woman have multiple foetuses? (Yes/No)",
+        "Does the woman have complications (heart disease, pregnancy induced hypertension, intrauterine growth retardation, history of preterm labour, APH, threatened abortion)? (Yes/No)",
+        "Is the woman Rh negative? (Yes/No)",
+        "Is the husband Rh positive? (Yes/No)",
+        "Is the ICT negative? (Yes/No)",
+        "Is the ICT positive? (Yes/No)"
+    ]
+}

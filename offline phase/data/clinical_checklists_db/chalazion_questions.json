@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "Is the lesion small and early stage? (Yes/No)",
+        "Has the lesion resolved spontaneously? (Yes/No)",
+        "Is the lesion persistent or large? (Yes/No)",
+        "Is the lesion close to the lacrimal punctum? (Yes/No)",
+        "Does the patient have recurrent chalazia, particularly if associated with acne rosacea? (Yes/No)",
+        "Is the chalazion large, present for more than 3-4 months, or cosmetically unacceptable? (Yes/No)"
+    ]
+}

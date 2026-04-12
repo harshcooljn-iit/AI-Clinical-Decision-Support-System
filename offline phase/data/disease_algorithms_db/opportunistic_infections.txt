@@ -1,0 +1,86 @@
+```text
+DISEASE: Opportunistic Infections
+
+ABBREVIATIONS:
+- PCP: Pneumocystis Carinii Pneumonia
+- TMP/SMX: Trimethoprim/Sulphamethoxazole
+- PaO2: Partial pressure of oxygen
+- ART: Antiretroviral Therapy
+- CSF: Cerebral Spinal Fluid
+- ICP: Intracranial Pressure
+- CT: Computed Tomography
+- MRI: Magnetic Resonance Imaging
+
+DIAGNOSTICS:
+- PCP: X-ray, Induced sputum examination or bronchoscopy, CD-4 count <200
+- Oesophageal Candidiasis: Clinical trial of appropriate treatment (oral candidiasis + dysphagia), Endoscopy if no response. CD4 count < 100.
+- Cryptococcosis: Lumbar puncture for Cryptococcus or cryptococcal antigen in CSF. CD4 count < 100.
+- Toxoplasmosis: CT or MRI scans (ring shaped contrast enhancing lesions). CD4 count < 100.
+
+TREATMENT ALGORITHM:
+
+I. PNEUMOCYSTIS CARINII PNEUMONIA (PCP)
+
+    IF Disease is PCP THEN
+        IF Severity is Severe THEN
+            - Hospitalize patient.
+            - Administer intravenous TMP/SMX 15mg/kg/day for 21 days.
+            - IF PaO2 < 70 mmHg breathing room air at rest THEN
+                - Provide supplemental oxygen.
+            ENDIF
+            - Administer prednisolone 40 mg twice daily for 5 days.
+            - Administer prednisolone 40 mg once daily for 5 days.
+            - Administer prednisolone 20 mg once daily for 11 days.
+        ELSE IF Severity is Moderate or Mild THEN
+            - IF Mild case THEN
+                - Administer oral TMP/SMX as above (dosage not specified, assume same as severe).
+            ENDIF
+            - IF Moderate case THEN
+                - Administer oral agent (TMP/SMX assumed) on outpatient basis.
+                - Consider hospitalization.
+            ENDIF
+        ENDIF
+    ENDIF
+
+II. OESOPHAGEAL CANDIDIASIS
+
+    IF Disease is Oesophageal Candidiasis THEN
+        - Treatment of choice: Administer Tab. fluconazole 100-400 mg once a day for 2 weeks.
+        - Alternative treatment: Administer Inj. amphotericin B 0.3 - 0.5 mg/kg/day.
+        - Maintenance therapy: Administer Tab. fluconazole 50 – 100 mg once a day.
+        - IF Patient achieves CD4 counts > 100 on ART THEN
+            - Cease maintenance therapy.
+        ENDIF
+    ENDIF
+
+III. CRYPTOCOCCOSIS
+
+    IF Disease is Cryptococcosis THEN
+        - Administer Inj. amphotericin B 0.5 – 0.8 mg/kg/day + flucytosine 100 mg/day 4 times a day for 2 weeks.
+        - Administer Inj. amphotericin B 0.5 – 0.8 mg/kg/day + flucytosine 100 mg/day 4 times a day for 8 to 10 weeks.
+        - Alternative treatment: Administer liposomal amphotericin B (dosage not specified).
+        - Maintenance therapy: Administer flucanozole 200 mg once a day.
+        - IF Patient has sustained CD4 response to ART (CD4 > 200) for > 3 months THEN
+            - Cease maintenance therapy.
+        ENDIF
+    ENDIF
+
+IV. TOXOPLASMOSIS
+
+    IF Disease is Toxoplasmosis THEN
+        - Administer Tab. pyrimethamine 100 – 200 mg loading dose.
+        - Administer Tab. pyrimethamine 50 – 75 mg once a day.
+        - Administer sulphadiazine 4 – 6 g/day, 4 times a day OR
+        - Administer Tab. clindamycin 2 – 4 g/day, 4 times a day.
+        - Duration: 6 – 8 weeks depending upon response.
+        - IF Sulphadiazine is used AND Cerebral edema is present THEN
+            - Administer Tab. folinic acid 25 mg once a day.
+        ENDIF
+        - Alternative treatment: Administer pyrimethamine in combination with one of the following:
+            - Tab. azithromycin 1 – 15 mg/day OR
+            - Tab. atovaquone 3 g/day OR
+            - Tab. dapsone 100 mg/day OR
+            - Tab. clarithromycin 2 g/day
+        - Maintenance therapy: Administer Tab. pyrimethamine (25 – 75 mg once a day) + sulphadiazine (50 – 100 mg 4 times a day for several days with leucovorin).
+    ENDIF
+```

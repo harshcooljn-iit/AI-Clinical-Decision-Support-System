@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "What treatment type is chosen? (Non pharmacological / Pharmacological / Surgical)",
+        "Is the patient euthyroid? (Yes/No)",
+        "Is the patient pregnant? (Yes/No)"
+    ]
+}

@@ -1,0 +1,35 @@
+```text
+DISEASE: Lens Induced Glaucoma
+
+ABBREVIATIONS:
+- IOP: Intraocular Pressure
+
+DIAGNOSTICS:
+- Diagnosis is based on clinical presentation, including elevated IOP, and the presence of a cataractous lens causing the glaucoma. Specific types include phacolytic, phacomorphic, phacoanaphylactic glaucoma, lens particle glaucoma, and glaucoma due to dislocated lens.
+
+TREATMENT ALGORITHM:
+IF Patient has Lens Induced Glaucoma THEN
+    // Initial Management: Lower IOP medically and plan for lens removal.
+    // Steroid cover is used to suppress inflammation.
+
+    // Medical IOP Lowering (Specific agents not detailed in source text, assume standard glaucoma meds)
+    // Example (not exhaustive):
+    IF Patient requires medical IOP lowering THEN
+        // Consider prostaglandin analogs, beta-blockers, alpha-agonists, carbonic anhydrase inhibitors, etc.
+        // Specific drug choice depends on patient factors (not specified in source).
+    ENDIF
+
+    // Cataractous Lens Removal: Definitive treatment.
+    // Surgical intervention is required to remove the cataractous lens.
+
+    // Steroid Cover: To suppress inflammation associated with lens removal or specific types (e.g., phacoanaphylactic).
+    IF Patient has inflammation associated with lens induced glaucoma OR requires surgery THEN
+        // Administer steroids (e.g., topical corticosteroids, systemic corticosteroids depending on severity and type).
+        // Specific steroid regimen depends on type and severity (not specified in source).
+    ENDIF
+
+ELSE
+    // Patient does not have Lens Induced Glaucoma.
+    // Follow appropriate diagnostic and treatment pathways for other causes of glaucoma.
+ENDIF
+```

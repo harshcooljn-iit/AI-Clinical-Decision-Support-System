@@ -1,0 +1,56 @@
+```text
+DISEASE: Breast Abscess
+
+ABBREVIATIONS:
+- PO: By mouth
+- gm: gram
+- mg: milligram
+- d: day
+- tab: tablet
+- cap: capsule
+- qd: once daily
+- tid: three times daily
+- IM: Intramuscular
+- IV: Intravenous
+- NPO: Nothing by mouth
+- PRN: As needed
+
+DIAGNOSTICS:
+- Clinical examination (palpation, inspection).
+- Imaging (ultrasound, mammography) may be used, especially for deep abscesses.
+
+TREATMENT ALGORITHM:
+
+IF abscess is superficial THEN
+    - Apply constricting bandage.
+    - Stop breast-feeding from the affected side.
+    - Expression of milk with a breast pump to avoid engorgement.
+    - Pharmacological treatment:
+        - IF patient can take oral medication THEN
+            - Administer Tab. amoxicillin (PO): 1-2 gm/d divided in 2-3 doses for 5 days OR
+            - Administer Cap. ampicillin (PO): 2-4 gm/d divided in 2-3 doses for 5 days
+        - Administer Tab. ibuprofen 400 mg thrice daily.
+    - Surgical treatment:
+        - Perform radial incision.
+        - Gentle exploration with finger or Kelly forceps.
+        - Abundant lavage with chlorhexidine-cetrimide solution.
+        - Insertion of a corrugated drain.
+ELSE IF abscess is deep THEN
+    - Apply constricting bandage.
+    - Stop breast-feeding from the affected side.
+    - Expression of milk with a breast pump to avoid engorgement.
+    - Pharmacological treatment:
+        - IF patient can take oral medication THEN
+            - Administer Tab. amoxicillin (PO): 1-2 gm/d divided in 2-3 doses for 5 days OR
+            - Administer Cap. ampicillin (PO): 2-4 gm/d divided in 2-3 doses for 5 days
+        - Administer Tab. ibuprofen 400 mg thrice daily.
+    - Surgical treatment:
+        - IF abscess is near nipple THEN
+            - Perform peri-alveolar incision.
+        - IF abscess is beneath the breast THEN
+            - Perform incision beneath the breast.
+        - Gentle exploration with finger or Kelly forceps.
+        - Abundant lavage with chlorhexidine-cetrimide solution.
+        - Insertion of a corrugated drain.
+ENDIF
+```

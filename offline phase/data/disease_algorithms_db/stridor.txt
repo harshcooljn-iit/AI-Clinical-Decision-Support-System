@@ -1,0 +1,34 @@
+```text
+DISEASE: Stridor
+
+ABBREVIATIONS:
+- IV: Intravenous
+- QID: Four times a day
+- Inj.: Injection
+- mg: Milligram
+- stat: Immediately
+- subcutaneously: Subcutaneous
+
+DIAGNOSTICS:
+- Clinical presentation: Noisy, harsh, difficult breathing.
+- Classification based on timing: Inspiratory, expiratory, or biphasic.
+- Specific signs: Restlessness, anxiety, distress, labored/noisy breathing (predominantly inspiratory), difficulty swallowing/speaking, cyanosis, chest retraction, tachypnea, altered level of consciousness, feeding difficulties (in children).
+
+TREATMENT ALGORITHM:
+
+IF Stridor is present THEN
+    - Administer humidified oxygen.
+
+    IF Patient requires pharmacological intervention THEN
+        - Administer Inj. hydrocortisone 100 mg IV stat.
+        - IF Hydrocortisone needs to be repeated THEN
+            - Administer Inj. hydrocortisone 100 mg IV as required.
+
+        - Administer Inj. ampicillin 500mg QID IV for 5-7 days.
+
+        IF Patient requires further intervention (e.g., severe distress) THEN
+            - Administer Inj. adrenaline 0.2-0.5mg subcutaneously.
+        ENDIF
+    ENDIF
+ENDIF
+```

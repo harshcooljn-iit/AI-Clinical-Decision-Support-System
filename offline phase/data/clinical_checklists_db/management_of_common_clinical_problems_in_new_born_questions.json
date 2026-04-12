@@ -1,0 +1,17 @@
+{
+    "questions": [
+        "What is the presenting condition?",
+        "For Regurgitation/Vomiting: Is the vomiting projectile? (Yes/No)",
+        "For Bowel Disorders: Is the baby passing stools after each feed? (Yes/No)",
+        "For Bowel Disorders: Is the baby exclusively breast-fed, passing loose stools (10-15 times/day) between day 3 and day 14? (Yes/No)",
+        "For Delayed Passage of Urine: Has the baby passed urine by 48 hours after birth? (Yes/No)",
+        "For Dehydration Fever: Is the fever transitory and moderate (up to 38.5\u00b0C) during the second or third day of life? (Yes/No)",
+        "For Dehydration Fever: Is the baby active and sucking well? (Yes/No)",
+        "For Excessive Crying: Is the crying excessive, inconsolable, or high-pitched? (Yes/No)",
+        "For Umbilical Sepsis: Is there pus discharge from the umbilicus NOT extending to the periumbilical skin? (Yes/No)",
+        "For Umbilical Sepsis: Is there periumbilical erythema or induration? (Yes/No)",
+        "For Umbilical Sepsis: Are there high-risk factors for umbilical sepsis? (Yes/No)",
+        "For Umbilical Granuloma: Is there a red flesh-like nodule at the base of the umbilical cord? (Yes/No)",
+        "For Engorgement/Vaginal Bleeding: Is there engorgement of breasts in both sexes or vaginal bleeding after 4 days of birth? (Yes/No)"
+    ]
+}

@@ -1,0 +1,42 @@
+```text
+DISEASE: Trachoma
+
+ABBREVIATIONS:
+- SPK: Superior Punctate Keratitis
+- SEIs: Superior Epithelial Infiltrates
+- WHO: World Health Organization
+- TF: Trachomatous inflammation: follicular
+- TI: Trachomatous inflammation: intense
+- TS: Trachomatous scarring
+- TT: Trachomatous trichiasis
+- CO: Corneal opacity
+- SAFE: Surgery, Antibiotics, Facial hygiene, Environmental improvement
+
+DIAGNOSTICS:
+- Presence of at least two of the following signs: superior tarsal follicles, limbal follicles (Herbert's pit), typical conjunctival scarring and vascular pannus.
+- WHO Classification: TF, TI, TS, TT, CO.
+- MacCallan Classification: Stage 1, Stage 2, Stage 3, Stage 4.
+
+TREATMENT ALGORITHM:
+IF Trachoma is diagnosed THEN
+    BEGIN SAFE STRATEGY
+        S: Surgery for trichiasis (TT)
+        A: Antibiotics for active disease (TF, TI)
+        F: Facial hygiene
+        E: Environmental improvement
+    END SAFE STRATEGY
+
+    IF Antibiotics are indicated (TF or TI) THEN
+        BEGIN ANTIBIOTIC TREATMENT
+            IF Patient is eligible for Azithromycin THEN
+                ADMINISTER Azithromycin single dose (20 mg/kg up to 1g).
+            ELSE IF Patient is eligible for Topical Tetracycline Ointment THEN
+                ADMINISTER Topical 1% tetracycline ointment for 6 weeks.
+            ENDIF
+        END ANTIBIOTIC TREATMENT
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+- No specific contraindications listed for Azithromycin or Topical Tetracycline Ointment in the provided text, but standard contraindications apply (e.g., allergy).
+```

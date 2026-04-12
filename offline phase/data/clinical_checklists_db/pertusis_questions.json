@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Is the patient < 6 months old? (Yes/No)",
+        "Does the patient have respiratory distress? (Yes/No)",
+        "Does the patient have severe respiratory distress? (Yes/No)",
+        "Is the disease stage in the coryzal phase (first 14 days)? (Yes/No)",
+        "Have paroxysms started? (Yes/No)"
+    ]
+}

@@ -1,0 +1,107 @@
+```text
+DISEASE: Screening Guidelines For Early Detection Of Cancer
+
+ABBREVIATIONS:
+- CBE: Clinical Breast Examination
+- ACS: American Cancer Society
+- CIN: Cervical Intraepithelial Neoplasia
+- HNPCC: Hereditary Non Polyposis Colon Cancer
+- VIA: Visual Inspection After Application of 5% Acetic Acid
+- Pap Test: Papanicolaou test
+- HPV: Human Papillomavirus
+- ICMR: Indian Council of Medical Research
+
+DIAGNOSTICS:
+- Breast Cancer: Clinical Breast Examination (CBE), Mammography, Self Breast Examination.
+- Cervical Cancer: Pap smear (conventional cytology), Liquid Based Cytology (LBC), HPV DNA testing, VIA.
+- Endometrial Cancer: Endometrial biopsy.
+
+TREATMENT ALGORITHM:
+
+SCREENING FOR BREAST CANCER (ACS Guidelines)
+
+IF patient is a woman
+  IF age is between 20 and 39 years
+    THEN advise self breast examination starting at age 20.
+    THEN perform clinical breast examination (CBE) every 3 years.
+  ELSE IF age is 40 years or older
+    THEN advise self breast examination starting at age 20.
+    THEN begin annual mammography at age 40.
+    THEN continue annual mammography screening.
+  ENDIF
+ENDIF
+
+SCREENING FOR CERVICAL CANCER
+
+IF patient is a woman
+  IF age is less than 21 years OR 3 years before onset of vaginal intercourse
+    THEN do not screen.
+  ELSE IF age is between 21 and 29 years
+    THEN screen annually with conventional cytology smears OR biennially using liquid based cytology.
+  ELSE IF age is 30 years or older
+    IF patient has had 3 consecutive, technically satisfying normal/negative cytology results
+      THEN screen every 2-3 years using conventional or liquid based cytology.
+      OR
+      THEN screen every 3 years using HPV DNA testing with conventional or liquid based cytology.
+    ENDIF
+  ENDIF
+
+  IF age is 70 years or older AND has an intact cervix AND no abnormal/positive cytology tests within the 10 year period before age 70
+    THEN may choose to cease cervical cancer screening.
+  ENDIF
+
+  IF patient is immune-compromised (organ transplantation, chemotherapy, corticosteroid treatment, HIV+)
+    THEN test twice during the first year after diagnosis.
+    THEN test annually thereafter.
+  ENDIF
+
+  IF patient has a history of CIN 2/3 before hysterectomy
+    THEN continue screening until there is a 10 year history of no abnormal positive cytology tests.
+  ENDIF
+
+  IF age is 30 years
+    THEN undergo Pap smear at least once (ICMR guidelines).
+  ENDIF
+
+  IF in countries with limited resources
+    IF age is around 30 years
+      THEN have one Pap test.
+    ENDIF
+  ENDIF
+
+  IF in countries with limited resources
+    THEN use Pap smear OR VIA (visual inspection after application of 5% acetic acid).
+  ENDIF
+
+  IF performing Pap smear
+    THEN follow these precautions:
+      - Do not douche for 48 hours.
+      - Do not use vaginal cream for 1 week.
+      - Abstain from coitus for 24 hours.
+      - Smear to be done on the 7th day after menstrual period.
+    ENDIF
+
+  IF abnormal smear results
+    THEN refer for colposcopy and biopsy.
+  ENDIF
+
+SCREENING FOR ENDOMETRIAL CANCER
+
+IF patient is a woman
+  IF patient is at high risk (due to HNPCC associated genetic mutation carrier status)
+    THEN consider beginning annual testing for early endometrial cancer detection at age 35.
+  ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+- None specified in the provided text for the screening methods themselves, but general medical contraindications for procedures like biopsy or specific tests might apply based on patient condition.
+- For Pap smear precautions:
+  - IF patient has recently douched (within 48 hours)
+    THEN Pap smear may be less accurate.
+  - IF patient has used vaginal cream recently (within 1 week)
+    THEN Pap smear may be less accurate.
+  - IF patient has had recent coitus (within 24 hours)
+    THEN Pap smear may be less accurate.
+  - IF patient is currently menstruating
+    THEN Pap smear should be delayed until after the menstrual period (ideally done on day 7).
+```

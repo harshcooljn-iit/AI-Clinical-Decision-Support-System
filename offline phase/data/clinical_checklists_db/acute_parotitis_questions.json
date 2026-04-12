@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Is the patient susceptible to MMR? (Yes/No)"
+    ]
+}

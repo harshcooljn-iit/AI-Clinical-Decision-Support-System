@@ -1,0 +1,38 @@
+```text
+DISEASE: Chronic Tonsillitis
+
+ABBREVIATIONS:
+- Cap.: Capsule
+- mg: Milligram
+- TDS: Three times a day
+- OD: Once a day
+- Tab.: Tablet
+
+DIAGNOSTICS:
+- Clinical presentation: Repeated sore throat attacks, odynophagia, fever, cough, throat irritation, halitosis, thick speech, difficulty breathing/swallowing/snoring.
+- Physical examination: Uniformly enlarged/congested tonsils or small/inflamed tonsils (chronic follicular/fibrotic), congested anterior pillars, enlarged non-tender jugulodigastric nodes, Irwin Moore's sign (purulent discharge extrusion).
+
+TREATMENT ALGORITHM:
+IF Patient has Chronic Tonsillitis THEN
+    // Pharmacological Treatment
+    IF Symptoms are present THEN
+        // Antibiotics
+        IF Patient is suitable for amoxicillin THEN
+            Administer Cap. amoxicillin 500mg TDS for 5-7 days
+        ELSE IF Patient is suitable for azithromycin THEN
+            Administer Tab. azithromycin 500mg OD for 5-7 days
+        ENDIF
+
+        // Analgesic/Antipyretic
+        Administer Tab. paracetamol 500mg TDS for 5 days
+
+        // Supportive Care
+        Recommend Bed rest
+    ENDIF
+
+    // Surgical Treatment
+    IF Recurrent episodes of tonsillitis THEN
+        Consider Surgery – tonsillectomy
+    ENDIF
+ENDIF
+```

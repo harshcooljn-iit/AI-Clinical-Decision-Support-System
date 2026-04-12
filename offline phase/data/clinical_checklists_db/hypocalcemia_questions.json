@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "Is severe symptomatic hypocalcemia present? (Yes/No)",
+        "Is hypocalcemia associated with hypomagnesemia? (Yes/No)",
+        "Is long term treatment required? (Yes/No)",
+        "Does the patient have Chronic Renal Failure (CRF)? (Yes/No)",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have any known allergies to calcium gluconate or magnesium sulphate? (Yes/No)"
+    ]
+}

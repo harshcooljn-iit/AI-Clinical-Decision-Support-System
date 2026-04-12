@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "Does the patient have signs of vitamin A deficiency? (Yes/No)",
+        "Does the patient have a secondary bacterial infection? (Yes/No)",
+        "Is the patient an unimmunized child under 5 years old who has been in contact with a measles patient? (Yes/No)"
+    ]
+}

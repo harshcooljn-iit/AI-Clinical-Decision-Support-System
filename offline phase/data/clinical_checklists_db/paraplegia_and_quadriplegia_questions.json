@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "Is the etiology compressive myelopathy? (Yes/No)",
+        "Does the patient have an indication for corticosteroids (neoplastic spinal cord compression, traumatic spinal cord injuries, acute transverse myelitis, multiple sclerosis, neuromyelitis optica, sarcoid myelitis, ADEM)? (Yes/No)",
+        "Does the patient have a fever? (Yes/No)",
+        "Does the patient have bladder dysfunction? (Yes/No)",
+        "Does the patient have bowel dysfunction? (Yes/No)",
+        "Is the patient within the first 2 weeks of injury/paralysis? (Yes/No)",
+        "Is the patient at risk of decubitus ulcers? (Yes/No)",
+        "Does the patient have spasticity? (Yes/No)"
+    ]
+}

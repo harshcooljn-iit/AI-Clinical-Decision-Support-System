@@ -1,0 +1,54 @@
+```text
+DISEASE: Meconium Stained Liquor
+
+ABBREVIATIONS:
+- UTI: Urinary Tract Infection
+- HIV: Human Immunodeficiency Virus
+
+DIAGNOSTICS:
+- Presence of meconium staining in amniotic fluid.
+- Assessment of meconium thickness (slight vs. thick).
+- Monitoring fetal heart rate for abnormalities.
+- Consideration of fetal presentation (e.g., breech).
+
+TREATMENT ALGORITHM:
+
+IF Meconium is present in amniotic fluid THEN
+    IF Meconium is slight AND Fetal heart rate is normal THEN
+        - Maintain vigilance.
+    ELSE IF Meconium is thick THEN
+        - Consider expedited delivery.
+        - Prepare for management of neonatal upper airway at birth to prevent meconium aspiration.
+    ENDIF
+ELSE
+    - No specific action related to meconium.
+ENDIF
+
+MANAGEMENT DURING LABOR:
+IF Meconium is present THEN
+    - Position the woman: Prop her up or place her on her left side.
+    - IF Oxytocin is being administered THEN
+        - Stop oxytocin administration.
+    ENDIF
+    - Administer oxygen: 4–6 L by mask or nasal cannulae.
+ENDIF
+
+POSTPARTUM CARE ADVICE:
+- Advise continuous monitoring for the first 24 hours.
+- Advise against vaginal insertion of objects.
+- Advise adequate rest and sleep.
+- Advise hand washing to prevent infection.
+- Advise daily perineal washing and after faecal excretion.
+- Advise avoiding sexual intercourse until perineal wound heals.
+- Counsel on birth spacing and family planning.
+- Advise on routine postpartum care visits:
+    - First visit within the first week, preferably within 2-3 days.
+    - Second visit after 4-6 weeks.
+    - Earlier visits if problems occur (fever, UTI, perineal infection, hypertension, urinary incontinence, severe anaemia, postpartum blues, HIV positive).
+
+BREASTFEEDING COUNSEL:
+- Advise starting breastfeeding within 1 hour of birth.
+- Advise against giving other food or drink before breastfeeding.
+- Advise exclusive breastfeeding for the first 6 months of life.
+- Explain benefits of breast milk (nutrients, digestion, infection protection).
+```

@@ -1,0 +1,45 @@
+```text
+DISEASE: Hookworm Infestation
+
+ABBREVIATIONS:
+- BD: Twice daily
+- mg: Milligram
+- kg: Kilogram
+- Tab: Tablet
+- Susp: Suspension
+
+DIAGNOSTICS:
+- Asymptomatic or symptoms of anemia (Hypochromic microcytic).
+- Pruritic maculopapular dermatitis (ground itch).
+- Mild transient pneumonitis.
+- Intestinal manifestations (epigastric pain, inflammatory diarrhea).
+- Major consequences (progressive iron deficiency anemia, hypoproteinemia).
+
+TREATMENT ALGORITHM:
+
+IF Patient Age >= 2 years THEN
+    IF Drug is Mebendazole THEN
+        Administer Tab. mebendazole 100mg BD for 3 days.
+    ELSE IF Drug is Pyrantel Pamoate THEN
+        Administer Tab. pyrantel pamoate 250mg once daily for 3 days.
+    ELSE IF Drug is Albendazole THEN
+        Administer Tab albendazole 400mg as a single dose.
+    ENDIF
+ELSE IF Patient Age >= 1 year AND Patient Age < 2 years THEN
+    IF Drug is Pyrantel Pamoate THEN
+        Administer Susp. pyrantel pamoate 10mg/kg as a single dose.
+    ELSE IF Drug is Albendazole THEN
+        Administer Syrup albendazole 200mg as a single dose.
+    ENDIF
+ELSE IF Patient Age < 1 year THEN
+    IF Drug is Pyrantel Pamoate THEN
+        Administer Susp. pyrantel pamoate 10mg/kg as a single dose.
+    ELSE IF Drug is Albendazole THEN
+        Administer Syrup albendazole 200mg as a single dose.
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+- Mebendazole: Contraindicated in children less than 2 years of age.
+- Pyrantel Pamoate: Not used in children below 1 year of age.
+```

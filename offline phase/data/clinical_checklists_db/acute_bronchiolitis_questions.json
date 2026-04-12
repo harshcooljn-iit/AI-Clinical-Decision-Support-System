@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Does the patient have chest indrawing, cyanosis, or difficulty feeding?",
+        "Does the patient have overall improvement, partial improvement, no improvement, or deterioration?",
+        "Is adrenaline available? (Yes/No)",
+        "Is the patient able to feed? (Yes/No)"
+    ]
+}

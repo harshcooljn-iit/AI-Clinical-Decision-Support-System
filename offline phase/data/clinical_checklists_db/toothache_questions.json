@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "What is the cause of the toothache (e.g., dental caries, periodontal pocket, abrasion, attrition & erosion, peridontitis, third molar eruption, maxillary sinusitis, trigeminal neuralgia)?",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have any allergies? (Yes/No)",
+        "If choosing an antibiotic, is amoxicillin preferred? (Yes/No)",
+        "If choosing an analgesic/anti-inflammatory, is diclofenac potassium preferred? (Yes/No)"
+    ]
+}

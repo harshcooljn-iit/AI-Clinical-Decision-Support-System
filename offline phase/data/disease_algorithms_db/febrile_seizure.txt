@@ -1,0 +1,78 @@
+```text
+DISEASE: Febrile Seizure
+
+ABBREVIATIONS:
+- CSF: Cerebrospinal Fluid
+- EEG: Electroencephalogram
+- DPT: Diphtheria, Pertussis, Tetanus
+- mg: Milligram
+- kg: Kilogram
+- h: Hour
+- tab: Tablet
+- syr: Syrup
+- IV: Intravenous
+- rect: Rectal
+- q8h: Every 8 hours
+- q6h: Every 6 hours
+- DPT: Diphtheria, Pertussis, Tetanus
+- paracetamol: Acetaminophen
+
+DIAGNOSTICS:
+- Clinical presentation: Brief (2-5 min), generalized tonic-clonic seizure in a febrile child (6 months to 5 years) without underlying neurological disease.
+- CSF examination may be done to rule out meningitis, especially in the first episode.
+- EEG may be considered for atypical seizures or high-risk children.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    IF Patient presents with a seizure during a febrile illness:
+        THEN Proceed to seizure management.
+    ELSE
+        THEN Manage the underlying cause of fever.
+
+2.  **Non-pharmacological Treatment:**
+    - Clear the airway.
+    - Place the patient in a semi-prone lateral position.
+    - Administer oxygen therapy.
+
+3.  **Pharmacological Treatment (Acute Seizure):**
+    IF Seizure is ongoing:
+        THEN Administer anticonvulsants.
+        IF Diazepam available:
+            THEN Administer Diazepam 0.3 mg/kg by slow intravenous (IV) or rectal (rect) route.
+            IF Seizure does not subside after first dose:
+                THEN Repeat Diazepam.
+                IF Given rectally:
+                    THEN Dose may be up to 0.5 mg/kg/dose.
+        ELSE IF Lorazepam available:
+            THEN Administer Lorazepam (dosage not specified, use standard pediatric dose).
+
+4.  **Fever Management:**
+    - Identify and treat the cause of the fever.
+
+5.  **Intermittent Prophylaxis (During Febrile Illness):**
+    IF Considering intermittent prophylaxis during febrile illness:
+        THEN Administer Diazepam.
+        THEN Dosage: 0.3 mg/kg/dose every 8 hours (q8h) (total 1 mg/kg/day) for 2-3 days of febrile illness.
+        THEN Start on the day of onset of fever.
+        IF Over sedation or ataxia noted:
+            THEN Adjust dose accordingly.
+
+6.  **Continuous Prophylaxis:**
+    IF Considering continuous prophylaxis:
+        THEN Phenytoin and carbamazepine are ineffective.
+        THEN Phenobarbitone has serious cognitive effects (contraindicated).
+        THEN Sodium valproate is effective but risks outweigh benefits (generally not recommended).
+
+7.  **Patient Education:**
+    - Reassure parents about the benign nature of simple febrile seizures.
+    - Educate on fever control measures.
+    - Educate on administering rectal diazepam at home if prescribed.
+    - Advise routine immunization.
+    - After DPT vaccination: Administer oral paracetamol 15 mg/kg/dose every 6 hours (q6h) for 2 or 3 days.
+    - After measles vaccination: Administer oral paracetamol 15 mg/kg/dose starting on the 4th day after vaccination and continue for 3 to 4 days.
+
+CONTRAINDICATIONS:
+- Phenobarbitone: Contraindicated due to serious effects on cognitive function for continuous prophylaxis.
+- Sodium valproate: Generally not recommended for continuous prophylaxis due to potential risks outweighing benefits.
+```

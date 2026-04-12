@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "Is a corneal foreign body present? (Yes/No)",
+        "Is a conjunctival foreign body present? (Yes/No)",
+        "Is a rust ring present? (Yes/No)",
+        "Is the foreign body superficial? (Yes/No)",
+        "Are multiple superficial foreign bodies present? (Yes/No)",
+        "Is the foreign body deeply embedded? (Yes/No)",
+        "Is the foreign body small, relatively inaccessible, and buried subconjunctival? (Yes/No)",
+        "Is there a history of possible metallic foreign body? (Yes/No)"
+    ]
+}

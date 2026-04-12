@@ -1,0 +1,72 @@
+```text
+DISEASE: Management Of Common Clinical Problems In New Born
+
+ABBREVIATIONS:
+- Gentian violet: Topical antiseptic
+- Povidone iodine: Topical antiseptic
+- Erythromycin: Antibiotic
+- Silver nitrate: Cauterizing agent
+
+DIAGNOSTICS:
+- Regurgitation/Vomiting: Observation of non-projectile expulsion of stomach contents.
+- Bowel disorders: Observation of stool frequency and consistency.
+- Delayed passage of urine: Observation of urine output within 48 hours of birth.
+- Dehydration fever: Temperature measurement, assessment of activity, feeding, and hydration status.
+- Excessive crying: Observation of crying pattern (consolable vs. inconsolable, pitch).
+- Umbilical sepsis: Visual inspection of the umbilical cord stump for pus, erythema, or induration.
+- Umbilical granuloma: Visual inspection of the umbilical cord base for a red nodule.
+- Engorgement/Vaginal bleeding: Observation of breast tissue and vaginal discharge.
+
+TREATMENT ALGORITHM:
+
+# Regurgitation/Vomiting
+IF Condition is non-projectile expulsion of stomach contents (regurgitation)
+THEN Advise regarding feeding technique.
+ELSE IF Condition is projectile vomiting
+THEN Further investigation and management needed (not specified in text).
+
+# Bowel Disorders
+IF Condition is passage of stools after each feed
+THEN Advise that this is normal (exaggerated gastrocolic reflex) and no medication is needed.
+ELSE IF Condition is exclusively breast-fed baby passing loose stools (10-15 times/day) between day 3 and day 14
+THEN Advise that these are transitional stools and no medication is needed.
+ELSE IF Condition is other bowel disorder (not specified)
+THEN Further investigation and management needed (not specified in text).
+
+# Delayed Passage of Urine
+IF Condition is non-passage of urine by 48 hours after birth
+THEN Investigate for urinary tract anomalies.
+ELSE IF Condition is crying before passing urine
+THEN Advise that this is normal.
+
+# Dehydration Fever
+IF Condition is transitory moderate fever (up to 38.5°C) during the second or third day of life
+AND Baby is active
+AND Baby sucks well
+THEN Advise lowering the environmental temperature.
+ELSE IF Condition is fever with other symptoms or high temperature
+THEN Further investigation and management needed (not specified in text).
+
+# Excessive Crying
+IF Condition is excessive inconsolable crying or high-pitched crying
+THEN Suspect meningitis or other painful inflammatory conditions. Further investigation needed.
+ELSE IF Condition is crying due to hunger, full bladder, wet napkin, or nose block
+THEN Address the underlying cause (feeding, diaper change, nasal suction).
+
+# Umbilical Sepsis
+IF Condition is pus discharge from umbilicus NOT extending to periumbilical skin
+THEN Apply 10% gentian violet or povidone iodine locally twice a day.
+ELSE IF Condition is periumbilical erythema or induration
+THEN Administer syrup erythromycin 40 mg/kg/day in 3-4 divided doses.
+ELSE IF Condition is umbilical sepsis with high risk factors
+THEN Refer to a higher centre.
+
+# Umbilical Granuloma
+IF Condition is a red flesh-like nodule at the base of the umbilical cord
+THEN Manage by cautery with silver nitrate or application of common salt for 3 to 4 days.
+
+# Engorgement/Vaginal Bleeding
+IF Condition is engorgement of breasts in both sexes or vaginal bleeding after 4 days of birth
+THEN Advise that this is normal.
+
+```

@@ -1,0 +1,19 @@
+```text
+1.  DISEASE: Hypokalemia
+2.  ABBREVIATIONS:
+    *   KCL: Potassium Chloride
+    *   TDS: Three times a day
+    *   mEq/l: milliequivalents per liter
+    *   IV: Intravenous
+3.  DIAGNOSTICS: Serum potassium level < 3.5 mEq/l.
+4.  TREATMENT ALGORITHM:
+    *   IF Serum Potassium < 3.5 mEq/l THEN:
+        *   Consider non-pharmacological treatment: Dietary intake of potassium-rich foods (fruit juices, banana, coconut water, dry fruits).
+        *   Consider pharmacological treatment based on severity and symptoms.
+        *   IF Urgent treatment required (e.g., periodic paralysis, ventricular ectopics, myocardial infarction) THEN:
+            *   Administer IV KCL if patient unable to take orally AND Potassium < 2.5 mEq/l.
+        *   ELSE IF Patient able to take orally AND Potassium >= 2.5 mEq/l THEN:
+            *   Administer Oral potassium chloride 15ml TDS.
+5.  TABULAR DOSAGES: Not applicable in this guideline.
+6.  CONTRAINDICATIONS: Not specified in this guideline.
+```

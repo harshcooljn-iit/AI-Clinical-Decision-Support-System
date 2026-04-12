@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "Does the patient have airway compromise? (Yes/No)",
+        "Does the patient require atropine? (Yes/No)",
+        "Does the patient require pralidoxime? (Yes/No)",
+        "Does the patient require obidoxime? (Yes/No)",
+        "Does the patient have seizures? (Yes/No)"
+    ]
+}

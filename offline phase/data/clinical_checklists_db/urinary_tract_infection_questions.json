@@ -1,0 +1,22 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Is the patient systemically toxic (high fever, loin pain, vomiting)? (Yes/No)",
+        "Does the patient have an underlying structural abnormality of the urinary tract? (Yes/No)",
+        "Is a local culture and sensitivity report available? (Yes/No)",
+        "Is the patient an infant or child? (Yes/No)",
+        "Is the patient an adolescent with cystitis? (Yes/No)",
+        "Does the patient have obstructive uropathy? (Yes/No)",
+        "Does the patient fail to show clinical response (reduction of fever and toxicity) within 48 hours? (Yes/No)",
+        "Has the patient had more than one episode of UTI? (Yes/No)",
+        "Is the patient less than 1 year old? (Yes/No)",
+        "Does the patient have Vesico urethral reflux? (Yes/No)",
+        "Does the patient have frequent febrile UTI even with a normal urinary tract? (Yes/No)",
+        "Does the patient have urinary tract obstruction? (Yes/No)",
+        "Does the patient have urolithiasis? (Yes/No)",
+        "Does the patient have neurogenic bladder? (Yes/No)",
+        "Is the patient an inpatient on clean intermittent catheterization? (Yes/No)",
+        "Does the patient have G-6PD deficiency? (Yes/No)",
+        "Does the patient have renal insufficiency? (Yes/No)"
+    ]
+}

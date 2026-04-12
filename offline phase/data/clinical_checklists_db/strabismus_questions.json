@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Is refractive error suspected? (Yes/No)",
+        "Is media opacity suspected? (Yes/No)",
+        "Is amblyopia present? (Yes/No)",
+        "Is intermittent exotropia present? (Yes/No)"
+    ]
+}

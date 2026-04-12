@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Is sprain suspected? (Yes/No)",
+        "What is the grade of the sprain (I, II, or III)?",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have any allergies to NSAIDs? (Yes/No)"
+    ]
+}

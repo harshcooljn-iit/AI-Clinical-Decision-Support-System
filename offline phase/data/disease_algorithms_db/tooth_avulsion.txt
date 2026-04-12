@@ -1,0 +1,81 @@
+```text
+DISEASE: Tooth Avulsion
+
+ABBREVIATIONS:
+- Cap.: Capsule
+- Tab.: Tablet
+- b.d.: twice a day
+- mg: milligram
+- mL: milliliter
+- q.i.d.: four times a day
+
+DIAGNOSTICS:
+- History of trauma (fall, violence, sports injury, assault, accident).
+- Clinical examination: Missing tooth, bleeding socket, clot in socket, raw wound, possible lip/labial mucosa injury.
+- Extreme pain.
+
+TREATMENT ALGORITHM:
+
+IF Tooth Avulsion is suspected:
+    THEN Immediately refer patient to a dentist.
+
+IF Tooth is available:
+    THEN
+        IF Tooth can be reimplanted within 5-20 minutes:
+            THEN Replant tooth immediately.
+            THEN Fixation: Use periodontal wiring, arch bar wiring, or composite resin for 6-8 weeks.
+            THEN Root Canal Treatment: Perform after reimplantation.
+        ELSE
+            THEN Follow interim storage guidelines.
+
+IF Tooth cannot be reimplanted immediately:
+    THEN Follow interim storage guidelines.
+
+INTERIM STORAGE:
+    IF Tooth can be placed back in the socket:
+        THEN Place tooth back in the socket immediately.
+    ELSE
+        IF Storage medium is saliva:
+            THEN Store tooth in saliva.
+        ELSE
+            IF Storage medium is milk:
+                THEN Store tooth in milk, preferably chilled.
+            ELSE
+                IF Storage medium is saline:
+                    THEN Store tooth in saline.
+                ELSE
+                    THEN No appropriate storage medium available.
+
+PHARMACOLOGICAL TREATMENT:
+    IF Patient requires antibiotic treatment:
+        THEN
+            IF Patient can take amoxicillin:
+                THEN Administer Cap. amoxicillin 250-500 mg three times a day for 5 days.
+            ELSE
+                IF Patient can take ciprofloxacin:
+                    THEN Administer Tab. ciprofloxacin 250-500 mg twice a day for 5 days.
+                ELSE
+                    THEN No suitable antibiotic can be administered.
+
+    IF Patient requires analgesic treatment:
+        THEN
+            IF Patient can take diclofenac Potassium:
+                THEN Administer Tab. diclofenac Potassium 50 mg twice a day for 3-5 days.
+            ELSE
+                IF Patient can take ibuprofen:
+                    THEN Administer Tab. ibuprofen 400 mg three times a day for 3-5 days.
+                ELSE
+                    THEN No suitable analgesic can be administered.
+
+CONTRAINDICATIONS:
+    IF Patient has allergy to penicillin:
+        THEN Do NOT administer Cap. amoxicillin.
+    IF Patient has allergy to fluoroquinolones:
+        THEN Do NOT administer Tab. ciprofloxacin.
+    IF Patient has allergy to NSAIDs (e.g., diclofenac, ibuprofen):
+        THEN Do NOT administer Tab. diclofenac Potassium or Tab. ibuprofen.
+    IF Patient has renal impairment:
+        THEN Use caution or avoid NSAIDs (Tab. diclofenac Potassium, Tab. ibuprofen).
+    IF Patient has gastrointestinal issues (e.g., ulcers):
+        THEN Use caution or avoid NSAIDs (Tab. diclofenac Potassium, Tab. ibuprofen).
+```

@@ -1,0 +1,69 @@
+```text
+DISEASE: Alcohol Use Disorder
+
+ABBREVIATIONS:
+- TDS: Three times a day
+- BD: Twice a day
+- IV: Intravenous
+- Inj.: Injection
+- Stat: Immediately
+
+DIAGNOSTICS:
+- Dependence characterized by compulsion to drink, tolerance, intoxication, withdrawal, and persistence of drinking despite harmful consequences.
+- Alcohol intoxication characterized by recent intake and behavioral changes (slurred speech, unsteady gait, incoordination, nystagmus, impaired attention/memory, stupor, coma).
+- Simple alcohol withdrawal characterized by abrupt cessation and symptoms (sweating, palpitations, tremors, nausea, vomiting, insomnia, hallucinations, agitation).
+- Complicated withdrawal may include seizures, delirium tremens.
+
+TREATMENT ALGORITHM:
+
+IF patient requires hospitalization:
+    - Hospitalization is advised for smooth detoxification, managing withdrawal complications (seizures, delirium tremens), and medical co-morbidities.
+
+IF patient requires pharmacological treatment for withdrawal:
+    IF liver function tests are normal:
+        - Start Tab. chlordiazepoxide 25mg TDS.
+        - May increase dose up to 100 mg/day.
+    ELSE IF liver functions are compromised or unknown:
+        - Start Tab. lorazepam 2 mg TDS.
+        - May increase dose up to 8 mg/day.
+
+    - Start Tab. thiamine supplementation to prevent/treat vitamin deficiency.
+    - Start dose: 75 mg BD.
+    - May increase dose up to 300 mg/day.
+    - Injectable vitamins can be used if severe deficiency signs are present.
+
+    - Correct fluid and electrolyte disturbances, especially if vomiting or fever is present.
+
+    - IF seizures occur (Rum fits within 24 hours of abstinence):
+        - Treat with Inj. diazepam 10 mg IV stat OR lorazepam 2 mg IV stat.
+        - Especially if seizures are repeated.
+        - Prophylactic treatment for true alcohol withdrawal fits is NOT recommended.
+
+    - IF delirium tremens occurs:
+        - Preferably treat in an intensive care unit.
+        - Start IV line immediately.
+        - Administer thiamine 100 mg IV.
+        - Continue thiamine along with multivitamin parenterally until normal diet resumes.
+        - Give IV dextrose and saline to replace fluid losses and maintain blood pressure.
+        - Manage hyperthermia with cold sponge.
+        - May use Tab. paracetamol 500 mg orally 4 times a day if no hepatic dysfunction.
+        - Give Inj. diazepam 10 mg slowly IV.
+        - Repeat every 15-20 minutes until sedation is achieved.
+        - Physical restraint may be necessary if combative.
+
+    - Treat associated medical and surgical problems.
+
+    - Once patient is stable:
+        - Gradually taper off the benzodiazepine dose (20% per day) over 10 to 14 days.
+
+IF patient requires relapse prevention:
+    - Tab. disulfiram (250mg to 500mg daily) can be used.
+    - Obtain informed consent before administering disulfiram.
+    - Explain disulfiram reaction and potential lethality.
+
+- Provide patient education regarding short-term and long-term complications of substance use (medical, psychological, social, legal).
+
+CONTRAINDICATIONS:
+- Tab. chlordiazepoxide: Contraindicated if liver function tests are abnormal.
+- Tab. paracetamol: Contraindicated if hepatic dysfunction is present.
+```

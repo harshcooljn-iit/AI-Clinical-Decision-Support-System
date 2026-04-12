@@ -1,0 +1,143 @@
+```text
+DISEASE: Eczema
+
+ABBREVIATIONS:
+- Tab.: Tablet
+- mg: Milligram
+- kg: Kilogram
+- %: Percent
+
+DIAGNOSTICS:
+- Clinical examination
+- Skin biopsy
+
+TREATMENT ALGORITHM:
+
+IF Secondary infection is present THEN
+    Administer topical and/or oral antibacterial agents.
+ENDIF
+
+IF Itching, redness, edema, papulovesicles (acute stage) OR edema and scaling (subacute stage) OR lichenification (chronic stage) is present THEN
+    Administer topical corticosteroids.
+    IF Topical corticosteroid is betamethasone valerate THEN
+        Administer betamethasone valerate 0.05 % cream.
+    ENDIF
+    IF Topical corticosteroid is mometasone furoate THEN
+        Administer mometasone furoate 0.05% cream OR ointment.
+    ENDIF
+ENDIF
+
+IF Patient has significant itching THEN
+    Administer oral antihistaminics.
+    IF Oral antihistaminic is cetirizine THEN
+        Administer Tab. cetirizine 10mg/day.
+    ENDIF
+    IF Oral antihistaminic is Chlorpheniramine THEN
+        Administer Tab. Chlorpheniramine 4mg/day.
+    ENDIF
+ENDIF
+
+IF Case is severe THEN
+    Administer oral corticosteroids.
+    IF Oral corticosteroid is prednisolone THEN
+        Administer Tab. prednisolone 0.5-1 mg/kg/day.
+    ENDIF
+ENDIF
+
+OTHER MANAGEMENT:
+- Avoid allergens.
+- Apply cold compresses.
+- Apply emollients.
+- Ensure regular follow up of the patient.
+- Educate patient about side effects of local and systemic corticosteroids.
+
+CONTRAINDICATIONS:
+- (Not specified in the provided text, but generally applicable for corticosteroids):
+    IF Patient has an active untreated systemic infection THEN
+        AVOID systemic corticosteroids (like prednisolone).
+    ENDIF
+    IF Patient has known hypersensitivity to the specific corticosteroid THEN
+        AVOID that specific corticosteroid (e.g., betamethasone valerate, mometasone furoate, prednisolone).
+    ENDIF
+    IF Patient has untreated tuberculosis THEN
+        AVOID systemic corticosteroids (like prednisolone).
+    ENDIF
+    IF Patient has severe uncontrolled diabetes mellitus THEN
+        AVOID systemic corticosteroids (like prednisolone) or use with extreme caution.
+    ENDIF
+    IF Patient has significant peptic ulcer disease THEN
+        AVOID systemic corticosteroids (like prednisolone) or use with extreme caution.
+    ENDIF
+    IF Patient has significant cardiovascular disease THEN
+        AVOID systemic corticosteroids (like prednisolone) or use with extreme caution.
+    ENDIF
+    IF Patient has significant psychiatric illness THEN
+        AVOID systemic corticosteroids (like prednisolone) or use with extreme caution.
+    ENDIF
+    IF Patient has glaucoma THEN
+        AVOID systemic corticosteroids (like prednisolone) or use with extreme caution.
+    ENDIF
+    IF Patient has osteoporosis THEN
+        AVOID systemic corticosteroids (like prednisolone) or use with extreme caution.
+    ENDIF
+    IF Patient has adrenal insufficiency THEN
+        AVOID systemic corticosteroids (like prednisolone) or use with extreme caution.
+    ENDIF
+    IF Patient has Cushing's syndrome THEN
+        AVOID systemic corticosteroids (like prednisolone) or use with extreme caution.
+    ENDIF
+    IF Patient has hyperthyroidism THEN
+        AVOID systemic corticosteroids (like prednisolone) or use with extreme caution.
+    ENDIF
+    IF Patient has epilepsy THEN
+        AVOID systemic corticosteroids (like prednisolone) or use with extreme caution.
+    ENDIF
+    IF Patient has porphyria THEN
+        AVOID systemic corticosteroids (like prednisolone) or use with extreme caution.
+    ENDIF
+    IF Patient has severe liver disease THEN
+        AVOID systemic corticosteroids (like prednisolone) or use with extreme caution.
+    ENDIF
+    IF Patient has severe kidney disease THEN
+        AVOID systemic corticosteroids (like prednisolone) or use with extreme caution.
+    ENDIF
+    IF Patient has recent or impending vaccination THEN
+        AVOID systemic corticosteroids (like prednisolone) or use with extreme caution.
+    ENDIF
+    IF Patient has known hypersensitivity to cetirizine THEN
+        AVOID Tab. cetirizine.
+    ENDIF
+    IF Patient has known hypersensitivity to Chlorpheniramine THEN
+        AVOID Tab. Chlorpheniramine.
+    ENDIF
+    IF Patient has narrow-angle glaucoma THEN
+        AVOID Tab. Chlorpheniramine.
+    ENDIF
+    IF Patient has prostatic hypertrophy THEN
+        AVOID Tab. Chlorpheniramine.
+    ENDIF
+    IF Patient has peptic ulcer disease THEN
+        AVOID Tab. Chlorpheniramine.
+    ENDIF
+    IF Patient has cardiovascular disease THEN
+        AVOID Tab. Chlorpheniramine.
+    ENDIF
+    IF Patient has hyperthyroidism THEN
+        AVOID Tab. Chlorpheniramine.
+    ENDIF
+    IF Patient has epilepsy THEN
+        AVOID Tab. Chlorpheniramine.
+    ENDIF
+    IF Patient has liver disease THEN
+        AVOID Tab. Chlorpheniramine.
+    ENDIF
+    IF Patient has kidney disease THEN
+        AVOID Tab. Chlorpheniramine.
+    ENDIF
+    IF Patient is pregnant or breastfeeding THEN
+        AVOID Tab. Chlorpheniramine (use with caution, consult physician).
+    ENDIF
+    IF Patient is elderly THEN
+        AVOID Tab. Chlorpheniramine (use with caution, increased risk of side effects).
+    ENDIF
+```

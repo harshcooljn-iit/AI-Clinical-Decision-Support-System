@@ -1,0 +1,99 @@
+```text
+DISEASE: Induction And Augmentation Of Labour
+
+ABBREVIATIONS:
+- ARM: Artificial rupture of membranes
+- HIV: Human Immunodeficiency Virus
+- GBS: Group B streptococcus
+- IV: Intravenous
+- mcg: Micrograms
+- mL: Milliliters
+- IU: International Units
+- L: Liter
+- min: Minute
+- bpm: Beats per minute
+- PGE2: Prostaglandin E2
+- mcg: Micrograms
+- Ringer's lactate: Lactated Ringer's solution
+
+DIAGNOSTICS:
+- Assessment of cervical condition (dilatation, length, consistency, position, descent)
+- Monitoring fetal heart rate
+- Monitoring uterine contractions (frequency, duration, strength)
+- Monitoring maternal vital signs (pulse, blood pressure)
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    - IF the goal is induction or augmentation of labour, THEN proceed.
+
+2.  **Artificial Rupture of Membranes (ARM):**
+    - IF HIV and/or hepatitis are highly prevalent, THEN consider leaving membranes intact as long as possible.
+    - Monitor fetal heart rate.
+    - Perform cervical exam (consistency, position, effacement, dilatation).
+    - Use sterile gloves and an instrument (amniotic hook or Kocher clamp) to rupture membranes.
+    - Note amniotic fluid colour.
+    - IF thick meconium is present, THEN suspect fetal distress.
+    - Monitor fetal heart rate during and after contraction.
+    - IF fetal heart rate is abnormal (<100 or >180 bpm), THEN suspect fetal distress.
+    - IF membranes have been ruptured for 18 hours, THEN give prophylactic antibiotics:
+        - Penicillin G 2 million units IV, or
+        - Inj. ampicillin 2 g IV, every six hours until delivery.
+    - IF good labour pattern (3 contractions in 10 min, each >40 sec) is not established one hour after ARM, THEN begin oxytocin infusion.
+    - IF labour is induced due to severe maternal disease (e.g., sepsis, eclampsia), THEN begin oxytocin infusion at the same time as ARM.
+
+3.  **Cervical Assessment:**
+    - Perform cervical exam and assign a score based on Table 5 criteria.
+    - IF cervix score is 6 or more (favourable), THEN induce labour with oxytocin alone.
+    - IF cervix score is 5 or less (unfavourable), THEN ripen the cervix using prostaglandins or a Foley catheter before induction.
+
+4.  **Oxytocin Infusion:**
+    - Use with caution due to risk of fetal distress (hyperstimulation) and uterine rupture.
+    - Administer cautiously in IV fluids (dextrose or normal saline).
+    - Gradually increase infusion rate until a good labour pattern is established (3 contractions in 10 min, each >40 sec).
+    - Maintain this rate until delivery.
+    - Monitor maternal pulse, blood pressure, contractions, and fetal heart rate every 30 minutes.
+    - IF fetal heart rate is <100 bpm, THEN stop infusion and manage for fetal distress.
+    - Initial infusion rates:
+        - IF multigravida, THEN start with 2.5 units oxytocin in 500 mL dextrose at 10 drops/min.
+        - IF primigravida, THEN start with 5 units oxytocin in 500 mL dextrose.
+    - Increase infusion rate by 10 drops/min every 30 minutes until good contraction pattern is established.
+    - IF hyperstimulation occurs (contraction >60 sec or >4 contractions in 10 min), THEN stop infusion and use tocolytics:
+        - Terbutaline 250 mcg IV slowly over 5 min, OR
+        - Salbutamol 10 mg in 1 L IV fluids (normal saline or Ringer's lactate) at 10 drops/min.
+    - IF good contraction pattern not established at 60 drops/min:
+        - Increase oxytocin concentration to 5 units in 500 mL dextrose and adjust rate to 30 drops/min (15 mIU/min).
+        - IF multigravida or previous caesarean scar and induction has failed, THEN deliver by caesarean section.
+
+5.  **Prostaglandins (Cervical Ripening):**
+    - Monitor maternal pulse, blood pressure, contractions, and fetal heart rate.
+    - PGE2 forms: 3 mg pessary or 2-3 mg gel. Place high in posterior vaginal fornix. Repeat after 6 hours if needed.
+    - Discontinue prostaglandins and begin oxytocin infusion IF:
+        - Membranes rupture, OR
+        - Cervical ripening achieved, OR
+        - Good labour established, OR
+        - 12 hours have passed.
+
+6.  **Misoprostol (Cervical Ripening):**
+    - Use only in highly selected situations (e.g., severe pre-eclampsia/eclampsia with unfavourable cervix, fetal death in utero).
+    - Place 25 mcg in posterior vaginal fornix.
+    - Repeat after 6 hours if needed.
+    - IF no response after two doses of 25 mcg, THEN increase to 50 mcg every 6 hours.
+    - Do not exceed 50 mcg at a time or four doses (200 mcg total).
+    - Monitor uterine contractions and fetal heart rate.
+
+7.  **Foley Catheter (Mechanical Dilation):**
+    - Avoid in women with cervicitis or vaginitis.
+    - Insert high-level disinfected/sterile speculum.
+    - Insert high-level disinfected/sterile Foley catheter through cervix, ensuring bulb is beyond internal os.
+    - Inflate bulb with 30 mL water.
+    - Give traction and strap catheter to thigh.
+    - Leave in place until contractions begin or at least 12 hours.
+    - Deflate bulb before removal.
+    - Proceed with oxytocin infusion to augment induction.
+
+CONTRAINDICATIONS:
+- Prostaglandins: Avoid Foley catheter in women with obvious cervicitis or vaginitis.
+- Oxytocin: Use with caution in women with previous uterine surgery (increased risk of rupture).
+- Misoprostol: Use only in highly selected situations.
+```

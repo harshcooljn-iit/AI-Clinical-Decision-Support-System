@@ -1,0 +1,56 @@
+```text
+DISEASE: Acute Airway Obstruction
+
+ABBREVIATIONS:
+- ECG: Electrocardiogram
+- X-ray: Radiography
+
+DIAGNOSTICS:
+- Assessment of severity.
+- Portable radiographic ultrasonography (implied).
+- ECG monitoring.
+- Pulse oximetry.
+- Blood pressure measurement.
+- Fibre optic endoscopy / micro-laryngoscopy / bronchoscopy (in stable patients).
+- Plain X-ray neck (in stable patients).
+
+TREATMENT ALGORITHM:
+
+IF Severity of airway obstruction is assessed:
+    THEN Proceed to next step.
+
+IF Portable radiographic ultrasonography is available/indicated:
+    THEN Perform portable radiographic ultrasonography.
+
+IF ECG monitoring is available/indicated:
+    THEN Perform ECG monitoring.
+
+IF Supplemental oxygen is available/indicated:
+    THEN Administer supplemental oxygen.
+
+IF Pulse oximetry is available/indicated:
+    THEN Perform pulse oximetry.
+
+IF Blood pressure measurement is available/indicated:
+    THEN Measure blood pressure.
+
+IF Patient is unstable (based on assessment):
+    THEN Perform Cricothyrotomy.
+    OR Perform Tracheostomy.
+    OR Perform Emergency intubation.
+
+IF Patient is stable:
+    THEN Perform Plain X-ray neck.
+    THEN Perform Fibre optic endoscopy / micro-laryngoscopy / bronchoscopy to find out the cause.
+
+EMERGENCY TREATMENT (Initial steps):
+    IF Patient presents with acute airway obstruction:
+        THEN Perform Head extension with lower jaw thrust forward.
+        THEN Perform Suctioning for clearing secretions.
+
+EMERGENCY CONDITIONS (Severe obstruction):
+    IF Patient requires immediate respiratory support:
+        THEN Use Ventilatory mask with 100% oxygen.
+        OR Perform Endotracheal intubation.
+        OR Perform Tracheostomy.
+```

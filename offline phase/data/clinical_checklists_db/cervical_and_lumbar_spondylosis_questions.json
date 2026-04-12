@@ -1,0 +1,14 @@
+{
+    "questions": [
+        "Is the patient experiencing an acute painful situation or chronic pain?",
+        "Does the patient have cervical spondylosis? (Yes/No)",
+        "Does the patient have lumbar spondylosis? (Yes/No)",
+        "Is the patient experiencing severe pain that disturbs sleep? (Yes/No)",
+        "Has the patient been receiving conservative treatment for more than 2 weeks without improvement? (Yes/No)",
+        "Is the patient experiencing severe restriction of neck or back movements? (Yes/No)",
+        "Does the patient have torticollis? (Yes/No)",
+        "Does the patient have sciatic pain? (Yes/No)",
+        "Does the patient have constitutional symptoms? (Yes/No)",
+        "Does the patient have neurological symptoms with back or neck pain? (Yes/No)"
+    ]
+}

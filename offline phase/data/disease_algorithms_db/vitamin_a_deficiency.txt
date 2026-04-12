@@ -1,0 +1,59 @@
+```text
+DISEASE: Vitamin A Deficiency
+
+ABBREVIATIONS:
+- IU: International Units
+- WHO: World Health Organization
+- USAID: United States Agency for International Development
+- X: WHO Classification code for primary signs
+- N: WHO Classification code for secondary signs
+- F: WHO Classification code for secondary signs
+- S: WHO Classification code for secondary signs
+
+DIAGNOSTICS:
+- Clinical signs include Nyctalopia (night blindness), Conjunctival xerosis, Bitot spot, Persistent epithelial defect, Corneal ulcer, Keratomalacia.
+- WHO Classification based on primary (X) and secondary (N, F, S) signs.
+
+TREATMENT ALGORITHM:
+
+IF Severe xerophthalmia is present THEN
+    BEGIN TREATMENT IMMEDIATELY.
+ENDIF
+
+IF Patient can take oral medication THEN
+    IF Age is 0-6 months THEN
+        Administer 50,000 IU Vitamin A orally on Day 0, Day 1, and after 4 weeks.
+    ELSE IF Age is 6-12 months THEN
+        Administer 100,000 IU Vitamin A orally on Day 0, Day 1, and after 4 weeks.
+    ELSE IF Age is more than 1 year THEN
+        Administer 200,000 IU Vitamin A orally on Day 0, Day 1, and after 4 weeks.
+    ENDIF
+ELSE IF Patient has persistent vomiting or severe malabsorption THEN
+    Administer intramuscular water-soluble Vitamin A.
+ENDIF
+
+Administer topical preservative-free lubricating eye drops.
+Administer antibiotic eye drops (e.g., moxifloxacin eye drops 1 to 6 hourly) to prevent secondary infection.
+
+PATIENT EDUCATION:
+- Encourage regular consumption of Vitamin A-rich foods (e.g., dark green leafy vegetables).
+- Pregnant and lactating women should consume Vitamin A-rich diets.
+- Promote breastfeeding and colostrum feeding for newborns.
+
+HIGH DOSE UNIVERSAL DISTRIBUTION SCHEDULE (Prevention):
+IF Age is less than 6 months THEN
+    Administer 50,000 IU Vitamin A orally.
+ELSE IF Age is 6-12 months THEN
+    Administer 100,000 IU Vitamin A orally.
+ELSE IF Age is more than 12 months THEN
+    Administer 200,000 IU Vitamin A orally every 4-6 months until 5 years of age.
+ENDIF
+
+IF Patient is a mother THEN
+    Administer 200,000 IU Vitamin A orally within 8 weeks of delivery.
+ENDIF
+
+CONTRAINDICATIONS:
+- No specific contraindications listed for oral or intramuscular Vitamin A in the context of deficiency treatment, but caution is advised in patients with hypervitaminosis A.
+- Topical antibiotic eye drops should not be used if the patient has a known allergy to the specific antibiotic (e.g., moxifloxacin).
+```

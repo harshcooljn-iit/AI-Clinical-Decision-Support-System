@@ -1,0 +1,16 @@
+{
+    "questions": [
+        "What is the patient's Haemoglobin (Hb) level in g/dl?",
+        "Is the patient pregnant? (Yes/No)",
+        "Is the patient experiencing features of anoxia or cardiac insufficiency? (Yes/No)",
+        "Is the patient intolerant to oral iron? (Yes/No)",
+        "Does the patient have malabsorption? (Yes/No)",
+        "Is the patient non-compliant with oral iron therapy? (Yes/No)",
+        "Is the patient in advanced pregnancy? (Yes/No)",
+        "Is the patient experiencing severe blood loss? (Yes/No)",
+        "Is the patient refractory to oral and parenteral therapy? (Yes/No)",
+        "Is the patient experiencing anoxia or cardiac failure? (Yes/No)",
+        "Is the patient beyond 36 weeks of pregnancy? (Yes/No)",
+        "Is the patient experiencing cardiac failure? (Yes/No)"
+    ]
+}

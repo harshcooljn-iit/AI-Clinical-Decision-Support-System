@@ -1,0 +1,15 @@
+{
+    "questions": [
+        "What is the goal of labour management (induction or augmentation)?",
+        "Is the patient HIV positive or is HIV highly prevalent in the area? (Yes/No)",
+        "Is the cervix score 6 or more (favourable)? (Yes/No)",
+        "Is the patient multigravida? (Yes/No)",
+        "Does the patient have a previous caesarean scar? (Yes/No)",
+        "Is the patient experiencing fetal distress (abnormal FHR <100 or >180 bpm, thick meconium)? (Yes/No)",
+        "Is the patient experiencing hyperstimulation (contraction >60 sec or >4 contractions in 10 min)? (Yes/No)",
+        "Is the patient experiencing severe maternal disease (e.g., sepsis, eclampsia)? (Yes/No)",
+        "Is the patient experiencing good labour pattern (3 contractions in 10 min, each >40 sec)? (Yes/No)",
+        "Is the patient experiencing uterine rupture? (Yes/No)",
+        "Does the patient have obvious cervicitis or vaginitis? (Yes/No)"
+    ]
+}

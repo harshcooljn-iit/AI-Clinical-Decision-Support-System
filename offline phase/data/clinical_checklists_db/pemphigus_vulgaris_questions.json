@@ -1,0 +1,11 @@
+{
+    "questions": [
+        "Is infection present? (Yes/No)",
+        "What is the patient's body weight in kilograms?",
+        "Is Erythema Multiforme diagnosed? (Yes/No)",
+        "Is Fixed Drug Eruption diagnosed? (Yes/No)",
+        "Is Generalized bullous FDE present? (Yes/No)",
+        "Is Stevens Johnson Syndrome OR Toxic Epidermal Necrolysis diagnosed? (Yes/No)",
+        "Are Corticosteroids administered? (Yes/No)"
+    ]
+}

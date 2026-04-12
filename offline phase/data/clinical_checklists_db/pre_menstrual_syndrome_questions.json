@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "Are the patient's symptoms severe and interfering with lifestyle, relationships, and occupational functioning? (Yes/No)",
+        "Are the patient's symptoms predominantly physical? (Yes/No)",
+        "Are the patient's symptoms predominantly emotional? (Yes/No)",
+        "Has the patient received previous therapies without relief? (Yes/No)",
+        "Are there any side effects (nausea, vomiting) from bromocriptine that are very severe? (Yes/No)"
+    ]
+}

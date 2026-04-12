@@ -1,0 +1,11 @@
+{
+    "questions": [
+        "What is the patient's weight in kilograms?",
+        "What is the patient's exact age in months?",
+        "Does the patient have tachypnea, dyspnea, respiratory distress, or SpO2 < 90%? (Yes/No)",
+        "Does the patient have severe pneumonia and acute respiratory failure (SpO2 < 90% and PaO2 < 60 mmHg with oxygen therapy)? (Yes/No)",
+        "Does the patient have pneumonia? (Yes/No)",
+        "Is the patient on mechanical ventilation? (Yes/No)",
+        "Does the patient have persisting septic shock (SBP < 90)? (Yes/No)"
+    ]
+}

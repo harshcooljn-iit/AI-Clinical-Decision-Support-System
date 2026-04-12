@@ -1,0 +1,6 @@
+{
+    "questions": [
+        "Does the patient require treatment based on pain intensity and frequency? (Yes/No)",
+        "Does the patient have any contraindications to carbamazepine (e.g., hypersensitivity, porphyria, bone marrow suppression, severe hepatic impairment)? (Yes/No)"
+    ]
+}

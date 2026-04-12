@@ -1,0 +1,17 @@
+{
+    "questions": [
+        "What is the patient's weight in kilograms?",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have any known allergies to adrenaline or bisulphites? (Yes/No)",
+        "What is the patient's systolic blood pressure in mmHg?",
+        "What is the patient's heart rate in beats per minute?",
+        "Is the patient experiencing respiratory distress (dyspnea, wheeze, stridor, low PEF, hypoxemia)? (Yes/No)",
+        "Is the patient experiencing reduced blood pressure (systolic BP < 90 mmHg or >30% decrease) or end-organ dysfunction (hypotonia, collapse, syncope, incontinence)? (Yes/No)",
+        "Is the patient experiencing persistent GI symptoms? (Yes/No)",
+        "Was the anaphylaxis triggered by an allergen extract or hymenoptera sting into an extremity? (Yes/No)",
+        "Is the patient in shock (e.g., hypotension, altered mental status)? (Yes/No)",
+        "Is the patient experiencing severe laryngeal obstruction, bronchospasm, or coma? (Yes/No)",
+        "Did the patient respond to the initial IM adrenaline dose? (Yes/No)",
+        "Is the only manifestation urticaria or angioedema? (Yes/No)"
+    ]
+}

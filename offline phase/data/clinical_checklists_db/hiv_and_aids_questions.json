@@ -1,0 +1,15 @@
+{
+    "questions": [
+        "What is the patient's WHO Clinical Stage (I, II, III, or IV)?",
+        "What is the patient's CD4 count (cells/cu.mm)?",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have TB co-infection? (Yes/No)",
+        "If yes, is the TB Pulmonary or Extra pulmonary?",
+        "Does the patient have HIV-HBV or HIV-HCV co-infection? (Yes/No)",
+        "Is there evidence of chronic active Hepatitis (HBV/HCV)? (Yes/No)",
+        "What is the patient's Hemoglobin (Hb) level in gm/dl?",
+        "Is the patient currently on anti-tuberculosis treatment? (Yes/No)",
+        "Which ART regimen is chosen (I or II)?",
+        "If second-line ART is indicated, is it needed? (Yes/No)"
+    ]
+}

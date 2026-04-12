@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "What is the suspected or identified organism causing the infection?",
+        "Is the patient allergic to penicillin? (Yes/No)",
+        "Is the patient allergic to cephalosporins? (Yes/No)",
+        "Does the patient have renal impairment? (Yes/No)",
+        "What is the patient's exact age in years?",
+        "Is pus aspirated from the bone? (Yes/No)",
+        "What is the result of the culture and sensitivity test?",
+        "What is the patient's weight in kg?"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Is Staphylococcal pneumonia suspected? (Yes/No)",
+        "What is the antibiotic choice?",
+        "Is the patient pregnant? (Yes/No)"
+    ]
+}

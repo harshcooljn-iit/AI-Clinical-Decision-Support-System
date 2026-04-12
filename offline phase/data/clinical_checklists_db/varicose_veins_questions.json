@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "Are symptoms mild or does the patient prefer conservative management? (Yes/No)",
+        "Are specific indications for pharmacological treatment present? (Yes/No)",
+        "Are varicose veins significant, symptoms refractory to conservative measures, or complications present? (Yes/No)",
+        "Is long saphenous vein incompetence suspected? (Yes/No)",
+        "Is short saphenous vein incompetence suspected? (Yes/No)",
+        "Are venous ulcers present? (Yes/No)"
+    ]
+}

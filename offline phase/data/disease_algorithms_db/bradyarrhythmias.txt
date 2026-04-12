@@ -1,0 +1,32 @@
+```text
+DISEASE: Bradyarrhythmias
+
+ABBREVIATIONS:
+- IV: Intravenous
+- mcg/min: micrograms per minute
+- Inj.: Injection
+
+DIAGNOSTICS:
+- Sinus bradycardia: Regular heart rate < 60 beats per minute.
+- Types include sinoatrial block and atrioventricular block.
+
+TREATMENT ALGORITHM:
+
+IF Symptomatic Bradyarrhythmia THEN
+    IF Atropine is available and indicated THEN
+        Administer Inj. atropine 0.6 mg IV.
+        IF Heart rate does not increase sufficiently THEN
+            Repeat Inj. atropine 0.6 mg IV every 4-6 hours.
+    ELSE IF Isoproterenol is available and indicated THEN
+        Administer Inj. isoproterenol infusion at 2-10 mcg/min.
+    ENDIF
+ELSE
+    Consider Temporary pacemaker.
+    IF Temporary pacemaker is insufficient or contraindicated THEN
+        Consider permanent pacemaker insertion.
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for specific drugs, but general contraindications for atropine/isoproterenol/pacemakers would apply in a real clinical setting, e.g., atropine in certain types of heart block, isoproterenol in certain ischemic conditions, pacemakers in certain infection scenarios).
+```

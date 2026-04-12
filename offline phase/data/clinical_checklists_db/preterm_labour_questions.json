@@ -1,0 +1,18 @@
+{
+    "questions": [
+        "What is the patient's gestational age in weeks?",
+        "Does the patient have signs of labour (uterine contractions, cervical change)? (Yes/No)",
+        "Are the membranes intact? (Yes/No)",
+        "Is the cervical dilatation < 4 cm? (Yes/No)",
+        "Are there any contraindications for tocolysis? (Yes/No)",
+        "Does the patient have poorly controlled diabetes or thyroid disease? (Yes/No)",
+        "Does the patient have sickle cell disease? (Yes/No)",
+        "Is maternal BP < 90/50 mmHg? (Yes/No)",
+        "Does the patient have cardiac disease? (Yes/No)",
+        "Does the patient have renal disease? (Yes/No)",
+        "Does the patient have myasthenia gravis? (Yes/No)",
+        "Does the patient have cardiac decompensation? (Yes/No)",
+        "Is there clinical or laboratory evidence of chorioamnionitis? (Yes/No)",
+        "Is PROM present? (Yes/No)"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "questions": [
+        "Does the patient have mild to moderate damage? (Yes/No)",
+        "Does the patient have severe damage? (Yes/No)",
+        "Is the patient intolerant to topical medication? (Yes/No)",
+        "Does the patient fail medical therapy? (Yes/No)",
+        "Is the patient non-compliant with treatment? (Yes/No)",
+        "Is the patient's IOP higher than 28 mmHg? (Yes/No)",
+        "Does the patient have asthma? (Yes/No)",
+        "Does the patient have chronic airway disease? (Yes/No)",
+        "Does the patient have hypotension? (Yes/No)",
+        "Does the patient have bradycardia? (Yes/No)",
+        "Does the patient have hypertension? (Yes/No)",
+        "Does the patient have pulmonary edema? (Yes/No)",
+        "Does the patient have diabetes? (Yes/No)"
+    ]
+}

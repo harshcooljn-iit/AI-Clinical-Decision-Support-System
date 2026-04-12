@@ -1,0 +1,60 @@
+```text
+DISEASE: Thrush (Oral Candidiasis)
+
+ABBREVIATIONS:
+- mg: milligrams
+- kg: kilograms
+- tab: tablet
+- AIDS: Acquired Immunodeficiency Syndrome
+
+DIAGNOSTICS:
+- Thick white patches on an erythematous base in the oral mucosa.
+- Plaques can spread to lips, buccal mucosa, tongue, and palate.
+- Punctate areas of bleeding seen on the undersurface when plaques are removed.
+- Symptoms may include pain, discomfort, anorexia, decreased feeding.
+
+TREATMENT ALGORITHM:
+
+IF patient has Thrush (Oral Candidiasis) THEN
+
+    // Non-pharmacological treatment
+    Correct faulty sterilization technique of feeding bottle.
+    Advise avoiding bottle feeding if possible.
+
+    // Pharmacological treatment
+
+    // First-line topical treatments
+    IF patient is suitable for topical treatment THEN
+        IF using Clotrimazole THEN
+            Administer Clotrimazole 1% cream, gel, or lotion orally 3-4 times per day after feeding for 5-7 days (or 1-2 days beyond recovery).
+        ELSE IF using Miconazole gel THEN
+            Administer Miconazole gel 25 mg orally 4 times per day for 5-7 days.
+        ELSE IF using Gentian violet THEN
+            Administer Gentian violet 1% aqueous solution orally 1-2 times per day for 5-7 days.
+            NOTE: Gentian violet can stain tissues and clothes.
+        ENDIF
+    ENDIF
+
+    // Second-line systemic treatments (for resistant/chronic cases or specific situations)
+    ELSE IF patient has resistant, chronic, or recurrent thrush THEN
+
+        // Check for underlying conditions
+        IF patient has no obvious predisposing factor/source of infection AND has recurrent/chronic thrush THEN
+            Evaluate for underlying endocrinopathy, immune disorder, AIDS, and malnutrition.
+        ENDIF
+
+        // Systemic treatment options
+        IF using Fluconazole THEN
+            Administer Tab. fluconazole 3-6 mg/kg once daily for 5-7 days.
+        ELSE IF using Ketoconazole THEN
+            Administer Tab. ketoconazole 3-6 mg/kg once daily for 5-7 days.
+        ENDIF
+    ENDIF
+
+ENDIF
+
+// Patient Education
+Emphasize bottle hygiene.
+Advise on care/hygiene of the nipple.
+Advise on treatment of vaginal candidiasis in the expectant mother if applicable.
+```

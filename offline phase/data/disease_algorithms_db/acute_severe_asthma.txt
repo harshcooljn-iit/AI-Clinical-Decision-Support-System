@@ -1,0 +1,91 @@
+```text
+DISEASE: Acute Severe Asthma
+
+ABBREVIATIONS:
+- PEFR: Peak Expiratory Flow Rate
+- Spo2: Oxygen Saturation
+- SC: Subcutaneous
+- IV: Intravenous
+- ICU: Intensive Care Unit
+- Mg So4: Magnesium Sulfate
+- Inj.: Injection
+
+DIAGNOSTICS:
+- Based on symptoms, signs, and objective measurements like Oxygen saturation (Spo2), Peak Expiratory Flow Rate (PEFR), respiratory rate, heart rate, and clinical appearance (e.g., accessory muscle use, cyanosis, alertness).
+- Severity is classified as Mild, Moderate, or Severe based on the table provided.
+- Acute Severe Asthma is diagnosed based on specific criteria (e.g., inability to complete sentences, Spo2 < 92%, PEFR 33-35% of best/predicted, specific heart rate/respiratory rate thresholds for different age groups).
+- Life-threatening asthma is diagnosed based on criteria like silent chest, cyanosis, poor respiratory effort, hypotension, exhaustion, confusion, Spo2 < 92%, PEFR < 33% best/predicted.
+
+TREATMENT ALGORITHM:
+
+// Initial Assessment for Impending Respiratory Failure or Moderate to Severe Attack
+
+IF (Patient has impending respiratory failure OR moderate to severe attack) THEN
+    // Initial Treatment Steps
+    Administer Oxygen.
+    Administer Nebulizer Salbutamol + Ipratropium.
+    Administer Inj. Terbutaline OR Adrenaline SC.
+    Administer IV Corticosteroids.
+    Transfer to ICU if good response.
+ENDIF
+
+// Treatment for Life-Threatening Attack
+
+IF (Patient has life-threatening attack) THEN
+    // Initial Treatment Steps (Same as above)
+    Administer Oxygen.
+    Administer Nebulizer Salbutamol + Ipratropium.
+    Administer Inj. Terbutaline OR Adrenaline SC.
+    Administer IV Corticosteroids.
+    Reassess after 1 hour.
+ENDIF
+
+// Management based on response after 1 hour (for Life-Threatening Attack)
+
+IF (Patient has poor or partial response after 1 hour of initial treatment for life-threatening attack) THEN
+    Correct acidosis.
+    Trial of Mg So4 OR Terbutaline.
+ENDIF
+
+// Management if no response after 2-4 hours
+
+IF (Patient has no response after 2-4 hours of initial treatment) THEN
+    Continue above treatment.
+    Add Inj. Aminophylline infusion.
+ENDIF
+
+// Severity Assessment Criteria (Based on provided tables)
+
+// Mild Asthma Symptoms/Signs
+IF (Respiratory rate is Normal AND Alertness is Normal AND Dyspnoea is Absent or mild AND Pulsus paradoxus is <10mmHg AND Accessory muscle use is No or mild intercostals retractions AND Colour is Pink AND Auscultation is End expiratory wheeze only AND Oxygen saturation is >95% AND Paco2 is <35mm Hg AND PEFR is 70-90% of predicted or best) THEN
+    // Diagnosis: Mild Asthma
+ENDIF
+
+// Moderate Asthma Symptoms/Signs
+IF (Respiratory rate is Increased AND Alertness is Normal AND Dyspnoea is moderate AND Pulsus paradoxus is 10-20mm Hg AND Accessory muscle use is Moderate intercostals interactions with tracheosternal retractions AND Colour is Pale AND Auscultation is Wheeze during expiration & inspiration AND Oxygen saturation is 90-95% AND Paco2 is 35-40 mmHg AND PEFR is 50-70% of predicted or personal best) THEN
+    // Diagnosis: Moderate Asthma
+ENDIF
+
+// Severe Asthma Symptoms/Signs
+IF (Respiratory rate is Increased AND Alertness is Restless/drowsy AND Dyspnoea is Severe AND Pulsus paradoxus is 20-40mmHg AND Accessory muscle use is Severe intercostal interactions with tracheosternal retractions with nasal flaring AND Colour is Grey or cyanotic AND Auscultation is Breath sounds inaudible AND Oxygen saturation is <90% AND Paco2 is >40 mmHg AND PEFR is <50% of predicted or personal best) THEN
+    // Diagnosis: Severe Asthma
+ENDIF
+
+// Life-Threatening Asthma Criteria
+IF (Silent chest OR Cyanosis OR Poor respiratory effort OR Hypotension OR Exhaustion OR Confusion OR Spo2 < 92% OR PEFR < 33% best/predicted) THEN
+    // Diagnosis: Life-Threatening Asthma
+ENDIF
+
+// Acute Severe Asthma Criteria (Pediatric)
+IF (Cannot complete sentences in one breath OR breathless to talk or feed OR Spo2 < 92% OR PEFR 33-35% best or predicted OR Pulse > 140/min (2-5 years) OR Pulse > 125/min (>5 years) OR Respiration > 40 breaths/min (2-5 years) OR Respiration > 30 breaths/min (5-7 years)) THEN
+    // Diagnosis: Acute Severe Asthma
+ENDIF
+
+// Moderate Asthma Exacerbation Criteria (Pediatric)
+IF (Able to talk in sentences AND Spo2 >= 92% AND PEFR 50% best or predicted AND Pulse <= 140/min (2-5 years) AND Pulse <= 125/min (>5 years) AND Respiration <= 40 breaths/min (2-5 years) AND Respiration <= 30 breaths/min (5-7 years)) THEN
+    // Diagnosis: Moderate Asthma Exacerbation
+ENDIF
+
+CONTRAINDICATIONS:
+// (No specific contraindications listed in the provided text for the mentioned drugs in this context. Contraindications would depend on patient-specific factors not detailed here.)
+```

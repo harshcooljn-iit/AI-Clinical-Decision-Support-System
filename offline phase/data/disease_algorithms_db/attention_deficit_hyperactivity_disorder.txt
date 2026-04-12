@@ -1,0 +1,117 @@
+```text
+DISEASE: Attention Deficit Hyperactivity Disorder
+
+ABBREVIATIONS:
+- ADHD: Attention Deficit Hyperactivity Disorder
+- MSE: Mental Status Examination
+
+DIAGNOSTICS:
+- Based on thorough case history and Mental Status Examination (MSE).
+- Characterized by diminished sustained attention and higher levels of impulsivity compared to peers.
+- Age of onset before 7 years.
+
+TREATMENT ALGORITHM:
+
+// Non-pharmacological Treatment
+IF patient requires non-pharmacological treatment THEN
+    CONSIDER Social skills training.
+    CONSIDER Behavioral therapy.
+    CONSIDER Group therapy for patient and families.
+ENDIF
+
+// Pharmacological Treatment
+IF patient requires pharmacological treatment THEN
+    // Drug of Choice: Methylphenidate
+    // Dosage is typically 5-20mg. Specific dosage depends on age, weight, and severity (not detailed in provided text).
+    // Example IF/ELSE structure for Methylphenidate dosage (assuming age-based tiers, as no weight/severity info given):
+    IF patient age is less than 6 years THEN
+        // Dosage for < 6 years (example, needs specific values)
+        // Example: Start with 2.5mg or 5mg once or twice daily.
+        // Placeholder: ASSIGN Methylphenidate dosage based on specific guidelines for < 6 years.
+    ELSE IF patient age is between 6 and 12 years THEN
+        // Dosage for 6-12 years (example, needs specific values)
+        // Example: Start with 5mg or 10mg once or twice daily.
+        // Placeholder: ASSIGN Methylphenidate dosage based on specific guidelines for 6-12 years.
+    ELSE IF patient age is 13 years or older THEN
+        // Dosage for >= 13 years (example, needs specific values)
+        // Example: Start with 10mg or 20mg once or twice daily.
+        // Placeholder: ASSIGN Methylphenidate dosage based on specific guidelines for >= 13 years.
+    ENDIF
+
+    // Other Agents
+    // Atomoxetine
+    // Bupropion
+    // Venlafaxine
+    // Clonidine
+    // Guanfacine
+
+    // Example IF/ELSE for Atomoxetine (assuming age-based, needs specific values):
+    IF patient age is less than 6 years THEN
+        // Dosage for < 6 years (example, needs specific values)
+        // Placeholder: ASSIGN Atomoxetine dosage based on specific guidelines for < 6 years.
+    ELSE IF patient age is between 6 and 12 years THEN
+        // Dosage for 6-12 years (example, needs specific values)
+        // Placeholder: ASSIGN Atomoxetine dosage based on specific guidelines for 6-12 years.
+    ELSE IF patient age is 13 years or older THEN
+        // Dosage for >= 13 years (example, needs specific values)
+        // Placeholder: ASSIGN Atomoxetine dosage based on specific guidelines for >= 13 years.
+    ENDIF
+
+    // Example IF/ELSE for Bupropion (assuming age-based, needs specific values):
+    IF patient age is less than 6 years THEN
+        // Dosage for < 6 years (example, needs specific values)
+        // Placeholder: ASSIGN Bupropion dosage based on specific guidelines for < 6 years.
+    ELSE IF patient age is between 6 and 12 years THEN
+        // Dosage for 6-12 years (example, needs specific values)
+        // Placeholder: ASSIGN Bupropion dosage based on specific guidelines for 6-12 years.
+    ELSE IF patient age is 13 years or older THEN
+        // Dosage for >= 13 years (example, needs specific values)
+        // Placeholder: ASSIGN Bupropion dosage based on specific guidelines for >= 13 years.
+    ENDIF
+
+    // Example IF/ELSE for Venlafaxine (assuming age-based, needs specific values):
+    IF patient age is less than 6 years THEN
+        // Dosage for < 6 years (example, needs specific values)
+        // Placeholder: ASSIGN Venlafaxine dosage based on specific guidelines for < 6 years.
+    ELSE IF patient age is between 6 and 12 years THEN
+        // Dosage for 6-12 years (example, needs specific values)
+        // Placeholder: ASSIGN Venlafaxine dosage based on specific guidelines for 6-12 years.
+    ELSE IF patient age is 13 years or older THEN
+        // Dosage for >= 13 years (example, needs specific values)
+        // Placeholder: ASSIGN Venlafaxine dosage based on specific guidelines for >= 13 years.
+    ENDIF
+
+    // Example IF/ELSE for Clonidine (assuming age-based, needs specific values):
+    IF patient age is less than 6 years THEN
+        // Dosage for < 6 years (example, needs specific values)
+        // Placeholder: ASSIGN Clonidine dosage based on specific guidelines for < 6 years.
+    ELSE IF patient age is between 6 and 12 years THEN
+        // Dosage for 6-12 years (example, needs specific values)
+        // Placeholder: ASSIGN Clonidine dosage based on specific guidelines for 6-12 years.
+    ELSE IF patient age is 13 years or older THEN
+        // Dosage for >= 13 years (example, needs specific values)
+        // Placeholder: ASSIGN Clonidine dosage based on specific guidelines for >= 13 years.
+    ENDIF
+
+    // Example IF/ELSE for Guanfacine (assuming age-based, needs specific values):
+    IF patient age is less than 6 years THEN
+        // Dosage for < 6 years (example, needs specific values)
+        // Placeholder: ASSIGN Guanfacine dosage based on specific guidelines for < 6 years.
+    ELSE IF patient age is between 6 and 12 years THEN
+        // Dosage for 6-12 years (example, needs specific values)
+        // Placeholder: ASSIGN Guanfacine dosage based on specific guidelines for 6-12 years.
+    ELSE IF patient age is 13 years or older THEN
+        // Dosage for >= 13 years (example, needs specific values)
+        // Placeholder: ASSIGN Guanfacine dosage based on specific guidelines for >= 13 years.
+    ENDIF
+
+ENDIF
+
+CONTRAINDICATIONS:
+// No specific contraindications mentioned in the provided text for these drugs in the context of ADHD.
+// General contraindications for each drug class would apply (e.g., hypersensitivity, specific cardiac conditions, etc.), but are not detailed here.
+// Example (if known):
+// IF patient has known hypersensitivity to methylphenidate THEN
+//     DO NOT administer methylphenidate.
+// ENDIF
+```

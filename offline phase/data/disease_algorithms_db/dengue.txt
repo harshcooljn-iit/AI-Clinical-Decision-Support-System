@@ -1,0 +1,161 @@
+```text
+DISEASE: Dengue
+
+ABBREVIATIONS:
+- DF: Dengue Fever
+- DHF: Dengue Hemorrhagic Fever
+- DSS: Dengue Shock Syndrome
+- ORS: Oral Rehydration Solution
+- BP: Blood Pressure
+- PCV: Packed Red Blood Cells
+- ml/kg/hr: milliliters per kilogram per hour
+- IV: Intravenous
+
+DIAGNOSTICS:
+- Dengue fever: Acute febrile illness (2-7 days) with headache, retro-orbital pain, myalgia, arthralgia, rash, hemorrhagic manifestations (petechiae, positive tourniquet test), and leucopenia.
+- Dengue hemorrhagic fever (DHF): Presence of one or more of the following: positive tourniquet test, petechiae/purpura/ecchymosis, bleeding from mucosa, haematemesis/melena, thrombocytopenia (platelets ≤ 100,000 cells/mm³), and evidence of plasma leakage.
+- Dengue shock syndrome (DSS): All criteria for DHF plus signs of circulatory failure.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    - IF patient has Dengue Fever (DF) symptoms (fever, headache, retro-orbital pain, myalgia, arthralgia, rash, leucopenia, hemorrhagic manifestations):
+        - THEN proceed to symptomatic and supportive care.
+        - ELSE proceed to DHF/DSS assessment.
+
+2.  **Dengue Hemorrhagic Fever (DHF) / Dengue Shock Syndrome (DSS) Assessment:**
+    - IF patient has signs of DHF (positive tourniquet test, petechiae/purpura/ecchymosis, mucosal bleeding, haematemesis/melena, thrombocytopenia ≤ 100,000 cells/mm³, plasma leakage):
+        - THEN proceed to DHF management.
+        - ELSE proceed to DF management.
+    - IF patient has signs of DHF PLUS signs of circulatory failure (shock):
+        - THEN diagnose as DSS and proceed to DSS management.
+
+3.  **Non-Pharmacological Treatment (for DF, DHF, DSS):**
+    - Bed rest is advisable during the acute phase.
+    - Use cold sponging to keep temperature below 39ºC.
+
+4.  **Pharmacological Treatment (for DF, DHF, DSS):**
+    - Management is symptomatic and supportive.
+    - Antipyretics may be used to lower body temperature.
+    - AVOID Aspirin/NSAIDs (e.g., ibuprofen) due to risk of gastritis, vomiting, acidosis, and platelet dysfunction.
+    - Paracetamol is preferable.
+
+5.  **Paracetamol Dosage:**
+    - IF patient age is 1-2 years:
+        - THEN dose is 60 – 120 mg per dose.
+    - ELSE IF patient age is 3-6 years:
+        - THEN dose is 120 mg per dose.
+    - ELSE IF patient age is 7-12 years:
+        - THEN dose is 240 mg per dose.
+    - ELSE IF patient is an Adult:
+        - THEN dose is 500 mg per dose.
+    - Note: In children, dose can also be calculated as 10 mg/kg body weight per dose, repeated every 6 hours.
+
+6.  **Fluid Management (for DF, DHF, DSS):**
+    - Oral fluid and electrolyte therapy recommended for excessive sweating or vomiting.
+    - Oral hydration solution (ORS) or fruit juices preferable to plain water.
+    - Monitor patients in DHF endemic areas until afebrile for one day without antipyretics, and after platelet and haematocrit are stable (platelet count > 50,000/mm³).
+
+7.  **Management of Febrile Phase (DHF/DSS):**
+    - Similar to DF management.
+    - Paracetamol recommended to keep temperature below 39ºC.
+    - Give copious amounts of oral fluids (ORS, fruit juices) as tolerated.
+    - IF patient is vomiting persistently or refusing to feed:
+        - THEN administer IV fluids.
+    - Monitor closely for initial signs of shock (critical period: transition from febrile to afebrile phase, usually after day 3).
+    - Perform serial haematocrit determinations (daily from day 3 until afebrile for 1-2 days) to guide IV fluid administration.
+    - IF haematocrit determination is not possible:
+        - THEN perform haemoglobin determination as an alternative.
+
+8.  **IV Fluid Therapy Algorithm (Figure 4):**
+    - IF patient has haemorrhagic tendencies (bleeding) AND thrombocytopenia:
+        - THEN initiate IV therapy at 6 ml/kg/hr crystalloid solution for 1-2 hours.
+        - IF Improvement occurs:
+            - THEN continue IV therapy by successively reducing the rate from 6 to 3 ml/kg/hr.
+            - IF Further improvement occurs:
+                - THEN discontinue IV after 24 hours.
+        - ELSE IF No Improvement occurs:
+            - THEN increase IV rate to 10 ml/kg/hr crystalloid solution for 2 hours.
+            - IF Improvement occurs after increased rate:
+                - THEN continue IV therapy by successively reducing the rate from 6 to 3 ml/kg/hr.
+                - IF Further improvement occurs:
+                    - THEN discontinue IV after 24 hours.
+            - ELSE IF No Improvement occurs AND unstable vital signs:
+                - IF Haematocrit rises:
+                    - THEN administer IV colloid (dextran 40) at 10 ml/kg/hr for 1 hour.
+                    - IF Improvement occurs after colloid:
+                        - THEN discontinue IV after 24 hours.
+                - ELSE IF Haematocrit falls:
+                    - THEN administer Blood transfusion at 10 ml/kg/hr.
+                    - IF Improvement occurs after transfusion:
+                        - THEN discontinue IV after 24 hours.
+
+9.  **Management of DHF Grade I and II:**
+    - Hospitalize patients with DHF Grade I/II (thrombocytopenia, haemoconcentration, abdominal pain, black tarry stools, epistaxis, gum bleeding, infection).
+    - Observe for signs of shock (critical period: transition from febrile to afebrile phase, usually after day 3).
+    - IF rise in haemoconcentration occurs:
+        - THEN initiate IV fluid therapy.
+    - IF despite treatment, patient develops fall in BP, decreased urine output, or other features of shock:
+        - THEN institute management for Grade III/IV DHF/DSS.
+    - Give oral rehydration, antipyretics (paracetamol), and sponging.
+
+10. **Volume Replacement Flow Chart (Figure 5):**
+    - IF Unstable Vital Signs AND Urine output falls (signs of shock):
+        - THEN initiate immediate rapid volume replacement: IV therapy at 10-20 ml/kg/hr crystalloid solution for 1 hour.
+        - IF Improvement occurs:
+            - THEN continue IV therapy by successively reducing the rate from 20 to 10, 10 to 6, and 6 to 3 ml/kg/hr.
+            - IF Further improvement occurs:
+                - THEN discontinue IV after 24 hours.
+        - ELSE IF No Improvement occurs:
+            - THEN administer Oxygen.
+            - IF Haematocrit rises:
+                - THEN administer IV Colloid (Dextran 40) or plasma at 10 ml/kg/hr as an intravenous bolus (repeat if necessary).
+                - IF Improvement occurs after colloid/plasma:
+                    - THEN discontinue IV after 24 hours.
+            - ELSE IF Haematocrit falls rapidly (due to haemorrhage):
+                - THEN administer Blood transfusion at 10 ml/kg/hr.
+                - IF Improvement occurs after transfusion:
+                    - THEN discontinue IV after 24 hours.
+
+11. **Fluid Requirement Calculation:**
+    - The volume of fluid should be sufficient to maintain effective circulation during plasma leakage.
+    - Adjust IV fluid rate throughout the 24-48 hour period of plasma leakage based on periodic haematocrit and vital signs.
+    - Calculate required regimen based on body weight and chart on a 1-3 hourly basis (or more frequently in shock).
+
+12. **Fluid Requirement based on Weight (Table 5):**
+    - IF Weight on admission is < 7 kg:
+        - THEN Fluid requirement is 220 ml/kg body weight/day.
+    - ELSE IF Weight on admission is 7-11 kg:
+        - THEN Fluid requirement is 165 ml/kg body weight/day.
+    - ELSE IF Weight on admission is 12-18 kg:
+        - THEN Fluid requirement is 130 ml/kg body weight/day.
+    - ELSE IF Weight on admission is 18 kg:
+        - THEN Fluid requirement is 90 ml/kg body weight/day.
+
+13. **Maintenance Fluid Calculation (for children > 40 kg, Table 6):**
+    - IF Body weight is < 10 kg:
+        - THEN Maintenance volume for 24 hours is 100 ml/kg.
+    - ELSE IF Body weight is 10-20 kg:
+        - THEN Maintenance volume for 24 hours is 1000 + 50 ml/kg.
+    - ELSE IF Body weight is 20 kg:
+        - THEN Maintenance volume for 24 hours is 1500 + 20 ml/kg.
+    - For a child weighing 40 kg:
+        - Maintenance volume = 1500 + (20 * 20) = 1900 ml.
+        - Total IV fluid for 24 hours = 2 * Maintenance volume = 2 * 1900 = 3800 ml.
+
+14. **Indications for Red Cell Transfusion:**
+    - Overt blood loss (>10% of total blood volume).
+    - Use whole blood/component.
+    - Refractory shock despite adequate fluid administration and declining haematocrit (replacement volume: 10 ml/kg body wt at a time, perform coagulogram).
+    - IF fluid overload is present:
+        - THEN give Packed Red Blood Cells (PCV).
+
+15. **Indications for Platelet Transfusion:**
+    - Generally, no need for prophylactic platelets even at < 20,000 cells/mm³.
+    - May give prophylactic platelets at < 10,000 cells/mm³ in absence of bleeding.
+    - In prolonged shock with coagulopathy and abnormal coagulogram.
+    - In case of systemic massive bleeding, may need platelets in addition to red cells.
+
+CONTRAINDICATIONS:
+- Aspirin/NSAIDs (e.g., ibuprofen) should be avoided due to risk of gastritis, vomiting, acidosis, and platelet dysfunction.
+```

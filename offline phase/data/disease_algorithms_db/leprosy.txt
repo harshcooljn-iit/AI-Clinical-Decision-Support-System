@@ -1,0 +1,92 @@
+```text
+DISEASE: Leprosy
+
+ABBREVIATIONS:
+- M. Leprae: Mycobacterium leprae
+- NLEP: National leprosy eradication programme
+- PB: Paucibacillary
+- MB: Multibacillary
+- NSAIDs: Nonsteroidal anti-inflammatory drugs
+- TDS: Three times a day
+- BD: Twice a day
+- ADRs: Adverse drug reactions
+- SOS: As soon as possible
+
+DIAGNOSTICS:
+- Clinical examination of skin and peripheral nerves including sensation.
+- Slit skin smear.
+- Biopsy.
+
+TREATMENT ALGORITHM:
+
+1.  **CLASSIFICATION:** Determine the type of leprosy based on clinical features and slit skin smear results.
+    *   IF (Number of skin lesions is ≤ 5 AND/OR single nerve involvement AND slit skin smear is negative) THEN
+        *   CLASSIFICATION = Paucibacillary (PB)
+    *   ELSE IF (Number of skin lesions is ≥ 5 AND/OR more than one nerve involvement AND slit skin smear is positive) THEN
+        *   CLASSIFICATION = Multibacillary (MB)
+    *   ELSE
+        *   CLASSIFICATION = Undetermined (Refer to specialist)
+
+2.  **AGE CATEGORY:** Determine the patient's age category.
+    *   IF (Patient age is adult) THEN
+        *   AGE_CATEGORY = Adult
+    *   ELSE IF (Patient age is pediatric) THEN
+        *   AGE_CATEGORY = Pediatric
+
+3.  **TREATMENT REGIMEN SELECTION:** Based on CLASSIFICATION and AGE_CATEGORY, select the appropriate treatment regimen.
+
+    *   IF (CLASSIFICATION = MB AND AGE_CATEGORY = Adult) THEN
+        *   DRUG_REGIMEN = MB_Adult
+    *   ELSE IF (CLASSIFICATION = PB AND AGE_CATEGORY = Adult) THEN
+        *   DRUG_REGIMEN = PB_Adult
+    *   ELSE IF (CLASSIFICATION = MB AND AGE_CATEGORY = Pediatric) THEN
+        *   DRUG_REGIMEN = MB_Pediatric
+    *   ELSE IF (CLASSIFICATION = PB AND AGE_CATEGORY = Pediatric) THEN
+        *   DRUG_REGIMEN = PB_Pediatric
+
+4.  **DOSAGE ADMINISTRATION (Based on DRUG_REGIMEN):**
+
+    *   IF (DRUG_REGIMEN = MB_Adult) THEN
+        *   Dapsone: 100 mg daily
+        *   Rifampicin: 600 mg monthly
+        *   Clofazimine: 300 mg monthly + 50 mg daily
+        *   DURATION = 12 months
+    *   ELSE IF (DRUG_REGIMEN = PB_Adult) THEN
+        *   Dapsone: 100 mg daily
+        *   Rifampicin: 600 mg monthly
+        *   Clofazimine: (Not applicable)
+        *   DURATION = 6 months
+    *   ELSE IF (DRUG_REGIMEN = MB_Pediatric) THEN
+        *   Dapsone: 50 mg daily
+        *   Rifampicin: 450 mg monthly
+        *   Clofazimine: 150 mg monthly + 50 mg alternate day
+        *   DURATION = 12 months
+    *   ELSE IF (DRUG_REGIMEN = PB_Pediatric) THEN
+        *   Dapsone: 50 mg daily
+        *   Rifampicin: 450 mg monthly
+        *   Clofazimine: (Not applicable)
+        *   DURATION = 6 months
+
+5.  **LEPRA REACTION TREATMENT:** Assess for Lepra reaction.
+    *   IF (Patient presents with signs/symptoms of Lepra reaction) THEN
+        *   Assess severity.
+        *   IF (Reaction is Mild) THEN
+            *   Type 1 Reaction: Tab. paracetamol (500 mg) TDS OR Tab. aspirin (375-625 mg) BD
+            *   Type 2 Reaction: Rest and Tab. paracetamol (500 mg) TDS OR Tab. aspirin (375-625 mg) BD
+        *   ELSE IF (Reaction is Severe) THEN
+            *   Type 1 Reaction: Tab. prednisolone (1-2 mg/kg/day) in tapering dose. Surgical decompression of nerves SOS.
+            *   Type 2 Reaction: Rest and Tab. paracetamol (500 mg) TDS OR Tab. aspirin (375-625 mg) BD PLUS Cap. clofazimine 300 mg daily PLUS Tab. prednisolone 40 mg daily for 15 days, followed by 30 mg daily for 15 days, 20 mg daily for 15 days, 15 mg daily for 15 days, 10 mg daily for 15 days, and 5 mg daily for 15 days (tapering dose). Consider Thalidomide (with caution) at tertiary care center if chronic, recurrent, or steroid-dependent.
+    *   ELSE
+        *   No specific treatment for reaction needed.
+
+6.  **FOLLOW-UP:**
+    *   IF (CLASSIFICATION = PB) THEN
+        *   Surveillance period = 2 years
+    *   ELSE IF (CLASSIFICATION = MB) THEN
+        *   Surveillance period = 5 years
+    *   Monitor for relapse and reactions during the surveillance period.
+
+CONTRAINDICATIONS:
+- Thalidomide: Use with caution, especially in chronic recurrent and steroid-dependent cases at tertiary care centers. (Specific contraindications not listed in the text, but caution advised).
+- Corticosteroids: Not explicitly contraindicated, but tapering dose is specified. Use with caution in patients with comorbidities where steroids are contraindicated (e.g., uncontrolled diabetes, active infection).
+```

@@ -1,0 +1,11 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "What is the patient's hemoglobin (Hb) level in g/dl?",
+        "Does the patient have malabsorption syndromes? (Yes/No)",
+        "Is the patient unable to tolerate oral iron? (Yes/No)",
+        "Does the patient experience severe adverse drug reactions (ADRs) to oral iron? (Yes/No)",
+        "Does the patient have cardiac compromise? (Yes/No)",
+        "What is the patient's weight in kg?"
+    ]
+}

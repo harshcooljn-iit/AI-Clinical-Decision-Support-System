@@ -1,0 +1,75 @@
+```text
+DISEASE: Carcinoma Breast
+
+ABBREVIATIONS:
+- FNAC: Fine Needle Aspiration Cytology
+- DCIS: Ductal Carcinoma In Situ
+- ER: Estrogen Receptor
+- PR: Progesterone Receptor
+- HER 2/neu: Human Epidermal growth factor Receptor 2
+- IV: Intravenous
+- sqm: square meter
+- CMF: Cyclophosphamide, Methotrexate, 5-Fluorouracil
+- CAF: Cyclophosphamide, Adriamycin, 5-Fluorouracil
+- Tab: Tablet
+- mg: milligram
+- orally: by mouth
+- daily: once a day
+
+DIAGNOSTICS:
+- Clinical presentation: Middle-aged female, lump in breast/axilla, skin changes, nipple discharge, weight loss.
+- Physical examination: Breast, nipple-areola complex, axilla, opposite breast/axilla.
+- Imaging: Mammography.
+- Biopsy: FNAC, true cut biopsy, excisional biopsy (mass < 4 cm), incisional biopsy (mass > 4 cm).
+
+TREATMENT ALGORITHM:
+
+SURGICAL TREATMENT:
+IF Stage is IIB or IIIA THEN
+  Perform Breast Conservative Surgery (Lumpectomy/quadrantectomy/wide excision) followed by radiotherapy.
+ELSE IF Stage is not IIB or IIIA THEN
+  Perform Modified Radical Mastectomy (removal of whole breast tissue, nipple-areola complex, overlying skin, pectoral fascia, axillary dissection).
+ENDIF
+
+IF Tumor size is < 4 cm AND solitary lump AND does not involve nipple-areola complex THEN
+  Lumpectomy/quadrantectomy/wide excision is indicated.
+ENDIF
+
+IF Stage is I or IIA AND diagnosis is DCIS THEN
+  Treatment is indicated.
+ENDIF
+
+PHARMACOLOGICAL TREATMENT:
+
+NEOADJUVANT CHEMOTHERAPY:
+IF Stage is IIIB (locally advanced breast cancer) THEN
+  Administer chemotherapy before surgery (Neo adjuvant chemotherapy) for down staging.
+ENDIF
+
+ADJUVANT CHEMOTHERAPY:
+IF any of the following conditions are met THEN
+  - Node positive cancer
+  - Node negative cancer with tumor size > 1 cm
+  - Node negative cancer with tumor size > 0.5 cm AND adverse prognostic factors (lymphovascular invasion, high nuclear grade, high histological grade, HER 2/neu overexpression, negative hormone receptor status)
+THEN
+  Administer post-operative chemotherapy (Adjuvant chemotherapy).
+ENDIF
+
+CHEMOTHERAPY REGIMENS:
+- CMF regimen: Cyclophosphamide, Methotrexate, 5-Fluorouracil - 6 cycles, every 21 days.
+- CAF regimen: Cyclophosphamide, Adriamycin, 5-Fluorouracil - 6 cycles, every 21 days.
+
+INDIVIDUAL DRUG DOSAGES (based on body surface area - BSA):
+- Cyclophosphamide: 600 mg/sqm body area IV.
+- 5 Fluorouracil: 600 mg/sqm body area IV.
+- Methotrexate: 40 mg/sqm body area IV.
+- Adriamycin: 50 mg/sqm body area IV.
+
+HORMONAL REGIMEN:
+IF Patient is ER/PR positive THEN
+  Administer Tab. tamoxifen 20 mg orally daily for 5 years.
+ENDIF
+
+CONTRAINDICATIONS:
+- Tamoxifen: Contraindicated in patients who are ER/PR negative.
+```

@@ -1,0 +1,26 @@
+```text
+DISEASE: Acute Parotitis
+
+ABBREVIATIONS:
+- MMR: Measles Mumps Rubella
+
+DIAGNOSTICS:
+- Clinical presentation: Bilateral parotid swelling, pain over gland, ear pain, low-grade fever, arthralgia, malaise, headache.
+- Etiology: Caused by paramyxovirus.
+- Epidemiology: Usually affects children less than 15 years.
+
+TREATMENT ALGORITHM:
+
+IF patient has Acute Parotitis THEN
+    // Non-pharmacological treatment
+    THEN implement supportive measures:
+        IF supportive measures needed THEN
+            THEN provide bed rest
+            THEN provide adequate hydration
+            THEN provide antipyretics (for fever)
+    // Prevention
+    THEN recommend prevention:
+        IF patient is susceptible THEN
+            THEN recommend Measles Mumps Rubella (MMR) vaccine
+ENDIF
+```

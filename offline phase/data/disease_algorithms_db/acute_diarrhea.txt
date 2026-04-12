@@ -1,0 +1,136 @@
+```text
+1. DISEASE: Acute Diarrhea
+
+2. ABBREVIATIONS:
+    - HAF: Home Available Fluids
+    - ORS: Oral Rehydration Solution
+    - ORT: Oral Rehydration Therapy
+    - PEM: Protein Energy Malnutrition
+    - TLC: Total Leucocyte Count
+    - DLC: Differential Leucocyte Count
+    - ESR: Erythrocyte Sedimentation Rate
+    - CRP: C-Reactive Protein
+    - UTI: Urinary Tract Infection
+    - URI: Upper Respiratory Infection
+    - CFT: Capillary Filling Time
+    - BP: Blood Pressure
+    - HPF: High Power Field
+    - N/2: Normal Saline (0.9% NaCl)
+    - Ringer's lactate: Lactated Ringer's solution
+    - CSF: Cerebrospinal Fluid
+    - SE: Serum Electrolytes
+    - ABG: Arterial Blood Gas
+    - TLC: Total Leucocyte Count
+    - DLC: Differential Leucocyte Count
+    - ESR: Erythrocyte Sedimentation Rate
+    - CRP: C-Reactive Protein
+    - HAF: Home Available Fluids
+    - URI: Upper Respiratory Infection
+    - CFT: Capillary Filling Time
+    - BP: Blood Pressure
+    - HPF: High Power Field
+
+3. DIAGNOSTICS:
+    - Clinical features: Frequent stools, vomiting, fever, dehydration (some or severe).
+    - Investigations (based on indications):
+        - Stool microscopy
+        - Blood urea, S. electrolytes (SE), arterial blood gas (ABG)
+        - Infection screening by TLC, DLC, band cell count, ESR, CRP
+        - Blood culture
+        - Chest X-ray, CSF, others (as required)
+        - Stool culture (no role)
+
+4. TREATMENT ALGORITHM:
+
+    IF Dehydration is present:
+        THEN Maintain hydration.
+            IF Some dehydration:
+                THEN Use Low osmolarity ORS (75 ml/kg in 4 hours under observation).
+                    IF Dehydration corrected after 4 hours OR child was not dehydrated initially:
+                        THEN Send home with instructions for ORS (2:1 dilution as accepted, 10 ml/kg per large stool).
+                        THEN Advise to report back if vomiting persists or no urine for >8 hours.
+                    ELSE IF Dehydration not corrected after 4 hours:
+                        THEN Repeat same amount of ORS in next 4 hours.
+                            IF Dehydration corrected:
+                                THEN Send home.
+                            ELSE IF Dehydration does not improve in 8 hours OR worsens:
+                                THEN Abandon ORT and give IV fluids.
+            ELSE IF Severe dehydration OR shock OR contraindications to ORT OR failure of ORT:
+                THEN Give IV fluid therapy.
+                    IF Shock:
+                        THEN Push 20 ml/kg of Ringer's lactate or normal saline over 15 minutes.
+                        THEN Repeat up to twice more if shock persists.
+                        THEN Use central venous pressure monitoring if shock persists after 60 ml/kg.
+                    ELSE IF Some dehydration:
+                        THEN Give 75 ml/kg of N/2 saline over 8 hours.
+                    ELSE IF Severe dehydration:
+                        THEN Give 100 ml/kg of N/2 saline over 8 hours (half in first 2-3 hours).
+                    IF Child passes urine after initial fluid bolus:
+                        THEN Continue N/2 saline as indicated (75 ml/kg for some, 100 ml/kg for severe).
+                    IF Child does not pass urine after hydration:
+                        THEN Consider parenchymal renal failure.
+                        THEN Give fluid challenge (20 ml/kg normal saline).
+                        THEN Give frusemide injection (1-2 mg/kg).
+                        IF Still no urine:
+                            THEN Consider parenchymal renal failure and manage accordingly.
+
+    // Non-pharmacological treatment:
+    THEN Maintain nutrition: continue breastfeeding, continue normal light diet (e.g., khichri, dalia, banana, mashed dal).
+    THEN Do not dilute or stop milk.
+    THEN Give extra food during recovery.
+    THEN Use HAF (rice, kanji, buttermilk, dal soup, coconut water, weak tea) in place of or along with ORS.
+    THEN Avoid soft drinks, sweetened fruit drinks, and strong tea.
+
+    // Pharmacological treatment:
+    IF Specific therapy is indicated (Frank blood and mucus in stool OR >10 pus cells/HPF):
+        THEN Give Syr. ciprofloxacin 15-20 mg/kg/day in 2 divided doses for 5 days.
+
+    IF Giardiasis suspected (trophozoites seen on stool microscopy):
+        THEN Give Syr. metronidazole 15 mg/kg/day in 3 divided doses for 5 days
+        OR Give Syr. tinidazole 50 mg/kg/day single dose (max. 2 g).
+
+    IF Cholera suspected (severe watery diarrhoea):
+        THEN Use fluid therapy as mainstay.
+        THEN Use antibiotics to prevent spread:
+            IF Give Syr. doxycycline 5 mg/kg (max 200 mg) in single dose.
+            OR Give Syr. furazolidone 5 mg/kg/day in 4 divided doses for 3 days.
+            OR Give Syr. cotrimoxazole (TMP) 8 mg/kg/day in 2 divided doses for 5 days.
+            OR Give Syr. erythromycin 30 mg/kg/day for 3 days.
+
+    // Principles of ORT:
+    THEN Give ORS in small sips.
+    THEN Vomiting is not a contraindication unless persistent.
+    THEN Contraindicated in altered sensorium or paralytic ileus.
+    THEN Stop ORS as soon as diarrhoea stops.
+
+    // Antiemetics (use cautiously):
+    IF Vomiting persists despite ORS in sips:
+        THEN Consider other causes (meningitis, URI, dyselectrolytaemia).
+        THEN Give IV fluids if vomiting persists.
+        THEN Occasionally, give 1 or 2 doses of metoclopramide (0.5 mg/kg) or domperidone (0.5 mg/kg) before giving IV fluids.
+
+    // Contraindicated drugs:
+    THEN Avoid antimotility agents (e.g., diphenoxylate, atropine) and antisecretory agents (e.g., loperamide, salicylates).
+
+    // Monitoring:
+    THEN Record vitals (pulse, BP, CFT, respiratory rate, temperature) hourly/6 hourly.
+    THEN Monitor for improvement/worsening of dehydration signs.
+    THEN Record urine output, stool frequency, and consistency.
+
+    // Admission criteria:
+    IF PEM grade III OR age <3 months OR associated severe systemic infections (septicaemia, meningitis, pneumonia):
+        THEN Admit.
+
+    // Persistent diarrhoea (>7 days):
+    IF Diarrhoea persists for >7 days:
+        THEN Investigate for lactose intolerance, incipient infections (UTI, rare gut organisms).
+
+5. TABULAR DOSAGES:
+    - The table "Investigations in acute diarrhoea" lists indications for various tests but does not contain dosages.
+    - The table containing IV fluid dosages is converted into nested IF/ELSE blocks within the IV fluid therapy section.
+
+6. CONTRAINDICATIONS:
+    - ORT: Altered sensorium, paralytic ileus.
+    - Specific drugs: Listed within the specific therapy sections (e.g., Shigella strains resistant to ampicillin/cotrimoxazole).
+    - General contraindications: Antimotility agents (e.g., diphenoxylate, atropine) and antisecretory agents (e.g., loperamide, salicylates).
+```

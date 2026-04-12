@@ -1,0 +1,62 @@
+```text
+DISEASE: Urethral Discharge
+
+ABBREVIATIONS:
+- NACO: National AIDS Control Organisation
+- IM: Intramuscular
+- TDS: Three times a day
+- BD: Twice a day
+- ICTC: Integrated Counseling and Testing Centre
+- stat: Immediately
+
+DIAGNOSTICS:
+- Clinical examination
+- Gram stain
+- Culture
+
+TREATMENT ALGORITHM:
+
+IF the patient presents with Urethral Discharge, then:
+    - Educate and counsel the client and sexual partner regarding safer sex practices and the importance of completing treatment.
+    - Treat the patient's partner.
+    - Advise sexual abstinence or condom use during treatment.
+    - Provide condoms and educate on correct/consistent use.
+    - Refer the patient to ICTC.
+    - Schedule follow-up after 7 days.
+    - Schedule follow-up on the 3rd, 7th, and 14th day for lower abdominal pain.
+    - Schedule follow-up on the 7th, 14th, and 21st day for inguinal bubo.
+    - If symptoms persist, re-assess for re-infection and advise prompt referral.
+    - Consider immunization against Hepatitis B.
+
+    IF the patient has Urethral Discharge, then administer Kit 1 provided by NACO:
+        - Tab. azithromycin 1g stat
+        - Tab. cefixime 400 mg stat
+
+    IF the patient has Vaginal discharge, then administer Kit 2 provided by NACO:
+        - Tab. secnidazole 2g stat
+        - Cap. fluconazole 150mg stat
+
+    IF the patient has Genital ulcerative disease (non herpetic), then administer Kit 3 provided by NACO:
+        - Inj. benzathine penicillin 2.4 mu IM stat
+        - Tab. azithromycin 1g stat
+
+    IF the patient has Genital ulcerative disease (non herpetic), then administer Kit 4 provided by NACO:
+        - Cap. doxycycline 100mg BD for 15 days
+        - Tab. azithromycin 1g stat
+
+    IF the patient has Genital ulcerative disease (herpetic), then administer Kit 5 provided by NACO:
+        - Tab. acyclovir 400mg TDS for 7 days
+
+    IF the patient has Lower abdominal pain (lap), then administer Kit 6 provided by NACO:
+        - Tab. cefixime 400mg stat
+        - Tab. metronidazole 400mg BD for 15 days
+        - Cap. doxycycline 100mg BD for 14 days
+
+    IF the patient has Inguinal bubo, then administer Kit 7 provided by NACO:
+        - Cap. doxycycline 100mg BD for 21 days
+        - Tab. azithromycin 1g stat
+
+CONTRAINDICATIONS:
+- (No specific contraindications listed in the provided text for the drugs mentioned in Kit 1 for Urethral Discharge).
+- (Contraindications for other drugs in other kits are not specified in the provided text).
+```

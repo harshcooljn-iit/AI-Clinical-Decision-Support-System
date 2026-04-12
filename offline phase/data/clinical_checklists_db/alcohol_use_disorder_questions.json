@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "Does the patient require hospitalization? (Yes/No)",
+        "Are liver function tests normal? (Yes/No/Unknown)",
+        "Does the patient have seizures? (Yes/No)",
+        "Does the patient have delirium tremens? (Yes/No)",
+        "Does the patient have hepatic dysfunction? (Yes/No)"
+    ]
+}

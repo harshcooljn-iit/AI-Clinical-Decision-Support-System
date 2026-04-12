@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Which pharmacological treatment is chosen? (Artesunate, Quinine, Primaquine)",
+        "What is the patient's weight in kilograms?",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have G6PD deficiency? (Yes/No)"
+    ]
+}

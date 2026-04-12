@@ -1,0 +1,18 @@
+{
+    "questions": [
+        "Does the patient have Episodic Tension Headache? (Yes/No)",
+        "Is the patient allergic to Acetaminophen? (Yes/No)",
+        "Does the patient have liver disease? (Yes/No)",
+        "Is the patient allergic to Aspirin? (Yes/No)",
+        "Does the patient have a bleeding disorder? (Yes/No)",
+        "Is the patient a child or teenager? (Yes/No)",
+        "Is the patient allergic to NSAIDs? (Yes/No)",
+        "Does the patient have kidney disease? (Yes/No)",
+        "Does the patient have stomach ulcers? (Yes/No)",
+        "Does the patient have cardiovascular risk factors? (Yes/No)",
+        "Is the patient allergic to Amitriptyline? (Yes/No)",
+        "Does the patient have heart problems? (Yes/No)",
+        "Does the patient have glaucoma? (Yes/No)",
+        "Does the patient have difficulty urinating? (Yes/No)"
+    ]
+}

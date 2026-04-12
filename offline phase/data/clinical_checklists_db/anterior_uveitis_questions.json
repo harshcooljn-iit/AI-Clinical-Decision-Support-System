@@ -1,0 +1,14 @@
+{
+    "questions": [
+        "What is the severity of the inflammation (mild, moderate, severe)?",
+        "Is secondary glaucoma present? (Yes/No)",
+        "Is the uveitis bilateral and severe? (Yes/No)",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have any known allergies? (Yes/No)",
+        "Is the patient taking any medications that could interact with steroids or immunosuppressives? (Yes/No)",
+        "Is the patient responding to maximal topical and repository steroids? (Yes/No)",
+        "Has an exact etiology been determined? (Yes/No)",
+        "If yes, what is the specific etiology?",
+        "Is the anterior chamber reaction improving? (Yes/No)"
+    ]
+}

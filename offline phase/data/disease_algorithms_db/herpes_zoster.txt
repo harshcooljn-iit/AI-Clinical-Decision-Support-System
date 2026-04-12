@@ -1,0 +1,58 @@
+```text
+DISEASE: Herpes Zoster
+
+ABBREVIATIONS:
+- VZV: Varicella Zoster Virus
+- BD: Bis in die (twice a day)
+
+DIAGNOSTICS:
+- Clinical presentation (unilateral radicular severe pain, grouped vesicular eruption involving a dermatome, not crossing the midline, possible mucous membrane involvement).
+- Microscopy (Tzanck smear).
+
+TREATMENT ALGORITHM:
+
+IF patient has Herpes Zoster THEN
+    // Non-pharmacological treatment
+    Rest and isolation.
+
+    // Pharmacological treatment
+    Topical calamine lotion until symptoms resolve.
+
+    // Oral antiviral therapy options:
+    IF patient is eligible for oral antiviral therapy THEN
+        // Option 1: Acyclovir
+        IF choosing Acyclovir THEN
+            IF patient's weight is known THEN
+                IF patient's weight is >= 15-20 mg/kg THEN
+                    Administer Acyclovir 15-20 mg/kg five times daily for 5-7 days.
+                ELSE
+                    // Handle cases where weight is below the threshold or unknown.
+                    // Consider alternative dosing or consultation.
+                    DISPLAY "Acyclovir dosage based on weight (15-20 mg/kg 5x daily for 5-7 days) requires weight information."
+                ENDIF
+            ELSE
+                // Handle cases where weight is unknown.
+                DISPLAY "Acyclovir dosage based on weight (15-20 mg/kg 5x daily for 5-7 days) requires weight information."
+            ENDIF
+        ENDIF
+
+        // Option 2: Valacyclovir
+        IF choosing Valacyclovir THEN
+            Administer Valacyclovir 1000 mg twice daily (BD) for 7 days.
+        ENDIF
+    ELSE
+        // Patient is not eligible for oral antiviral therapy (e.g., contraindication).
+        DISPLAY "Patient is not eligible for oral antiviral therapy."
+    ENDIF
+ELSE
+    DISPLAY "Patient does not have Herpes Zoster."
+ENDIF
+
+CONTRAINDICATIONS:
+// (Note: The provided text does not list specific contraindications for Acyclovir or Valacyclovir in the context of Herpes Zoster.
+//  A complete guideline would include this information.  Example contraindications might include known hypersensitivity to the drug or severe renal impairment.)
+// Example (not from the text):
+// IF patient has known hypersensitivity to Acyclovir THEN
+//     DO NOT administer Acyclovir.
+// ENDIF
+```

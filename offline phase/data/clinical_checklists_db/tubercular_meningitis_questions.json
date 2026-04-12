@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Are seizures present? (Yes/No)",
+        "Is increased intracranial pressure (ICP) present? (Yes/No)",
+        "Is hydrocephalus present? (Yes/No)",
+        "If hydrocephalus is present, is it obstructive? (Yes/No/Unknown)"
+    ]
+}

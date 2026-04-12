@@ -1,0 +1,88 @@
+```text
+DISEASE: Epilepsy
+
+ABBREVIATIONS:
+- Valproic acid: Valproic acid
+- Lamotrigine: Lamotrigine
+- Capbamazepine: Carbamazepine
+- Oxcarbazepine: Oxcarbazepine
+- Ethosuximide: Ethosuximide
+- Topiramate: Topiramate
+- Phenytoin: Phenytoin
+- Levetiracetam: Levetiracetam
+- Zonisamide: Zonisamide
+- Tiagabine: Tiagabine
+- Gabapentin: Gabapentin
+- Lacosamide: Lacosamide
+- Phenobarbitone: Phenobarbital
+- Primidone: Primidone
+- Felbamate: Felbamate
+- Clonazepam: Clonazepam
+
+DIAGNOSTICS:
+- Diagnosis involves confirming a seizure event and ruling out other potential causes (differentials).
+- In patients with known epilepsy, evaluation focuses on identifying underlying causes, precipitating factors, and assessing the adequacy of current treatment.
+
+TREATMENT ALGORITHM:
+
+1.  Identify the type of seizure based on classification (Generalized tonic clonic, Focal, Typical absence, Atypical absence, myoclonic, atonic).
+
+2.  IF the seizure type is Generalized tonic clonic seizures:
+    THEN consider the following first-line drugs:
+        - Valproic acid
+        - Lamotrigine
+        - Topiramate
+    THEN consider the following alternative drugs:
+        - Zonisamide
+        - Phenytoin
+        - Carbamazepine
+        - Oxcarbazepine
+        - Phenobarbital
+        - Primidone
+        - Felbamate
+
+3.  IF the seizure type is Focal seizures:
+    THEN consider the following first-line drugs:
+        - Lamotrigine
+        - Carbamazepine
+        - Oxcarbazepine
+        - Phenytoin
+        - Levetiracetam
+    THEN consider the following alternative drugs:
+        - Topiramate
+        - Zonisamide
+        - Valproic acid
+        - Tiagabine
+        - Gabapentin
+        - Lacosamide
+        - Phenobarbital
+        - Primidone
+        - Felbamate
+
+4.  IF the seizure type is Typical absence seizures:
+    THEN consider the following first-line drugs:
+        - Valproic acid
+        - Ethosuximide
+    THEN consider the following alternative drugs:
+        - Lamotrigine
+        - Clonazepam
+
+5.  IF the seizure type is Atypical absence, myoclonic, and atonic seizures:
+    THEN consider the following first-line drugs:
+        - Valproic acid
+        - Lamotrigine
+        - Topiramate
+    THEN consider the following alternative drugs:
+        - Clonazepam
+        - Felbamate
+
+6.  Address underlying conditions and precipitating factors.
+    - Metabolic imbalances (e.g., electrolytes, glucose).
+    - Medication side effects (e.g., theophylline).
+    - Illicit drug use (e.g., cocaine).
+    - Structural CNS lesions (e.g., brain tumor, vascular malformation, abscess).
+    - Avoid precipitating factors (e.g., sleep deprivation, alcohol, bright light).
+
+CONTRAINDICATIONS:
+- (Note: Specific contraindications for each drug are not provided in the text, but would typically be considered in clinical practice based on patient factors like age, pregnancy, allergies, comorbidities, and concurrent medications).
+```

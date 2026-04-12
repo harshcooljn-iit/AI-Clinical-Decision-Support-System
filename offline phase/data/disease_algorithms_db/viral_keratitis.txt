@@ -1,0 +1,87 @@
+```text
+DISEASE: Viral Keratitis (specifically Herpes Simplex Keratitis)
+
+ABBREVIATIONS:
+- HSV: Herpes simplex virus
+- IOP: Intraocular pressure
+
+DIAGNOSTICS:
+- Clinical presentation: Irritation, photophobia, reduction in vision (if central cornea affected), corneal anesthesia.
+- Fluorescein staining: Visualization of dendritic ulcers (branching, linear pattern with feathery edges and terminal bulbs).
+- History: Primary or recurrent infection.
+
+TREATMENT ALGORITHM:
+
+IF Disease is Viral Keratitis (specifically Herpes Simplex Keratitis) THEN
+
+  IF Treatment is Pharmacological THEN
+
+    IF Topical Antiviral Treatment is indicated THEN
+
+      IF Drug is Trifluridine THEN
+        Frequency: Every 2 hours while awake
+        Strength: 1% solution
+      ENDIF
+
+      IF Drug is Acyclovir THEN
+        Frequency: 5 times daily
+        Strength: 3% ointment
+      ENDIF
+
+      IF Drug is Idoxuridine THEN
+        Frequency: Hourly while awake
+        Strength: 0.1% solution
+      ENDIF
+
+      IF Drug is Vidarabine THEN
+        Frequency: 5 times daily
+        Strength: 3% ointment
+      ENDIF
+
+    ENDIF
+
+    IF Oral Acyclovir is indicated (severe disease, atopic individuals) THEN
+
+      IF Patient is non-immunocompromised THEN
+        Dosage: 400 mg
+        Frequency: Five times daily
+      ENDIF
+
+      IF Patient is immunocompromised OR atopic THEN
+        Dosage: 800 mg
+        Frequency: Five times daily
+      ENDIF
+
+    ENDIF
+
+    IF Oral Famciclovir or Valacyclovir is used THEN
+      Dosage and Frequency: Not specified in text.
+    ENDIF
+
+  ENDIF
+
+  IF Topical Corticosteroids are used THEN
+    CAUTION: Accelerate corneal thinning, increasing risk of corneal perforation.
+  ENDIF
+
+  IF Epithelial Debridement is performed (for dendritic keratitis) THEN
+    Method: Remove infected epithelium with a tightly wound cotton tip applicator.
+    Adjunctive Therapy: Topical antiviral to accelerate epithelial healing.
+  ENDIF
+
+  IF Surgical Management (Penetrating Keratoplasty) is indicated (severe corneal scarring) THEN
+    Condition: Herpetic disease must be inactive for many months before surgery.
+  ENDIF
+
+ELSE
+
+  IF Disease is not Viral Keratitis THEN
+    Treatment: Not specified in this guideline.
+  ENDIF
+
+ENDIF
+
+CONTRAINDICATIONS:
+- Topical corticosteroids: Contraindicated in active epithelial keratitis due to risk of corneal perforation.
+- Surgical management (Penetrating Keratoplasty): Contraindicated if herpetic disease is active.
+```

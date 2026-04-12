@@ -1,0 +1,31 @@
+```text
+DISEASE: Bacterial Skin Infections
+
+ABBREVIATIONS:
+- OD: Once daily
+- QID: Four times daily
+- TDS: Three times daily
+
+DIAGNOSTICS:
+- Mainly clinical diagnosis.
+- Gram stain and culture-sensitivity may be used if required.
+
+TREATMENT ALGORITHM:
+
+IF the bacterial skin infection is localized (e.g., Impetigo, Folliculitis, Furuncle, Carbuncle, Ecthyma) THEN
+    APPLY topical antibacterial cream twice daily for 7-10 days.
+    - Options include: neomycin, silver sulfadiazine, or framycetin.
+ELSE IF the bacterial skin infection is widespread or involves deeper tissues (e.g., Erysipelas, Cellulitis) OR if systemic symptoms (fever, malaise) are present THEN
+    ADMINISTER systemic antibacterial therapy.
+    - Option 1: Tab. azithromycin 500 mg OD for 3-5 days.
+    - Option 2: Cap. amoxicillin 250 mg QID for 7 days.
+    - Option 3: Cap. amoxicillin 500 mg TDS for 7 days.
+    - Option 4: Tab. erythromycin 500 mg QID for 5 days.
+ENDIF
+
+NON-PHARMACOLOGICAL TREATMENT:
+- Maintain good personal hygiene.
+- Ensure proper nutrition.
+- Wash affected area with soap and water.
+- Drain pus if present.
+```

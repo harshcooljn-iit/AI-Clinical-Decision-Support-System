@@ -1,0 +1,49 @@
+```text
+DISEASE: Ear Wax
+
+ABBREVIATIONS:
+- SOS: As needed
+- g/kg/day: grams per kilogram per day
+- Otolaryngologist: Ear, Nose, and Throat specialist
+
+DIAGNOSTICS:
+- Otoscopy
+- Brownish-black mass in external auditory canal.
+- Symptoms: Blocked ear, pain, tinnitus, reflex cough on manipulation, vertigo.
+
+TREATMENT ALGORITHM:
+
+IF severe pain is present THEN
+    IF patient is an adult THEN
+        Administer ibuprofen 400 mg SOS.
+    ELSE IF patient is a child THEN
+        Administer ibuprofen 20 mg/kg/day divided into 3 doses.
+    ENDIF
+ENDIF
+
+IF ear wax is hard THEN
+    Administer wax softener for 3-4 days before cleaning.
+    Available wax softeners include:
+        - Turpentine oil - 15%
+        - Benzocaine - 2.7% (often combined with turpentine oil)
+        - Chlorbutol - 5%
+        - Paradichlorobenzene - 2%
+ENDIF
+
+Follow wax softening with surgical removal by an Otolaryngologist.
+
+IF surgical removal is performed THEN
+    Perform syringing with sterile saline solution at body temperature.
+    Push saline along the posterior wall of the meatus.
+    Mop the meatus dry after syringing.
+ENDIF
+
+IF there is a previous history of ear discharge OR perforated tympanic membrane OR instrumental manipulation with ring probe, hook, or forceps OR suction cleaning THEN
+    Caution is advised regarding syringing.
+ENDIF
+
+PATIENT EDUCATION:
+- Explain that ear wax is a normal secretion providing protection.
+- Advise removal only if it disturbs hearing.
+- Advise against cleaning the ear with buds as it can push wax deeper.
+```

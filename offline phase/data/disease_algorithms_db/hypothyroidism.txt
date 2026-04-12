@@ -1,0 +1,56 @@
+```text
+DISEASE: Hypothyroidism
+ABBREVIATIONS:
+- TSH: Thyroid stimulating hormone
+- T4: Thyroxine
+- T3: Triiodothyronine
+- mcg/kg/day: Micrograms per kilogram per day
+- L-thyroxine: Levothyroxine
+
+DIAGNOSTICS:
+- Diagnosis is based on demonstration of low serum T4.
+- In primary hypothyroidism, TSH is elevated.
+- Radionuclide scans are not essential but help delineate etiology.
+
+TREATMENT ALGORITHM:
+IF Patient is diagnosed with Hypothyroidism THEN
+    - Start Thyroxin (L-thyroxine) treatment as soon as diagnosis is confirmed.
+
+    - Determine initial dose based on age:
+        IF Age is 0-6 months THEN
+            - Initial dose: 8-15 mcg/kg/day
+        ELSE IF Age is 6-12 months THEN
+            - Initial dose: 7-10 mcg/kg/day
+        ELSE IF Age is 1-5 years THEN
+            - Initial dose: 5-7 mcg/kg/day
+        ELSE IF Age is 5-10 years THEN
+            - Initial dose: 3-5 mcg/kg/day
+        ELSE IF Age is 10-12 years THEN
+            - Initial dose: 2-4 mcg/kg/day
+        ENDIF
+
+    - Follow up:
+        - Clinically every month for 6 months.
+        - Clinically every 3 months until 2 years.
+        - Clinically once or twice every year thereafter.
+        - Periodic thyroid function tests (e.g., every 6 months).
+
+    - Monitor for symptoms:
+        - Under treatment: lethargy, constipation, weight gain.
+        - Overdosing: diarrhoea, palpitations, increased appetite, weight loss.
+        - Raised intracranial tension (headache, vomiting): Requires immediate admission and treatment.
+
+    - Maintain serum T4 level in the upper normal range.
+    - Maintain TSH levels suppressed to normal.
+
+    - Patient Education:
+        - Need for lifelong administration.
+        - Importance of regular follow-up for monitoring and dose titration.
+        - Clinical symptoms of under/overdosage and pseudotumour cerebri.
+        - Administration instructions for infants: Crush tablet with milk/water, use teaspoon/syringe. DO NOT add to bottle. Repeat dose if vomiting/regurgitation occurs immediately.
+
+ENDIF
+
+CONTRAINDICATIONS:
+- (None specified in the text for L-thyroxine in hypothyroidism treatment, but general contraindications for thyroid hormone therapy might include untreated adrenal insufficiency or severe cardiac disease, which would need separate assessment).
+```

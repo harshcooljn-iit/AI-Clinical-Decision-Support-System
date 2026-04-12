@@ -1,0 +1,71 @@
+```text
+DISEASE: Iron Deficiency Anemia
+
+ABBREVIATIONS:
+- RBC: Red Blood Cell
+- TIBC: Total Iron Binding Capacity
+- Hb: Hemoglobin
+- CCF: Congestive Cardiac Failure
+- ADR: Adverse Drug Reaction
+- IM: Intramuscular
+- PCV: Packed Red Blood Cells
+- wt: weight
+- g/dl: grams per deciliter
+- ml/kg: milliliters per kilogram
+- hr: hour
+
+DIAGNOSTICS:
+- RBC indices (reticulocyte count, serum iron concentration, TIBC).
+- Clinical features (easy tiredness, lack of concentration, decreased school performance, growth retardation, severe cases may present with CCF).
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    - Determine patient's age and hemoglobin (Hb) levels.
+    - Assess dietary intake.
+
+2.  **Non-Pharmacological Treatment:**
+    - IF age is > 6 months:
+        - THEN recommend adding cereal-based diet.
+        - THEN encourage green leafy vegetables and fruits.
+
+3.  **Pharmacological Treatment - Oral Iron Therapy:**
+    - IF oral iron therapy is indicated (preferred route):
+        - THEN determine therapeutic iron dose: 4 mg/kg/day of elemental iron.
+        - THEN divide the dose into 2-3 administrations per day.
+        - THEN administer between meals.
+        - THEN continue treatment for 2 months after normal Hb concentration for age is achieved.
+        - IF prematurity:
+            - THEN start iron syrup from the 2nd week of life to 1 year.
+        - IF response to therapy is inadequate:
+            - THEN check for prescribed dose, compliance, presence of diarrhea or malnutrition, infections, or misdiagnosis (e.g., thalassemia trait).
+
+4.  **Parenteral Iron Therapy:**
+    - IF oral iron is not tolerated OR severe ADRs to oral iron OR presence of malabsorption syndromes:
+        - THEN consider parenteral iron therapy.
+        - THEN calculate total dose of iron: Iron(mg) = wt(kg) * Hb deficit (g/dl) * 4.
+        - THEN administer injection iron dextran or iron sorbitol citrate (50 mg/ml) via deep gluteal IM injection.
+
+5.  **Blood Transfusion:**
+    - IF Hb is less than 3 g/dl:
+        - THEN administer PCV 15 ml/kg at a rate of 4-5 ml/kg/hour.
+    - ELSE IF Hb is 4-6 g/dl AND patient has cardiac compromise:
+        - THEN administer PCV 15 ml/kg at a rate of 4-5 ml/kg/hour.
+
+6.  **Patient/Parent Education:**
+    - Educate on dietary modification for long-term management.
+    - Advise taking iron between meals, not with tea or milk.
+    - Inform about potential harmless black discoloration of teeth and stools.
+    - Advise rinsing mouth with water after doses to prevent teeth discoloration.
+
+CONTRAINDICATIONS:
+- Oral Iron Therapy:
+    - IF patient cannot tolerate oral iron.
+    - IF patient experiences severe ADRs to oral iron.
+    - IF patient has malabsorption syndromes.
+- Parenteral Iron Therapy:
+    - IF oral iron therapy is tolerated and effective.
+    - IF no malabsorption syndromes.
+- Blood Transfusion:
+    - IF Hb is > 6 g/dl (unless cardiac compromise) and patient is stable.
+```

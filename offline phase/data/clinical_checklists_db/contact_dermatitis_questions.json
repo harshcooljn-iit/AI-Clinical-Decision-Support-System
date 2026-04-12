@@ -1,0 +1,22 @@
+{
+    "questions": [
+        "Is non-pharmacological treatment sufficient? (Yes/No)",
+        "Is infection present? (Yes/No)",
+        "Is itching significant? (Yes/No)",
+        "Is the case severe? (Yes/No)",
+        "Does the patient have known hypersensitivity to topical corticosteroids? (Yes/No)",
+        "Does the patient have known hypersensitivity to Prednisolone? (Yes/No)",
+        "Does the patient have active untreated infections (especially fungal, bacterial, viral, tuberculosis)? (Yes/No)",
+        "Does the patient have severe psychiatric disturbances? (Yes/No)",
+        "Does the patient have peptic ulcer disease? (Yes/No)",
+        "Does the patient have significant cardiovascular disease? (Yes/No)",
+        "Does the patient have diabetes mellitus? (Yes/No)",
+        "Does the patient have glaucoma or cataracts? (Yes/No)",
+        "Does the patient have known hypersensitivity to Cetrizine or Chlorpheniramine? (Yes/No)",
+        "Does the patient have narrow-angle glaucoma? (Yes/No)",
+        "Does the patient have prostatic hypertrophy? (Yes/No)",
+        "Does the patient have cardiovascular disease? (Yes/No)",
+        "Which topical corticosteroid is being used? (Betamethasone valerate / Mometasone furoate / Other)",
+        "Which oral antihistaminic is being used? (Cetrizine / Chlorpheniramine / Other)"
+    ]
+}

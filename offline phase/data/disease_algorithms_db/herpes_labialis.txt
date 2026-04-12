@@ -1,0 +1,46 @@
+```text
+DISEASE: Herpes Labialis
+
+ABBREVIATIONS:
+- HSV-1: Herpes Simplex Virus type 1
+- TDS: Three times daily
+- BD: Twice daily
+- mg: Milligram
+- Tab: Tablet
+
+DIAGNOSTICS:
+- Clinical examination
+- Microscopy: Tzanck smear showing multinucleate giant cells.
+
+TREATMENT ALGORITHM:
+
+IF patient has Herpes Labialis THEN
+    // Treatment options:
+    // 1. Topical: 1% silver sulphadiazine cream
+    // 2. Oral Antivirals: Acyclovir, Famcyclovir, or Valacyclovir
+    // 3. Symptomatic Relief: Paracetamol
+
+    // Option 1: Topical Treatment
+    APPLY 1% silver sulphadiazine cream topically.
+
+    // Option 2: Oral Antiviral Treatment
+    IF patient requires oral antiviral therapy THEN
+        // Choose one of the following regimens:
+        IF choosing Acyclovir THEN
+            APPLY Tab. acyclovir 200 mg 5 times daily for 5/7 days.
+        ELSE IF choosing Famcyclovir THEN
+            APPLY Tab. famcyclovir 250 mg three times daily (TDS) for 7 days.
+        ELSE IF choosing Valacyclovir THEN
+            APPLY Tab. valacyclovir 1000 mg twice daily (BD) for 7 days.
+        ENDIF
+    ENDIF
+
+    // Option 3: Symptomatic Relief (Pain/Fever)
+    IF patient has fever or pain THEN
+        APPLY Tab. paracetamol 500 mg three times daily (TDS) for 5 days.
+    ENDIF
+
+    // Patient Education
+    ADVISE patient to avoid contact with others until all lesions are crusted.
+ENDIF
+```

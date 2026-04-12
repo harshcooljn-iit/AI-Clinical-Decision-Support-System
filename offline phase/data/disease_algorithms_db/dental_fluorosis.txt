@@ -1,0 +1,34 @@
+```text
+DISEASE: Dental Fluorosis
+
+ABBREVIATIONS:
+PPM: Parts Per Million
+
+DIAGNOSTICS:
+Clinical examination revealing white chalky/brown spots or brownish discoloration on the enamel, primarily affecting anterior teeth and first molars, in patients with a history of high fluoride intake (> 3 PPM) during tooth development.
+
+TREATMENT ALGORITHM:
+
+IF patient has Dental Fluorosis THEN
+    // Step 1: Oral Hygiene
+    Maintain good oral hygiene practices.
+    // Step 2: Assess Severity and Patient Preference
+    IF patient desires cosmetic improvement THEN
+        // Step 3: Consider Bleaching
+        IF patient is a suitable candidate for bleaching (e.g., no contraindications, appropriate severity) THEN
+            Perform teeth bleaching (whitening).
+        ELSE
+            // Step 4: Consider Veneers/Laminates
+            IF patient desires significant esthetic improvement or bleaching is ineffective/contraindicated THEN
+                Consider placement of veneers or laminates.
+            ENDIF
+        ENDIF
+    ELSE
+        // Step 5: Focus on Oral Hygiene
+        Maintain good oral hygiene practices.
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+(No specific contraindications mentioned for the treatments listed, but standard contraindications for bleaching and veneer placement apply based on individual patient factors not specified in the guideline).
+```

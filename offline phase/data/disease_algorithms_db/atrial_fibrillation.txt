@@ -1,0 +1,40 @@
+```text
+DISEASE: Atrial Fibrillation
+
+ABBREVIATIONS:
+- AF: Atrial Fibrillation
+- BD: Twice daily
+- INR: International Normalized Ratio
+- OD: Once daily
+- Tab: Tablet
+
+DIAGNOSTICS:
+- Clinical presentation (palpitation, breathlessness, giddiness, tachycardia, irregularly irregular pulse).
+- ECG confirmation of atrial fibrillation.
+
+TREATMENT ALGORITHM:
+
+IF patient has Atrial Fibrillation (AF) THEN
+
+    // Step 1: Address Precipitating Factors
+    IF precipitating factors (e.g., thyrotoxicosis) are present THEN
+        Treat the precipitating factors.
+    ENDIF
+
+    // Step 2: Assess Hemodynamic Stability
+    IF patient is haemodynamically unstable THEN
+        Perform electrical cardioversion using 200 joules.
+    ELSE
+        // Step 3: Rate Control (if haemodynamically stable)
+        Administer Tab. Metoprolol 25-100 mg BD.
+
+        // Step 4: Anticoagulation
+        Administer Tab. Warfarin 5 mg OD.
+        Monitor INR and adjust dose as needed.
+    ENDIF
+
+ENDIF
+
+SURGICAL TREATMENT:
+- Ablation around pulmonary veins is an option.
+```

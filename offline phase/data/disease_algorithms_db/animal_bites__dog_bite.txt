@@ -1,0 +1,85 @@
+```text
+DISEASE: Animal Bites - Dog Bite (Rabies Prophylaxis)
+
+ABBREVIATIONS:
+- HRIG: Human rabies immunoglobulin
+- HDCV: Human diploid cell vaccine
+- RVA: Rabies vaccine adsorbed
+- PCECV: Purified chick embryo culture vaccine
+- IM: Intramuscular
+- ACIP: Advisory Committee on Immunization Practices
+- MMWR: Morbidity and Mortality Weekly Report
+
+DIAGNOSTICS:
+- Clinical presentation (prodromal, excitation, convulsions).
+- Exposure history (bite, mucous membrane, open wound).
+- Animal evaluation (healthy/available for observation, rabid/suspected, unknown).
+
+TREATMENT ALGORITHM:
+
+IF Animal type is Dog, Cat, or Ferret AND animal is healthy AND available for 10-day observation:
+    IF Animal develops clinical signs of rabies during the 10-day observation period:
+        THEN Start rabies post-exposure prophylaxis (vaccination).
+    ELSE
+        THEN Do not start vaccination.
+    ENDIF
+ELSE IF Animal is rabid or suspected rabid:
+    THEN Immediately start rabies post-exposure prophylaxis (vaccination).
+ELSE IF Animal is unknown (escaped):
+    THEN Consult public health officials regarding rabies post-exposure prophylaxis.
+ENDIF
+
+# Treatment Steps (if prophylaxis is indicated)
+# 1. Wound Care
+# 2. Passive Immunization (HRIG)
+# 3. Active Immunization (Vaccine)
+
+# Immediate Measures (within 3 hours)
+IF Bite/injury occurred:
+    THEN Scrub wound and edges with soap and water.
+    IF Wound is a puncture:
+        THEN Swab deeply in the wound and around its edges.
+    ENDIF
+    THEN Apply virucidal agent (1% or 2% benzalkonium chloride OR povidone-iodine) and rinse.
+    THEN Administer Tetanus prophylaxis as indicated by patient's immunization status.
+    THEN Do not suture bite wounds immediately.
+    IF Suturing is required:
+        THEN Hold for 24-48 hours.
+        THEN Apply minimum number of stitches.
+        THEN Administer antirabies immunoglobulin locally under the cover of stitches.
+    ENDIF
+ENDIF
+
+# Post-exposure Prophylaxis based on Immunization Status
+
+# Non-immunized persons
+IF Patient is non-immunized:
+    THEN Administer HRIG:
+        - Infiltrate full dose around wound(s).
+        - Administer remaining volume IM at an anatomic site distant from vaccine administration.
+    THEN Administer Vaccine (HDCV):
+        - Inject IM (deltoid area).
+        - Schedule: One dose on days 0, 3, 7, 14, and 28.
+    # Alternative Vaccines (RVA, PCECV)
+    THEN Administer Vaccine (RVA or PCECV):
+        - Administer IM for prophylaxis.
+        - Check antibody titers at 2 to 4 weeks.
+    THEN Withhold Corticosteroids, antimalarials, and other immunosuppressives if possible.
+    THEN If history of hypersensitivity:
+        - Cautiously give immunoprophylaxis in a controlled setting.
+        - Have antihistamines and epinephrine available.
+ENDIF
+
+# Previously immunized persons
+IF Patient is previously immunized:
+    THEN Do not administer HRIG.
+    THEN Administer Vaccine (HDCV or PCECV):
+        - 1.0 ml, IM (deltoid area).
+        - Schedule: One dose on days 0 and 3.
+ENDIF
+
+CONTRAINDICATIONS:
+- HRIG: Not administered to previously immunized persons.
+- Corticosteroids, antimalarials, immunosuppressives: Should be withheld during treatment if possible (interfere with active immunity).
+- Vaccine (HDCV, RVA, PCECV): Not administered in the same syringe as HRIG (may partially suppress antibody production).
+```

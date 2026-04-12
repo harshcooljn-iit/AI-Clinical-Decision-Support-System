@@ -1,0 +1,37 @@
+```text
+DISEASE: Fetal Distress In Labour
+
+ABBREVIATIONS:
+- FHR: Fetal Heart Rate
+- IV: Intravenous
+
+DIAGNOSTICS:
+- Abnormal FHR (less than 100 or more than 180 beats per minute)
+- Thick meconium-stained amniotic fluid
+
+TREATMENT ALGORITHM:
+
+IF maternal cause identified (e.g., maternal fever, drugs) THEN
+    Initiate appropriate management for the maternal cause.
+ELSE IF maternal cause not identified AND FHR remains abnormal throughout at least three contractions THEN
+    Perform a vaginal examination to check for explanatory signs of distress.
+    IF bleeding with intermittent or constant pain is found THEN
+        Suspect abruptio placentae.
+    ENDIF
+    IF signs of infection (fever, foul-smelling vaginal discharge) are found THEN
+        Give antibiotics as for amnionitis.
+    ENDIF
+ENDIF
+
+IF FHR abnormalities persist OR additional signs of distress (thick meconium-stained fluid) are present THEN
+    Plan delivery.
+    IF cervix is fully dilated AND fetal head is not more than 1/5 above the symphysis pubis OR leading bony edge of the fetal head is at 0 station THEN
+        Deliver by vacuum extraction or forceps.
+    ELSE IF cervix is not fully dilated OR fetal head is more than 1/5 above the symphysis pubis OR leading bony edge of the fetal head is above 0 station THEN
+        Deliver by caesarean section.
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+(None specified in the provided text for specific drugs, but general contraindications for vacuum/forceps/C-section apply based on clinical context not detailed here).
+```

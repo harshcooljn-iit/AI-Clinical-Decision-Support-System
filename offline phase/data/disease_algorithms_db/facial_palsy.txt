@@ -1,0 +1,65 @@
+```text
+DISEASE: Facial Palsy
+
+ABBREVIATIONS:
+- UMN: Upper Motor Neuron
+- LMN: Lower Motor Neuron
+- ESR: Erythrocyte Sedimentation Rate
+- MRI: Magnetic Resonance Imaging
+- EMG: Electromyography
+
+DIAGNOSTICS:
+- Clinical evaluation based on salient features (Bell's phenomenon, facial muscle involvement, taste/lacrimation changes, emotional movement preservation, absence of other neurological findings).
+- Investigations (ESR, blood sugar, sarcoidosis workup, MRI, EMG) may be used in uncertain cases.
+
+TREATMENT ALGORITHM:
+
+IF patient has Facial Palsy THEN
+
+    // Non-pharmacological treatment
+    THEN
+        IF patient needs eye protection THEN
+            THEN use paper tape to depress upper eyelid during sleep to prevent corneal drying.
+        ENDIF
+
+        IF patient has weakened facial muscles THEN
+            THEN massage the weakened muscles.
+        ENDIF
+
+        IF patient has drooping of the lower face THEN
+            THEN splint the lower part of the face to prevent drooping.
+        ENDIF
+
+        THEN consider facial retraining (mime therapy).
+    ENDIF
+
+    // Pharmacological treatment
+    THEN
+        // Prednisone
+        IF patient is a candidate for corticosteroids THEN
+            THEN
+                IF treatment is initiated within the first 5 days of symptom onset THEN
+                    THEN administer Tab. prednisone 60-80 mg daily.
+                ELSE
+                    THEN do not administer prednisone for the initial 5 days.
+                ENDIF
+
+                // Tapering prednisone
+                IF treatment duration extends beyond 5 days THEN
+                    THEN taper prednisone modestly over the next 5 days.
+                ENDIF
+            ENDIF
+        ENDIF
+
+        // Acyclovir
+        IF patient is a candidate for antiviral therapy AND is receiving prednisone THEN
+            THEN
+                THEN administer Tab. acyclovir 400 mg five times daily for 10 days.
+            ENDIF
+        ENDIF
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+- (No specific contraindications mentioned in the text for Prednisone or Acyclovir in this context, but standard contraindications apply, e.g., hypersensitivity, active infections for Prednisone).
+```

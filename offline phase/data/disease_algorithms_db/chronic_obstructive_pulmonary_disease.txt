@@ -1,0 +1,141 @@
+```text
+DISEASE: Chronic Obstructive Pulmonary Disease (COPD)
+
+ABBREVIATIONS:
+- COPD: Chronic Obstructive Pulmonary Disease
+- FEV1: Forced Expiratory Volume in 1 second
+- FVC: Forced Vital Capacity
+- GOLD: Global Initiative for Chronic Obstructive Lung Disease
+- MDI: Metered Dose Inhaler
+- DPI: Dry Powder Inhaler
+- µg: micrograms
+- mg: milligrams
+- TDS: three times a day
+- BD: twice a day
+- OD: once a day
+- O2: Oxygen
+- PaCO2: Partial pressure of carbon dioxide in arterial blood
+- pH: potential of hydrogen
+- RR: Respiratory Rate
+- H2O: Water
+- cm: centimeters
+- mmHg: millimeters of mercury
+- NIV: Non Invasive Ventilation
+- CMV: Controlled Mechanical Ventilation
+- AC: Assist Control
+- V-ACMV: Volume Assist Control Mechanical Ventilation
+- PEEP: Positive End-Expiratory Pressure
+- I:E: Inspiration to Expiration ratio
+- PaO2: Partial pressure of oxygen in arterial blood
+- SpO2: Peripheral oxygen saturation
+- TDS: three times a day
+- LVRS: Lung Volume Reduction Surgery
+
+DIAGNOSICS:
+- Spirometry is used for diagnosis.
+- Severity is classified according to GOLD criteria based on symptoms and spirometry (FEV1/FVC ratio and FEV1 % predicted).
+
+TREATMENT ALGORITHM:
+
+1.  **Assess Patient:** Evaluate symptoms (chronic cough, sputum production, breathlessness), exposure history (smoking, dusts, etc.), and perform spirometry.
+
+2.  **Determine GOLD Stage/Severity:**
+    IF FEV1/FVC < 0.7 AND FEV1 is >= 80% predicted:
+        THEN GOLD Stage I (Mild).
+    ELSE IF FEV1/FVC < 0.7 AND FEV1 is 50% to < 80% predicted:
+        THEN GOLD Stage IIA (Moderate).
+    ELSE IF FEV1/FVC < 0.7 AND FEV1 is 30% to < 50% predicted:
+        THEN GOLD Stage III (Severe).
+    ELSE IF FEV1/FVC < 0.7 AND (FEV1 < 30% predicted OR FEV1 < 50% predicted with respiratory failure or signs of right heart failure):
+        THEN GOLD Stage IV (Very Severe).
+    ELSE IF FEV1/FVC >= 0.7:
+        THEN At Risk (GOLD Stage 0).
+
+3.  **Non-Pharmacological Treatment:**
+    - Recommend annual influenza vaccine.
+    - Recommend polyvalent pneumococcal vaccine.
+    - Consider pulmonary rehabilitation for symptomatic patients.
+    - Consider Lung Volume Reduction Surgery (LVRS) for selected patients with emphysema (upper lobe predominant, low post-rehab exercise capacity).
+    - Consider Lung Transplantation for candidates <65 years, severe disability despite maximal therapy, free of major co-morbidities.
+
+4.  **Pharmacological Treatment (Stable COPD):**
+    - **Bronchodilators (Preferred route: Inhaled):**
+        - **Short-acting Beta-agonists (SABA):**
+            - Salbutamol: 100-200 µg as needed.
+            - Levosalbutamol: 45-90 µg as needed.
+            - Terbutaline: 250-500 µg as needed.
+        - **Short-acting Anti-cholinergics (SAMA):**
+            - Ipratropium bromide: 20-40 µg as needed.
+        - **Long-acting Beta-agonists (LABA):**
+            - Salmeterol: 25-50 µg twice daily.
+            - Formoterol: 6-12 µg twice daily.
+            - Indaceterol: 150-300 µg once daily.
+        - **Long-acting Anti-cholinergics (LAMA):**
+            - Tiotropium: 18 µg once daily.
+    - **Theophylline:**
+        - Sustained release theophylline: 100-400 mg once daily.
+        - Doxophylline: 400 mg twice/thrice daily.
+        - Monitor blood levels to minimize toxicity.
+    - **Oral Beta-agonists:**
+        - Salbutamol: 2-4 mg twice/thrice daily.
+        - Bambuterol: 10-20 mg once daily.
+        - Terbutaline: 2.5-5 mg TDS.
+    - **Supplemental Oxygen:**
+        - Prescribe for resting hypoxemia (SpO2 < 88% or <90% with signs of pulmonary hypertension or right heart failure).
+        - Prescribe for exertional or nocturnal hypoxemia.
+    - **Corticosteroids (Inhaled):**
+        - Fluticasone: 25-500 µg twice daily.
+        - Budesonide: 100-400 µg twice daily.
+        - Beclomethasone: 100-400 µg twice daily.
+        - Ciclesonide: 80-160 µg twice daily.
+        - Mometasone: 25-500 µg twice daily.
+    - **Other agents:**
+        - N-acetyl cysteine: 600 mg TDS for 10 to 14 days.
+
+5.  **Acute Exacerbation of COPD:**
+    - **Assess Severity:** Check for symptoms (worsening dyspnea, cough, sputum), signs (accessory muscle use, paradoxical breathing, cyanosis, RR > 30, HR > 110, altered sensorium, BP < 90 mmHg), and SpO2 (<90%).
+    - **Determine Need for Hospitalization:**
+        IF Marked reduction in activity OR Altered sensorium OR New onset cyanosis OR Use of accessory respiratory muscles OR Paradoxical chest wall movements OR Central cyanosis OR Systolic BP < 90 mmHg OR RR > 30/minute OR Heart rate > 110/minute OR Asterixis OR Altered mental status OR SpO2 < 90% OR Presence of severe comorbid conditions OR Lack of social support:
+            THEN Hospitalize.
+    - **Pharmacological Treatment (Hospitalized):**
+        - **Bronchodilators:** Increase dose/frequency of short-acting bronchodilators (SABA/SAMA).
+        - **Corticosteroids:** Administer systemic corticosteroids (e.g., prednisone 40 mg daily for 5 days).
+        - **Antibiotics:**
+            - First line: Amoxicillin 500-1000 mg TDS OR Doxycycline 100 mg BD OR Azithromycin 500 mg OD.
+            - Second line: Amoxicillin/clavulanic acid 625 mg TDS OR Cefixime 200 mg BD.
+            - Administer for 5-7 days (except Azithromycin for 3 days).
+    - **Non-Pharmacological Treatment (Hospitalized):**
+        - **Oxygen Therapy:** Titrate to maintain SpO2 88-92%.
+        - **Ventilatory Support:**
+            - **Noninvasive Ventilation (NIV):**
+                IF Respiratory acidosis (pH <= 7.35 and/or PaCO2 >= 45 mmHg) OR Severe dyspnea OR RR > 30 breaths/min OR Use of accessory muscles OR Paradoxical breathing:
+                    THEN Initiate NIV (Full face mask, start IPAP 6-8 cm H2O, CPAP 3-4 cm H2O, titrate to TV > 5 ml/kg, RR < 35/min, adjust blood gases).
+                    IF Failure in improvement of clinical parameters/gas exchange at 1 hour OR Development of altered sensorium OR Hemodynamic instability OR Inability to tolerate mask:
+                        THEN Consider Invasive Mechanical Ventilation.
+            - **Invasive Mechanical Ventilation:**
+                IF pH <= 7.25 OR Unable to tolerate NIV/NIV failure OR Respiratory/cardiac arrest OR Massive aspiration OR Diminished consciousness OR Failure to handle secretions OR HR < 50/min with loss of alertness OR Hemodynamic instability without fluid responsiveness OR Severe ventricular arrhythmias OR Life-threatening hypoxia:
+                    THEN Initiate Invasive Mechanical Ventilation (Mode: V-ACMV, Initial TV: 4-6 ml/kg, RR: 8-12/min, PEEP: 5-8 cm H2O, I:E: 1:3-1:6, Square waveform).
+                    Goals: Plateau pressure < 30 cm H2O, PaO2 55-60 mmHg, pH 7.2-7.4.
+
+6.  **Criteria for Hospital Discharge:**
+    - Able to use long-acting bronchodilators.
+    - Inhaled short-acting drugs no more than every 4 hours.
+    - Patient is previously ambulatory and able to move across room, eat, and sleep adequately.
+    - Patient is clinically stable for at least 24 hours.
+
+7.  **Follow-up:**
+    - Smoking cessation counseling.
+    - Assess inhaler technique.
+    - Measure FEV1.
+    - Ensure compliance with treatment.
+    - Reassess need for long-term oxygen therapy/home nebulizer.
+    - Manage co-morbidities.
+
+CONTRAINDICATIONS:
+- **Theophylline:** Use with caution in patients with cardiac disease, arrhythmias, seizures, or hepatic/renal impairment. Requires monitoring of blood levels.
+- **Supplemental Oxygen:** Not routinely indicated unless hypoxemia is present. High flow rates in some patients can suppress respiratory drive (rare).
+- **Lung Volume Reduction Surgery (LVRS):** Contraindicated in patients with severe pulmonary hypertension, significant comorbidities, or poor nutritional status.
+- **Lung Transplantation:** Contraindicated in patients with severe co-morbidities (liver, renal, cardiac disease), active malignancy, active infection, or severe psychosocial issues.
+- **Corticosteroids (Systemic - for exacerbations):** Use with caution in patients with diabetes, osteoporosis, peptic ulcer disease, or infections.
+- **Antibiotics:** Use with caution in patients with known allergies.
+```

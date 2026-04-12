@@ -1,0 +1,67 @@
+```text
+DISEASE: Vomiting
+
+ABBREVIATIONS:
+- IV: Intravenous
+- IM: Intramuscular
+- NSAIDS: Nonsteroidal anti-inflammatory drugs
+- Inj.: Injection
+- Tab.: Tablet
+- mg: Milligram
+- OD: Once daily
+- BD: Twice daily
+- TDS: Three times daily
+- QDS: Four times daily
+- PRN: As needed
+- PO: Per os (by mouth)
+
+DIAGNOSTICS:
+- Clinical presentation: Forceful expulsion of gastric contents.
+- History taking: Assess duration, frequency, associated symptoms (pain, dehydration), potential causes (motion sickness, pregnancy, medication side effects, etc.).
+- Physical examination: Assess hydration status, abdominal examination.
+- Investigations (if needed): Rule out gastric outlet obstruction, consider endoscopy if symptoms persist.
+
+TREATMENT ALGORITHM:
+
+IF patient is dehydrated THEN
+    Hospitalize the patient.
+    Administer intravenous fluids.
+    Start oral fluids as soon as the patient can tolerate them.
+    Administer appropriate analgesics if the patient has severe pain.
+ELSE
+    Encourage oral fluids.
+    Administer appropriate analgesics if the patient has severe pain.
+ENDIF
+
+IF acute vomiting THEN
+    Rule out gastric outlet obstruction.
+    IF gastric outlet obstruction is ruled out THEN
+        Administer Inj. ondansetron 8 mg IV repeat every 8 hours if needed.
+        OR
+        Administer Inj. metoclopramide 10 mg IM, repeat after 6 hours if needed.
+        OR
+        Administer Tab. domperidone 10 mg three times a day (TDS).
+        OR
+        Administer Tab. metoclopramide 10 mg three times a day (TDS).
+    ENDIF
+ENDIF
+
+IF patient is pregnant THEN
+    AVOID all drugs if possible.
+    IF patient is in the first trimester THEN
+        Administer Tab. promethazine 25 mg oral/injection.
+    ENDIF
+ENDIF
+
+IF patient has a history of motion sickness THEN
+    Administer Tab. cyclizine 50 mg three times a day (TDS).
+ENDIF
+
+PATIENT EDUCATION:
+- Avoid stale food, cut vegetables, fruits kept in open.
+- Drink potable water only.
+- Avoid NSAIDS, especially if ulcer symptoms are present.
+- Prevent dehydration: Encourage patients to take sips of liquids at short intervals.
+- Endoscopy is necessary if symptoms persist.
+- Prevent motion sickness by avoiding heavy meals before travel.
+```

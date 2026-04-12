@@ -1,0 +1,91 @@
+```text
+DISEASE: Diabetes Mellitus
+
+ABBREVIATIONS:
+- DM: Diabetes Mellitus
+- IDDM: Insulin Dependent Diabetes Mellitus
+- DKA: Diabetic Ketoacidosis
+- GTT: Glucose Tolerance Test
+- OGTT: Oral Glucose Tolerance Test
+- HbA1c: Glycosylated Haemoglobin
+- HDL: High-Density Lipoprotein
+- LDL: Low-Density Lipoprotein
+- VLDL: Very Low-Density Lipoprotein
+
+DIAGNOSTICS:
+- Diagnosis is made by demonstration of hyperglycaemia (random plasma glucose > 200 mg/dl).
+- Diagnosis can also be made using Oral Glucose Tolerance Test (OGTT) cut-off levels (see Table 10).
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    IF Patient presents with symptoms of DM (polyuria, polydipsia, unexplained weight loss, glycosuria, ketonuria) AND random plasma glucose > 200 mg/dl THEN Diagnosis of DM confirmed.
+    ELSE IF Fasting plasma glucose > 126 mg/dl THEN Diagnosis of DM confirmed.
+    ELSE IF 2-hour plasma glucose during OGTT > 200 mg/dl THEN Diagnosis of DM confirmed.
+    ELSE IF Fasting glucose is 110-125 mg/dl AND 2-hour plasma glucose during OGTT is < 200 mg/dl but >= 140 mg/dl THEN Diagnosis of Impaired Glucose Tolerance.
+
+2.  **Initial Therapy (Hospital Setting):**
+    IF Patient is newly diagnosed with DM (or recovering from DKA) THEN
+        - Initiate treatment with fast-acting (regular) insulin.
+        - Initial dose: 0.5-1.0 unit/kg/day.
+        - Administer Inj. Regular insulin 0.1-0.25 units/kg subcutaneous injections every 6-8 hours before meals.
+        - Monitor blood glucose levels frequently (e.g., before meals).
+        - Adjust total daily insulin dose based on blood glucose monitoring over 1-2 days to determine the patient's requirement.
+        - Once stable on 6-hourly injections, switch to a "2 daily injections" schedule.
+
+3.  **"2 Daily Injections" Schedule:**
+    IF Patient is switched to "2 daily injections" schedule THEN
+        - Use a combination of intermediate-acting (e.g., lente) insulin and fast-acting (regular) insulin in a ratio of 2-3:1.
+        - Calculate total daily dose (TDD).
+        - Inject 2/3 of TDD before breakfast (combination of intermediate and fast-acting insulin).
+        - Inject 1/3 of TDD before dinner (combination of intermediate and fast-acting insulin).
+        - Example: If TDD is 30 units, inject 20 units (14 units lente + 6 units regular) before breakfast and 10 units (6 units lente + 4 units regular) before dinner.
+        - Monitor blood glucose levels before each meal and adjust insulin dose accordingly.
+        - Target blood glucose levels: Fasting 80 mg/dl, After meals 140 mg/dl (acceptable range 80-240 mg/dl).
+        - Target early morning (3 AM) blood glucose level: > 70 mg/dl.
+
+4.  **Insulin Dose Modification:**
+    IF Blood glucose levels are outside the target range THEN
+        - Adjust insulin dose by 10-15% (generally not more than 6 units).
+    IF Patient is newly diagnosed and stabilized THEN
+        - Expect a gradual decline in insulin requirement (up to 0.5 units/kg/day) over weeks to months.
+    IF Patient is being discharged from the hospital THEN
+        - Decrease total daily insulin dose by 10% due to increased activity at home.
+
+5.  **Monitoring and Control Assessment:**
+    - Monitor blood glucose before each meal and at bedtime initially (first few weeks).
+    - Reduce frequency to twice a week after stabilization.
+    - Monitor blood glucose at 3-4 AM periodically to detect early morning hypoglycemia.
+    - Monitor urine for sugar initially 3-4 times daily before meals.
+    - Monitor urine for ketones once daily initially.
+    - Measure HbA1c every 3 months.
+        - HbA1c 6-9%: Very good control.
+        - HbA1c 9-12%: Fair control.
+        - HbA1c > 12%: Poor control.
+    - Measure serum lipids (cholesterol, HDL, LDL, VLDL, triglycerides) and urine for protein once every year.
+        - Target serum cholesterol: < 200 mg/dl.
+        - Target LDL: < 130 mg/dl.
+        - Target triglycerides: < 140 mg/dl.
+    - Perform thyroid function tests once every year.
+
+6.  **Non-Pharmacological Treatment:**
+    - Diet:
+        - Maintain a regular eating pattern synchronized with diet and insulin dosing.
+        - Calorie mixture: 55% carbohydrates, 30% fat, 15% proteins.
+        - Avoid refined sugars. Use sugar-free carbonated drinks.
+        - Reduce animal fats and replace with vegetable fats.
+        - Calorie intake split: 20% breakfast, 20% lunch, 30% dinner, 10% mid-morning snack, 10% mid-afternoon snack, 10% evening snack.
+    - Physical Activity:
+        - Advise usual exercises (walking, jogging, swimming, tennis).
+        - For unusual exercise on a scheduled day, reduce insulin dose by 10-15%.
+
+7.  **Patient Education:**
+    - Teach self-care:
+        - Technique of measuring insulin in the syringe (always draw regular insulin first).
+        - Technique of subcutaneous injections and importance of rotating injection sites (arms, thighs, buttocks, abdomen).
+        - Adherence to diet and regular exercise.
+        - Recognizing and managing hypoglycemia symptoms at home.
+
+CONTRAINDICATIONS:
+(The provided text does not list specific contraindications for the mentioned treatments. Contraindications would depend on individual patient factors and specific drug properties, which are not detailed here.)
+```

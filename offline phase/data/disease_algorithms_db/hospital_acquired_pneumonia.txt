@@ -1,0 +1,75 @@
+```text
+1.  DISEASE: Hospital Acquired Pneumonia (HAP) / Ventilator Associated Pneumonia (VAP)
+
+2.  ABBREVIATIONS:
+    *   HAP: Hospital Acquired Pneumonia
+    *   VAP: Ventilator Associated Pneumonia
+    *   IV: Intravenous
+    *   OD: Once Daily
+    *   TDS: Three Times Daily
+    *   QID: Four Times Daily
+    *   BD: Twice Daily
+    *   MDR: Multidrug Resistant
+    *   ARDS: Acute Respiratory Distress Syndrome
+    *   PEEP: Positive End-Expiratory Pressure
+    *   Fio2: Fraction of Inspired Oxygen
+    *   CSF: Cerebrospinal Fluid
+    *   ICU: Intensive Care Unit
+    *   H2: Histamine H2-receptor antagonist
+
+3.  DIAGNOSTICS:
+    *   Pneumonia developing >48 hours after hospital admission (HAP).
+    *   New onset of fever >48 hours after endotracheal intubation (VAP).
+    *   New or progressive radiological deterioration PLUS any two of the following:
+        *   New onset of fever
+        *   Purulent discharge
+        *   Leukocytosis
+        *   Decline in oxygenation
+        *   Purulent sputum
+        *   Increased respiratory secretions
+        *   Dyspnea or tachypnea
+        *   Altered mental status
+    *   For VAP in ARDS: Sustained increase in PEEP requirement >2.5 cm H2O or rise in Fio2 requirement >0.15.
+    *   Blood culture before antibiotics (if clinically stable).
+
+4.  TREATMENT ALGORITHM:
+
+    IF Patient has HAP/VAP:
+        THEN Determine risk factors for MDR pathogens.
+
+        IF Patient has NO risk factors for MDR pathogens:
+            THEN Treat for 10-14 days with ONE of the following regimens:
+                *   ceftriaxone 2 g IV OD
+                *   moxifloxacin 400 mg IV OD
+                *   ciprofloxacin 400 mg IV TDS
+                *   levofloxacin 750 mg IV OD
+                *   ampicillin/sulbactam 3 g IV QID
+
+        ELSE IF Patient HAS risk factors for MDR pathogens:
+            THEN Treat for 10-14 days with the following combination:
+                *   Choose ONE Beta-lactam:
+                    *   ceftazidime 2 g IV TDS
+                    *   cefepime 2 g IV BD/TDS
+                    *   piperacillin/tazobactam 4.5 g IV QID
+                    *   imipenem 500 mg IV QID or 1 g IV TDS
+                    *   meropenem 1 g IV TDS
+                *   **PLUS** Choose ONE agent active against gram-negative bacteria:
+                    *   gentamicin 7 mg/kg IV OD
+                    *   tobramycin 7 mg/kg IV OD
+                    *   amikacin 20 mg/kg IV OD
+                    *   ciprofloxacin 400 mg IV TDS
+                    *   levofloxacin 750 mg IV OD
+                *   **PLUS** Choose ONE agent active against gram-positive bacteria:
+                    *   linezolid 600 mg IV BD
+                    *   vancomycin 15 mg/kg (up to 1 g) IV BD
+
+    IF Patient is clinically unstable:
+        THEN Do not delay treatment for diagnostic sampling.
+
+    IF Patient is seriously ill:
+        THEN Consider daily chest radiography until weaning off mechanical ventilation.
+
+5.  CONTRAINDICATIONS:
+    *   (None specified in the text for the listed drugs, but standard contraindications apply, e.g., allergy, renal/hepatic impairment for some agents).
+    *   Specific contraindications for individual drugs (e.g., vancomycin - Red Man Syndrome, ototoxicity, nephrotoxicity; fluoroquinolones - tendon rupture, QTc prolongation; beta-lactams - allergy) are not detailed here but should be considered.
+```

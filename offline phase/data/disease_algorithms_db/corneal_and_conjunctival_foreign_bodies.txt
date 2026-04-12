@@ -1,0 +1,90 @@
+```text
+DISEASE: Corneal And Conjunctival Foreign Bodies
+
+ABBREVIATIONS:
+- CMC: Carboxy methyl cellulose
+- IOP: Intraocular pressure
+- AC: Anterior chamber
+- BD: Bis in die (twice a day)
+- QID: Quarter in die (four times a day)
+
+DIAGNOSTICS:
+- Symptoms: Foreign body sensation, watering, redness, history of trauma.
+- Signs: Conjunctival or corneal foreign body (with or without rust ring), conjunctival injection, eyelid edema, mild anterior chamber reaction, superficial punctuate keraptopathy.
+- Investigations: Determine mechanism of injury, size, weight, velocity, force, shape of object. Document visual acuity. Examine for iris tears, transillumination defects, lens opacities, AC shallowing, asymmetrically low IOP. Evert eyelids and inspect fornices. Dilate eye and examine posterior segment for IOFB. Avoid MRI if metallic foreign body suspected.
+
+TREATMENT ALGORITHM:
+
+Corneal Foreign Body Treatment:
+IF corneal foreign body is present THEN
+    Apply topical anesthetic (e.g., proparacaine 0.5% eye drops).
+    REMOVE FOREIGN BODY:
+        IF foreign body is superficial THEN
+            Remove with cotton tip applicator, 26 no needle, or fine forceps at a slit lamp.
+        ELSE IF multiple superficial foreign bodies are present THEN
+            Remove by irrigation.
+        ENDIF
+    REMOVE RUST RING:
+        IF rust ring is present THEN
+            Remove as completely as possible on the first attempt.
+            IF removal is difficult or deep/central THEN
+                Consider leaving the rust ring to allow migration to the surface.
+            ENDIF
+            IF ophthalmic drill is needed THEN
+                Use ophthalmic drill.
+            ENDIF
+        ENDIF
+    MEASURE DEFECT:
+        Measure the size of the resultant corneal epithelial defect.
+    TREAT DEFECT:
+        IF epithelial defect is present THEN
+            Treat with antibiotics and carboxy methyl cellulose (CMC) eyedrops.
+            IF necessary THEN
+                Pad the eye.
+            ENDIF
+        ENDIF
+    PATIENT INSTRUCTION:
+        Alert the patient to return ASAP if symptoms worsen.
+ENDIF
+
+Conjunctival Foreign Body Treatment:
+IF conjunctival foreign body is present THEN
+    Apply topical anesthesia.
+    REMOVE FOREIGN BODY:
+        IF multiple or loose foreign bodies are present THEN
+            Remove with saline irrigation.
+        ELSE
+            Remove with cotton-tipped applicator soaked in topical anesthetic or fine forceps.
+        ENDIF
+    PRETREATMENT (Deeply Embedded):
+        IF foreign body is deeply embedded THEN
+            Consider pretreatment with cotton-tipped applicator soaked in phenylephrine 2.5% to reduce bleeding.
+        ENDIF
+    LEAVE IN PLACE (Small/Inaccessible):
+        IF foreign body is small, relatively inaccessible, and buried subconjunctival THEN
+            Consider leaving it in the eye unless infectious or proinflammatory.
+            IF it surfaces later THEN
+                Remove it more easily.
+            ENDIF
+        ENDIF
+    SWEEP FORNICES:
+        Sweep conjunctival fornices with glass rod or cotton-tipped applicator soaked with topical anesthetic to catch remaining pieces.
+    TREATMENT:
+        Apply topical antibiotic (e.g., bacitracin ointment BD; trimethoprim/polymyxin B or moxifloxacin/ciprofloxacin/ofloxacin drops QID).
+        Apply artificial tears for irritation.
+ENDIF
+
+Follow-up:
+IF corneal foreign body was treated THEN
+    Follow up as with corneal abrasion.
+    IF residual rust ring remains THEN
+        Reevaluate in 24 hours.
+    ENDIF
+ENDIF
+IF conjunctival foreign body was treated THEN
+    Follow up as needed, or in 1 week if residual foreign bodies were left in the conjunctiva.
+ENDIF
+
+CONTRAINDICATIONS:
+- MRI: Avoid if history of possible metallic foreign body.
+```

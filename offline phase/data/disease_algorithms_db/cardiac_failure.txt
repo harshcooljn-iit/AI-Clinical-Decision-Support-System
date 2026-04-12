@@ -1,0 +1,92 @@
+```text
+1.  DISEASE: Cardiac Failure
+2.  ABBREVIATIONS:
+    *   CHF: Congestive Heart Failure
+    *   PDA: Patent Ductus Arteriosus
+    *   VSD: Ventricular Septal Defect
+    *   MR: Mitral Regurgitation
+    *   BP: Blood Pressure
+    *   PO: Per Os (by mouth)
+    *   IV: Intravenous
+    *   IM: Intramuscular
+    *   JVP: Jugular Venous Pressure
+    *   MCG: Micrograms
+    *   DC: Direct Current
+
+3.  DIAGNOSTICS:
+    *   Clinical presentation dependent on age and cardiac reserve.
+    *   Signs/Symptoms: Exertional dyspnoea, poor weight gain, feeding difficulties, tachypnoea, tachycardia, small volume pulse, peripheral cyanosis, pedal/facial/sacral oedema, hepatomegaly, raised JVP, gallop rhythm, cardiomegaly, failure to thrive, excessive perspiration, irritability, puffiness of face, persistent cough, wheezing.
+
+4.  TREATMENT ALGORITHM:
+
+    *   **Initial Management:**
+        *   IF patient has Cardiac Failure:
+            *   THEN implement Bed rest/upright position.
+            *   THEN implement Restricted fluid intake (2/3 of normal).
+            *   THEN implement Salt restriction (in severe CHF).
+            *   THEN implement Oxygen inhalation if required.
+            *   THEN implement Appropriate antibiotics if indicated.
+            *   THEN consider Digoxin.
+
+    *   **Digoxin Therapy:**
+        *   Method of digitalization: 0.5 x digitalization dose initially, 0.25 x digitalizing dose 8 and 16 hours later.
+        *   Digitalizing dose:
+            *   IF patient is Newborn:
+                *   THEN IV/IM dose = 0.010 - 0.030 mg/kg divided.
+                *   OR IF patient is Newborn (oral):
+                    *   THEN dose = 0.040 mg/kg divided in fractions.
+            *   IF patient is Infant:
+                *   THEN IV/IM dose = 0.030 - 0.040 mg/kg.
+                *   OR IF patient is Infant (oral):
+                    *   THEN dose = 0.050 mg/kg in fractions.
+            *   IF patient is Child:
+                *   THEN IV/IM/PO dose = 0.010 - 0.015 mg/kg in fractions.
+        *   Maintenance dosage (24 hours after 1st fraction of digitalizing dose):
+            *   IF patient is Newborn:
+                *   THEN PO dose = 0.005 - 0.010 mg/kg/24 hours, divided every 12 hours.
+            *   IF patient is Infant or Child:
+                *   THEN PO dose = 0.002 - 0.005 mg/kg/24 hours, divided every 12 hours.
+        *   CAUTION: Avoid hypokalaemia during therapy with digoxin.
+
+    *   **Post-Digoxin Assessment:**
+        *   IF symptoms are Still controlled after Digoxin:
+            *   THEN assess underlying lesion.
+            *   IF lesion is PDA/VSD with high flow:
+                *   THEN consider Diuretics if short of breath.
+            *   IF lesion is Left shunt or Rheumatic lesions:
+                *   THEN use Digoxin + Diuretics.
+            *   ELSE (No specific lesion identified or other causes):
+                *   THEN consider Vasodilators (Enalapril).
+
+    *   **Diuretic Therapy:**
+        *   Tab. furosemide: 1-2 mg/kg every 12 hourly (may need K supplement).
+        *   Tab. chlorothiazide: 20-50 mg/kg/day in 2 divided doses.
+        *   Tab. spironolactone: 1-3 mg/kg/day in 2 divided doses.
+
+    *   **Vasodilator Therapy:**
+        *   Tab. captopril: 0.1-0.2 mg/kg/dose 8-12 hourly (maximum 4 mg/kg/day).
+        *   Tab. enalapril: 0.08-0.5 mg/kg/dose 12-24 hourly (maximum 1 mg/kg/day).
+
+    *   **Refractory CHF Management:**
+        *   IF patient is Not controlled with initial therapy:
+            *   THEN consider Probably refractory CHF, better referral to higher centres.
+            *   THEN consider Inotropes (dopamine and dobutamine).
+                *   Inj. dopamine infusion (40 mg/ml): 2-20 mcg/kg/min prepared in normal saline or 5% dextrose.
+                *   Inj. dobutamine infusion (250 mg/5 ml): 2-20 mcg/kg/min.
+                *   NOTE: Both drugs can be used simultaneously.
+                *   NOTE: Hypovolaemia should be corrected before infusion is started and BP is monitored during the infusion.
+            *   THEN consider Phosphodiesterase inhibitors (Amrinone/Milrinone).
+            *   THEN consider Cardiac transplantation (in cardiac outlines).
+
+    *   **Special Situations:**
+        *   IF patient has Dilated cardiomyopathy:
+            *   THEN consider low dose beta blockers if in metoprolol or carvedilol.
+        *   IF patient has Late stage myocarditis:
+            *   THEN consider steroids.
+        *   IF patient has Arrhythmias:
+            *   THEN consider DC cardioversion.
+
+5.  CONTRAINDICATIONS:
+    *   Digoxin: Avoid hypokalaemia during therapy.
+    *   Dopamine/Dobutamine: Use with caution in patients with hypotension and low cardiac output; requires careful BP monitoring.
+```

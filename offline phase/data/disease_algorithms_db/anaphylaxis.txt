@@ -1,0 +1,95 @@
+```text
+1. DISEASE: Anaphylaxis
+
+2. ABBREVIATIONS:
+    - IM: Intramuscular
+    - IV: Intravenous
+    - NS: Normal Saline (0.9% normal saline)
+    - mcg/kg/min: microgram per kilogram per minute
+    - PEF: Peak Expiratory Flow
+    - ICU: Intensive Care Unit
+    - ml: milliliter
+    - mg: milligram
+    - tab: tablet
+    - lit/min: liters per minute
+    - O2: Oxygen
+    - mcg: microgram
+    - kg: kilogram
+    - hr: hour
+    - min: minute
+    - mmHg: millimeters of mercury
+    - H2O: Water
+    - Saline: Sodium Chloride Solution
+
+3. DIAGNOSTICS:
+    - Acute onset (minutes to hours) with skin/mucosal involvement (urticaria, itching, flushing, swelling) PLUS respiratory compromise (dyspnea, wheeze, stridor, low PEF, hypoxemia) OR reduced blood pressure/end-organ dysfunction (hypotonia, collapse, syncope, incontinence) OR persistent GI symptoms.
+    - Reduced blood pressure after known allergen exposure:
+        - Infants/children: low systolic BP (age-specific) or >30% decrease.
+        - Adults: systolic BP < 90 mmHg or >30% decrease from baseline.
+
+4. TREATMENT ALGORITHM:
+
+    IF patient has anaphylaxis:
+        THEN perform non-pharmacological treatment:
+            IF possible, remove exposure to trigger.
+            Place patient supine and elevate extremities.
+            Monitor vital signs frequently.
+            Monitor ECG and pulse oximetry if possible.
+            IF severe anaphylaxis with shock:
+                THEN direct management at ABCs (Airway, Breathing, Circulation).
+                Call for assistance if working alone.
+
+        THEN perform pharmacological treatment:
+            Administer Inj. adrenaline 1:1000 (1mg/ml) IM (mid anterolateral thigh).
+            Dosage: 0.01 ml/kg (maximum 0.3 ml in children, 0.5 ml in adults).
+            IF necessary, repeat dose every 15 minutes.
+
+            IF anaphylaxis is due to allergen extract or hymenoptera sting into extremity:
+                THEN administer half the dose of adrenaline locally, subcutaneously after dilution with 2 ml saline.
+
+            Administer High flow oxygen (4-6 lit/min) by face mask or oropharyngeal airway.
+
+            Establish two wide bore intravenous lines.
+            Commence rapid fluid resuscitation with Inj. NS (0.9% normal saline).
+            Rate: 5-10 ml/kg in 5 to 10 minutes.
+            Volume: One to two litres of fluid bolus can be given.
+
+            IF severe laryngeal obstruction, bronchospasm, circulatory shock, or coma:
+                THEN intubate and commence intermittent positive pressure ventilation.
+
+            IF no response to initial IM adrenaline dose:
+                THEN administer adrenaline 5 mcg/kg slowly IV.
+                Repeat at 5-minute intervals depending on response.
+                IF patient remains in shock:
+                    THEN start adrenaline infusion (preferably via central venous line).
+                    Initial rate: 0.1 mcg/kg/min (children), 0.2 mcg/kg/min (adults).
+                    Titrate infusion to restore blood pressure.
+                    Large doses may be needed.
+
+            IF only manifestation is urticaria or angioedema:
+                THEN give initial IM dose of adrenaline in addition to antagonists.
+                IF no other manifestation:
+                    THEN keep patient under observation for at least 12 hours and discharge.
+
+            Administer IV infusion of antihistamine:
+                IF adult: chlorpheniramine 10 mg or diphenhydramine 25-50 mg.
+                IF child: chlorpheniramine 2.5-5 mg or diphenhydramine 1 mg/kg (maximum 50 mg).
+
+            Administer Inj. salbutamol solution:
+                Dosage: 2.5 to 5 mg/3 ml by nebulizer and face mask.
+
+            Administer IV corticosteroid infusion:
+                IF adult: hydrocortisone 200 mg or methylprednisolone 50-100 mg.
+                IF child: hydrocortisone maximum 100 mg or methylprednisolone 1 mg/kg (maximum 50 mg).
+
+        THEN perform supportive treatment:
+            Hospitalize all patients with severe anaphylactic reaction.
+            Admit clinically unstable patients to ICU.
+            Observe responding patients for possible late reaction.
+
+5. TABULAR DOSAGES:
+    (No tables found in the provided text to convert into IF/ELSE blocks.)
+
+6. CONTRAINDICATIONS:
+    (No specific contraindications listed for the drugs mentioned in the context of anaphylaxis treatment.)
+```

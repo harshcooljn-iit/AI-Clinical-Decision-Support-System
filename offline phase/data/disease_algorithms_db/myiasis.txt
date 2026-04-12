@@ -1,0 +1,32 @@
+```text
+DISEASE: Myiasis
+
+ABBREVIATIONS:
+- Tab.: Tablet
+- mg: milligram
+
+DIAGNOSTICS:
+- Clinical diagnosis based on the presence of fly larvae (maggots) in body tissues or wounds.
+- Identification of the type of myiasis (creeping, furuncle, wound).
+
+TREATMENT ALGORITHM:
+
+IF patient has Myiasis THEN
+    // Non-pharmacological treatment
+    APPLY liquid paraffin OR turpentine oil to the affected area.
+    REMOVE larvae mechanically using forceps.
+    EDUCATE patient on personal hygiene and proper wound care.
+
+    // Pharmacological treatment
+    IF secondary infection is present THEN
+        ADMINISTER systemic antibiotics.
+    ENDIF
+
+    // Systemic antihelminthic treatment
+    ADMINISTER Tab. albendazole 400mg as a single dose (stat).
+
+ENDIF
+
+CONTRAINDICATIONS:
+- No specific contraindications listed for the treatments mentioned (liquid paraffin, turpentine oil, mechanical removal, albendazole, antibiotics) in this guideline. Standard contraindications for these medications apply based on patient-specific factors (e.g., allergies, liver/kidney disease for albendazole, specific antibiotic contraindications).
+```

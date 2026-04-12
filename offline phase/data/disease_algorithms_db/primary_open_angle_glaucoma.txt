@@ -1,0 +1,62 @@
+```text
+DISEASE: Primary Open Angle Glaucoma
+
+ABBREVIATIONS:
+- IOP: Intraocular Pressure
+- ALT: Argon Laser Trabeculoplasty
+- SLT: Selective Laser Trabeculoplasty
+- mm Hg: millimeters of mercury
+- mmHg: millimeters of mercury
+- tab: tablet
+- g/kg: grams per kilogram
+
+DIAGNOSTICS:
+- Gonioscopy reveals open angles.
+- Optic disc changes are typically progressive, asymmetric.
+- Perimetry to detect visual field defects.
+- Nerve fibre layer analysis and disc topography analysis.
+- Diurnal variation test (repeated IOP measurements every 3-4 hours for 24 hours).
+
+TREATMENT ALGORITHM:
+
+1.  IDENTIFY TARGET PRESSURE:
+    - IF patient has mild to moderate damage, target IOP is < 16 to 18 mm Hg.
+    - IF patient has severe damage, target IOP is 10 to 12 mm Hg.
+
+2.  INITIATE THERAPY:
+    - IF target IOP is not achieved with initial therapy, proceed to step 3.
+    - IF target IOP is achieved with initial therapy, continue monitoring.
+
+3.  THERAPY SELECTION:
+    - IF single drug therapy is sufficient, continue with that drug.
+    - IF single drug therapy is ineffective or intolerable, replace with a second choice drug.
+    - IF single drug therapy is insufficient to control IOP, proceed to step 4.
+
+4.  COMBINATION THERAPY:
+    - IF single drug therapy is insufficient, initiate combination therapy with two or more drugs.
+
+5.  MONITORING:
+    - Monitor therapy regularly by assessing disc changes, field changes, and IOP (tonometry).
+    - IF progression of glaucomatous damage occurs, reset the target pressure to a lower level and evaluate risk factors.
+
+6.  LASER TREATMENT CONSIDERATION:
+    - IF patient is intolerant to topical medication OR fails medical therapy OR is non-compliant with treatment, consider laser treatment (ALT or SLT).
+    - IF IOP is higher than 28 mmHg, laser treatment alone is unlikely to be adequate.
+
+7.  SURGICAL TREATMENT CONSIDERATION:
+    - IF glaucoma is uncontrolled despite maximal medical therapy and laser trabeculoplasty, consider surgical treatment.
+    - IF patient is non-compliant with medical therapy OR intolerant to medical therapy, consider surgical treatment.
+    - IF patient has advanced disease (very high IOP, advanced cupping, advanced field loss), consider filtration surgery as primary management.
+
+CONTRAINDICATIONS:
+- BETA-BLOCKERS (timolol 0.5%, levobunolol 0.5%, betaxolol 0.5%-selective):
+    - IF patient has asthma, do not use.
+    - IF patient has chronic airway disease, do not use.
+    - IF patient has hypotension, use with caution.
+    - IF patient has bradycardia, use with caution.
+- HYPER OSMOTIC AGENTS (mannitol 1-2g/kg):
+    - IF patient has hypertension, mannitol is contraindicated.
+    - IF patient has pulmonary edema, mannitol is contraindicated.
+- HYPER OSMOTIC AGENTS (glycerol 1-1.5g/kg):
+    - IF patient has diabetes, glycerol should not be given.
+```

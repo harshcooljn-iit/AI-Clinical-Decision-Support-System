@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "What is the cause of the Upper Gastrointestinal Bleeding (e.g., Oesophageal Varices, Peptic Ulcers, other)?",
+        "Is the bleeding uncontrolled? (Yes/No)",
+        "Does the cause require surgical intervention? (Yes/No)",
+        "Is the cause related to uncontrolled portal hypertension? (Yes/No)"
+    ]
+}

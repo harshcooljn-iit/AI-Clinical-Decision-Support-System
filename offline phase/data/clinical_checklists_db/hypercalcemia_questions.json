@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "What is the patient's Serum Calcium (S. Ca) level in mEq/L?",
+        "Are symptoms present?",
+        "Is the patient's Serum Calcium (S. Ca) level > 15-18 mg/dl?"
+    ]
+}

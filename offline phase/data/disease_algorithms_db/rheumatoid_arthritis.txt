@@ -1,0 +1,83 @@
+```text
+DISEASE: Rheumatoid Arthritis
+
+ABBREVIATIONS:
+- RA: Rheumatoid Arthritis
+- NSAIDs: Non-Steroidal Anti-Inflammatory Drugs
+- DMARD: Disease Modifying Antirheumatic Drug
+- LFT: Liver Function Test
+- MCP: Metacarpophalangeal
+- MTP: Metatarsophalangeal
+
+DIAGNOSTICS:
+- > 3 swollen joints
+- > 30 minutes of morning stiffness
+- Involvement of MCP or MTP joints
+- Symmetric arthritis
+- Rheumatoid nodule
+- Based on the revised criterion of American College of Rheumatology (1987)
+
+TREATMENT ALGORITHM:
+
+// Initial Assessment and Non-Pharmacological Treatment
+IF patient has RA symptoms:
+    // Non-pharmacological treatment
+    THEN advise rest and splinting for acute pain.
+    THEN advise exercises to maintain muscle strength and joint mobility (avoid exacerbating inflammation).
+    THEN consider orthotic devices (splints) and assistive devices (cane, walker) for support and alignment.
+
+// Pharmacological Treatment - Initial Steps
+IF patient has acute inflammation:
+    THEN consider NSAIDs (except paracetamol) as used for osteoarthritis.
+    THEN note that NSAID effects may take 2-4 weeks.
+
+// NSAID Considerations
+IF patient is elderly OR has impaired renal function:
+    THEN use reduced NSAID dosages.
+IF patient is using more than one NSAID:
+    THEN advise against it due to increased toxicity risk without added benefit.
+IF patient does not respond to one NSAID:
+    THEN consider trying another NSAID.
+
+// Topical Treatments
+THEN consider topical applications (salicylates, capsaicin, nicotinates, menthol, camphor, NSAIDs) for symptomatic relief.
+
+// Referral and DMARD Initiation
+THEN refer to a specialist (physician) at a higher center.
+THEN begin DMARD early in the disease.
+THEN note that prediction of response to a specific DMARD is not possible, and effects take 4-6 weeks.
+
+// First-line DMARD - Methotrexate
+IF initiating DMARD therapy:
+    THEN consider Tab. methotrexate 7.5 mg to 15 mg every week.
+    THEN consider concomitant Tab. folic acid 1 mg/day to reduce side effects.
+    // Methotrexate Cautions
+    IF patient experiences nausea, mouth sores, liver damage, increased chest infections, or macrocytic anaemia:
+        THEN monitor LFT regularly.
+        THEN advise avoiding alcohol during therapy.
+
+// Treatment for Severe/Refractory Disease
+IF patient has severe disease affecting activities of daily living AND not responding to adequate trial of NSAIDs and DMARD for sufficient duration:
+    THEN consider Tab. prednisolone 40-60 mg/day for 2-4 weeks.
+    THEN review periodically and possibly taper down slowly.
+    THEN if required for longer duration, administer at doses of 5-10 mg/day.
+
+// Intra-articular Corticosteroids
+IF patient has predominantly monoarticular arthritis of a large joint:
+    THEN consider intra-articular corticosteroids (e.g., methylprednisolone acetate, 20-80 mg).
+
+// Referral for Non-Response/Severe Cases
+IF patient has no response to medical therapy after 4-8 weeks OR has severe extra-articular symptoms, deformities, contractures OR is crippled/unable to carry out activities of daily living despite adequate medical treatment:
+    THEN refer the patient to a higher center.
+
+// Surgical Treatment
+IF patient has predominantly monoarticular involvement not responding to conservative therapy:
+    THEN consider synovectomy.
+IF patient has disorganized joints:
+    THEN consider reconstructive surgery.
+
+// Contraindications
+IF patient is receiving methotrexate:
+    THEN avoid alcohol consumption.
+    THEN monitor LFT regularly.
+```

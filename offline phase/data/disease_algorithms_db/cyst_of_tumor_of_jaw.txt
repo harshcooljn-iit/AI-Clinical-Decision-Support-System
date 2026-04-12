@@ -1,0 +1,26 @@
+```text
+DISEASE: Cyst Of Tumor Of Jaw
+
+ABBREVIATIONS:
+- None identified in the provided text.
+
+DIAGNOSTICS:
+- Clinical presentation: Facial asymmetry, Non tender swelling or growth, Paresthesia of jaw, Displacement of teeth, improper occlusion, May be having discharge, Discoloration of teeth, Absence of teeth in arch.
+
+TREATMENT ALGORITHM:
+IF Patient presents with signs/symptoms suggestive of Cyst Of Tumor Of Jaw (facial asymmetry, non-tender swelling/growth, paresthesia, tooth displacement, occlusion issues, discharge, tooth discoloration, missing teeth) THEN
+    IF Bone fracture is suspected or present THEN
+        Refer patient to an oral maxilla facial surgeon.
+    ELSE
+        // Further diagnostic steps or treatment planning would typically follow here,
+        // but the provided text only mentions referral for bone fractures.
+        // Assuming no other specific treatment steps are outlined in the text.
+    ENDIF
+ELSE
+    // Patient does not present with signs/symptoms suggestive of Cyst Of Tumor Of Jaw.
+    // Consider alternative diagnoses.
+ENDIF
+
+CONTRAINDICATIONS:
+- Not specified in the provided text.
+```

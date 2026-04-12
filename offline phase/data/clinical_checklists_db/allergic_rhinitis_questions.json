@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Are signs and symptoms persistent? (Yes/No)",
+        "Does the patient have nasal obstruction and rhinorrhoea? (Yes/No)",
+        "Has the patient responded to previous treatments? (Yes/No)"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Does the patient have nausea symptoms? (Yes/No)",
+        "Does the patient have insomnia symptoms? (Yes/No)",
+        "Does the patient have anxiety symptoms? (Yes/No)",
+        "Is the patient experiencing mild cannabis withdrawal symptoms (restlessness, craving, dysphoria)? (Yes/No)"
+    ]
+}

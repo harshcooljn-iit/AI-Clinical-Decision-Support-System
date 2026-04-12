@@ -1,0 +1,93 @@
+```text
+DISEASE: Cholera
+
+ABBREVIATIONS:
+- ORS: Oral Rehydration Solution
+- NaCl: Sodium Chloride
+- IV: Intravenous
+- ml: Milliliter
+- L: Liter
+- kg: Kilogram
+- h: Hour
+- d: Day
+- mg: Milligram
+- tab: Tablet
+- g: Gram
+- tbsp: Tablespoon
+- tsp: Teaspoon
+- Ringer's lactate: Ringer's Lactate solution
+- V. cholerae: Vibrio cholerae
+- TTG: Taurocholate-tellurite-gelatin
+- TCBS: Thiosulfate–citrate–bile salts–sucrose
+- Enterobacteriaceae: A family of Gram-negative bacteria
+- NaCl: Sodium Chloride
+- O1: Serogroup O1 of Vibrio cholerae
+- O139: Serogroup O139 of Vibrio cholerae
+- gravis: Severe form of cholera
+- tbsp: Tablespoon
+- tsp: Teaspoon
+- doxycycline: Doxycycline antibiotic
+- tetracycline: Tetracycline antibiotic
+- erythromycin: Erythromycin antibiotic
+- azithromycin: Azithromycin antibiotic
+
+DIAGNOSTICS:
+- Identification of _V. cholerae_ in stool examination (dark-field microscopy, specific antiserum immobilization).
+- Laboratory isolation using selective media (TTG agar, TCBS agar).
+- Standard biochemical testing for _Enterobacteriaceae_.
+- Point-of-care antigen-detection cholera dipstick assay.
+
+TREATMENT ALGORITHM:
+
+1.  ASSESSMENT: Assess the degree of dehydration (None/Mild, Moderate, Severe) based on clinical findings and estimated body weight loss (Table 1).
+
+2.  TREATMENT BASED ON DEHYDRATION DEGREE:
+
+    IF Degree of Dehydration is None or Mild, but Diarrhea:
+        IF Patient's Age (Weight) is &lt;2 years:
+            Administer 1/4–1/2 cup (50–100 ml) of ORS, to a maximum of 0.5 L/d.
+        ELSE IF Patient's Age (Weight) is 2 – 9 years:
+            Administer 1/2–1 cup (100–200 ml) of ORS, to a maximum of 1 L/d.
+        ELSE IF Patient's Age (Weight) is More than 10 years:
+            Administer as much ORS as desired, to a maximum of 2 L/d.
+
+    ELSE IF Degree of Dehydration is Moderate:
+        IF Patient's Age (Weight) is &lt;4 months (&lt;5 kg):
+            Administer 200–400 ml of ORS.
+        ELSE IF Patient's Age (Weight) is 4–11 months (5–&lt;8 kg):
+            Administer 400–600 ml of ORS.
+        ELSE IF Patient's Age (Weight) is 12–23 months (8–&lt;11 kg):
+            Administer 600–800 ml of ORS.
+        ELSE IF Patient's Age (Weight) is 2–4 years (11–&lt;16 kg):
+            Administer 800–1200 ml of ORS.
+        ELSE IF Patient's Age (Weight) is 5–14 years (16–&lt;30 kg):
+            Administer 1200–2200 ml of ORS.
+        ELSE IF Patient's Age (Weight) is 15 years ( ≥ 30 kg):
+            Administer 2200–4000 ml of ORS.
+
+    ELSE IF Degree of Dehydration is Severe:
+        Administer IV fluid replacement with Ringer's lactate (or, if not available, normal saline):
+            - 100 ml/kg in the first 3-h period (or first 6-h period for children &lt;12 months old).
+            - Start rapidly, then slow down.
+            - Total of 200 ml/kg in the first 24 h.
+            - Continue until the patient is awake, can ingest ORS, and no longer has a weak pulse.
+
+3.  ADDITIONAL THERAPY:
+    - WHO recommends "low-osmolarity" ORS.
+    - Rice-based ORS is considered superior to standard ORS if available.
+    - ORS can be administered via a nasogastric tube if the patient cannot ingest fluid.
+    - Potassium intake (bananas, green coconut water) should be encouraged.
+    - For severe dehydration, Ringer's lactate is preferred; supplement with potassium, preferably orally.
+    - For continued large-volume diarrhea, prolonged IV treatment may be needed.
+    - Severe hypokalemia can be treated with potassium IV or orally.
+    - If adequate staff are unavailable for monitoring, oral rehydration and potassium replacement are safer than IV.
+
+4.  ANTIBIOTIC THERAPY (Optional):
+    - A single dose of doxycycline (300 mg) may be effective in adults.
+    - Tetracycline (12.5 mg/kg four times a day for 3 days) may be effective in adults.
+    - DO NOT use doxycycline or tetracycline in children &lt;8 years of age.
+    - Erythromycin or azithromycin (10 mg/kg in children) are recommended for pregnant women and children.
+
+CONTRAINDICATIONS:
+- DO NOT use doxycycline or tetracycline in children &lt;8 years of age due to possible deposition in bone and developing teeth.
+```

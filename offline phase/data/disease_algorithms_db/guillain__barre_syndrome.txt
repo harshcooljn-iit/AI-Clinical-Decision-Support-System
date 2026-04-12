@@ -1,0 +1,54 @@
+```text
+DISEASE: Guillain-Barre Syndrome (GBS)
+
+ABBREVIATIONS:
+- GBS: Guillain-Barre Syndrome
+- CSF: Cerebrospinal Fluid
+- NCV: Nerve Conduction Velocity
+- IVIG: Intravenous Immunoglobulin
+- Px: Plasma exchange
+
+DIAGNOSTICS:
+- Required: Progressive weakness (mild paresis to complete paralysis) AND generalized hypo- or areflexia.
+- Supportive:
+    - Clinical features: Rapid motor progression (ceases by 4 weeks), relative limb symmetry, frequent cranial nerve involvement (especially VII), autonomic dysfunction, preceding infection.
+    - CSF features: Elevated or serially elevated protein, cell count <10 mononuclear cells/mm³.
+    - Electrodiagnostic findings: NCV slowing/conduction block, increased distal motor latency, F-wave abnormalities.
+- Reducing possibility: Asymmetric weakness, persistent bowel/bladder symptoms, severe bowel/bladder dysfunction at onset, CSF cell count >50 mononuclear cells/mm³, well-demarcated sensory level.
+- Exclusion: Other causes of acute neuromuscular weakness (myasthenia gravis, botulism, poliomyelitis, toxic neuropathy), abnormal CSF cytology.
+
+TREATMENT ALGORITHM:
+
+// Non-pharmacological treatment
+IF GBS is diagnosed THEN
+    Monitor Airway, Breathing, and Circulation.
+    Consider mechanical ventilator support if needed.
+    Manage autonomic dysfunction.
+    Initiate physical therapy.
+ENDIF
+
+// Pharmacological treatment
+IF GBS is diagnosed THEN
+    Consider Plasma exchange (Px) OR Intravenous Immunoglobulin (IVIG).
+    // Both Px and IVIG are equally effective. Corticosteroids are NOT recommended.
+
+    // Plasma exchange (Px)
+    IF Px is chosen THEN
+        Administer Px regimen:
+        Remove a total of 200 to 250 ml/kg of plasma.
+        Perform four to six treatments on alternate days.
+        Shorten duration if coagulopathy is present.
+        Replacement fluid: Saline combined with 5% albumin.
+    ENDIF
+
+    // Intravenous Immunoglobulin (IVIG)
+    IF IVIG is chosen THEN
+        Administer IVIG regimen:
+        Dosage: 0.4 g/kg per day.
+        Duration: 5 consecutive days.
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+- Corticosteroids are NOT recommended for GBS treatment.
+```

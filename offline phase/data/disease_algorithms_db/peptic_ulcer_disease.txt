@@ -1,0 +1,67 @@
+```text
+DISEASE: Peptic Ulcer Disease
+
+ABBREVIATIONS:
+- NSAIDs: Nonsteroidal Anti-inflammatory Drugs
+- PPI: Proton Pump Inhibitor
+- H.pylori: Helicobacter pylori
+- QID: Four times a day
+- BD: Twice a day
+- OD: Once a day
+- mg: Milligrams
+- gm: Gram
+
+DIAGNOSTICS:
+- Ulceration of gastric or duodenal mucosa due to acid and pepsin.
+- Symptoms: Heartburn, relation with foods, upper abdominal pain, weight loss, anorexia, cachexia (in advanced cases).
+- History: NSAIDs or steroid ingestion.
+- Perforation: Severe abdominal pain, guarding, rigidity, shock.
+
+TREATMENT ALGORITHM:
+
+IF Patient is on long term NSAIDs OR has bleeding peptic ulcer THEN
+    IF Eradicating H.pylori is indicated THEN
+        IF Using Preferred Regimen (Table 1) THEN
+            IF Drug is Bismuth subsalicylate THEN
+                Administer 2 tab QID for Two Week
+            ELSE IF Drug is Tetracycline THEN
+                Administer 250 mg QID for Two Week
+            ELSE IF Drug is Metronidazole (first regimen) THEN
+                Administer 500 mg QID for Two Week
+            ELSE IF Drug is Bismuth citrate THEN
+                Administer 400 mg BD for Two Week
+            ELSE IF Drug is Amoxicillin (first regimen) THEN
+                Administer 500 mg BD for Two Week
+            ELSE IF Drug is Metronidazole (second regimen) THEN
+                Administer 500 mg BD for Two Week
+            ELSE IF Drug is Omeprazole THEN
+                Administer 20 mg BD for Two Week
+            ELSE IF Drug is Amoxicillin (second regimen) THEN
+                Administer 1 gm BD for Two Week
+            ELSE IF Drug is Clarithromycin THEN
+                Administer 500 mg BD for Two Week
+            ENDIF
+        ENDIF
+        Administer Proton Pump Inhibitor (PPI) for 3 weeks after triple therapy.
+    ELSE
+        IF Non-H.pylori peptic ulcer THEN
+            Administer any PPI for 4 to 6 weeks, 45 minutes before breakfast.
+            OR
+            Administer Tab. ranitidine 150 mg BD.
+            OR
+            Administer Tab. famotidine 40 mg OD.
+        ENDIF
+    ENDIF
+ELSE
+    IF Non-H.pylori peptic ulcer THEN
+        Administer any PPI for 4 to 6 weeks, 45 minutes before breakfast.
+        OR
+        Administer Tab. ranitidine 150 mg BD.
+        OR
+        Administer Tab. famotidine 40 mg OD.
+    ENDIF
+ENDIF
+
+CONTRAINDICATIONS:
+- (Not specified in the provided text, but standard contraindications for individual drugs would apply, e.g., allergy to penicillin for Amoxicillin, allergy to macrolides for Clarithromycin, etc.)
+```

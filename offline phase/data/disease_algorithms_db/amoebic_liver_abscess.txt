@@ -1,0 +1,62 @@
+```text
+DISEASE: Amoebic Liver Abscess
+
+ABBREVIATIONS:
+- TC: Total Count
+- PT: Prothrombin Time
+- APTT: Activated Partial Thromboplastin Time
+- SGPT: Serum Glutamic Pyruvic Transaminase (Alanine Aminotransferase)
+- TDS: Three times a day
+- BD: Twice a day
+- IM: Intramuscular
+- IV: Intravenous
+- cc: cubic centimeters
+
+DIAGNOSTICS:
+- Clinical presentation: Right upper quadrant abdominal pain, fever, history of diarrhea.
+- Physical examination: Tenderness in the right hypochondriac region, palpable liver, signs of jaundice.
+- Laboratory tests: Elevated Total Count (TC), elevated Prothrombin Time (PT), elevated Activated Partial Thromboplastin Time (APTT), abnormal Liver Function Tests (S. Bilirubin, SGPT, Albumin).
+- Imaging: Chest X-ray (elevated right diaphragm, rule out perforation), Ultrasound (USG) Abdomen, Contrast-Enhanced CT (CECT) Abdomen (if rupture suspected).
+- Definitive diagnosis: Diagnostic aspiration of abscess followed by microscopic examination and culture-sensitivity of pus.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:**
+    *   IF Patient presents with symptoms suggestive of Amoebic Liver Abscess (RUQ pain, fever, diarrhea history) AND physical exam findings (RUQ tenderness, palpable liver, jaundice) AND laboratory/imaging findings consistent with liver abscess:
+        *   THEN Proceed to treatment.
+        *   ELSE Consider alternative diagnoses.
+
+2.  **Pharmacological Treatment:**
+    *   IF Patient requires pharmacological treatment:
+        *   THEN Administer Metronidazole.
+        *   IF Metronidazole is indicated:
+            *   THEN Administer Tab. metronidazole 800 mg TDS for 2 weeks.
+        *   THEN Administer Diloxanide Furoate.
+        *   IF Diloxanide Furoate is indicated:
+            *   THEN Administer Tab. diloxanide furoate 500 mg BD for 10 days.
+        *   THEN Administer Diclofenac Sodium.
+        *   IF Diclofenac Sodium is indicated:
+            *   THEN Administer Inj. diclofenac sodium 75 mg IM 8 hourly.
+        *   THEN Administer Pantoprazole.
+        *   IF Pantoprazole is indicated:
+            *   THEN Administer Inj. pantoprazole 40 mg IV 12 hourly.
+        *   THEN Administer Vitamin K.
+        *   IF PT/APTT is altered:
+            *   THEN Administer Vit. K injections.
+
+3.  **Non-Pharmacological Treatment:**
+    *   THEN Recommend High glucose diet.
+    *   THEN Recommend Low protein diet.
+
+4.  **Surgical Treatment:**
+    *   IF Amoebic liver abscess requires drainage:
+        *   THEN Consider Percutaneous aspiration.
+        *   IF Abscess size is large (>100 cc):
+            *   THEN Perform Percutaneous aspiration.
+        *   ELSE Consider Exploratory laparotomy.
+        *   IF Suspected ruptured liver abscess:
+            *   THEN Perform Exploratory laparotomy with drainage of abscess.
+
+CONTRAINDICATIONS:
+- (No specific contraindications mentioned in the text for the listed drugs in the context of Amoebic Liver Abscess. Standard contraindications for each drug would apply based on patient factors not specified here, e.g., allergy, specific liver/kidney disease, pregnancy status, etc.)
+```

@@ -1,0 +1,68 @@
+```text
+DISEASE: Status Epilepticus
+
+ABBREVIATIONS:
+- Inj.: Injection
+- mg: Milligram
+- kg: Kilogram
+- max: Maximum
+- iv: Intravenous
+- im: Intramuscular
+- NS: Normal Saline
+- AED: Antiepileptic Drug
+- LFT: Liver Function Test
+- RFT: Renal Function Test
+- CRP: C-Reactive Protein
+- PE: Prodrug Equivalent
+- AED: Antiepileptic Drug
+
+DIAGNOSTICS:
+- A single epileptic seizure lasting >30 minutes.
+- OR a series of epileptic seizures during which consciousness is not regained between ictal events in a >30 minute period.
+
+TREATMENT ALGORITHM:
+
+IF Status Epilepticus is diagnosed THEN
+
+    // Initial Treatment (0-10 minutes)
+    IF IV access is available THEN
+        Administer Inj. Lorazepam 0.1 mg/kg (max 4 mg) at a rate of 2 mg/min.
+    ELSE IF IV access is not available THEN
+        Administer Inj. Midazolam 0.15-0.2 mg/kg iv/im (max 5 mg).
+    ENDIF
+
+    IF IV access is not available THEN
+        Administer Buccal Midazolam 0.3 mg/kg (max 5 mg).
+    ENDIF
+
+    IF IV access is not available AND rectal access is available THEN
+        Administer Per Rectal Diazepam 0.5 mg/kg (max 10 mg).
+    ENDIF
+
+    Establish airway, breathing, circulation.
+    Monitor cardiorespiratory status / oxygenation.
+    Perform Investigations: Glucose, sodium, potassium, Calcium, magnesium, CRP, AED level, LFT, RFT.
+
+    // Second-line Treatment (After 10 minutes if no response to initial treatment)
+    IF No response after 10 minutes THEN
+        Administer Inj. Phenytoin 20 mg/kg in NS (max 1000mg) at a rate of 1 mg/kg/min.
+    ENDIF
+
+    // Third-line Treatment (If no response to Phenytoin/Fosphenytoin)
+    IF No response after Phenytoin/Fosphenytoin administration (refractory status) THEN
+        Repeat Inj. Phenytoin 20 mg/kg in NS (max 1000mg) at a rate of 1 mg/kg/min.
+    ENDIF
+
+    // Fourth-line Treatment (At 25-30 minutes if no response to previous treatments)
+    IF No response after 25-30 minutes THEN
+        Administer Inj. Valproate 20 mg/kg iv at a rate of 6 mg/kg/min OR
+        Administer Inj. Phenobarbitone 20 mg/kg iv at a rate of 1.5 mg/kg/min.
+    ENDIF
+
+    // Fifth-line Treatment (If no response after 35-45 minutes)
+    IF No response after 35-45 minutes THEN
+        Administer Inj. Phenobarbitone 10 mg/kg iv.
+    ENDIF
+
+ENDIF
+```

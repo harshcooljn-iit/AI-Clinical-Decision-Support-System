@@ -1,0 +1,36 @@
+```text
+DISEASE: Benign Breast Diseases
+
+ABBREVIATIONS:
+- FNAC: Fine Needle Aspiration Cytology
+- TDS: Three times a day
+- OD: Once a day
+- Tab.: Tablet
+
+DIAGNOSTICS:
+- Clinical examination (history, physical exam)
+- Imaging: Ultrasound of breast and axilla, Mammography (for patients > 35 years)
+- Cytology: FNAC (may show fibroadenoma or fibroadenosis changes)
+
+TREATMENT ALGORITHM:
+
+IF patient has cyclical mastalgia:
+    THEN consider Evening primrose oil 1000 mg TDS for 3 months.
+ELSE IF patient has noncyclical mastalgia:
+    THEN Reassurance.
+    THEN Adequate support.
+    THEN Consider exclusion of caffeine.
+    THEN Consider Evening primrose oil 1000 mg TDS for 3 months.
+    IF symptoms persist after Evening primrose oil:
+        THEN Consider Tab. danazol 100 mg OD.
+        IF symptoms persist after 100 mg OD:
+            THEN Consider increasing dose up to 100 mg TDS after discussing side effects (hirsutism, contraception failure) with the patient.
+
+IF patient has a benign breast lump (fibroadenoma):
+    THEN No treatment required unless patient desires.
+    IF patient desires treatment OR cytology is suspicious OR lump size is large (>5 cm):
+        THEN Consider excision.
+
+CONTRAINDICATIONS:
+- Danazol: Patients who desire contraception (risk of contraception failure), patients not counseled on side effects (hirsutism).
+```

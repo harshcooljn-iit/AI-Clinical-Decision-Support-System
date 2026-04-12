@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "What method of sterilization or disinfection is being used?",
+        "If using heat, is it dry heat or moist heat?",
+        "If using chemicals, which specific chemical agent is being used?"
+    ]
+}

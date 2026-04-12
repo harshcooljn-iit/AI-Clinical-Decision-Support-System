@@ -1,0 +1,16 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Is the patient pregnant? (Yes/No)",
+        "Does the patient have a seizure? (Yes/No)",
+        "Does the patient have signs of increased intracranial tension? (Yes/No)",
+        "Is the patient allergic to penicillin? (Yes/No)",
+        "Is the patient allergic to cephalosporins? (Yes/No)",
+        "Is the patient allergic to chloramphenicol? (Yes/No)",
+        "Is the patient allergic to phenytoin? (Yes/No)",
+        "Is the patient allergic to mannitol? (Yes/No)",
+        "Is the patient allergic to glycerine? (Yes/No)",
+        "Does the patient have G6PD deficiency? (Yes/No)",
+        "Is *Meningococci* suspected/isolated? (Yes/No)"
+    ]
+}

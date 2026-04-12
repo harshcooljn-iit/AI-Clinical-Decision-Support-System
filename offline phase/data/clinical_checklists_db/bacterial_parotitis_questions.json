@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "Does the patient require non-pharmacological treatment? (Yes/No)",
+        "Is a stone present in the distal duct? (Yes/No)",
+        "Does the patient require pharmacological treatment? (Yes/No)",
+        "Is the patient an adult? (Yes/No)",
+        "Has non-pharmacological treatment failed? (Yes/No)",
+        "Does the patient have a penicillin allergy? (Yes/No)"
+    ]
+}

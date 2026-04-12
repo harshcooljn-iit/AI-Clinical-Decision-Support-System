@@ -1,0 +1,49 @@
+```text
+DISEASE: Stye (External Hordeolum)
+
+ABBREVIATIONS:
+- TDS: Three times daily
+- Tab.: Tablet
+- e.g.: For example
+- mg: Milligram
+
+DIAGNOSTICS:
+- Acute pain and tenderness over inflamed Zeis gland.
+- Localized painful, hard swelling near the lid margin.
+- Red and oedematous lid margin.
+- Possible abscess formation pointing near the base of the lash.
+- Pain subsides after pus evacuation.
+
+TREATMENT ALGORITHM:
+
+IF Stye is diagnosed THEN
+    // Non-pharmacological treatment
+    APPLY dry hot fomentation frequently, especially in the early stage.
+
+    // Pharmacological treatment
+    IF abscess is present THEN
+        EVACUATE pus by pulling the involved lash OR incising the abscess.
+    ENDIF
+
+    // Antibiotic eye drops/ointment
+    ADMINISTER antibiotic eye drops (e.g., moxifloxacin 0.5%) 4 to 6 hourly until infection subsides.
+    OR
+    ADMINISTER antibiotic ointment (e.g., moxifloxacin 0.5%) 4 to 6 hourly until infection subsides.
+
+    // Systemic antibiotics (consider if infection spreads or is severe)
+    IF systemic antibiotics are indicated THEN
+        ADMINISTER Tab. amoxicillin with clavulanic acid 625 mg TDS for 5 days.
+    ENDIF
+
+    // Pain and inflammation management
+    IF pain and inflammation are present THEN
+        ADMINISTER Tab. ibuprofen 400 mg TDS until inflammation subsides.
+    ENDIF
+
+    // Patient education
+    ADVISE patient to maintain ocular hygiene to prevent recurrence.
+ENDIF
+
+CONTRAINDICATIONS:
+- (None specified in the provided text for the listed treatments, but standard contraindications for individual drugs apply, e.g., allergy to penicillin for amoxicillin, fluoroquinolone allergy for moxifloxacin, NSAID contraindications for ibuprofen).
+```

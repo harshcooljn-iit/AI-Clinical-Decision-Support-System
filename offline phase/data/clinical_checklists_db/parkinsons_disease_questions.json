@@ -1,0 +1,15 @@
+{
+    "questions": [
+        "Is the patient initiating Levodopa therapy? (Yes/No)",
+        "Is the patient a candidate for Dopamine Agonist therapy? (Yes/No)",
+        "Is the patient a candidate for MAO-B Inhibitor therapy? (Yes/No)",
+        "Is the patient a candidate for COMT Inhibitor therapy? (Yes/No)",
+        "Does the patient have hepatic impairment? (Yes/No)",
+        "Is the patient a candidate for anticholinergic therapy? (Yes/No)",
+        "Is the patient a candidate for NMDA-receptor antagonist therapy? (Yes/No)",
+        "Is the patient receiving Levodopa? (Yes/No)",
+        "Is the patient receiving Dopamine Agonists? (Yes/No)",
+        "Is the patient receiving COMT Inhibitors? (Yes/No)",
+        "Is the patient receiving Tab. tolcapone 100\u2013200 mg TDS? (Yes/No)"
+    ]
+}

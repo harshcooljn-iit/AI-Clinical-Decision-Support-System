@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "What is the patient's exact age in years?",
+        "Is the patient pregnant? (Yes/No)",
+        "Is the patient receiving high-dose oral corticosteroids (prednisolone 1-2 mg/kg/day) for >14 days? (Yes/No)",
+        "Does the patient have a skin infection or lesion at the injection site? (Yes/No)",
+        "What is the mother's HBsAg status? (Positive/Negative/Unknown)"
+    ]
+}

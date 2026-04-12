@@ -1,0 +1,55 @@
+```text
+DISEASE: Chikungunya
+
+ABBREVIATIONS:
+- Tab: Tablet
+- GI: Gastrointestinal
+- O' nyong – nyong virus: O'nyong'nyong virus
+- Aedes aegypti: Aedes aegypti mosquito
+- Tab. paracetamol: Paracetamol tablet
+- Tab. hydroxychloroquinine: Hydroxychloroquine tablet
+- Tab. chloroquinine phosphate: Chloroquine phosphate tablet
+
+DIAGNOSTICS:
+- Clinical presentation: Acute onset fever, severe joint pain, maculopapular rash.
+- Incubation period: 2-4 days.
+- Symptoms: Fever, severe joint pain (arthralgia), headache, maculopapular rash on trunk and extensor surfaces.
+- Course: Initial fever (1-4 days), afebrile period (3 days), return of fever with rash (3-6 days), followed by recovery. Arthropathy can persist for months to years.
+
+TREATMENT ALGORITHM:
+
+1.  **Initial Assessment:** Patient presents with symptoms suggestive of Chikungunya (fever, severe joint pain, rash).
+
+2.  **Non-Pharmacological Treatment:**
+    -   Suggest mild exercises and physiotherapy during recovery.
+    -   Suggest exposure to a warm environment.
+    -   Suggest non-weight-bearing exercises.
+    -   Consider surgery for severely damaged joints (long-term).
+
+3.  **Pharmacological Treatment (Acute Stage):**
+    -   **Fever, Headache, Pain Management:**
+        -   IF symptoms (fever, headache, pain) are present:
+            -   THEN administer Tab. paracetamol 1 gm 3-4 times a day.
+        -   ELSE:
+            -   No specific pharmacological treatment for fever/pain indicated.
+
+4.  **Medication Avoidance:**
+    -   IF patient is being treated for fever or pain:
+        -   THEN AVOID Tab. aspirin due to risk of GI side effects and Reye's syndrome.
+        -   THEN AVOID steroids due to risk of GI side effects.
+
+5.  **Refractory Arthralgia Treatment:**
+    -   IF arthralgia persists despite symptomatic treatment (e.g., paracetamol):
+        -   THEN consider Tab. hydroxychloroquinine 200mg orally once daily for 4 weeks.
+        -   OR consider Tab. chloroquinine phosphate 300mg per day for 4 weeks.
+    -   ELSE:
+        -   Continue symptomatic treatment.
+
+6.  **Hydroxychloroquine Monitoring:**
+    -   IF Tab. hydroxychloroquinine is administered:
+        -   THEN monitor for potential side effects: retinal damage, elevated liver enzymes.
+
+CONTRAINDICATIONS:
+-   Tab. aspirin: Contraindicated due to risk of GI side effects and Reye's syndrome.
+-   Steroids: Contraindicated due to risk of GI side effects.
+```

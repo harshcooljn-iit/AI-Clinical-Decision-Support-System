@@ -1,0 +1,81 @@
+```text
+DISEASE: Suturing Of Primary Wound
+
+ABBREVIATIONS:
+- Inj.: Injection
+- IM: Intramuscular
+- stat: Immediately
+- ml: Milliliter
+- mg: Milligram
+- tab: Tablet
+- MO: Medical Officer
+- hrs: Hours
+- MO: Medical Officer
+
+DIAGNOSTICS:
+- Clinical assessment of wound (time, etiology, comorbidities, number, site, size, depth, active bleeding, discharge, foreign material, associated neurovascular injury, tendon injury, bone fracture).
+- X-rays of local part if fracture or foreign body is suspected.
+
+TREATMENT ALGORITHM:
+
+IF wound is recent (< 6 hours) AND contamination is minimal:
+    THEN Perform cleaning followed by primary suturing.
+ELSE IF duration of injury is > 6 hours OR contamination is present:
+    THEN Debride the wound.
+    THEN Close the wound by secondary suturing at a later date when clean.
+
+PHARMACOLOGICAL TREATMENT:
+    Administer Inj. tetanus toxoid 0.5 ml IM stat.
+    Administer Inj. diclofenac sodium 3 ml (75mg) IM stat.
+    Administer Tab. ampicillin 500 mg three times a day for 3-5 days.
+    Administer Tab. diclofenac 50 mg twice a day for 3-5 days.
+    IF patient is deficient in vitamins/iron:
+        THEN Administer Tab. multivitamins/Iron.
+    IF patient has Diabetes mellitus:
+        THEN Control Diabetes mellitus.
+
+WOUND MANAGEMENT:
+    For primary suturing: Thorough cleaning of wound by saline/Hydrogen Peroxide/Betadine.
+    Remove any foreign material.
+    Control active bleeding.
+
+CHOICE OF SUTURE MATERIAL:
+    IF high stress area requiring strong retention (e.g., deep fascia repair):
+        THEN Use 1-0 or 2-0 suture material.
+    IF area requiring good retention (e.g., scalp, torso, hands):
+        THEN Use 3-0 suture material.
+    IF area requiring minimal retention (e.g., extremities) OR superficial wound closure:
+        THEN Use 4-0 suture material.
+    IF area involving the face, nose, ears, eyebrows, eyelids:
+        THEN Use 5-0 suture material.
+    IF area requiring little or no retention OR cosmetic effect desired:
+        THEN Use 6-0 suture material.
+
+SUTURE TECHNIQUE:
+    Place wound layers in close approximation.
+    Keep minimal tension across the suture line.
+    Evert wound edges slightly.
+    Use equal bites horizontally and vertically.
+    Debride devitalized tissue.
+    Perform alternate day dressing with antiseptic solution until suture removal.
+
+SUTURE REMOVAL:
+    IF location is Face:
+        THEN Remove sutures in 4-5 days.
+    IF location is Body & scalp:
+        THEN Remove sutures in 7 days.
+    IF location is Soles, palms, back or over joints:
+        THEN Remove sutures in 10 days.
+    IF suture has pus or signs of infection:
+        THEN Remove suture immediately.
+    Once MO determines removal is appropriate:
+        Use suture removal kit (scissors, tooth forceps).
+        Grasp knot with tooth forceps.
+        Snip suture below knot with scissors as close as possible to the skin.
+        Pull suture line through tissue.
+        Count removed sutures to match patient record.
+
+CONTRAINDICATIONS:
+- None specified in the text for the listed pharmacological treatments.
+- Suture removal IF pus or signs of infection are present.
+```

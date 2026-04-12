@@ -1,0 +1,138 @@
+```text
+1. DISEASE: Normal Pregnancy
+
+2. ABBREVIATIONS:
+    - BP: Blood Pressure
+    - cals: calories
+    - ICT: Indirect Coomb's test
+    - MMR: Measles, Mumps, Rubella
+    - mcg: microgram
+    - IM: Intramuscular
+    - HIV: Human Immunodeficiency Virus
+    - DFMC: Daily foetal movement charting
+    - APH: Antepartum hemorrhage
+    - Rh: Rhesus factor
+
+3. DIAGNOSTICS:
+    - Clinical examination (BP, weight-gain, oedema, cardio-vascular, respiratory, breast examination, symphyseal-fundal height, presentation, foetal heart rate(s), amniotic fluid volume, foetal movement charting, pelvic assessment).
+    - Laboratory tests (Haemoglobin, urine routine and microscopy, blood groups and Rh typing, screen for syphilis, hepatitis B infection, HIV, cervical cytology).
+    - Ultrasound (for foetal anomalies if indicated).
+    - Indirect Coomb's test (ICT) for Rh negative women.
+
+4. TREATMENT ALGORITHM:
+
+    IF Pregnancy is confirmed THEN
+        # Diet
+        IF Woman is physically active THEN
+            Caloric requirement depends on physical work.
+            Increased requirement is 300 cals/day.
+        ELSE
+            Caloric requirement depends on activity level.
+            Increased requirement is 300 cals/day.
+        ENDIF
+        Diet should be light, nutritious, easily digestible, rich in proteins, vitamins, and minerals.
+        Diet should include at least 0.5 liters of milk daily.
+        Diet should include plenty of green leafy vegetables (one katori serving per meal).
+        Diet should include fruits as available.
+        Diet should include a balanced combination of cereals and pulses.
+        Diet should emphasize foods rich in iron (green vegetables, jaggery) and protein (nuts).
+        Fat consumption can be predominantly from animal sources for vitamins A & D.
+
+        # Exercise
+        IF Woman is accustomed to exercise THEN
+            Continue exercise, but not to the point of fatigue.
+            Antenatal exercises under medical supervision are useful.
+        ELSE
+            No new exercise should be initiated.
+            Sedentary women should only walk.
+        ENDIF
+        IF Woman has multiple foetuses OR complications (heart disease, pregnancy induced hypertension, intrauterine growth retardation, history of preterm labour, APH, threatened abortion) THEN
+            Do not exercise.
+        ENDIF
+
+        # Clothing
+        Clothing should be non-constricting.
+
+        # Travel
+        Road travel is allowed with a safety belt.
+        Traveling in a pressurized aircraft is allowed; walk about every 2 hours.
+
+        # Employment
+        Jobs requiring prolonged standing (>8 hours/day) are associated with a minimum risk of pre-term delivery.
+
+        # Clinical check up
+        During each antenatal visit:
+            - Check BP.
+            - Check weight gain.
+            - Check for oedema in feet.
+            - Perform cardio-vascular examination.
+            - Perform respiratory examination.
+            - Perform breast examination.
+            - Measure symphyseal-fundal height.
+            - Assess presentation.
+            - Check foetal heart rate(s).
+            - Assess amniotic fluid volume.
+            - Inquire about daily foetal movement charting.
+            - Perform pelvic assessment at 38 weeks.
+
+        # Rh Negative Women Management
+        IF Woman is Rh negative AND Husband is Rh positive THEN
+            Monitor with Indirect Coomb's test (ICT) at:
+                - First visit
+                - 28 weeks
+                - 34-36 weeks
+            IF ICT is negative THEN
+                Recommend Immunoglobulin 300 mcg IM at 28 weeks of pregnancy.
+                Recommend Immunoglobulin 300 mcg IM postpartum if baby is Rh positive.
+            ELSE IF ICT is positive THEN
+                Manage only at centers with facilities for amniocentesis and/or cordocentesis, amniotic fluid optical density estimation, and intrauterine foetal transfusions.
+            ENDIF
+        ENDIF
+
+        # Medications
+        - Tab. folic acid 5 mg once daily, starting at least 3 months before conception and continuing till 12 weeks of gestation.
+        - Tab. iron folic acid (containing 60-100 mg elemental iron and folic acid) once daily.
+        - Tab. calcium gluconate 500 mg twice daily from 16 weeks till 3 months postpartum.
+
+        # Immunization
+        - Administer 2 doses of tetanus toxoid 4-6 weeks apart.
+        - MMR vaccines are contraindicated.
+        - Other vaccines can be administered if indicated.
+
+        # Investigations during pregnancy
+        - Haemoglobin
+        - Urine (routine and microscopy)
+        - Blood groups and Rh typing
+        - Screen for syphilis
+        - Screen for hepatitis B infection
+        - Screen for HIV
+        - Cervical cytology
+        - Ultrasound for foetal anomalies if indicated
+        - Diabetes screening
+
+        # Patient Education
+        - Advise on delivery preparation (when to go, what to bring, emergency procedures).
+        - Explain danger signals requiring immediate reporting (vaginal bleeding, convulsions, severe headaches with blurred vision, severe abdominal pain, fast/difficult breathing, escape of fluid, change in foetal movements, persistent vomiting, oliguria).
+        - Advise to go to health center immediately for signs like swelling on face/hands, abdominal pain, fever, dysuria, feeling ill.
+        - Explain black staining of stools due to oral iron.
+        - Advise taking iron and calcium supplements at different times (at least 2 hours apart).
+        - Counsel on birth spacing and family planning.
+        - Advise on correct and consistent use of condoms for dual protection (STI/HIV and pregnancy).
+        - Advise avoiding sexual intercourse when abortion/preterm labour threatens, and during the last 4 weeks of pregnancy.
+
+        # Bowel Issues
+        - Constipation, fissures, and haemorrhoids are common; treat with fluids, exercise, bulk laxatives, and stool softeners.
+
+        # Contraindications
+        - Smoking, alcohol, and drug abuse are contraindicated.
+        - Caffeine is best avoided.
+
+        # Daily foetal movement charting (DFMC)
+        - After 28 weeks, the woman should keep a foetal movement count.
+
+        # Follow-up visits
+        - Every 4 weeks until 28 weeks.
+        - Every 2 weeks until 36 weeks.
+        - Weekly thereafter.
+    ENDIF
+```

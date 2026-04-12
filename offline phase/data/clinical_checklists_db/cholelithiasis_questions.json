@@ -1,0 +1,21 @@
+{
+    "questions": [
+        "Is the patient symptomatic? (Yes/No)",
+        "If Yes, how long has the patient been symptomatic? (in hours)",
+        "Does the patient have diabetes? (Yes/No)",
+        "Does the patient have a solitary large stone? (Yes/No)",
+        "Does the patient have multiple small stones with a wide cystic duct? (Yes/No)",
+        "Does the patient have a porcelain gall bladder? (Yes/No)",
+        "Is the patient an anxious patient? (Yes/No)",
+        "Does the patient have acute cholecystitis? (Yes/No)",
+        "Does the patient have empyema gall bladder? (Yes/No)",
+        "Does the patient have stones in the CBD? (Yes/No)",
+        "Does the patient require antibiotics? (Yes/No)",
+        "Is an anaerobic bacterial infection suspected or anticipated? (Yes/No)",
+        "Does the patient require pain management? (Yes/No)",
+        "Does the patient have obstructive jaundice? (Yes/No)",
+        "Does the patient have evidence of persistent infection? (Yes/No)",
+        "Does the patient have an indwelling tube (e.g., T-tube)? (Yes/No)",
+        "Was the cholecystectomy laparoscopic? (Yes/No)"
+    ]
+}

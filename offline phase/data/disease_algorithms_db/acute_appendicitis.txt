@@ -1,0 +1,41 @@
+```text
+DISEASE: Acute Appendicitis
+
+ABBREVIATIONS:
+- Tab: Tablet
+- ciprofloxacin: Ciprofloxacin
+- mg: Milligram
+- BD: Twice daily
+- metronidazole: Metronidazole
+- TDS: Three times daily
+- gm: Gram
+- Inj: Injection
+- IM: Intramuscular
+- ranitidine: Ranitidine
+- Cap: Capsule
+- omeprazole: Omeprazole
+- CECT: Contrast-Enhanced Computed Tomography
+- USG: Ultrasonography
+- RIF: Right Iliac Fossa
+- McBurney's sign: Tenderness at McBurney's point
+
+DIAGNOSTICS:
+- Clinical presentation (pain migration, anorexia, nausea, vomiting, fever, McBurney's sign, rebound tenderness).
+- Blood counts (neutrophilia).
+- Imaging (USG Abdomen, CECT Abdomen).
+
+TREATMENT ALGORITHM:
+
+IF Patient has early catarrhal appendicitis with minimally inflamed appendix THEN
+    IF Patient can receive oral medication THEN
+        THEN Administer Tab. ciprofloxacin 500mg BD AND Tab. metronidazole 400 mg TDS
+        OR Administer Inj. cefotaxim 1 gm BD (second generation cephalosporin)
+    ENDIF
+    Administer Inj. diclofenac 75 mg IM
+    Administer Tab. ranitidine 150 mg BD
+    OR Administer Cap. omeprazole 40 mg BD
+ELSE
+    Perform Appendicectomy (open or laparoscopic approach)
+ENDIF
+
+```
