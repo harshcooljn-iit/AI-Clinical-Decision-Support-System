@@ -1,13 +1,20 @@
 ---
-
 # 🩺 AI Clinical Decision Support System
-
-[![Watch the demo](https://img.youtube.com/vi/13hyQv1MVS8/0.jpg)](https://youtu.be/13hyQv1MVS8)
-
 
 An end-to-end, multi-agent AI pipeline designed to assist physicians in diagnosing and formulating evidence-based treatment plans in real-time.
 
 This system translates over 300 static clinical guidelines from AIIMS Rishikesh into an interactive, autonomous diagnostic engine. It features a decoupled architecture with a heavy-inference FastAPI backend (powered by MedGemma-27B) and a lightweight, Human-in-the-Loop Streamlit frontend.
+---
+
+## 🎥 Demo
+
+<p align="center">
+  <a href="https://youtu.be/13hyQv1MVS8">
+    <img src="https://img.youtube.com/vi/13hyQv1MVS8/maxresdefault.jpg" width="800" alt="Demo Video"/>
+  </a>
+</p>
+
+---
 
 ## ✨ Key Features
 
