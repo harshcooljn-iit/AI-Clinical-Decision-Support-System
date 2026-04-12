@@ -34,7 +34,7 @@ def normalize(text):
 normalized_to_original = {normalize(d): d for d in diseases}
 all_normalized = list(normalized_to_original.keys())
 
-out_dir = "disease_markdown_files"
+out_dir = "offline phase/data/disease_markdown_files"
 if not os.path.exists(out_dir):
     os.makedirs(out_dir)
 
@@ -81,7 +81,7 @@ def get_best_match(header_text):
         
     return None
 
-with open('standard-treatment-guidelines.md', 'r', encoding='utf-8') as f:
+with open('offline phase/data/standard-treatment-guidelines.md', 'r', encoding='utf-8') as f:
     lines = f.readlines()
 
 current_disease = None

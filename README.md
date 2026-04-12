@@ -47,7 +47,9 @@ Based on the project tree, the repository is organized as follows:
 │   │   ├── disease_markdown_files/      # Segmented markdown files per disease
 │   │   └── standard-treatment...        # Original AIIMS guidelines
 │   └── scripts/
-│       └── fuzzy_extract.py             # Script for document segmentation
+│       ├── fuzzy_extract.py             # Script for document segmentation
+│       ├── generate_questions.py        # Generates clinical checklist questions
+│       └── process_guidelines.py        # Processes guideline markdown/logic assets
 ├── online phase/
 │   ├── backend/
 │   │   └── backend.py                   # FastAPI server (GPU Inference)
