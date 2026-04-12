@@ -9,8 +9,8 @@ from huggingface_hub import login
 # --- 1. CONFIGURATION ---
 # login(token="hf_YOUR_TOKEN_HERE") # Uncomment and add your token if needed
 
-INPUT_DIR = "disease_algorithms_db"
-OUTPUT_DIR = "clinical_checklists_db"
+INPUT_DIR = "offline phase/data/disease_algorithms_db"
+OUTPUT_DIR = "offline phase/data/clinical_checklists_db"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 

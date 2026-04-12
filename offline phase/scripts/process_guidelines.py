@@ -8,8 +8,8 @@ from huggingface_hub import login
 # Replace with your actual Hugging Face token
 login(token="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")
 
-INPUT_DIR = "/home/anurag/nas_anurag/harsh/btp2_new/disease_markdown_files"
-OUTPUT_DIR = "/home/anurag/nas_anurag/harsh/btp2_new/disease_algorithms_db"
+INPUT_DIR = "offline phase/data/disease_markdown_files"
+OUTPUT_DIR = "offline phase/data/disease_algorithms_db"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
