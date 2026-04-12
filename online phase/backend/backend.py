@@ -16,7 +16,7 @@ os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 app = FastAPI(title="AI Clinical Decision Support System")
 
 print("Loading Models onto GPU...")
-embedder = SentenceTransformer('sentence-transformers/embeddinggemma-300m-medical')
+embedder = SentenceTransformer('pritamdeka/S-PubMedBert-MS-MARCO')
 model_id = "google/medgemma-4b-it"
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 
