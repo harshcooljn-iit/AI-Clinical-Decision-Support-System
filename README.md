@@ -75,7 +75,7 @@ Based on the project tree, the repository is organized as follows:
 
 ```bash
 git clone https://github.com/harshcooljn-iit/AI-Clinical-Decision-Support-System.git
-cd ai-clinical-decision-support
+cd ai-clinical-decision-support-system
 ```
 
 ### 2. Install Dependencies
