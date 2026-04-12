@@ -72,8 +72,8 @@ Based on the project tree, the repository is organized as follows:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/clinical-decision-support.git
-cd clinical-decision-support
+git clone https://github.com/harshcooljn-iit/AI-Clinical-Decision-Support-System.git
+cd ai-clinical-decision-support
 ```
 
 ### 2. Install Dependencies
