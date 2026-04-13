@@ -235,22 +235,30 @@ python "offline phase/scripts/generate_questions.py"
 
 ---
 
-## 📊 Benchmarking
+### 📊 Benchmarking (Data Collection Pipeline)
 
-The `online phase/benchmark data/` directory contains tools to evaluate system performance against real-world clinical data.
+The `benchmark.py` script generates evaluation data by running the full pipeline on real-world clinical records (MIMIC-III).
 
-**Dataset:** [MIMIC-III](https://physionet.org/content/mimiciii/1.4/) — a large, de-identified database of ICU patient records.
+> ⚠️ **Note:** Quantitative evaluation metrics (e.g., hallucination rate, clinical safety) are **not yet implemented**. This script currently serves as a **data generation pipeline** for downstream analysis.
 
-**Metrics evaluated:**
+**What the script does:**
 
-- 📋 **Formatting Adherence** — Does the output follow the structured prescription format?
-- 🧠 **Hallucination Rate** — Does the model invent drugs, dosages, or conditions not in the guidelines?
-- 🛡️ **Clinical Safety Score** — Are contraindications and drug interactions correctly flagged?
+- Samples patient records from MIMIC-III
+- Runs end-to-end inference (Search → Extract → Recommend)
+- Stores:
+  - Retrieved guidelines
+  - Extracted clinical variables
+  - Final generated prescriptions
+
+This output can be used for:
+
+- Manual evaluation by clinicians
+- Future automated metric computation
+- Model comparison (e.g., 27B vs 4B)
 
 ```bash
-# Run the full benchmark comparison (27B vs 4B)
+# Run the pipeline to generate evaluation data
 python "online phase/benchmark data/benchmark.py"
-```
 
 Output is saved as CSV files for downstream analysis and visualization.
 
@@ -287,3 +295,4 @@ The current architecture uses a single LLM across all agents. Future iterations 
 _If you find this useful, consider starring ⭐ the repository._
 
 </div>
+```
