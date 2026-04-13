@@ -287,11 +287,3 @@ The current architecture uses a single LLM across all agents. Future iterations 
 - **Multilingual Support** — Extend to regional-language guidelines for broader Indian hospital deployment.
 
 ---
-
-<div align="center">
-
-**Built with ❤️ for better clinical outcomes**
-
-_If you find this useful, consider starring ⭐ the repository._
-
-</div>
