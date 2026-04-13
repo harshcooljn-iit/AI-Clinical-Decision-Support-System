@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 <img src="https://img.shields.io/badge/AIIMS_Rishikesh-Guidelines-0066CC?style=for-the-badge" alt="AIIMS Guidelines"/>
-<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/>
 
 <br/><br/>
 
