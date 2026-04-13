@@ -5,8 +5,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 from huggingface_hub import login
 
 # --- 1. AUTHENTICATION & CONFIGURATION ---
-# Replace with your actual Hugging Face token
-login(token="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")
+login(token=os.getenv("HF_TOKEN"))
 
 INPUT_DIR = "offline phase/data/disease_markdown_files"
 OUTPUT_DIR = "offline phase/data/disease_algorithms_db"
@@ -16,9 +15,6 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 # --- 2. LOAD THE MODEL (MedGemma 27B) ---
 print("Loading MedGemma 27B Model...")
 model_id = "google/medgemma-27b-it"
-
-# If you are on Kaggle (T4 GPUs), keep this 4-bit config. 
-# If you are on your H100, you can delete this config and just use torch_dtype=torch.bfloat16 for maximum speed!
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
     bnb_4bit_compute_dtype=torch.float16, 

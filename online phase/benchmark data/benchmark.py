@@ -32,9 +32,9 @@ for index, row in sample_df.iterrows():
     # 2. Extract Variables
     extract_res = requests.post(f"{API_URL}/extract", json={"ehr_text": ehr_text, "disease_names": selected_diseases})
     if extract_res.status_code != 200:
-        # print("Extraction failed, skipping...", extract_res.json())
-        # continue
-        extracted_answers = str(extract_res.json())
+        print("Extraction failed, skipping...", extract_res.json())
+        continue
+        # extracted_answers = str(extract_res.json())
     else:  
         extracted_answers = extract_res.json()["extracted_answers"]
     

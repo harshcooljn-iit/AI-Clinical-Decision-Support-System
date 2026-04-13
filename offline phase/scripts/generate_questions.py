@@ -7,7 +7,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 from huggingface_hub import login
 
 # --- 1. CONFIGURATION ---
-# login(token="hf_YOUR_TOKEN_HERE") # Uncomment and add your token if needed
+# login(token=os.getenv("HF_TOKEN")) # Uncomment and add your token if needed
 
 INPUT_DIR = "offline phase/data/disease_algorithms_db"
 OUTPUT_DIR = "offline phase/data/clinical_checklists_db"
@@ -20,7 +20,7 @@ model_id = "google/medgemma-27b-it"
 
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 
-# device_map="auto" will gracefully split the ~54GB across your two H100s
+
 model = AutoModelForCausalLM.from_pretrained(
     model_id,
     torch_dtype=torch.bfloat16,
@@ -57,7 +57,6 @@ for file_path in txt_files:
     with open(file_path, "r", encoding="utf-8") as f:
         algorithm_text = f.read()
 
-    # --- 4. THE HIGH-PERFORMANCE PROMPT ---
     # --- 4. THE HIGH-PERFORMANCE PROMPT ---
     prompt_agent_2 = f"""You are the Chief Clinical Information Officer designing an intake form for an electronic health record (EHR) system.
 
