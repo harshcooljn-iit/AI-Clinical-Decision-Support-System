@@ -4,7 +4,7 @@
 An end-to-end, AI pipeline designed to assist physicians in diagnosing and formulating evidence-based treatment plans in real-time.
 
 This system translates over 300 static clinical guidelines from AIIMS Rishikesh into an interactive, autonomous diagnostic engine. It features a decoupled architecture with a heavy-inference FastAPI backend (powered by MedGemma-27B) and a lightweight, Human-in-the-Loop Streamlit frontend.
-<a href="https://aiimsrishikesh.edu.in/documents/standard-treatment-guidelines.pdf">AIIMS Guidelines</a>
+<a href="https://aiimsrishikesh.edu.in/documents/standard-treatment-guidelines.pdf">AIIMS Clinical Guidelines</a>
 
 ## 🎥 Demo
 
@@ -16,9 +16,9 @@ This system translates over 300 static clinical guidelines from AIIMS Rishikesh 
 
 ## ✨ Key Features
 
-- **Explainable Semantic Search:** Uses specialized medical embeddings (`S-PubMedBert-MS-MARCO`) to match unstructured Electronic Health Records (EHR) to relevant guidelines, providing an AI-generated rationale for every match.
+- **Semantic Search:** Uses specialized medical embeddings (`S-PubMedBert-MS-MARCO`) to match unstructured Electronic Health Records (EHR) to relevant guidelines, providing an AI-generated rationale for every match.
 - **Comorbidity Handling:** Capable of merging multiple clinical checklists and evaluating overlapping treatment algorithms simultaneously to check for drug contraindications.
-- **Human-in-the-Loop (HITL) Verification:** Pauses the AI pipeline mid-inference, allowing the physician to verify, edit, or fill in missing clinical variables extracted by the AI before generating a final prescription.
+- **Human-in-the-Loop (HITL) Verification:** Integrates a necessary physician review stage. The system displays the extracted clinical variables, allowing the user to verify, edit, or manually populate missing information before submitting the finalized data to Agent 4 for prescription generation.
 - **Streaming Clinical Reasoning:** Streams a structured, bulleted medical prescription alongside step-by-step clinical reasoning directly to the UI.
 
 ---
@@ -29,7 +29,7 @@ The pipeline is divided into two distinct phases:
 
 ### Phase 1: Offline Database Ingestion
 
-1. **Document Parsing:** Converts the 430+ page AIIMS Rishikesh PDF into Markdown using `llama-parse` to preserve dosage tables and flowcharts.
+1. **Document Parsing:** The 430+ page AIIMS Rishikesh PDF is converted into Markdown using the external `llama-parse` service. This step is performed outside the repository and helps preserve structured content such as dosage tables and flowcharts.
 2. **Fuzzy Extraction:** A custom Python script (`fuzzy_extract.py`) uses regex and fuzzy string matching to segment the master document into 300+ individual disease Markdown files.
 3. **Logic Translation (Agent 1):** MedGemma-27B converts the Markdown files into strict IF-ELSE logic text files.
 4. **Pre-computing Checklists (Agent 2):** MedGemma-27B pre-generates the required clinical question checklists (JSON) for every disease to optimize online inference speed.
@@ -122,6 +122,10 @@ The `online phase/benchmark data/` directory contains tools to evaluate the syst
 
 ## 🔮 Future Work
 
+- **Agentic AI Framework:** Transitioning from a linear pipeline to an **Agentic Workflow** using frameworks like LangGraph or CrewAI. Future versions will feature agents capable of:
+  - **Self-Correction:** An agent that "critiques" its own generated prescription against the guidelines to catch errors before the physician sees them.
+  - **Autonomous Tool Use:** Agents that can proactively search external medical databases (PubMed, UpToDate) if the internal AIIMS guidelines are insufficient for a complex case.
+  - **Multi-Agent Collaboration:** Specializing agents by department (e.g., a "Cardiology Agent" and a "Pharmacology Agent") to debate and refine treatment plans for multi-morbidity patients.
 - **Prompt Optimization:** Transitioning Agent 4 from static f-strings to programmatic prompt compilation using the **DSPy** framework to mathematically maximize instruction-following and accuracy.
 - **Expanded Database:** Integrating additional medical guidelines beyond AIIMS (e.g., Mayo Clinic, WHO) into the offline ingestion pipeline.
-- **Model Routing:** Implementing a dynamic router that sends simple extraction tasks to smaller, faster models (e.g., Llama-3-8B) while reserving complex comorbidity reasoning for the 27B parameter model.
+- **Dynamic Model Routing:** Implementing a router that sends simple extraction tasks to smaller, faster models (e.g., Llama-3-8B) while reserving complex reasoning for larger models like MedGemma-27B.
