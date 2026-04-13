@@ -295,4 +295,3 @@ The current architecture uses a single LLM across all agents. Future iterations 
 _If you find this useful, consider starring ⭐ the repository._
 
 </div>
-```
