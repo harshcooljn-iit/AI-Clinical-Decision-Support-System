@@ -11,7 +11,7 @@
 
 # 🩺 AI Clinical Decision Support System
 
-**An end-to-end autonomous diagnostic pipeline that translates 300+ static clinical guidelines into a real-time, physician-in-the-loop prescription engine.**
+**An end-to-end AI pipeline that translates 300+ static clinical guidelines into a real-time, physician-in-the-loop prescription engine.**
 
 _Powered by MedGemma-27B · Built on AIIMS Rishikesh Standard Treatment Guidelines_
 
