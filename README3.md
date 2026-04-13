@@ -156,7 +156,7 @@ ai-clinical-decision-support-system/
 │   │   └── backend.py                   # FastAPI server — loads embeddings + MedGemma into VRAM
 │   │
 │   ├── benchmark data/
-│   │   ├── mimic3.csv                   # MIMIC-III sample cases for evaluation
+│   │   ├── samples.csv                  # sample cases for evaluation
 │   │   └── benchmark.py                 # Automated comparison: 27B vs 4B models
 │   │
 │   └── frontend/
@@ -258,6 +258,7 @@ This output can be used for:
 ```bash
 # Run the pipeline to generate evaluation data
 python "online phase/benchmark data/benchmark.py"
+```
 
 Output is saved as CSV files for downstream analysis and visualization.
 
