@@ -122,7 +122,7 @@ The `online phase/benchmark data/` directory contains tools to evaluate the syst
 
 ## 🔮 Future Work
 
-- **Agentic AI Framework:** Transitioning from a linear pipeline to an **Agentic Workflow** using frameworks like LangGraph or CrewAI. Future versions will feature agents capable of:
+- **Agentic AI Framework:** Transitioning from a linear pipeline to an **Agentic Workflow** using frameworks like LangGraph or CrewAI. Future versions may feature agents capable of:
   - **Self-Correction:** An agent that "critiques" its own generated prescription against the guidelines to catch errors before the physician sees them.
   - **Autonomous Tool Use:** Agents that can proactively search external medical databases (PubMed, UpToDate) if the internal AIIMS guidelines are insufficient for a complex case.
   - **Multi-Agent Collaboration:** Specializing agents by department (e.g., a "Cardiology Agent" and a "Pharmacology Agent") to debate and refine treatment plans for multi-morbidity patients.
