@@ -1,4 +1,3 @@
----
 # 🩺 AI Clinical Decision Support System
 
 An end-to-end AI pipeline designed to assist physicians in diagnosing and formulating evidence-based treatment plans in real-time.
@@ -25,20 +24,20 @@ This system translates over 300 static clinical guidelines from AIIMS Rishikesh 
 
 ## 🏗️ System Architecture
 
-> **Note on Terminology:** While currently powered by the MedGemma-27B LLM, the components of this pipeline are labeled as **Agents (1-4)**. This reflects a modular design philosophy where each stage is treated as a specialized functional unit. This abstraction allows future versions to replace these LLM calls with fully autonomous, specialized agents that possess their own tools and self-correction logic.
+> **Note on Terminology:** While currently powered by the MedGemma-27B LLM, the components of this pipeline are labeled as **Agents (1-4)**. This reflects a modular design philosophy where each stage is treated as a specialized functional unit. This abstraction allows for replacing these LLM calls with fully autonomous, specialized agents—each with its own tools and self-correction logic—in future versions.
 
 The pipeline is divided into two distinct phases:
 
 ### Phase 1: Offline Database Ingestion
 
-1. **Document Parsing:** The 430+ page AIIMS Rishikesh PDF is converted into Markdown using the external `llama-parse` service. This step is performed outside the repository and helps preserve structured content such as dosage tables and flowcharts.
+1. **Document Parsing:** The 430+ page AIIMS Rishikesh PDF is converted to Markdown using the external `llama-parse` service. This step is performed outside the repository and helps preserve structured content such as dosage tables and flowcharts.
 2. **Fuzzy Extraction:** A custom Python script (`fuzzy_extract.py`) uses regex and fuzzy string matching to segment the master document into 300+ individual disease Markdown files.
 3. **Logic Translation (Agent 1):** MedGemma-27B converts the Markdown files into strict IF-ELSE logic text files.
 4. **Pre-computing Checklists (Agent 2):** MedGemma-27B pre-generates the required clinical question checklists (JSON) for every disease to optimize online inference speed.
 
 ### Phase 2: Online Real-Time Inference
 
-1. **Search:** The physician inputs patient EHR. The system performs a dense semantic search to return the top 5 relevant guidelines.
+1. **Search:** The physician inputs a patient's EHR. The system performs a dense semantic search to return the top 5 relevant guidelines.
 2. **Extract (Agent 3):** Fetches the pre-generated checklists for selected diseases and extracts answers directly from the EHR using dynamic Pydantic schema validation.
 3. **Human Verification:** The Streamlit UI prompts the physician to confirm the extracted variables.
 4. **Recommend (Agent 4):** Evaluates the confirmed variables against the combined IF-ELSE logic algorithms to stream a final, safe prescription.
@@ -125,9 +124,9 @@ The `online phase/benchmark data/` directory contains tools to evaluate the syst
 ## 🔮 Future Work
 
 - **Transition to True Multi-Agent Systems:** While the current version utilizes a single LLM for different tasks (labeled as Agents 1-4 for modularity), future iterations may transition these into **specialized autonomous agents**.
-  - **Specialization:** Rather than one general model, Agent 3 (Extraction) could be a model fine-tuned specifically for clinical NER (Named Entity Recognition), while Agent 4 (Recommendation) evolves into a Reasoning Agent with access to medical knowledge graphs.
+  - **Specialization:** Rather than one general model, Agent 3 (Extraction) could be a model fine-tuned specifically for clinical NER (Named Entity Recognition), while Agent 4 (Recommendation) could evolve into a Reasoning Agent with access to medical knowledge graphs.
   - **Self-Correction:** An agent that "critiques" its own generated prescription against the guidelines to catch errors before the physician sees them.
-  - **Autonomous Tool Use:** Agents that can proactively search external medical databases (PubMed, UpToDate) if the internal AIIMS guidelines are insufficient for a complex case.
+  - **Autonomous Tool Use:** Agents that can proactively search external medical databases (e.g., PubMed, UpToDate) if the internal AIIMS guidelines are insufficient for a complex case.
   - **Multi-Agent Collaboration:** Specializing agents by department (e.g., a "Cardiology Agent" and a "Pharmacology Agent") to debate and refine treatment plans for multi-morbidity patients.
 
 * **Prompt Optimization:** Transitioning Agent 4 from static f-strings to programmatic prompt compilation using the **DSPy** framework to mathematically maximize instruction-following and accuracy.
