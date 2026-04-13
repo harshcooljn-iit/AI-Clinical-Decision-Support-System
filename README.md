@@ -1,73 +1,168 @@
+<div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/MedGemma-27B-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="MedGemma 27B"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/AIIMS_Rishikesh-Guidelines-0066CC?style=for-the-badge" alt="AIIMS Guidelines"/>
+
+<br/><br/>
+
 # 🩺 AI Clinical Decision Support System
 
-An end-to-end AI pipeline designed to assist physicians in diagnosing and formulating evidence-based treatment plans in real-time.
+**An end-to-end autonomous diagnostic pipeline that translates 300+ static clinical guidelines into a real-time, physician-in-the-loop prescription engine.**
 
-This system translates over 300 static clinical guidelines from AIIMS Rishikesh into an interactive, autonomous diagnostic engine. It features a decoupled architecture with a heavy-inference FastAPI backend (powered by MedGemma-27B) and a lightweight, Human-in-the-Loop Streamlit frontend.
-<a href="https://aiimsrishikesh.edu.in/documents/standard-treatment-guidelines.pdf">AIIMS Clinical Guidelines</a>
+_Powered by MedGemma-27B · Built on AIIMS Rishikesh Standard Treatment Guidelines_
 
-## 🎥 Demo
+<br/>
 
-<p align="center">
-  <a href="https://youtu.be/13hyQv1MVS8">
-    <img src="https://img.youtube.com/vi/13hyQv1MVS8/maxresdefault.jpg" width="800" alt="Demo Video"/>
-  </a>
-</p>
+[![▶ Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/13hyQv1MVS8)
+&nbsp;
+[![📄 AIIMS Guidelines](https://img.shields.io/badge/📄%20AIIMS%20Guidelines-PDF-blue?style=for-the-badge)](https://aiimsrishikesh.edu.in/documents/standard-treatment-guidelines.pdf)
+
+<br/>
+
+[![Demo Preview](https://img.youtube.com/vi/13hyQv1MVS8/maxresdefault.jpg)](https://youtu.be/13hyQv1MVS8)
+
+</div>
+
+---
+
+## 📋 Table of Contents
+
+- [Overview](#-overview)
+- [Key Features](#-key-features)
+- [System Architecture](#-system-architecture)
+  - [Phase 1: Offline Database Ingestion](#phase-1-offline-database-ingestion)
+  - [Phase 2: Online Real-Time Inference](#phase-2-online-real-time-inference)
+- [Repository Structure](#-repository-structure)
+- [Installation & Setup](#-installation--setup)
+- [Benchmarking](#-benchmarking)
+- [Future Work](#-future-work)
+
+---
+
+## 🔬 Overview
+
+This system bridges the gap between static clinical documentation and dynamic, context-aware medical decision-making. It ingests the **430+ page AIIMS Rishikesh Standard Treatment Guidelines** and converts them into an interactive diagnostic engine that a physician can query using a raw patient EHR.
+
+The architecture is deliberately **decoupled**: a heavy-inference FastAPI backend handles all LLM computation on GPU, while a lightweight Streamlit frontend provides a clean, responsive physician interface with a mandatory **Human-in-the-Loop (HITL)** verification gate before any prescription is generated.
+
+> **Design Philosophy:** Each component is labeled as an _Agent_ (1–4). This isn't merely cosmetic — it reflects a modular design where every stage is a replaceable, upgradeable unit. Swap out an LLM call for a fine-tuned specialist model or a fully autonomous agent without touching the surrounding pipeline.
+
+---
 
 ## ✨ Key Features
 
-- **Semantic Search:** Uses specialized medical embeddings (`S-PubMedBert-MS-MARCO`) to match unstructured Electronic Health Records (EHR) to relevant guidelines, providing an AI-generated rationale for every match.
-- **Comorbidity Handling:** Capable of merging multiple clinical checklists and evaluating overlapping treatment algorithms simultaneously to check for drug contraindications.
-- **Human-in-the-Loop (HITL) Verification:** Integrates a necessary physician review stage. The system displays the extracted clinical variables, allowing the user to verify, edit, or manually populate missing information before submitting the finalized data to Agent 4 for prescription generation.
-- **Streaming Clinical Reasoning:** Streams a structured, bulleted medical prescription alongside step-by-step clinical reasoning directly to the UI.
+| Feature                               | Description                                                                                                                                                                    |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🔍 **Semantic EHR Search**            | Uses `S-PubMedBert-MS-MARCO` medical embeddings to match unstructured patient records to the top 5 relevant clinical guidelines, with AI-generated rationale for every match.  |
+| 🔀 **Comorbidity Handling**           | Merges multiple clinical checklists simultaneously and evaluates overlapping treatment algorithms to detect drug contraindications across conditions.                          |
+| 🧑‍⚕️ **Human-in-the-Loop Verification** | A mandatory physician review stage displays all extracted clinical variables. Doctors can verify, edit, or fill missing fields before the system generates any recommendation. |
+| ⚡ **Streaming Clinical Reasoning**   | Agent 4 streams a structured prescription and step-by-step clinical reasoning directly to the UI in real time — no waiting for a full response.                                |
+| 🧬 **Pre-computed Checklists**        | All 300+ disease checklists are pre-generated offline (Agent 2), eliminating bottlenecks during live inference.                                                                |
+| 📐 **Strict Schema Validation**       | Agent 3 uses dynamic **Pydantic** schemas to validate extracted clinical variables before they ever reach the recommendation engine.                                           |
 
 ---
 
 ## 🏗️ System Architecture
 
-> **Note on Terminology:** While currently powered by the MedGemma-27B LLM, the components of this pipeline are labeled as **Agents (1-4)**. This reflects a modular design philosophy where each stage is treated as a specialized functional unit. This abstraction allows for replacing these LLM calls with fully autonomous, specialized agents—each with its own tools and self-correction logic—in future versions.
+The pipeline runs in two distinct phases: an **offline ingestion phase** (run once) and an **online inference phase** (run per patient).
 
-The pipeline is divided into two distinct phases:
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                   PHASE 1 · OFFLINE INGESTION                   ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  AIIMS PDF (430+ pages)                                          ║
+║       │                                                          ║
+║       ▼                                                          ║
+║  llama-parse  ──────────────►  Markdown (preserves tables)       ║
+║       │                                                          ║
+║       ▼                                                          ║
+║  fuzzy_extract.py  ─────────►  300+ Disease Markdown Files       ║
+║       │                                                          ║
+║       ├──► Agent 1 (MedGemma-27B)  ──►  IF-ELSE Logic .txt Files ║
+║       │                                                          ║
+║       └──► Agent 2 (MedGemma-27B)  ──►  Clinical Checklists JSON ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                  PHASE 2 · ONLINE INFERENCE                      ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  Physician inputs EHR text                                       ║
+║       │                                                          ║
+║       ▼                                                          ║
+║  Dense Semantic Search  ───────►  Top 5 Relevant Guidelines      ║
+║       │                                                          ║
+║       ▼                                                          ║
+║  Agent 3 ──► Fetch checklists + Extract variables from EHR       ║
+║       │      (Pydantic schema validation)                        ║
+║       ▼                                                          ║
+║  🧑‍⚕️ PHYSICIAN VERIFICATION  ◄── Edit / Confirm / Fill gaps       ║
+║       │                                                          ║
+║       ▼                                                          ║
+║  Agent 4 ──► Evaluate IF-ELSE logic ──► Stream Final Prescription║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 ### Phase 1: Offline Database Ingestion
 
-1. **Document Parsing:** The 430+ page AIIMS Rishikesh PDF is converted to Markdown using the external `llama-parse` service. This step is performed outside the repository and helps preserve structured content such as dosage tables and flowcharts.
-2. **Fuzzy Extraction:** A custom Python script (`fuzzy_extract.py`) uses regex and fuzzy string matching to segment the master document into 300+ individual disease Markdown files.
-3. **Logic Translation (Agent 1):** MedGemma-27B converts the Markdown files into strict IF-ELSE logic text files.
-4. **Pre-computing Checklists (Agent 2):** MedGemma-27B pre-generates the required clinical question checklists (JSON) for every disease to optimize online inference speed.
+> _Run once to build the knowledge base. No GPU required for fuzzy extraction._
+
+1. **Document Parsing** — The AIIMS PDF is converted to Markdown via `llama-parse` (external service). This critical step preserves structured content like dosage tables and diagnostic flowcharts that plain-text extraction destroys.
+
+2. **Fuzzy Extraction** — `fuzzy_extract.py` uses regex and fuzzy string matching to segment the master Markdown document into **300+ individual disease files**, one per condition.
+
+3. **Logic Translation · Agent 1** — MedGemma-27B converts each disease Markdown file into a strict, machine-evaluable **IF-ELSE logic text file**. This is the rule engine that Agent 4 will query at runtime.
+
+4. **Checklist Pre-generation · Agent 2** — MedGemma-27B pre-generates the required **clinical question checklists (JSON)** for every disease. Pre-computing these offline is what makes online inference fast.
 
 ### Phase 2: Online Real-Time Inference
 
-1. **Search:** The physician inputs a patient's EHR. The system performs a dense semantic search to return the top 5 relevant guidelines.
-2. **Extract (Agent 3):** Fetches the pre-generated checklists for selected diseases and extracts answers directly from the EHR using dynamic Pydantic schema validation.
-3. **Human Verification:** The Streamlit UI prompts the physician to confirm the extracted variables.
-4. **Recommend (Agent 4):** Evaluates the confirmed variables against the combined IF-ELSE logic algorithms to stream a final, safe prescription.
+> _Called live for every patient. Runs on GPU._
+
+1. **Semantic Search** — The physician pastes a patient's EHR. Dense vector search returns the **top 5 most relevant guidelines** from the database.
+
+2. **Extraction · Agent 3** — Fetches pre-generated checklists for the selected diseases and extracts answers directly from the EHR text using **dynamic Pydantic schema validation**.
+
+3. **Human Verification** — The Streamlit UI presents all extracted variables to the physician. This is the critical safety gate: doctors review, correct, or fill any missing information before proceeding.
+
+4. **Recommendation · Agent 4** — Evaluates the confirmed variables against the combined IF-ELSE logic to **stream a final, safe prescription** alongside step-by-step clinical reasoning.
 
 ---
 
 ## 📂 Repository Structure
 
-Based on the project tree, the repository is organized as follows:
-
-```text
+```
+ai-clinical-decision-support-system/
+│
 ├── offline phase/
 │   ├── data/
-│   │   ├── clinical_checklists_db/      # Pre-computed JSON question files
-│   │   ├── disease_algorithms_db/       # Extracted IF-ELSE logic text files
-│   │   ├── disease_markdown_files/      # Segmented markdown files per disease
-│   │   └── standard-treatment...        # Original AIIMS guidelines
+│   │   ├── clinical_checklists_db/      # Pre-computed JSON question files (one per disease)
+│   │   ├── disease_algorithms_db/       # IF-ELSE logic text files (Agent 1 output)
+│   │   ├── disease_markdown_files/      # Segmented Markdown per disease
+│   │   └── standard-treatment-guidelines.pdf  # Source AIIMS document
+│   │
 │   └── scripts/
-│       ├── fuzzy_extract.py             # Script for document segmentation
-│       ├── generate_questions.py        # Generates clinical checklist questions
-│       └── process_guidelines.py        # Processes guideline markdown/logic assets
+│       ├── fuzzy_extract.py             # Document segmentation into disease files
+│       ├── generate_questions.py        # Clinical checklist generation (Agent 2)
+│       └── process_guidelines.py        # Markdown → IF-ELSE logic processing (Agent 1)
+│
 ├── online phase/
 │   ├── backend/
-│   │   └── backend.py                   # FastAPI server (GPU Inference)
+│   │   └── backend.py                   # FastAPI server — loads embeddings + MedGemma into VRAM
+│   │
 │   ├── benchmark data/
-│   │   ├── mimic3.csv                   # Sample dataset for testing
-│   │   └── benchmark.py                 # Automated testing script (27B vs 4B)
+│   │   ├── samples.csv                  # sample cases for evaluation
+│   │   └── benchmark.py                 # Automated comparison: 27B vs 4B models
+│   │
 │   └── frontend/
-│       └── frontend.py                  # Streamlit UI
-├── requirements.txt                     # Python dependencies
+│       └── frontend.py                  # Streamlit UI — HITL verification + streaming output
+│
+├── requirements.txt
 └── .gitignore
 ```
 
@@ -77,58 +172,118 @@ Based on the project tree, the repository is organized as follows:
 
 ### Prerequisites
 
-- Python 3.10+
-- **Hardware:** Running the MedGemma-27B model requires a GPU with approximately **~60GB of free VRAM** (e.g., A100 or dual V100s). For smaller GPUs, you can swap the model ID in `backend.py` to `google/medgemma-4b-it`.
+| Requirement        | Details                                                   |
+| ------------------ | --------------------------------------------------------- |
+| **Python**         | 3.10 or higher                                            |
+| **GPU VRAM**       | ~60 GB free (e.g., A100 or dual V100s) for MedGemma-27B   |
+| **Lighter option** | Swap model ID to `google/medgemma-4b-it` for smaller GPUs |
 
-### 1. Clone the Repository
+> **Note:** The backend (GPU inference) and the frontend (Streamlit UI) are designed to run on **separate nodes**. The frontend communicates with the backend over HTTP — ideal for cloud GPU instances paired with a local client.
+
+---
+
+### Step 1 · Clone the Repository
 
 ```bash
 git clone https://github.com/harshcooljn-iit/AI-Clinical-Decision-Support-System.git
 cd ai-clinical-decision-support-system
 ```
 
-### 2. Install Dependencies
+### Step 2 · Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Start the Backend Server (GPU Node)
+### Step 3 · Start the Backend (GPU Node)
 
-Navigate to the backend directory and spin up the FastAPI server. This will load the embedding model and the MedGemma weights into VRAM.
+This loads the embedding model and MedGemma-27B weights into VRAM. Allow a few minutes for model loading on first run.
 
 ```bash
 cd "online phase/backend"
 uvicorn backend:app --host 0.0.0.0 --port 8000
 ```
 
-### 4. Start the Frontend UI (Local/Client Node)
+### Step 4 · Start the Frontend (Local / Client Node)
 
-In a new terminal window, navigate to the frontend directory and launch Streamlit.
+In a separate terminal, launch the Streamlit UI. By default it connects to `localhost:8000` — update the backend URL in `frontend.py` if running on a remote GPU node.
 
 ```bash
 cd "online phase/frontend"
 streamlit run frontend.py
 ```
 
-_The UI will be accessible at `http://localhost:8501`._
+> The UI will be accessible at **http://localhost:8501**
 
 ---
 
-## 📊 Benchmarking
+### (Optional) Re-run Offline Ingestion
 
-The `online phase/benchmark data/` directory contains tools to evaluate the system against real-world data. We use the MIMIC-III dataset to systematically compare the formatting adherence, hallucination rates, and clinical safety of the 27B model versus the 4B model. Run `python benchmark.py` to generate the comparison CSVs.
+To rebuild the disease database from scratch (e.g., after updating the guidelines PDF):
+
+```bash
+# 1. Segment the master document into per-disease Markdown files
+python "offline phase/scripts/fuzzy_extract.py"
+
+# 2. Generate IF-ELSE logic for each disease (Agent 1)
+python "offline phase/scripts/process_guidelines.py"
+
+# 3. Pre-compute clinical checklists (Agent 2)
+python "offline phase/scripts/generate_questions.py"
+```
+
+---
+
+### 📊 Benchmarking (Data Collection Pipeline)
+
+The `benchmark.py` script generates evaluation data by running the full pipeline on real-world clinical records (MIMIC-III).
+
+> ⚠️ **Note:** Quantitative evaluation metrics (e.g., hallucination rate, clinical safety) are **not yet implemented**. This script currently serves as a **data generation pipeline** for downstream analysis.
+
+**What the script does:**
+
+- Samples patient records from MIMIC-III
+- Runs end-to-end inference (Search → Extract → Recommend)
+- Stores:
+  - Retrieved guidelines
+  - Extracted clinical variables
+  - Final generated prescriptions
+
+This output can be used for:
+
+- Manual evaluation by clinicians
+- Future automated metric computation
+- Model comparison (e.g., 27B vs 4B)
+
+```bash
+# Run the pipeline to generate evaluation data
+python "online phase/benchmark data/benchmark.py"
+```
+
+Output is saved as CSV files for downstream analysis and visualization.
 
 ---
 
 ## 🔮 Future Work
 
-- **Transition to True Multi-Agent Systems:** While the current version utilizes a single LLM for different tasks (labeled as Agents 1-4 for modularity), future iterations may transition these into **specialized autonomous agents**.
-  - **Specialization:** Rather than one general model, Agent 3 (Extraction) could be a model fine-tuned specifically for clinical NER (Named Entity Recognition), while Agent 4 (Recommendation) could evolve into a Reasoning Agent with access to medical knowledge graphs.
-  - **Self-Correction:** An agent that "critiques" its own generated prescription against the guidelines to catch errors before the physician sees them.
-  - **Autonomous Tool Use:** Agents that can proactively search external medical databases (e.g., PubMed, UpToDate) if the internal AIIMS guidelines are insufficient for a complex case.
-  - **Multi-Agent Collaboration:** Specializing agents by department (e.g., a "Cardiology Agent" and a "Pharmacology Agent") to debate and refine treatment plans for multi-morbidity patients.
+### Transition to True Multi-Agent Systems
 
-* **Prompt Optimization:** Transitioning Agent 4 from static f-strings to programmatic prompt compilation using the **DSPy** framework to mathematically maximize instruction-following and accuracy.
-* **Expanded Database:** Integrating additional medical guidelines beyond AIIMS (e.g., Mayo Clinic, WHO) into the offline ingestion pipeline.
-* **Dynamic Model Routing:** Implementing a router that sends simple extraction tasks to smaller, faster models (e.g., Llama-3-8B) while reserving complex reasoning for larger models like MedGemma-27B.
+The current architecture uses a single LLM across all agents. Future iterations will specialize each agent independently:
+
+- **Agent 3 (Extraction)** → Fine-tuned clinical NER model, optimized purely for entity extraction from EHRs.
+- **Agent 4 (Recommendation)** → A Reasoning Agent with access to live medical knowledge graphs (e.g., SNOMED CT, RxNorm).
+- **Self-Critique Agent** → A dedicated "reviewer" that checks Agent 4's prescription against the source guidelines before the physician ever sees it.
+- **Autonomous Tool Use** → Agents that proactively query external databases (PubMed, UpToDate) when internal AIIMS guidelines are insufficient for complex or rare cases.
+- **Multi-Agent Collaboration** → Specialized departmental agents (e.g., a Cardiology Agent and a Pharmacology Agent) that debate and co-refine treatment plans for multi-morbidity patients.
+
+### Prompt & Pipeline Optimization
+
+- **DSPy Integration** — Transition Agent 4 from static f-string prompts to programmatic prompt compilation via [DSPy](https://github.com/stanfordnlp/dspy), mathematically optimizing for instruction-following and clinical accuracy.
+- **Dynamic Model Routing** — A router that dispatches simple extraction tasks to fast small models (e.g., Llama-3-8B) while reserving complex reasoning for MedGemma-27B.
+
+### Expanded Knowledge Base
+
+- **Additional Guidelines** — Integrate WHO and Mayo Clinic protocols into the offline ingestion pipeline alongside AIIMS.
+- **Multilingual Support** — Extend to regional-language guidelines for broader Indian hospital deployment.
+
+---
