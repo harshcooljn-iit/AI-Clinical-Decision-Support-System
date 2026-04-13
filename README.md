@@ -49,7 +49,7 @@ This system bridges the gap between static clinical documentation and dynamic, c
 
 The architecture is deliberately **decoupled**: a heavy-inference FastAPI backend handles all LLM computation on GPU, while a lightweight Streamlit frontend provides a clean, responsive physician interface with a mandatory **Human-in-the-Loop (HITL)** verification gate before any prescription is generated.
 
-> **Design Philosophy:** Each component is labeled as an _Agent_ (1–4). This isn't merely cosmetic — it reflects a modular design where every stage is a replaceable, upgradeable unit. Swap out an LLM call for a fine-tuned specialist model or a fully autonomous agent without touching the surrounding pipeline.
+> **Design Philosophy:** Each component is labeled as an _Agent_ (1–4). This reflects a modular design where every stage is a replaceable, upgradeable unit. Swap out an LLM call for a fine-tuned specialist model or a fully autonomous agent without touching the surrounding pipeline.
 
 ---
 
