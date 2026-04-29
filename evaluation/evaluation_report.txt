@@ -1,0 +1,71 @@
+========================================================================
+  MedGemma-4B vs. MedGemma-27B  —  Ablation Evaluation Report
+========================================================================
+
+1. DATASET OVERVIEW
+----------------------------------------
+   Number of patients evaluated : 50
+   Models compared              : MedGemma-4B, MedGemma-27B
+
+2. VARIABLE EXTRACTION ACCURACY
+----------------------------------------
+   4B: Mean UNKNOWN rate = 54.87%
+   27B: Mean UNKNOWN rate = 45.21%
+   Cross-model agreement rate   : 67.21%
+   Mean Cohen's kappa           : 0.4279
+
+3. CLINICAL REASONING QUALITY
+----------------------------------------
+   4B: Quality=0.673, Steps=0.0, GuidelineRefs=0.9
+   27B: Quality=0.958, Steps=8.5, GuidelineRefs=13.4
+
+4. COMPLETENESS / COVERAGE
+----------------------------------------
+   4B: GuidelineCov=78.00%, VarCov=95.46%, Composite=0.867
+   27B: GuidelineCov=98.00%, VarCov=98.88%, Composite=0.984
+
+5. HALLUCINATION RATE
+----------------------------------------
+   4B: Score=0.1413, DrugMentions=10.4, HallucinatedDrugs=2.4
+   27B: Score=0.1812, DrugMentions=7.4, HallucinatedDrugs=4.2
+
+6. FORMATTING COMPLIANCE
+----------------------------------------
+   4B: Compliance=76.33%, Reasoning=96%, Prescription=94%, Abbreviations=58%
+   27B: Compliance=98.67%, Reasoning=100%, Prescription=100%, Abbreviations=92%
+
+7. REPETITION / DEGRADATION
+----------------------------------------
+   4B: LineRep=17.25%, NgramRep=36.08%, Degradation=0.2253, HighRepCases=9/50
+   27B: LineRep=10.52%, NgramRep=32.75%, Degradation=0.1731, HighRepCases=7/50
+
+8. OUTPUT LENGTH STATISTICS
+----------------------------------------
+   4B: MeanChars=4735, MeanWords=705 (±1002)
+   27B: MeanChars=7645, MeanWords=1055 (±580)
+
+========================================================================
+  SUMMARY
+----------------------------------------
+   Variable UNKNOWN Rate (↓ better):
+       MedGemma-4B  = 0.5487
+       MedGemma-27B = 0.4521
+   Reasoning Quality (↑ better):
+       MedGemma-4B  = 0.6735
+       MedGemma-27B = 0.9580
+   Completeness Score (↑ better):
+       MedGemma-4B  = 0.8673
+       MedGemma-27B = 0.9844
+   Hallucination Score (↓ better):
+       MedGemma-4B  = 0.1413
+       MedGemma-27B = 0.1812
+   Formatting Compliance (↑ better):
+       MedGemma-4B  = 0.7633
+       MedGemma-27B = 0.9867
+   Degradation Score (↓ better):
+       MedGemma-4B  = 0.2253
+       MedGemma-27B = 0.1731
+
+========================================================================
+  END OF REPORT
+========================================================================

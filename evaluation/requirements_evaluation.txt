@@ -1,0 +1,16 @@
+# evaluate_models.py — Dependency List
+# MedGemma-4B vs. MedGemma-27B Ablation Evaluation
+# =================================================
+
+# Core data handling (required)
+pandas>=1.5.0
+numpy>=1.23.0
+
+# NLP tokenisation & n-gram utilities (optional — graceful fallback)
+nltk>=3.8.0
+
+# Text similarity for advanced metrics (optional — graceful fallback)
+scikit-learn>=1.2.0
+
+# CLI progress bar (optional, for large evaluation runs)
+tqdm>=4.64.0
